@@ -16,8 +16,8 @@ data.data.spotlight = addIframe(data.data.spotlight);
 data.data.trending = addIframe(data.data.trending);
 
 fs.writeFileSync(
-  "home.json",
+  "movie.json",
   JSON.stringify(data, null, 2)
 );
 
-console.log("Updated home.json");
+console.log("Updated movie.json");
