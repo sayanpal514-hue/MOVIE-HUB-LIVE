@@ -1,4 +1,4 @@
-# Sportlink Movie Hub
+# Movie Hub
 
 A single-page, dark-themed movie browsing UI with a fullscreen embedded video player. Built with plain HTML, CSS, and vanilla JavaScript — no build step, no dependencies.
 
