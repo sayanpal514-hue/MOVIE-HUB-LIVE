@@ -82,6 +82,36 @@
             opacity: 0.5;
         }
 
+        /* Search bar */
+        .search-container {
+            margin-bottom: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+
+        #search-input {
+            width: 100%;
+            max-width: 600px;
+            padding: 1rem 1.5rem;
+            border-radius: 50px;
+            border: 1px solid var(--glass-border);
+            background: rgba(31, 40, 51, 0.6);
+            backdrop-filter: blur(10px);
+            color: var(--text-light);
+            font-size: 1.1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        #search-input::placeholder {
+            color: rgba(197, 198, 199, 0.6);
+        }
+
+        #search-input:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 20px rgba(102, 252, 241, 0.2);
+        }
+
         .movie-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -112,7 +142,7 @@
         .movie-poster-container {
             position: relative;
             width: 100%;
-            padding-top: 150%; /* 2:3 Aspect Ratio */
+            padding-top: 150%;
             overflow: hidden;
         }
 
@@ -204,6 +234,14 @@
             transform: scale(1.05);
         }
 
+        .no-results {
+            text-align: center;
+            color: var(--text-main);
+            font-size: 1.2rem;
+            padding: 2rem;
+            grid-column: 1 / -1;
+        }
+
         /* ===== Fullscreen Player Modal ===== */
         .modal {
             display: none;
@@ -238,7 +276,6 @@
             transform: scale(1);
         }
 
-        /* Top bar that fades in/out over the player */
         .player-topbar {
             position: absolute;
             top: 0;
@@ -361,6 +398,7 @@
         @media (max-width: 640px) {
             .now-playing-title { font-size: 0.95rem; max-width: 55%; }
             .close-modal, .fullscreen-toggle { width: 38px; height: 38px; font-size: 1.2rem; }
+            #search-input { font-size: 1rem; padding: 0.8rem 1.2rem; }
         }
     </style>
 </head>
@@ -373,11 +411,29 @@
     <main>
         <div id="loading" class="loader"></div>
         <div id="content" style="display: none;">
+            <!-- Search Bar -->
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search movies, TV shows, anime..." autocomplete="off">
+            </div>
+
+            <!-- All sections -->
             <h2 class="section-title">Spotlight</h2>
             <div id="spotlight-grid" class="movie-grid"></div>
 
             <h2 class="section-title">Trending</h2>
             <div id="trending-grid" class="movie-grid"></div>
+
+            <h2 class="section-title">Popular Movies</h2>
+            <div id="popular-grid" class="movie-grid"></div>
+
+            <h2 class="section-title">Top Movies</h2>
+            <div id="top-grid" class="movie-grid"></div>
+
+            <h2 class="section-title">Now Playing</h2>
+            <div id="now-playing-grid" class="movie-grid"></div>
+
+            <h2 class="section-title">All Movies (Combined)</h2>
+            <div id="all-movies-grid" class="movie-grid"></div>
         </div>
     </main>
 
@@ -398,21 +454,63 @@
 
     <script>
         const TMDB_IMAGE_BASE = 'https://image.tmdb.org/t/p/w500';
-        
-        // Attempt to fetch from movie.json first, if not found fallback to home.json
+
         async function fetchData() {
             try {
-                // Since the file is actually home.json in the directory, let's fetch that
-                const response = await fetch('movie.json');
+                const response = await fetch('https://movie-hub-s10.vercel.app/movie.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const json = await response.json();
-                
+
                 if (json.success && json.data) {
+                    // Render each section
                     renderMovies(json.data.spotlight, 'spotlight-grid');
                     renderMovies(json.data.trending, 'trending-grid');
-                    
+                    renderMovies(json.data.popularMovies, 'popular-grid');
+                    renderMovies(json.data.topMovies, 'top-grid');
+                    renderMovies(json.data.nowPlaying, 'now-playing-grid');
+
+                    // Build combined unique list
+                    const allSections = [
+                        json.data.spotlight,
+                        json.data.trending,
+                        json.data.popularMovies,
+                        json.data.topMovies,
+                        json.data.nowPlaying
+                    ];
+                    const allMovies = [];
+                    const seen = new Set();
+                    allSections.forEach(section => {
+                        if (Array.isArray(section)) {
+                            section.forEach(movie => {
+                                if (!seen.has(movie.id)) {
+                                    seen.add(movie.id);
+                                    allMovies.push(movie);
+                                }
+                            });
+                        }
+                    });
+                    renderMovies(allMovies, 'all-movies-grid');
+
+                    // Global search: filter every card in every grid
+                    const searchInput = document.getElementById('search-input');
+                    searchInput.addEventListener('input', function(e) {
+                        const query = e.target.value.trim().toLowerCase();
+                        // Get all movie cards across all grids
+                        const allCards = document.querySelectorAll('.movie-card');
+                        allCards.forEach(card => {
+                            const title = (card.dataset.title || '').toLowerCase();
+                            const type = (card.dataset.type || '').toLowerCase();
+                            const year = (card.dataset.year || '').toLowerCase();
+                            const match = title.includes(query) || type.includes(query) || year.includes(query);
+                            card.style.display = match ? '' : 'none';
+                        });
+
+                        // Optionally show "no results" in each grid? We'll rely on the combined grid, but we can add per-grid no-results if needed.
+                        // Instead, we'll leave it as is; if all cards in a grid are hidden, the grid will appear empty.
+                    });
+
                     document.getElementById('loading').style.display = 'none';
                     document.getElementById('content').style.display = 'block';
                 }
@@ -421,7 +519,7 @@
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('content').innerHTML = `
                     <div class="error-message">
-                        Failed to load movie data. Please make sure home.json or movie.json exists.
+                        Failed to load movie data. Please check your internet connection or try again later.
                         <br><br>
                         Error: ${error.message}
                     </div>
@@ -434,11 +532,19 @@
             const container = document.getElementById(containerId);
             container.innerHTML = '';
 
+            if (!movies || movies.length === 0) {
+                container.innerHTML = `<div class="no-results">No titles available.</div>`;
+                return;
+            }
+
             movies.forEach(movie => {
                 const posterUrl = movie.poster ? `${TMDB_IMAGE_BASE}${movie.poster}` : 'https://via.placeholder.com/500x750?text=No+Poster';
-                
                 const card = document.createElement('div');
                 card.className = 'movie-card';
+                // Store searchable data
+                card.dataset.title = (movie.title || '').toLowerCase();
+                card.dataset.type = (movie.type || '').toLowerCase();
+                card.dataset.year = (movie.year || '').toLowerCase();
                 card.innerHTML = `
                     <div class="movie-poster-container">
                         <img src="${posterUrl}" alt="${movie.title}" class="movie-poster" loading="lazy">
@@ -458,7 +564,7 @@
             });
         }
 
-        // Modal / Fullscreen Player Logic
+        // --- Modal / Fullscreen Logic (unchanged) ---
         const modal = document.getElementById('player-modal');
         const modalContent = document.getElementById('modal-content');
         const iframeContainer = document.getElementById('iframe-container');
@@ -471,7 +577,7 @@
 
         function requestFS(el) {
             const fn = el.requestFullscreen || el.webkitRequestFullscreen || el.mozRequestFullScreen || el.msRequestFullscreen;
-            if (fn) return fn.call(el).catch(() => {}); // ignore rejection (e.g. user gesture requirements)
+            if (fn) return fn.call(el).catch(() => {});
         }
 
         function exitFS() {
@@ -502,8 +608,6 @@
 
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
-
-            // Go true fullscreen automatically for the cinematic experience
             requestFS(modalContent);
             scheduleDim();
         };
@@ -520,7 +624,6 @@
         }
 
         closeBtn.addEventListener('click', closeModal);
-
         fullscreenBtn.addEventListener('click', () => {
             if (document.fullscreenElement || document.webkitFullscreenElement) {
                 exitFS();
@@ -529,18 +632,15 @@
             }
         });
 
-        // Keep controls visible while the user moves the mouse over the player
         modal.addEventListener('mousemove', scheduleDim);
         modal.addEventListener('touchstart', scheduleDim);
 
-        // If the browser's native fullscreen is exited (e.g. via Esc), just drop back to the modal view
         document.addEventListener('fullscreenchange', () => {
             if (!document.fullscreenElement && modal.classList.contains('active')) {
                 scheduleDim();
             }
         });
 
-        // Close on Escape key (only when not in native fullscreen, since Esc there just exits fullscreen)
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && modal.classList.contains('active') && !document.fullscreenElement) {
                 closeModal();
