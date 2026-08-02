@@ -85,3 +85,8 @@ MIT
 ## 🌐 Live Demo
 
 [View Live](https://movie-hub-s10.vercel.app/)
+
+---
+
+Created by **Sayan Pal**
+
