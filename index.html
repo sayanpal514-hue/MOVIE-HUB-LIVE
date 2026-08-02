@@ -204,21 +204,19 @@
             transform: scale(1.05);
         }
 
-        /* Modal Styles */
+        /* ===== Fullscreen Player Modal ===== */
         .modal {
             display: none;
             position: fixed;
-            top: 0;
-            left: 0;
+            inset: 0;
             width: 100%;
             height: 100%;
-            background: rgba(11, 12, 16, 0.95);
+            background: #000;
             z-index: 1000;
-            backdrop-filter: blur(10px);
             align-items: center;
             justify-content: center;
             opacity: 0;
-            transition: opacity 0.3s ease;
+            transition: opacity 0.35s ease;
         }
 
         .modal.active {
@@ -227,58 +225,115 @@
         }
 
         .modal-content {
-            width: 90%;
-            max-width: 1200px;
-            height: 80vh;
-            background: var(--surface-color);
-            border-radius: 20px;
-            border: 1px solid var(--glass-border);
+            width: 100%;
+            height: 100%;
+            background: #000;
             position: relative;
             overflow: hidden;
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
-            transform: scale(0.9);
-            transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            transform: scale(1.03);
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
         }
 
         .modal.active .modal-content {
             transform: scale(1);
         }
 
-        .close-modal {
+        /* Top bar that fades in/out over the player */
+        .player-topbar {
             position: absolute;
-            top: 1rem;
-            right: 1rem;
-            width: 40px;
-            height: 40px;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 1.25rem 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+            z-index: 20;
+            opacity: 1;
+            transition: opacity 0.4s ease;
+            pointer-events: none;
+        }
+
+        .player-topbar > * {
+            pointer-events: auto;
+        }
+
+        .modal.dim-controls .player-topbar {
+            opacity: 0;
+        }
+
+        .now-playing-title {
+            color: var(--text-light);
+            font-weight: 600;
+            font-size: 1.1rem;
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+            max-width: 70%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .player-actions {
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .close-modal,
+        .fullscreen-toggle {
+            width: 44px;
+            height: 44px;
             border-radius: 50%;
-            background: rgba(0, 0, 0, 0.5);
+            background: rgba(20, 22, 26, 0.6);
             color: white;
             border: 1px solid var(--glass-border);
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             display: flex;
             align-items: center;
             justify-content: center;
             cursor: pointer;
-            z-index: 10;
             transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
         }
 
         .close-modal:hover {
+            background: #ff4d4d;
+            border-color: #ff4d4d;
+            transform: rotate(90deg);
+        }
+
+        .fullscreen-toggle:hover {
             background: var(--primary-color);
             color: var(--bg-color);
-            transform: rotate(90deg);
+            border-color: var(--primary-color);
         }
 
         .iframe-container {
             width: 100%;
             height: 100%;
             background: #000;
+            position: relative;
         }
 
         iframe {
             width: 100%;
             height: 100%;
             border: none;
+            display: block;
+        }
+
+        .player-loader {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border: 4px solid rgba(255, 255, 255, 0.15);
+            border-top: 4px solid var(--primary-color);
+            border-radius: 50%;
+            width: 56px;
+            height: 56px;
+            animation: spin 1s linear infinite;
+            z-index: 5;
         }
 
         .loader {
@@ -302,6 +357,11 @@
             padding: 2rem;
             font-size: 1.2rem;
         }
+
+        @media (max-width: 640px) {
+            .now-playing-title { font-size: 0.95rem; max-width: 55%; }
+            .close-modal, .fullscreen-toggle { width: 38px; height: 38px; font-size: 1.2rem; }
+        }
     </style>
 </head>
 <body>
@@ -322,9 +382,17 @@
     </main>
 
     <div id="player-modal" class="modal">
-        <div class="modal-content">
-            <button class="close-modal" id="close-modal">&times;</button>
-            <div class="iframe-container" id="iframe-container"></div>
+        <div class="modal-content" id="modal-content">
+            <div class="player-topbar">
+                <span class="now-playing-title" id="now-playing-title"></span>
+                <div class="player-actions">
+                    <button class="fullscreen-toggle" id="fullscreen-toggle" title="Toggle fullscreen">⛶</button>
+                    <button class="close-modal" id="close-modal" title="Close">&times;</button>
+                </div>
+            </div>
+            <div class="iframe-container" id="iframe-container">
+                <div class="player-loader" id="player-loader"></div>
+            </div>
         </div>
     </div>
 
@@ -383,44 +451,98 @@
                             <span style="text-transform: uppercase;">${movie.type}</span>
                         </div>
                         <p class="movie-overview">${movie.overview}</p>
-                        <button class="watch-btn" onclick="openPlayer('${movie.iframe}')">Watch Now</button>
+                        <button class="watch-btn" onclick="openPlayer('${movie.iframe}', '${movie.title.replace(/'/g, "\\'")}')">Watch Now</button>
                     </div>
                 `;
                 container.appendChild(card);
             });
         }
 
-        // Modal Logic
+        // Modal / Fullscreen Player Logic
         const modal = document.getElementById('player-modal');
+        const modalContent = document.getElementById('modal-content');
         const iframeContainer = document.getElementById('iframe-container');
         const closeBtn = document.getElementById('close-modal');
+        const fullscreenBtn = document.getElementById('fullscreen-toggle');
+        const nowPlayingTitle = document.getElementById('now-playing-title');
+        const playerLoader = document.getElementById('player-loader');
 
-        window.openPlayer = function(iframeUrl) {
-            iframeContainer.innerHTML = `<iframe src="${iframeUrl}" allowfullscreen allow="autoplay"></iframe>`;
+        let dimTimer = null;
+
+        function requestFS(el) {
+            const fn = el.requestFullscreen || el.webkitRequestFullscreen || el.mozRequestFullScreen || el.msRequestFullscreen;
+            if (fn) return fn.call(el).catch(() => {}); // ignore rejection (e.g. user gesture requirements)
+        }
+
+        function exitFS() {
+            const fn = document.exitFullscreen || document.webkitExitFullscreen || document.mozCancelFullScreen || document.msExitFullscreen;
+            if (fn && (document.fullscreenElement || document.webkitFullscreenElement)) {
+                return fn.call(document).catch(() => {});
+            }
+        }
+
+        function scheduleDim() {
+            clearTimeout(dimTimer);
+            modal.classList.remove('dim-controls');
+            dimTimer = setTimeout(() => modal.classList.add('dim-controls'), 3000);
+        }
+
+        window.openPlayer = function(iframeUrl, title) {
+            nowPlayingTitle.textContent = title || '';
+            iframeContainer.innerHTML = '';
+            iframeContainer.appendChild(playerLoader);
+            playerLoader.style.display = 'block';
+
+            const iframe = document.createElement('iframe');
+            iframe.src = iframeUrl;
+            iframe.allowFullscreen = true;
+            iframe.setAttribute('allow', 'autoplay; fullscreen');
+            iframe.onload = () => { playerLoader.style.display = 'none'; };
+            iframeContainer.appendChild(iframe);
+
             modal.classList.add('active');
-            document.body.style.overflow = 'hidden'; // Prevent scrolling
+            document.body.style.overflow = 'hidden';
+
+            // Go true fullscreen automatically for the cinematic experience
+            requestFS(modalContent);
+            scheduleDim();
         };
 
         function closeModal() {
-            modal.classList.remove('active');
+            modal.classList.remove('active', 'dim-controls');
+            clearTimeout(dimTimer);
+            exitFS();
             setTimeout(() => {
-                iframeContainer.innerHTML = ''; // Clear iframe to stop video
-            }, 300); // Wait for transition
+                iframeContainer.innerHTML = '';
+                iframeContainer.appendChild(playerLoader);
+            }, 300);
             document.body.style.overflow = 'auto';
         }
 
         closeBtn.addEventListener('click', closeModal);
 
-        // Close on outside click
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) {
-                closeModal();
+        fullscreenBtn.addEventListener('click', () => {
+            if (document.fullscreenElement || document.webkitFullscreenElement) {
+                exitFS();
+            } else {
+                requestFS(modalContent);
             }
         });
 
-        // Close on Escape key
+        // Keep controls visible while the user moves the mouse over the player
+        modal.addEventListener('mousemove', scheduleDim);
+        modal.addEventListener('touchstart', scheduleDim);
+
+        // If the browser's native fullscreen is exited (e.g. via Esc), just drop back to the modal view
+        document.addEventListener('fullscreenchange', () => {
+            if (!document.fullscreenElement && modal.classList.contains('active')) {
+                scheduleDim();
+            }
+        });
+
+        // Close on Escape key (only when not in native fullscreen, since Esc there just exits fullscreen)
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape' && modal.classList.contains('active')) {
+            if (e.key === 'Escape' && modal.classList.contains('active') && !document.fullscreenElement) {
                 closeModal();
             }
         });
