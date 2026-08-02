@@ -18,17 +18,7 @@ A single-page, dark-themed movie browsing UI with a fullscreen embedded video pl
 └── movie.json                 
 ```
 
-## Setup
 
-1. Place `sportlink-movie-hub.html` and `movie.json` in the same directory.
-2. Serve the folder with any static file server (the page uses `fetch()`, which requires `http://` rather than opening the file directly as `file://`).
-
-   ```bash
-   # Example using Python
-   python3 -m http.server 8000
-   ```
-
-3. Open `http://localhost:8000/sportlink-movie-hub.html` in your browser.
 
 ## `movie.json` format
 
