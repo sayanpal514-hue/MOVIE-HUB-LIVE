@@ -14,8 +14,8 @@ A single-page, dark-themed movie browsing UI with a fullscreen embedded video pl
 
 ```
 .
-├── sportlink-movie-hub.html   # Main app (HTML + CSS + JS in one file)
-└── movie.json                 # Movie data (you provide this)
+├── index.html.html   
+└── movie.json                 
 ```
 
 ## Setup
