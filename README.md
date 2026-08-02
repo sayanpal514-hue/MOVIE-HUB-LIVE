@@ -1,60 +1,87 @@
-# Movie Hub
+# 🎬 Movie Hub
 
 A single-page, dark-themed movie browsing UI with a fullscreen embedded video player. Built with plain HTML, CSS, and vanilla JavaScript — no build step, no dependencies.
 
-## Features
+---
 
-- **Spotlight & Trending sections** rendered from a JSON data source
+## ✨ Features
+
+- **Tab-based navigation** – switch between Spotlight, Trending, Popular, Top, and Now Playing sections
+- **Live search** – filter movies, TV shows, and anime by title, year, or type
 - **Glassmorphism card design** with hover animations and star ratings
-- **Fullscreen video player** — opens in true browser fullscreen with auto-hiding controls (title, fullscreen toggle, close button)
+- **Fullscreen video player** – opens in true browser fullscreen with auto-hiding controls (title, fullscreen toggle, close button)
 - **Responsive grid layout** that adapts to any screen size
 - **Graceful error state** if the data file is missing or fails to load
+- **Auto-deploy** via GitHub Actions to Vercel
 
-## File structure
+---
+
+## 📁 File Structure
 
 ```
 .
-├── index.html.html   
-└── movie.json                 
+├── index.html                # Main application
+├── movie.json                # Data source (fetched from Vercel)
+├── scripts/
+│   └── update.js             # Optional update script
+├── .github/workflows/
+│   └── main.yml              # GitHub Actions deployment workflow
+└── README.md
 ```
 
+---
 
+## 📦 `movie.json` Format
 
-## `movie.json` format
-
-The page expects this shape:
+The page expects the following JSON shape:
 
 ```json
 {
   "success": true,
   "data": {
-    "spotlight": [
-      {
-        "title": "Movie Title",
-        "year": 2024,
-        "type": "movie",
-        "rating": 8.4,
-        "poster": "/path-to-poster.jpg",
-        "overview": "Short description of the movie.",
-        "iframe": "https://example.com/embed/12345"
-      }
-    ],
-    "trending": [
-      { "...": "same shape as above" }
-    ]
+    "spotlight": [...],
+    "trending": [...],
+    "popularMovies": [...],
+    "topMovies": [...],
+    "nowPlaying": [...]
   }
 }
 ```
 
-| Field      | Type   | Notes                                                              |
-|------------|--------|---------------------------------------------------------------------|
-| `title`    | string | Displayed on the card and in the fullscreen player's title bar      |
-| `year`     | number | Release year                                                        |
-| `type`     | string | e.g. `"movie"` or `"series"` — shown uppercased                     |
-| `rating`   | number | Displayed as `★ X.X`                                                |
-| `poster`   | string | TMDB poster path; prefixed with `https://image.tmdb.org/t/p/w500`   |
-| `overview` | string | Synopsis, clamped to 3 lines on the card                            |
-| `iframe`   | string | Full embed URL used as the `<iframe src>` in the player             |
+Each movie object should contain: `title`, `year`, `type`, `rating`, `poster` (TMDB path), `overview`, and `iframe`.
 
+---
 
+## 🚀 Deployment
 
+This project is automatically deployed to Vercel via GitHub Actions.
+
+To deploy manually:
+
+1. Push your changes to the `main` branch.
+2. The GitHub Action will build and deploy the site to Vercel.
+
+---
+
+## 🛠️ Local Development
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sayanpal514-hue/MOVIE-HUB-LIVE.git
+   cd MOVIE-HUB-LIVE
+   ```
+2. Open `index.html` in your browser — no server required.
+
+> 💡 For the best experience, serve the project with a local development server (e.g., VS Code Live Server) to avoid CORS issues.
+
+---
+
+## 📄 License
+
+MIT
+
+---
+
+## 🌐 Live Demo
+
+[View Live](https://movie-hub-s10.vercel.app/)
