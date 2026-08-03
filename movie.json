@@ -13,8 +13,8 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 692,
-        "popularity": 2054.3173,
+        "votes": 723,
+        "popularity": 1946.0445,
         "genreIds": [
           878,
           28,
@@ -22,27 +22,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1400,
-        "popularity": 623.9031,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -54,9 +33,9 @@
         "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
         "date": "2026-07-15",
         "year": "2026",
-        "rating": 8,
-        "votes": 2080,
-        "popularity": 1177.1048,
+        "rating": 7.9,
+        "votes": 2095,
+        "popularity": 1207.1844,
         "genreIds": [
           12,
           28,
@@ -64,6 +43,48 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 1434,
+        "popularity": 583.7759,
+        "genreIds": [
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6814,
+        "popularity": 308.865,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -75,15 +96,35 @@
         "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "date": "2026-05-13",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 4106,
-        "popularity": 393.0465,
+        "rating": 8.3,
+        "votes": 4125,
+        "popularity": 386.1505,
         "genreIds": [
           27,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1481343,
+        "type": "movie",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 359,
+        "popularity": 298.2974,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -96,8 +137,8 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2222,
-        "popularity": 401.5466,
+        "votes": 2253,
+        "popularity": 423.0327,
         "genreIds": [
           878,
           53
@@ -116,8 +157,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 590,
-        "popularity": 288.9823,
+        "votes": 603,
+        "popularity": 283.6008,
         "genreIds": [
           16,
           28,
@@ -126,46 +167,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8,
-        "votes": 1271,
-        "popularity": 104.2129,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2361,
-        "popularity": 238.6817,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -180,8 +181,8 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 692,
-        "popularity": 2054.3173,
+        "votes": 723,
+        "popularity": 1946.0445,
         "genreIds": [
           878,
           28,
@@ -201,8 +202,8 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1271,
-        "popularity": 104.2129,
+        "votes": 1273,
+        "popularity": 177.7526,
         "genreIds": [
           18,
           10768
@@ -220,9 +221,9 @@
         "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
         "date": "2026-07-15",
         "year": "2026",
-        "rating": 8,
-        "votes": 2080,
-        "popularity": 1177.1048,
+        "rating": 7.9,
+        "votes": 2095,
+        "popularity": 1207.1844,
         "genreIds": [
           12,
           28,
@@ -230,6 +231,48 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6812,
+        "popularity": 308.865,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1307118,
+        "type": "movie",
+        "title": "Soulm8te",
+        "originalTitle": "Soulm8te",
+        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": 6.2,
+        "votes": 26,
+        "popularity": 91.9653,
+        "genreIds": [
+          53,
+          878,
+          27
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -241,9 +284,9 @@
         "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "date": "2026-05-13",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 4106,
-        "popularity": 393.0465,
+        "rating": 8.3,
+        "votes": 4123,
+        "popularity": 386.1505,
         "genreIds": [
           27,
           53
@@ -261,9 +304,9 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 1401,
-        "popularity": 623.9031,
+        "rating": 6.8,
+        "votes": 1434,
+        "popularity": 583.7759,
         "genreIds": [
           28,
           12,
@@ -271,27 +314,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1307118,
-        "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires his company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to program her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/pWokAXaDOg4Rc5YLE6oW60myIl7.jpg",
-        "date": "2026-07-31",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 25,
-        "popularity": 44.1834,
-        "genreIds": [
-          53,
-          878,
-          27
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -304,8 +326,8 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2223,
-        "popularity": 401.5466,
+        "votes": 2253,
+        "popularity": 423.0327,
         "genreIds": [
           878,
           53
@@ -325,7 +347,7 @@
         "year": "2026",
         "rating": 7.5,
         "votes": 4,
-        "popularity": 0.7389,
+        "popularity": 7.8807,
         "genreIds": [
           28,
           18
@@ -345,7 +367,7 @@
         "year": "2004",
         "rating": 8.4,
         "votes": 2198,
-        "popularity": 90.8074,
+        "popularity": 139.1537,
         "genreIds": [
           10759,
           16,
@@ -353,6 +375,46 @@
         ],
         "lang": "ja",
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 289116,
+        "type": "tv",
+        "title": "Genius Girlfriend",
+        "originalTitle": "天才，女友",
+        "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+        "poster": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+        "backdrop": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+        "date": "2026-08-02",
+        "year": "2026",
+        "rating": 9,
+        "votes": 1,
+        "popularity": 23.9911,
+        "genreIds": [
+          18
+        ],
+        "lang": "zh",
+        "iframe": "https://peachify.top/embed/tv/289116?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.7,
+        "votes": 5453,
+        "popularity": 49.87,
+        "genreIds": [
+          10759,
+          35,
+          16
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 980431,
@@ -365,8 +427,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 590,
-        "popularity": 288.9823,
+        "votes": 603,
+        "popularity": 283.6008,
         "genreIds": [
           16,
           28,
@@ -375,26 +437,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2361,
-        "popularity": 238.6817,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1083381,
@@ -407,8 +449,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2427,
-        "popularity": 262.1679,
+        "votes": 2444,
+        "popularity": 277.5393,
         "genreIds": [
           27,
           9648,
@@ -428,116 +470,14 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.7,
-        "votes": 336,
-        "popularity": 246.3862,
+        "votes": 359,
+        "popularity": 298.2974,
         "genreIds": [
           27,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6803,
-        "popularity": 310.3158,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.7,
-        "votes": 5451,
-        "popularity": 50.3101,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 454639,
-        "type": "movie",
-        "title": "Masters of the Universe",
-        "originalTitle": "Masters of the Universe",
-        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "backdrop": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 1492,
-        "popularity": 436.827,
-        "genreIds": [
-          28,
-          14,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 289116,
-        "type": "tv",
-        "title": "Genius Girlfriend",
-        "originalTitle": "天才，女友",
-        "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-        "poster": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-        "backdrop": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
-        "date": "2026-08-02",
-        "year": "2026",
-        "rating": 9,
-        "votes": 1,
-        "popularity": 8.0666,
-        "genreIds": [
-          18
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/289116?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1314481,
-        "type": "movie",
-        "title": "The Devil Wears Prada 2",
-        "originalTitle": "The Devil Wears Prada 2",
-        "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-        "poster": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "backdrop": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-        "date": "2026-04-29",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 1856,
-        "popularity": 152.973,
-        "genreIds": [
-          35,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1314481?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 271016,
@@ -551,13 +491,54 @@
         "year": "2026",
         "rating": 8.5,
         "votes": 2,
-        "popularity": 49.7381,
+        "popularity": 54.1665,
         "genreIds": [
           18,
           10759
         ],
         "lang": "zh",
         "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2363,
+        "popularity": 225.5414,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1741545,
+        "type": "movie",
+        "title": "WWE SummerSlam 2026: Sunday",
+        "originalTitle": "WWE SummerSlam 2026: Sunday",
+        "overview": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
+        "poster": "/rHd7I4XGQZG4xnhYmrQLPEy6SEO.jpg",
+        "backdrop": "/yvNrzX1j3mhkIs3BTu2IJqOlBkm.jpg",
+        "date": "2026-08-02",
+        "year": "2026",
+        "rating": 8,
+        "votes": 1,
+        "popularity": 1.5479,
+        "genreIds": [
+          28,
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1741545?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 687163,
@@ -570,14 +551,35 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6706,
-        "popularity": 171.4296,
+        "votes": 6716,
+        "popularity": 175.8744,
         "genreIds": [
           878,
           12
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 454639,
+        "type": "movie",
+        "title": "Masters of the Universe",
+        "originalTitle": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdrop": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 1502,
+        "popularity": 431.6507,
+        "genreIds": [
+          28,
+          14,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1387,7 +1389,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 652,
+        "votes": 690,
         "popularity": 2054.3173,
         "genreIds": [
           878,
@@ -1407,7 +1409,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2054,
+        "votes": 2079,
         "popularity": 1177.1048,
         "genreIds": [
           12,
@@ -1426,8 +1428,8 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1373,
+        "rating": 6.7,
+        "votes": 1400,
         "popularity": 623.9031,
         "genreIds": [
           28,
@@ -1446,8 +1448,8 @@
         "backdrop": "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
         "date": "2026-05-13",
         "year": "2026",
-        "rating": 8.3,
-        "votes": 4082,
+        "rating": 8.2,
+        "votes": 4106,
         "popularity": 393.0465,
         "genreIds": [
           27,
@@ -1466,7 +1468,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22407,
+        "votes": 22414,
         "popularity": 347.9969,
         "genreIds": [
           28,
@@ -1486,7 +1488,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 5.8,
-        "votes": 160,
+        "votes": 162,
         "popularity": 330.4523,
         "genreIds": [
           10751,
@@ -1507,7 +1509,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.6,
-        "votes": 145,
+        "votes": 146,
         "popularity": 328.3313,
         "genreIds": [
           12,
@@ -1527,7 +1529,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 741,
+        "votes": 743,
         "popularity": 298.6146,
         "genreIds": [
           16,
@@ -1547,8 +1549,8 @@
         "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
         "date": "2026-07-24",
         "year": "2026",
-        "rating": 9.4,
-        "votes": 575,
+        "rating": 9.3,
+        "votes": 590,
         "popularity": 288.9823,
         "genreIds": [
           16,
@@ -1569,7 +1571,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 250,
+        "votes": 251,
         "popularity": 268.3149,
         "genreIds": [
           12,
@@ -1591,7 +1593,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2413,
+        "votes": 2427,
         "popularity": 262.1679,
         "genreIds": [
           27,
@@ -1611,7 +1613,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.7,
-        "votes": 316,
+        "votes": 335,
         "popularity": 246.3862,
         "genreIds": [
           27,
@@ -1630,7 +1632,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 359,
+        "votes": 366,
         "popularity": 221.3403,
         "genreIds": [
           28,
@@ -1649,8 +1651,8 @@
         "backdrop": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
         "date": "2026-07-20",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 42,
+        "rating": 7.6,
+        "votes": 45,
         "popularity": 190.0831,
         "genreIds": [
           28,
@@ -1688,7 +1690,7 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 6.5,
-        "votes": 1381,
+        "votes": 1387,
         "popularity": 175.4596,
         "genreIds": [
           35
@@ -1706,7 +1708,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.3,
-        "votes": 86,
+        "votes": 88,
         "popularity": 168.5217,
         "genreIds": [
           27,
@@ -1725,7 +1727,7 @@
         "date": "2026-02-06",
         "year": "2026",
         "rating": 6.4,
-        "votes": 253,
+        "votes": 255,
         "popularity": 164.6527,
         "genreIds": [
           27,
@@ -1765,7 +1767,7 @@
         "date": "2026-07-20",
         "year": "2026",
         "rating": 6.8,
-        "votes": 229,
+        "votes": 233,
         "popularity": 115.1538,
         "genreIds": [
           35,
@@ -2180,7 +2182,7 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4488,
+        "votes": 4490,
         "popularity": 342.7548,
         "genreIds": [
           80,
@@ -2218,7 +2220,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6800,
+        "votes": 6803,
         "popularity": 310.3158,
         "genreIds": [
           10765,
@@ -2295,7 +2297,7 @@
         "date": "2018-10-16",
         "year": "2018",
         "rating": 8.5,
-        "votes": 3419,
+        "votes": 3421,
         "popularity": 256.1625,
         "genreIds": [
           80,
@@ -2334,7 +2336,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2358,
+        "votes": 2361,
         "popularity": 238.6817,
         "genreIds": [
           10765,
@@ -2353,7 +2355,7 @@
         "date": "2013-12-02",
         "year": "2013",
         "rating": 8.7,
-        "votes": 11211,
+        "votes": 11213,
         "popularity": 226.7713,
         "genreIds": [
           16,
@@ -2411,7 +2413,7 @@
         "date": "2015-10-19",
         "year": "2015",
         "rating": 8.1,
-        "votes": 4631,
+        "votes": 4632,
         "popularity": 212.4824,
         "genreIds": [
           10759,
@@ -2426,7 +2428,7 @@
         "title": "Jornal Nacional",
         "originalTitle": "Jornal Nacional",
         "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-        "poster": "/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+        "poster": "/ikGRSbjOJhQ74YqYTxYqhURGdNC.jpg",
         "backdrop": "/ngmekOxfGjiTtNbWM5T5U4WvzlS.jpg",
         "date": "1969-09-01",
         "year": "1969",
@@ -2467,7 +2469,7 @@
         "date": "2022-02-20",
         "year": "2022",
         "rating": 8.5,
-        "votes": 4096,
+        "votes": 4101,
         "popularity": 202.251,
         "genreIds": [
           9648,
@@ -2487,7 +2489,7 @@
         "date": "1990-09-13",
         "year": "1990",
         "rating": 7.3,
-        "votes": 701,
+        "votes": 702,
         "popularity": 196.8556,
         "genreIds": [
           80,
@@ -3736,9 +3738,9 @@
         "backdrop": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
         "date": "2025-07-18",
         "year": "2025",
-        "rating": 8.5,
-        "votes": 1499,
-        "popularity": 199.7701,
+        "rating": 8.6,
+        "votes": 1542,
+        "popularity": 205.3076,
         "genreIds": [
           16,
           28,
@@ -3757,8 +3759,8 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18613,
-        "popularity": 32.4763,
+        "votes": 18619,
+        "popularity": 33.4002,
         "genreIds": [
           16,
           10751,
@@ -3777,8 +3779,8 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1065,
-        "popularity": 30.9112,
+        "votes": 1067,
+        "popularity": 32.1219,
         "genreIds": [
           16,
           28,
@@ -3798,12 +3800,33 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 12762,
-        "popularity": 24.8171,
+        "votes": 12771,
+        "popularity": 28.3473,
         "genreIds": [
           16,
           10749,
           18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1363974,
+        "type": "movie",
+        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "originalTitle": "劇場版 転生したらスライムだった件 蒼海の涙編",
+        "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
+        "poster": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
+        "backdrop": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
+        "date": "2026-02-27",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 27,
+        "popularity": 24.7922,
+        "genreIds": [
+          16,
+          14,
+          12,
+          35
         ],
         "lang": "ja"
       },
@@ -3818,8 +3841,8 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11249,
-        "popularity": 23.3161,
+        "votes": 11254,
+        "popularity": 25.6144,
         "genreIds": [
           14,
           16,
@@ -3837,13 +3860,34 @@
         "backdrop": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
         "date": "2025-11-07",
         "year": "2025",
-        "rating": 6,
-        "votes": 109,
-        "popularity": 19.1109,
+        "rating": 6.1,
+        "votes": 110,
+        "popularity": 20.1833,
         "genreIds": [
           16,
           28,
           14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1545621,
+        "type": "movie",
+        "title": "Detective Conan: Fallen Angel of the Highway",
+        "originalTitle": "名探偵コナン ハイウェイの堕天使",
+        "overview": "When a string of deadly highway incidents begin, Conan Edogawa's investigations point towards an orchestrated plot rather than mere accidents. As he uncovers a conspiracy involving hidden identities and advanced technology, the case escalates into a high-speed race against time to stop a calculating mastermind before more lives are lost.",
+        "poster": "/tqlOfb1ekyVYpDumiL9MsK6uirw.jpg",
+        "backdrop": "/zT5S4GNs8Eu2gIkGORoN6yC1uE2.jpg",
+        "date": "2026-04-10",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 13,
+        "popularity": 17.8859,
+        "genreIds": [
+          16,
+          28,
+          9648,
+          80
         ],
         "lang": "ja"
       },
@@ -3859,7 +3903,7 @@
         "year": "2026",
         "rating": 7.2,
         "votes": 9,
-        "popularity": 18.1325,
+        "popularity": 17.4603,
         "genreIds": [
           16,
           35,
@@ -3879,8 +3923,8 @@
         "date": "1997-07-12",
         "year": "1997",
         "rating": 8.3,
-        "votes": 9137,
-        "popularity": 17.2163,
+        "votes": 9138,
+        "popularity": 17.8543,
         "genreIds": [
           12,
           14,
@@ -3889,23 +3933,42 @@
         "lang": "ja"
       },
       {
-        "id": 1545621,
+        "id": 635302,
         "type": "movie",
-        "title": "Detective Conan: Fallen Angel of the Highway",
-        "originalTitle": "名探偵コナン ハイウェイの堕天使",
-        "overview": "When a string of deadly highway incidents begin, Conan Edogawa's investigations point towards an orchestrated plot rather than mere accidents. As he uncovers a conspiracy involving hidden identities and advanced technology, the case escalates into a high-speed race against time to stop a calculating mastermind before more lives are lost.",
-        "poster": "/tqlOfb1ekyVYpDumiL9MsK6uirw.jpg",
-        "backdrop": "/zT5S4GNs8Eu2gIkGORoN6yC1uE2.jpg",
-        "date": "2026-04-10",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 13,
-        "popularity": 18.2165,
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "originalTitle": "劇場版「鬼滅の刃」無限列車編",
+        "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+        "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+        "backdrop": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+        "date": "2020-10-16",
+        "year": "2020",
+        "rating": 8.2,
+        "votes": 4610,
+        "popularity": 18.2667,
         "genreIds": [
           16,
           28,
-          9648,
-          80
+          14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1598766,
+        "type": "movie",
+        "title": "Crayon Shin-chan the Movie: Very Bizarre! My Yokai Vacation",
+        "originalTitle": "クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
+        "overview": "Shin-chan and his family visit his father's home town of Akita in order to view the Omagari Fireworks Festival. When a strange incident to causes the residents of “Yokai Land” to begin running wild throughout Akita and the rest of Japan, Shin-chan and company are lured to “Yokai Land” for an unusual adventure.",
+        "poster": "/15iwqqJVgFfeFh4Y1f8gg9yi2Fw.jpg",
+        "backdrop": "/3TwUt1vUmbPaUMJSm7luCbDABTB.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 18.7276,
+        "genreIds": [
+          12,
+          16,
+          35
         ],
         "lang": "ja"
       },
@@ -3921,30 +3984,10 @@
         "year": "1998",
         "rating": 8.3,
         "votes": 3275,
-        "popularity": 16.3988,
+        "popularity": 16.6076,
         "genreIds": [
           16,
           53
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 635302,
-        "type": "movie",
-        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-        "originalTitle": "劇場版「鬼滅の刃」無限列車編",
-        "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
-        "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
-        "backdrop": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
-        "date": "2020-10-16",
-        "year": "2020",
-        "rating": 8.2,
-        "votes": 4606,
-        "popularity": 16.8501,
-        "genreIds": [
-          16,
-          28,
-          14
         ],
         "lang": "ja"
       },
@@ -3960,34 +4003,12 @@
         "year": "2024",
         "rating": 7.2,
         "votes": 276,
-        "popularity": 15.803,
+        "popularity": 16.0073,
         "genreIds": [
           28,
           12,
           14,
           16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 18491,
-        "type": "movie",
-        "title": "Neon Genesis Evangelion: The End of Evangelion",
-        "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
-        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
-        "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
-        "backdrop": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
-        "date": "1997-07-19",
-        "year": "1997",
-        "rating": 8.3,
-        "votes": 1901,
-        "popularity": 14.9319,
-        "genreIds": [
-          16,
-          878,
-          18,
-          14,
-          28
         ],
         "lang": "ja"
       },
@@ -4003,12 +4024,34 @@
         "year": "2026",
         "rating": 8,
         "votes": 1,
-        "popularity": 15.6914,
+        "popularity": 16.5075,
         "genreIds": [
           28,
           878,
           16,
           14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 18491,
+        "type": "movie",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+        "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+        "backdrop": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+        "date": "1997-07-19",
+        "year": "1997",
+        "rating": 8.3,
+        "votes": 1902,
+        "popularity": 15.1468,
+        "genreIds": [
+          16,
+          878,
+          18,
+          14,
+          28
         ],
         "lang": "ja"
       },
@@ -4023,32 +4066,12 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 8939,
-        "popularity": 14.4869,
+        "votes": 8943,
+        "popularity": 15.3126,
         "genreIds": [
           14,
           16,
           10751
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 9323,
-        "type": "movie",
-        "title": "Ghost in the Shell",
-        "originalTitle": "GHOST IN THE SHELL",
-        "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-        "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-        "backdrop": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-        "date": "1995-11-18",
-        "year": "1995",
-        "rating": 7.9,
-        "votes": 3960,
-        "popularity": 13.2486,
-        "genreIds": [
-          28,
-          16,
-          878
         ],
         "lang": "ja"
       },
@@ -4063,8 +4086,8 @@
         "date": "2016-09-17",
         "year": "2016",
         "rating": 8.4,
-        "votes": 4586,
-        "popularity": 13.5623,
+        "votes": 4588,
+        "popularity": 15.6613,
         "genreIds": [
           16,
           18,
@@ -4073,43 +4096,22 @@
         "lang": "ja"
       },
       {
-        "id": 1363974,
+        "id": 9323,
         "type": "movie",
-        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "originalTitle": "劇場版 転生したらスライムだった件 蒼海の涙編",
-        "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
-        "poster": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
-        "backdrop": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
-        "date": "2026-02-27",
-        "year": "2026",
+        "title": "Ghost in the Shell",
+        "originalTitle": "GHOST IN THE SHELL",
+        "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+        "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+        "backdrop": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+        "date": "1995-11-18",
+        "year": "1995",
         "rating": 7.9,
-        "votes": 20,
-        "popularity": 21.3911,
+        "votes": 3964,
+        "popularity": 14.4994,
         "genreIds": [
+          28,
           16,
-          14,
-          12,
-          35
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 149,
-        "type": "movie",
-        "title": "Akira",
-        "originalTitle": "AKIRA",
-        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-        "date": "1988-06-10",
-        "year": "1988",
-        "rating": 7.9,
-        "votes": 4864,
-        "popularity": 10.709,
-        "genreIds": [
-          16,
-          878,
-          28
+          878
         ],
         "lang": "ja"
       },
@@ -4125,7 +4127,7 @@
         "year": "2026",
         "rating": 7.3,
         "votes": 10,
-        "popularity": 12.0112,
+        "popularity": 12.1507,
         "genreIds": [
           16,
           12,
