@@ -13,7 +13,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 786,
+        "votes": 796,
         "popularity": 1946.0445,
         "genreIds": [
           878,
@@ -55,7 +55,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2120,
+        "votes": 2122,
         "popularity": 1207.1844,
         "genreIds": [
           12,
@@ -76,7 +76,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4156,
+        "votes": 4157,
         "popularity": 386.1505,
         "genreIds": [
           27,
@@ -95,8 +95,8 @@
         "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 382,
+        "rating": 6.6,
+        "votes": 384,
         "popularity": 298.2974,
         "genreIds": [
           27,
@@ -116,7 +116,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6819,
+        "votes": 6820,
         "popularity": 308.865,
         "genreIds": [
           10765,
@@ -137,7 +137,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2285,
+        "votes": 2287,
         "popularity": 423.0327,
         "genreIds": [
           878,
@@ -147,26 +147,24 @@
         "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 980431,
-        "type": "movie",
-        "title": "Avatar Aang: The Last Airbender",
-        "originalTitle": "Avatar Aang: The Last Airbender",
-        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
-        "date": "2026-07-24",
-        "year": "2026",
-        "rating": 9.3,
-        "votes": 623,
-        "popularity": 283.6008,
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2364,
+        "popularity": 225.5414,
         "genreIds": [
-          16,
-          28,
-          12,
-          14
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -181,7 +179,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 786,
+        "votes": 799,
         "popularity": 1946.0445,
         "genreIds": [
           878,
@@ -190,6 +188,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 615,
+        "type": "tv",
+        "title": "Futurama",
+        "originalTitle": "Futurama",
+        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "date": "1999-03-28",
+        "year": "1999",
+        "rating": null,
+        "votes": 0,
+        "popularity": 79.4902,
+        "genreIds": [
+          16,
+          35,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 113962,
@@ -210,27 +229,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 615,
-        "type": "tv",
-        "title": "Futurama",
-        "originalTitle": "Futurama",
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "date": "1999-03-28",
-        "year": "1999",
-        "rating": 8.4,
-        "votes": 3820,
-        "popularity": 79.4902,
-        "genreIds": [
-          16,
-          35,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -264,7 +262,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2120,
+        "votes": 2124,
         "popularity": 1207.1844,
         "genreIds": [
           12,
@@ -285,7 +283,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4156,
+        "votes": 4159,
         "popularity": 386.1505,
         "genreIds": [
           27,
@@ -305,7 +303,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1464,
+        "votes": 1465,
         "popularity": 583.7759,
         "genreIds": [
           28,
@@ -326,7 +324,7 @@
         "date": "2026-07-31",
         "year": "2026",
         "rating": 6.2,
-        "votes": 32,
+        "votes": 33,
         "popularity": 91.9653,
         "genreIds": [
           53,
@@ -347,7 +345,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2285,
+        "votes": 2288,
         "popularity": 423.0327,
         "genreIds": [
           878,
@@ -378,27 +376,6 @@
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1741545,
-        "type": "movie",
-        "title": "WWE SummerSlam 2026: Sunday",
-        "originalTitle": "WWE SummerSlam 2026: Sunday",
-        "overview": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
-        "poster": "/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
-        "backdrop": "/yvNrzX1j3mhkIs3BTu2IJqOlBkm.jpg",
-        "date": "2026-08-02",
-        "year": "2026",
-        "rating": 8,
-        "votes": 4,
-        "popularity": 1.5479,
-        "genreIds": [
-          28,
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1741545?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -419,26 +396,6 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 271016,
-        "type": "tv",
-        "title": "Mystic Nine",
-        "originalTitle": "九门",
-        "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-        "poster": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-        "backdrop": "/snExrS3rICUXDsiG7jUV7K6Q0wj.jpg",
-        "date": "2026-07-30",
-        "year": "2026",
-        "rating": 8.5,
-        "votes": 2,
-        "popularity": 54.1665,
-        "genreIds": [
-          18,
-          10759
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -449,7 +406,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2455,
+        "votes": 2459,
         "popularity": 277.5393,
         "genreIds": [
           27,
@@ -460,23 +417,47 @@
         "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 289116,
-        "type": "tv",
-        "title": "Genius Girlfriend",
-        "originalTitle": "天才，女友",
-        "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
-        "poster": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
-        "backdrop": "/978GUi7Vq5rc6cJM1e2bAHllVar.jpg",
+        "id": 980431,
+        "type": "movie",
+        "title": "Avatar Aang: The Last Airbender",
+        "originalTitle": "Avatar Aang: The Last Airbender",
+        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
+        "date": "2026-07-24",
+        "year": "2026",
+        "rating": 9.3,
+        "votes": 624,
+        "popularity": 283.6008,
+        "genreIds": [
+          16,
+          28,
+          12,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1741545,
+        "type": "movie",
+        "title": "WWE SummerSlam 2026: Sunday",
+        "originalTitle": "WWE SummerSlam 2026: Sunday",
+        "overview": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It is the 39th annual SummerSlam and took place as a two-night event on August 1st and 2nd at U.S. Bank Stadium in Minneapolis, Minnesota.",
+        "poster": "/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
+        "backdrop": "/yvNrzX1j3mhkIs3BTu2IJqOlBkm.jpg",
         "date": "2026-08-02",
         "year": "2026",
-        "rating": 9,
-        "votes": 1,
-        "popularity": 23.9911,
+        "rating": 8,
+        "votes": 4,
+        "popularity": 1.5479,
         "genreIds": [
-          18
+          28,
+          18,
+          35
         ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/289116?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1741545?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 30984,
@@ -500,47 +481,45 @@
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 980431,
-        "type": "movie",
-        "title": "Avatar Aang: The Last Airbender",
-        "originalTitle": "Avatar Aang: The Last Airbender",
-        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "backdrop": "/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
-        "date": "2026-07-24",
+        "id": 271016,
+        "type": "tv",
+        "title": "Mystic Nine",
+        "originalTitle": "九门",
+        "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+        "poster": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+        "backdrop": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+        "date": "2026-07-30",
         "year": "2026",
-        "rating": 9.3,
-        "votes": 623,
-        "popularity": 283.6008,
+        "rating": 8.5,
+        "votes": 2,
+        "popularity": 54.1665,
         "genreIds": [
-          16,
-          28,
-          12,
-          14
+          18,
+          10759
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/980431?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "zh",
+        "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 298610,
-        "type": "tv",
-        "title": "Spooky in Love",
-        "originalTitle": "오싹한 연애",
-        "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-        "poster": "/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-        "backdrop": "/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
-        "date": "2026-07-18",
+        "id": 454639,
+        "type": "movie",
+        "title": "Masters of the Universe",
+        "originalTitle": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
+        "date": "2026-06-03",
         "year": "2026",
-        "rating": 8,
-        "votes": 18,
-        "popularity": 51.5887,
+        "rating": 7.3,
+        "votes": 1520,
+        "popularity": 431.6507,
         "genreIds": [
-          35,
-          10765,
-          18
+          28,
+          14,
+          878
         ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/298610?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1481343,
@@ -552,8 +531,8 @@
         "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 382,
+        "rating": 6.6,
+        "votes": 385,
         "popularity": 298.2974,
         "genreIds": [
           27,
@@ -581,6 +560,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1741109?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 296140,
+        "type": "tv",
+        "title": "My Bias, My Boss",
+        "originalTitle": "최애의 사원",
+        "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+        "poster": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+        "backdrop": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+        "date": "2026-08-03",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 5.6387,
+        "genreIds": [
+          35,
+          18
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/296140?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -994,7 +993,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 615,
+        "votes": 624,
         "popularity": 283.6008,
         "genreIds": [
           16,
@@ -1034,7 +1033,7 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2046,
+        "votes": 2048,
         "popularity": 70.0056,
         "genreIds": [
           12,
@@ -1055,7 +1054,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 30916,
+        "votes": 30918,
         "popularity": 76.9826,
         "genreIds": [
           18,
@@ -1074,7 +1073,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 3828,
+        "votes": 3833,
         "popularity": 112.705,
         "genreIds": [
           10402,
@@ -1093,7 +1092,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23255,
+        "votes": 23258,
         "popularity": 60.1968,
         "genreIds": [
           18,
@@ -1112,13 +1111,33 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6722,
+        "votes": 6733,
         "popularity": 175.8744,
         "genreIds": [
           878,
           12
         ],
         "lang": "en"
+      },
+      {
+        "id": 1311031,
+        "type": "movie",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "originalTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+        "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+        "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "backdrop": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+        "date": "2025-07-18",
+        "year": "2025",
+        "rating": 8.6,
+        "votes": 1564,
+        "popularity": 205.3076,
+        "genreIds": [
+          16,
+          28,
+          14
+        ],
+        "lang": "ja"
       },
       {
         "id": 240,
@@ -1131,7 +1150,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14113,
+        "votes": 14115,
         "popularity": 34.5075,
         "genreIds": [
           18,
@@ -1150,7 +1169,7 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 17680,
+        "votes": 17682,
         "popularity": 30.3727,
         "genreIds": [
           18,
@@ -1170,32 +1189,12 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10183,
+        "votes": 10186,
         "popularity": 29.4026,
         "genreIds": [
           18
         ],
         "lang": "en"
-      },
-      {
-        "id": 1311031,
-        "type": "movie",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "originalTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-        "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-        "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "backdrop": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-        "date": "2025-07-18",
-        "year": "2025",
-        "rating": 8.6,
-        "votes": 1556,
-        "popularity": 205.3076,
-        "genreIds": [
-          16,
-          28,
-          14
-        ],
-        "lang": "ja"
       },
       {
         "id": 155,
@@ -1208,7 +1207,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36257,
+        "votes": 36259,
         "popularity": 60.551,
         "genreIds": [
           28,
@@ -1228,7 +1227,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18619,
+        "votes": 18620,
         "popularity": 33.4002,
         "genreIds": [
           16,
@@ -1268,7 +1267,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19533,
+        "votes": 19536,
         "popularity": 35.7344,
         "genreIds": [
           14,
@@ -1288,31 +1287,12 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 26976,
+        "votes": 26977,
         "popularity": 51.9941,
         "genreIds": [
           12,
           14,
           28
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1330021,
-        "type": "movie",
-        "title": "Remarkably Bright Creatures",
-        "originalTitle": "Remarkably Bright Creatures",
-        "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-        "poster": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-        "backdrop": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-        "date": "2026-05-07",
-        "year": "2026",
-        "rating": 8.5,
-        "votes": 797,
-        "popularity": 29.5397,
-        "genreIds": [
-          18,
-          9648
         ],
         "lang": "en"
       },
@@ -1327,7 +1307,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1069,
+        "votes": 1070,
         "popularity": 32.1219,
         "genreIds": [
           16,
@@ -1348,7 +1328,7 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 20989,
+        "votes": 20990,
         "popularity": 41.2846,
         "genreIds": [
           35,
@@ -1358,24 +1338,43 @@
         "lang": "ko"
       },
       {
-        "id": 372058,
+        "id": 1330021,
         "type": "movie",
-        "title": "Your Name.",
-        "originalTitle": "君の名は。",
-        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-        "poster": "/q719jXXEzOoYaps6babgKnONONX.jpg",
-        "backdrop": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
-        "date": "2016-07-01",
-        "year": "2016",
+        "title": "Remarkably Bright Creatures",
+        "originalTitle": "Remarkably Bright Creatures",
+        "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+        "poster": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "backdrop": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "date": "2026-05-07",
+        "year": "2026",
         "rating": 8.5,
-        "votes": 12772,
-        "popularity": 28.3473,
+        "votes": 798,
+        "popularity": 29.5397,
         "genreIds": [
-          16,
-          10749,
-          18
+          18,
+          9648
         ],
-        "lang": "ja"
+        "lang": "en"
+      },
+      {
+        "id": 157336,
+        "type": "movie",
+        "title": "Interstellar",
+        "originalTitle": "Interstellar",
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+        "backdrop": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+        "date": "2014-11-05",
+        "year": "2014",
+        "rating": 8.5,
+        "votes": 40572,
+        "popularity": 73.0452,
+        "genreIds": [
+          12,
+          18,
+          878
+        ],
+        "lang": "en"
       }
     ],
     "nowPlaying": [
