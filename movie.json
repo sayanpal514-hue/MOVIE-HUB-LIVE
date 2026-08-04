@@ -13,7 +13,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 891,
+        "votes": 905,
         "popularity": 2011.4042,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2186,
+        "votes": 2198,
         "popularity": 1053.6131,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1513,
+        "votes": 1519,
         "popularity": 497.4835,
         "genreIds": [
           28,
@@ -75,13 +75,12 @@
         "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
         "date": "2026-07-07",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 271,
+        "rating": 7.3,
+        "votes": 302,
         "popularity": 43.8004,
         "genreIds": [
           27,
-          53,
-          14
+          53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
@@ -97,7 +96,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4218,
+        "votes": 4225,
         "popularity": 364.8722,
         "genreIds": [
           27,
@@ -105,26 +104,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1481343,
-        "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 423,
-        "popularity": 302.2541,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -167,6 +146,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1481343,
+        "type": "movie",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 430,
+        "popularity": 302.2541,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -181,7 +180,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 890,
+        "votes": 905,
         "popularity": 2011.4042,
         "genreIds": [
           878,
@@ -201,16 +200,36 @@
         "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
         "date": "2026-07-07",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 270,
+        "rating": 7.3,
+        "votes": 303,
         "popularity": 43.8004,
         "genreIds": [
           27,
-          53,
-          14
+          53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2199,
+        "popularity": 1053.6131,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 615,
@@ -234,27 +253,6 @@
         "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2184,
-        "popularity": 1053.6131,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -265,7 +263,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4218,
+        "votes": 4226,
         "popularity": 364.8722,
         "genreIds": [
           27,
@@ -273,6 +271,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 1519,
+        "popularity": 497.4835,
+        "genreIds": [
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -296,6 +315,26 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1594914,
+        "type": "movie",
+        "title": "Lucky Strike",
+        "originalTitle": "Lucky Strike",
+        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+        "poster": "/fBniztkLes0lA2CD50j4iWAwX5y.jpg",
+        "backdrop": "/7FivR6OVr56calRq8UyZjmPsVE2.jpg",
+        "date": "2026-06-26",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 9,
+        "popularity": 4.7699,
+        "genreIds": [
+          28,
+          10752
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1594914?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1307118,
         "type": "movie",
         "title": "Soulm8te",
@@ -305,8 +344,8 @@
         "backdrop": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
         "date": "2026-07-31",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 43,
+        "rating": 6.4,
+        "votes": 44,
         "popularity": 89.4643,
         "genreIds": [
           27,
@@ -335,47 +374,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1513,
-        "popularity": 497.4835,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1594914,
-        "type": "movie",
-        "title": "Lucky Strike",
-        "originalTitle": "Lucky Strike",
-        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-        "poster": "/fBniztkLes0lA2CD50j4iWAwX5y.jpg",
-        "backdrop": "/7FivR6OVr56calRq8UyZjmPsVE2.jpg",
-        "date": "2026-06-26",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 9,
-        "popularity": 4.7699,
-        "genreIds": [
-          28,
-          10752
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1594914?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -408,7 +406,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2493,
+        "votes": 2507,
         "popularity": 258.4743,
         "genreIds": [
           27,
@@ -419,24 +417,25 @@
         "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 296140,
-        "type": "tv",
-        "title": "My Bias, My Boss",
-        "originalTitle": "최애의 사원",
-        "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-        "poster": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-        "backdrop": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-        "date": "2026-08-03",
+        "id": 1284465,
+        "type": "movie",
+        "title": "The Death of Robin Hood",
+        "originalTitle": "The Death of Robin Hood",
+        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+        "poster": "/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "backdrop": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+        "date": "2026-06-18",
         "year": "2026",
-        "rating": 0.8,
-        "votes": 2,
-        "popularity": 18.2658,
+        "rating": 6.5,
+        "votes": 154,
+        "popularity": 332.9399,
         "genreIds": [
-          35,
-          18
+          12,
+          18,
+          28
         ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/296140?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284465?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -449,7 +448,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2339,
+        "votes": 2353,
         "popularity": 394.3346,
         "genreIds": [
           878,
@@ -469,7 +468,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2370,
+        "votes": 2372,
         "popularity": 220.3794,
         "genreIds": [
           10765,
@@ -479,25 +478,25 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1284465,
+        "id": 1404304,
         "type": "movie",
-        "title": "The Death of Robin Hood",
-        "originalTitle": "The Death of Robin Hood",
-        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-        "poster": "/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "backdrop": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-        "date": "2026-06-18",
+        "title": "The Isolate Thief",
+        "originalTitle": "The Isolate Thief",
+        "overview": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
+        "poster": "/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+        "backdrop": "/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+        "date": "2026-07-10",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 152,
-        "popularity": 332.9399,
+        "rating": 7.5,
+        "votes": 2,
+        "popularity": 1.8492,
         "genreIds": [
-          12,
-          18,
-          28
+          37,
+          28,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284465?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1404304?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 30984,
@@ -521,66 +520,65 @@
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1481343,
-        "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 423,
-        "popularity": 302.2541,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
+        "id": 296140,
         "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.7,
-        "votes": 5459,
-        "popularity": 50.2784,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1404304,
-        "type": "movie",
-        "title": "The Isolate Thief",
-        "originalTitle": "The Isolate Thief",
-        "overview": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
-        "poster": "/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-        "backdrop": "/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
-        "date": "2026-07-10",
+        "title": "My Bias, My Boss",
+        "originalTitle": "최애의 사원",
+        "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+        "poster": "/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+        "backdrop": "/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+        "date": "2026-08-03",
         "year": "2026",
-        "rating": 10,
-        "votes": 1,
-        "popularity": 1.8492,
+        "rating": 0.8,
+        "votes": 2,
+        "popularity": 18.2658,
         "genreIds": [
-          37,
-          28,
+          35,
           18
         ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/296140?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 687163,
+        "type": "movie",
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 6759,
+        "popularity": 162.7023,
+        "genreIds": [
+          878,
+          12
+        ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1404304?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 454639,
+        "type": "movie",
+        "title": "Masters of the Universe",
+        "originalTitle": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 1562,
+        "popularity": 393.722,
+        "genreIds": [
+          28,
+          14,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/454639?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -595,7 +593,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 866,
+        "votes": 891,
         "popularity": 2011.4042,
         "genreIds": [
           878,
@@ -615,7 +613,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2162,
+        "votes": 2186,
         "popularity": 1053.6131,
         "genreIds": [
           12,
@@ -635,7 +633,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1502,
+        "votes": 1513,
         "popularity": 497.4835,
         "genreIds": [
           28,
@@ -655,31 +653,11 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22454,
+        "votes": 22463,
         "popularity": 487.6625,
         "genreIds": [
           28,
           12,
-          878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 454639,
-        "type": "movie",
-        "title": "Masters of the Universe",
-        "originalTitle": "Masters of the Universe",
-        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 1548,
-        "popularity": 393.722,
-        "genreIds": [
-          28,
-          14,
           878
         ],
         "lang": "en"
@@ -695,11 +673,31 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2327,
+        "votes": 2339,
         "popularity": 394.3346,
         "genreIds": [
           878,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 454639,
+        "type": "movie",
+        "title": "Masters of the Universe",
+        "originalTitle": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 1556,
+        "popularity": 393.722,
+        "genreIds": [
+          28,
+          14,
+          878
         ],
         "lang": "en"
       },
@@ -714,7 +712,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4202,
+        "votes": 4218,
         "popularity": 364.8722,
         "genreIds": [
           27,
@@ -733,33 +731,12 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 151,
+        "votes": 152,
         "popularity": 332.9399,
         "genreIds": [
           12,
           18,
           28
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 5.8,
-        "votes": 165,
-        "popularity": 301.0393,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
         ],
         "lang": "en"
       },
@@ -774,7 +751,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 755,
+        "votes": 756,
         "popularity": 316.2019,
         "genreIds": [
           16,
@@ -794,12 +771,33 @@
         "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 416,
+        "rating": 6.5,
+        "votes": 423,
         "popularity": 302.2541,
         "genreIds": [
           27,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 5.8,
+        "votes": 166,
+        "popularity": 301.0393,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
         ],
         "lang": "en"
       },
@@ -814,7 +812,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 257,
+        "votes": 259,
         "popularity": 275.5266,
         "genreIds": [
           12,
@@ -822,6 +820,26 @@
           35,
           10751,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2493,
+        "popularity": 258.4743,
+        "genreIds": [
+          27,
+          9648,
+          878
         ],
         "lang": "en"
       },
@@ -836,7 +854,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 644,
+        "votes": 653,
         "popularity": 254.4263,
         "genreIds": [
           16,
@@ -845,66 +863,6 @@
           14
         ],
         "lang": "en"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2482,
-        "popularity": 258.4743,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1375646,
-        "type": "movie",
-        "title": "Colony",
-        "originalTitle": "군체",
-        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-        "date": "2026-05-21",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 389,
-        "popularity": 210.7822,
-        "genreIds": [
-          28,
-          27,
-          878
-        ],
-        "lang": "ko"
-      },
-      {
-        "id": 1311031,
-        "type": "movie",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "originalTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-        "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-        "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "backdrop": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-        "date": "2025-07-18",
-        "year": "2025",
-        "rating": 8.6,
-        "votes": 1596,
-        "popularity": 195.3807,
-        "genreIds": [
-          16,
-          28,
-          14
-        ],
-        "lang": "ja"
       },
       {
         "id": 1698863,
@@ -925,6 +883,46 @@
           28
         ],
         "lang": "en"
+      },
+      {
+        "id": 1375646,
+        "type": "movie",
+        "title": "Colony",
+        "originalTitle": "군체",
+        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "date": "2026-05-21",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 394,
+        "popularity": 210.7822,
+        "genreIds": [
+          28,
+          27,
+          878
+        ],
+        "lang": "ko"
+      },
+      {
+        "id": 1311031,
+        "type": "movie",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "originalTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+        "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+        "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "backdrop": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+        "date": "2025-07-18",
+        "year": "2025",
+        "rating": 8.6,
+        "votes": 1602,
+        "popularity": 195.3807,
+        "genreIds": [
+          16,
+          28,
+          14
+        ],
+        "lang": "ja"
       },
       {
         "id": 1564614,
@@ -956,7 +954,7 @@
         "date": "2002-05-01",
         "year": "2002",
         "rating": 7.3,
-        "votes": 21001,
+        "votes": 21008,
         "popularity": 188.8814,
         "genreIds": [
           28,
@@ -965,24 +963,22 @@
         "lang": "en"
       },
       {
-        "id": 1630409,
+        "id": 1273221,
         "type": "movie",
-        "title": "The Debt Collector",
-        "originalTitle": "คนเดือดทวงแค้น",
-        "overview": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
-        "poster": "/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
-        "backdrop": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
-        "date": "2026-07-20",
+        "title": "Scary Movie",
+        "originalTitle": "Scary Movie",
+        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+        "date": "2026-06-03",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 56,
-        "popularity": 171.2361,
+        "rating": 6.5,
+        "votes": 1428,
+        "popularity": 182.9806,
         "genreIds": [
-          28,
-          53,
-          80
+          35
         ],
-        "lang": "th"
+        "lang": "en"
       }
     ],
     "topMovies": [
@@ -1394,7 +1390,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 867,
+        "votes": 897,
         "popularity": 2011.4042,
         "genreIds": [
           878,
@@ -1414,7 +1410,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2162,
+        "votes": 2193,
         "popularity": 1053.6131,
         "genreIds": [
           12,
@@ -1434,7 +1430,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1502,
+        "votes": 1516,
         "popularity": 497.4835,
         "genreIds": [
           28,
@@ -1454,7 +1450,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22455,
+        "votes": 22463,
         "popularity": 487.6625,
         "genreIds": [
           28,
@@ -1474,7 +1470,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4202,
+        "votes": 4221,
         "popularity": 364.8722,
         "genreIds": [
           27,
@@ -1493,33 +1489,12 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 151,
+        "votes": 154,
         "popularity": 332.9399,
         "genreIds": [
           12,
           18,
           28
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 5.8,
-        "votes": 165,
-        "popularity": 301.0393,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
         ],
         "lang": "en"
       },
@@ -1534,7 +1509,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 755,
+        "votes": 756,
         "popularity": 316.2019,
         "genreIds": [
           16,
@@ -1554,12 +1529,33 @@
         "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 417,
+        "rating": 6.5,
+        "votes": 427,
         "popularity": 302.2541,
         "genreIds": [
           27,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 5.8,
+        "votes": 166,
+        "popularity": 301.0393,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
         ],
         "lang": "en"
       },
@@ -1574,7 +1570,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 257,
+        "votes": 259,
         "popularity": 275.5266,
         "genreIds": [
           12,
@@ -1582,6 +1578,26 @@
           35,
           10751,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2493,
+        "popularity": 258.4743,
+        "genreIds": [
+          27,
+          9648,
+          878
         ],
         "lang": "en"
       },
@@ -1596,7 +1612,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 645,
+        "votes": 654,
         "popularity": 254.4263,
         "genreIds": [
           16,
@@ -1605,46 +1621,6 @@
           14
         ],
         "lang": "en"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2483,
-        "popularity": 258.4743,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1375646,
-        "type": "movie",
-        "title": "Colony",
-        "originalTitle": "군체",
-        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-        "date": "2026-05-21",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 389,
-        "popularity": 210.7822,
-        "genreIds": [
-          28,
-          27,
-          878
-        ],
-        "lang": "ko"
       },
       {
         "id": 1698863,
@@ -1667,6 +1643,26 @@
         "lang": "en"
       },
       {
+        "id": 1375646,
+        "type": "movie",
+        "title": "Colony",
+        "originalTitle": "군체",
+        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "date": "2026-05-21",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 395,
+        "popularity": 210.7822,
+        "genreIds": [
+          28,
+          27,
+          878
+        ],
+        "lang": "ko"
+      },
+      {
         "id": 1564614,
         "type": "movie",
         "title": "Leviticus",
@@ -1677,11 +1673,29 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.2,
-        "votes": 102,
+        "votes": 105,
         "popularity": 194.878,
         "genreIds": [
           27,
           10749
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1273221,
+        "type": "movie",
+        "title": "Scary Movie",
+        "originalTitle": "Scary Movie",
+        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 1430,
+        "popularity": 182.9806,
+        "genreIds": [
+          35
         ],
         "lang": "en"
       },
@@ -1695,8 +1709,8 @@
         "backdrop": "/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
         "date": "2026-07-20",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 56,
+        "rating": 7.7,
+        "votes": 58,
         "popularity": 171.2361,
         "genreIds": [
           28,
@@ -1720,24 +1734,6 @@
         "popularity": 163.4223,
         "genreIds": [
           53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1273221,
-        "type": "movie",
-        "title": "Scary Movie",
-        "originalTitle": "Scary Movie",
-        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 1423,
-        "popularity": 182.9806,
-        "genreIds": [
-          35
         ],
         "lang": "en"
       },
@@ -1772,7 +1768,7 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.2,
-        "votes": 348,
+        "votes": 349,
         "popularity": 109.7525,
         "genreIds": [
           27,
@@ -1793,7 +1789,7 @@
         "date": "2026-07-28",
         "year": "2026",
         "rating": 8,
-        "votes": 875,
+        "votes": 901,
         "popularity": 2011.4042,
         "genreIds": [
           878,
@@ -1813,7 +1809,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2166,
+        "votes": 2194,
         "popularity": 1053.6131,
         "genreIds": [
           12,
@@ -1833,7 +1829,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4205,
+        "votes": 4224,
         "popularity": 364.8722,
         "genreIds": [
           27,
@@ -1852,7 +1848,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 151,
+        "votes": 154,
         "popularity": 332.9399,
         "genreIds": [
           12,
@@ -1893,7 +1889,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 258,
+        "votes": 259,
         "popularity": 275.5266,
         "genreIds": [
           12,
@@ -1911,11 +1907,11 @@
         "originalTitle": "Backrooms",
         "overview": "A strange doorway appears in the basement of a furniture showroom.",
         "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2486,
+        "votes": 2494,
         "popularity": 258.4743,
         "genreIds": [
           27,
@@ -1935,7 +1931,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.2,
-        "votes": 102,
+        "votes": 105,
         "popularity": 194.878,
         "genreIds": [
           27,
@@ -1972,7 +1968,7 @@
         "date": "2026-04-30",
         "year": "2026",
         "rating": 7.2,
-        "votes": 348,
+        "votes": 349,
         "popularity": 109.7525,
         "genreIds": [
           27,
@@ -2050,8 +2046,8 @@
         "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
         "date": "2026-05-13",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 645,
+        "rating": 7.5,
+        "votes": 647,
         "popularity": 54.3417,
         "genreIds": [
           28,
@@ -2089,7 +2085,7 @@
         "date": "2026-04-01",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1457,
+        "votes": 1458,
         "popularity": 48.8726,
         "genreIds": [
           10749,
@@ -2109,7 +2105,7 @@
         "date": "2026-07-11",
         "year": "2026",
         "rating": 6.2,
-        "votes": 17,
+        "votes": 18,
         "popularity": 39.764,
         "genreIds": [
           18,
@@ -2149,7 +2145,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18627,
+        "votes": 18629,
         "popularity": 32.2022,
         "genreIds": [
           16,
@@ -2190,7 +2186,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6829,
+        "votes": 6830,
         "popularity": 411.8868,
         "genreIds": [
           10765,
@@ -2228,7 +2224,7 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4497,
+        "votes": 4498,
         "popularity": 297.4174,
         "genreIds": [
           80,
@@ -2306,7 +2302,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1283,
+        "votes": 1285,
         "popularity": 234.9985,
         "genreIds": [
           18,
@@ -2343,7 +2339,7 @@
         "date": "2013-12-02",
         "year": "2013",
         "rating": 8.7,
-        "votes": 11222,
+        "votes": 11223,
         "popularity": 223.5293,
         "genreIds": [
           16,
@@ -2364,7 +2360,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2368,
+        "votes": 2372,
         "popularity": 220.3794,
         "genreIds": [
           10765,
@@ -2403,7 +2399,7 @@
         "date": "2022-02-20",
         "year": "2022",
         "rating": 8.5,
-        "votes": 4105,
+        "votes": 4107,
         "popularity": 206.1688,
         "genreIds": [
           9648,
@@ -2539,7 +2535,7 @@
         "date": "2011-04-17",
         "year": "2011",
         "rating": 8.5,
-        "votes": 27407,
+        "votes": 27408,
         "popularity": 174.3405,
         "genreIds": [
           10765,
