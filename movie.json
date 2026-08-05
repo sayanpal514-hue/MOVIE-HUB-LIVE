@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8,
-        "votes": 989,
+        "votes": 1005,
         "popularity": 1990.6295,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2242,
+        "votes": 2248,
         "popularity": 944.487,
         "genreIds": [
           12,
@@ -45,45 +45,25 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
+        "id": 289324,
+        "type": "tv",
+        "title": "Star Wars: Visions Presents - The Ninth Jedi",
+        "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
+        "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+        "date": "2026-08-05",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 1550,
-        "popularity": 467.5508,
+        "rating": 6,
+        "votes": 5,
+        "popularity": 7.6887,
         "genreIds": [
-          28,
-          12,
-          878
+          16,
+          10765,
+          10759
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4262,
-        "popularity": 342.3888,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1212763,
@@ -96,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.8,
-        "votes": 472,
+        "votes": 487,
         "popularity": 136.2155,
         "genreIds": [
           27,
@@ -106,24 +86,65 @@
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 271016,
-        "type": "tv",
-        "title": "Mystic Nine",
-        "originalTitle": "九门",
-        "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
-        "poster": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
-        "backdrop": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
-        "date": "2026-07-30",
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.3,
-        "votes": 4,
-        "popularity": 58.1925,
+        "rating": 6.7,
+        "votes": 1558,
+        "popularity": 467.5508,
+        "genreIds": [
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2488,
+        "popularity": 88.0428,
         "genreIds": [
           18,
-          10759
+          35
         ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4271,
+        "popularity": 342.3888,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -136,7 +157,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6837,
+        "votes": 6839,
         "popularity": 406.44,
         "genreIds": [
           10765,
@@ -145,26 +166,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1481343,
-        "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 455,
-        "popularity": 304.4608,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1481343?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,7 +180,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8,
-        "votes": 992,
+        "votes": 998,
         "popularity": 1990.6295,
         "genreIds": [
           878,
@@ -190,53 +191,13 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 479,
-        "popularity": 136.2155,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2486,
-        "popularity": 88.0428,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 289324,
         "type": "tv",
         "title": "Star Wars: Visions Presents - The Ninth Jedi",
         "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
         "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-        "poster": "/r1AnM76TBeTNB5zRcIk2kRUXTDF.jpg",
-        "backdrop": "/tyv8Gnv2ncXOEjLp6HbeLTtXwjl.jpg",
+        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
         "date": "2026-08-05",
         "year": "2026",
         "rating": null,
@@ -251,6 +212,46 @@
         "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2488,
+        "popularity": 88.0428,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 487,
+        "popularity": 136.2155,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1368337,
         "type": "movie",
         "title": "The Odyssey",
@@ -261,7 +262,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2243,
+        "votes": 2249,
         "popularity": 944.487,
         "genreIds": [
           12,
@@ -276,7 +277,7 @@
         "type": "tv",
         "title": "Sterling Point",
         "originalTitle": "Sterling Point",
-        "overview": "Annie along with her twin brother were raised in New York by their single dad before they find out that their estranged grandfather left them an island on a lake in his will.",
+        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
         "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
         "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
         "date": "2026-08-05",
@@ -302,7 +303,7 @@
         "date": "2024-12-11",
         "year": "2024",
         "rating": 7.9,
-        "votes": 219,
+        "votes": 220,
         "popularity": 30.3024,
         "genreIds": [
           18,
@@ -322,7 +323,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6837,
+        "votes": 6838,
         "popularity": 406.44,
         "genreIds": [
           10765,
@@ -343,7 +344,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4263,
+        "votes": 4269,
         "popularity": 342.3888,
         "genreIds": [
           27,
@@ -351,27 +352,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1552,
-        "popularity": 467.5508,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 615,
@@ -384,7 +364,7 @@
         "date": "1999-03-28",
         "year": "1999",
         "rating": 8.4,
-        "votes": 3825,
+        "votes": 3826,
         "popularity": 119.3075,
         "genreIds": [
           16,
@@ -395,24 +375,25 @@
         "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1594914,
+        "id": 1081003,
         "type": "movie",
-        "title": "Lucky Strike",
-        "originalTitle": "Lucky Strike",
-        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-        "poster": "/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-        "backdrop": "/7FivR6OVr56calRq8UyZjmPsVE2.jpg",
-        "date": "2026-06-26",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 12,
-        "popularity": 26.6955,
+        "rating": 6.7,
+        "votes": 1555,
+        "popularity": 467.5508,
         "genreIds": [
           28,
-          10752
+          12,
+          878
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1594914?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 278624,
@@ -425,7 +406,7 @@
         "date": "2026-07-14",
         "year": "2026",
         "rating": 7.4,
-        "votes": 116,
+        "votes": 117,
         "popularity": 98.0778,
         "genreIds": [
           18,
@@ -435,25 +416,24 @@
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1404304,
+        "id": 1594914,
         "type": "movie",
-        "title": "The Isolate Thief",
-        "originalTitle": "The Isolate Thief",
-        "overview": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
-        "poster": "/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-        "backdrop": "/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
-        "date": "2026-07-10",
+        "title": "Lucky Strike",
+        "originalTitle": "Lucky Strike",
+        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
+        "poster": "/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+        "backdrop": "/7FivR6OVr56calRq8UyZjmPsVE2.jpg",
+        "date": "2026-06-26",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 6,
-        "popularity": 14.5216,
+        "rating": 7.5,
+        "votes": 13,
+        "popularity": 26.6955,
         "genreIds": [
-          37,
           28,
-          18
+          10752
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1404304?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1594914?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 113962,
@@ -486,7 +466,7 @@
         "date": "2024-03-20",
         "year": "2024",
         "rating": 8.7,
-        "votes": 818,
+        "votes": 819,
         "popularity": 78.7153,
         "genreIds": [
           16,
@@ -497,25 +477,25 @@
         "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1307118,
+        "id": 1404304,
         "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
-        "date": "2026-07-31",
+        "title": "The Isolate Thief",
+        "originalTitle": "The Isolate Thief",
+        "overview": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
+        "poster": "/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+        "backdrop": "/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+        "date": "2026-07-10",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 46,
-        "popularity": 112.8777,
+        "rating": 6.8,
+        "votes": 6,
+        "popularity": 14.5216,
         "genreIds": [
-          27,
-          878,
-          53
+          37,
+          28,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1404304?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -538,6 +518,48 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1307118,
+        "type": "movie",
+        "title": "Soulm8te",
+        "originalTitle": "Soulm8te",
+        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 48,
+        "popularity": 112.8777,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.7,
+        "votes": 5461,
+        "popularity": 51.7332,
+        "genreIds": [
+          10759,
+          35,
+          16
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1284465,
         "type": "movie",
         "title": "The Death of Robin Hood",
@@ -557,27 +579,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284465?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2530,
-        "popularity": 239.6498,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -992,7 +993,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 666,
+        "votes": 671,
         "popularity": 231.0192,
         "genreIds": [
           16,
@@ -1013,7 +1014,7 @@
         "date": "2026-03-12",
         "year": "2026",
         "rating": 8.9,
-        "votes": 339,
+        "votes": 340,
         "popularity": 24.28,
         "genreIds": [
           35,
@@ -1032,7 +1033,7 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2054,
+        "votes": 2056,
         "popularity": 64.2663,
         "genreIds": [
           12,
@@ -1053,7 +1054,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 30932,
+        "votes": 30936,
         "popularity": 75.4156,
         "genreIds": [
           18,
@@ -1072,7 +1073,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 3860,
+        "votes": 3866,
         "popularity": 102.8294,
         "genreIds": [
           10402,
@@ -1091,7 +1092,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23273,
+        "votes": 23275,
         "popularity": 58.2728,
         "genreIds": [
           18,
@@ -1110,7 +1111,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6772,
+        "votes": 6779,
         "popularity": 155.5042,
         "genreIds": [
           878,
@@ -1129,7 +1130,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.6,
-        "votes": 1628,
+        "votes": 1630,
         "popularity": 180.3103,
         "genreIds": [
           16,
@@ -1137,26 +1138,6 @@
           14
         ],
         "lang": "ja"
-      },
-      {
-        "id": 424,
-        "type": "movie",
-        "title": "Schindler's List",
-        "originalTitle": "Schindler's List",
-        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
-        "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-        "backdrop": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-        "date": "1993-12-15",
-        "year": "1993",
-        "rating": 8.6,
-        "votes": 17690,
-        "popularity": 29.467,
-        "genreIds": [
-          18,
-          36,
-          10752
-        ],
-        "lang": "en"
       },
       {
         "id": 240,
@@ -1169,11 +1150,31 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14126,
+        "votes": 14127,
         "popularity": 36.6553,
         "genreIds": [
           18,
           80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 424,
+        "type": "movie",
+        "title": "Schindler's List",
+        "originalTitle": "Schindler's List",
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "backdrop": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "date": "1993-12-15",
+        "year": "1993",
+        "rating": 8.6,
+        "votes": 17692,
+        "popularity": 29.467,
+        "genreIds": [
+          18,
+          36,
+          10752
         ],
         "lang": "en"
       },
@@ -1226,7 +1227,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18633,
+        "votes": 18634,
         "popularity": 32.2931,
         "genreIds": [
           16,
@@ -1266,7 +1267,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19552,
+        "votes": 19553,
         "popularity": 35.3112,
         "genreIds": [
           14,
@@ -1286,7 +1287,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 26994,
+        "votes": 26996,
         "popularity": 54.9695,
         "genreIds": [
           12,
@@ -1306,7 +1307,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1073,
+        "votes": 1075,
         "popularity": 31.4861,
         "genreIds": [
           16,
@@ -1327,7 +1328,7 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 21007,
+        "votes": 21008,
         "popularity": 42.2446,
         "genreIds": [
           35,
@@ -1335,26 +1336,6 @@
           18
         ],
         "lang": "ko"
-      },
-      {
-        "id": 157336,
-        "type": "movie",
-        "title": "Interstellar",
-        "originalTitle": "Interstellar",
-        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-        "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-        "backdrop": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
-        "date": "2014-11-05",
-        "year": "2014",
-        "rating": 8.5,
-        "votes": 40610,
-        "popularity": 73.9896,
-        "genreIds": [
-          12,
-          18,
-          878
-        ],
-        "lang": "en"
       },
       {
         "id": 372058,
@@ -1375,6 +1356,26 @@
           18
         ],
         "lang": "ja"
+      },
+      {
+        "id": 157336,
+        "type": "movie",
+        "title": "Interstellar",
+        "originalTitle": "Interstellar",
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+        "backdrop": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+        "date": "2014-11-05",
+        "year": "2014",
+        "rating": 8.5,
+        "votes": 40612,
+        "popularity": 73.9896,
+        "genreIds": [
+          12,
+          18,
+          878
+        ],
+        "lang": "en"
       }
     ],
     "nowPlaying": [
@@ -3427,7 +3428,7 @@
         "date": "2004-10-05",
         "year": "2004",
         "rating": 8.4,
-        "votes": 2202,
+        "votes": 2204,
         "popularity": 146.2306,
         "genreIds": [
           10759,
@@ -3465,7 +3466,7 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.5,
-        "votes": 1631,
+        "votes": 1632,
         "popularity": 139.8177,
         "genreIds": [
           10759,
@@ -3546,7 +3547,7 @@
         "date": "2005-04-22",
         "year": "2005",
         "rating": 8.1,
-        "votes": 237,
+        "votes": 239,
         "popularity": 98.5548,
         "genreIds": [
           10759,
@@ -3569,7 +3570,7 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4586,
+        "votes": 4589,
         "popularity": 91.4479,
         "genreIds": [
           16,
@@ -3626,7 +3627,7 @@
         "date": "2024-10-06",
         "year": "2024",
         "rating": 8.1,
-        "votes": 170,
+        "votes": 171,
         "popularity": 82.5251,
         "genreIds": [
           16,
@@ -3646,7 +3647,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 913,
+        "votes": 915,
         "popularity": 80.6247,
         "genreIds": [
           16,
@@ -3727,7 +3728,7 @@
         "date": "2022-04-09",
         "year": "2022",
         "rating": 8.5,
-        "votes": 2312,
+        "votes": 2313,
         "popularity": 63.3539,
         "genreIds": [
           16,
