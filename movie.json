@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8,
-        "votes": 1005,
+        "votes": 1015,
         "popularity": 1990.6295,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2248,
+        "votes": 2252,
         "popularity": 944.487,
         "genreIds": [
           12,
@@ -76,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.8,
-        "votes": 487,
+        "votes": 492,
         "popularity": 136.2155,
         "genreIds": [
           27,
@@ -96,7 +96,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1558,
+        "votes": 1562,
         "popularity": 467.5508,
         "genreIds": [
           28,
@@ -137,7 +137,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4271,
+        "votes": 4278,
         "popularity": 342.3888,
         "genreIds": [
           27,
@@ -157,7 +157,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6839,
+        "votes": 6840,
         "popularity": 406.44,
         "genreIds": [
           10765,
@@ -180,7 +180,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 8,
-        "votes": 998,
+        "votes": 1011,
         "popularity": 1990.6295,
         "genreIds": [
           878,
@@ -200,8 +200,8 @@
         "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
         "date": "2026-08-05",
         "year": "2026",
-        "rating": null,
-        "votes": 0,
+        "rating": 6,
+        "votes": 5,
         "popularity": 7.6887,
         "genreIds": [
           16,
@@ -242,7 +242,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.8,
-        "votes": 487,
+        "votes": 488,
         "popularity": 136.2155,
         "genreIds": [
           27,
@@ -262,7 +262,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2249,
+        "votes": 2250,
         "popularity": 944.487,
         "genreIds": [
           12,
@@ -323,7 +323,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6838,
+        "votes": 6839,
         "popularity": 406.44,
         "genreIds": [
           10765,
@@ -344,7 +344,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4269,
+        "votes": 4276,
         "popularity": 342.3888,
         "genreIds": [
           27,
@@ -352,27 +352,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 615,
-        "type": "tv",
-        "title": "Futurama",
-        "originalTitle": "Futurama",
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "date": "1999-03-28",
-        "year": "1999",
-        "rating": 8.4,
-        "votes": 3826,
-        "popularity": 119.3075,
-        "genreIds": [
-          16,
-          35,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -385,7 +364,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1555,
+        "votes": 1561,
         "popularity": 467.5508,
         "genreIds": [
           28,
@@ -414,6 +393,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 615,
+        "type": "tv",
+        "title": "Futurama",
+        "originalTitle": "Futurama",
+        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "date": "1999-03-28",
+        "year": "1999",
+        "rating": 8.4,
+        "votes": 3826,
+        "popularity": 119.3075,
+        "genreIds": [
+          16,
+          35,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1594914,
@@ -446,7 +446,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1293,
+        "votes": 1294,
         "popularity": 253.5517,
         "genreIds": [
           18,
@@ -539,46 +539,45 @@
         "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.7,
-        "votes": 5461,
-        "popularity": 51.7332,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284465,
+        "id": 1083381,
         "type": "movie",
-        "title": "The Death of Robin Hood",
-        "originalTitle": "The Death of Robin Hood",
-        "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-        "poster": "/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "backdrop": "/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-        "date": "2026-06-18",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 161,
-        "popularity": 329.0343,
+        "rating": 7.1,
+        "votes": 2530,
+        "popularity": 239.6498,
         "genreIds": [
-          12,
-          18,
-          28
+          27,
+          9648,
+          878
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284465?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1275779,
+        "type": "movie",
+        "title": "Disclosure Day",
+        "originalTitle": "Disclosure Day",
+        "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+        "poster": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "backdrop": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+        "date": "2026-06-10",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 2405,
+        "popularity": 371.1053,
+        "genreIds": [
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
