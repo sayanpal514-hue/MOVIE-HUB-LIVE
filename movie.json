@@ -13,8 +13,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1107,
-        "popularity": 1844.5946,
+        "votes": 1120,
+        "popularity": 1656.617,
         "genreIds": [
           878,
           28,
@@ -34,8 +34,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2307,
-        "popularity": 902.0933,
+        "votes": 2312,
+        "popularity": 879.0771,
         "genreIds": [
           12,
           28,
@@ -55,8 +55,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4332,
-        "popularity": 351.4292,
+        "votes": 4346,
+        "popularity": 342.0336,
         "genreIds": [
           27,
           53
@@ -75,34 +75,14 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 586,
-        "popularity": 190.8269,
+        "votes": 619,
+        "popularity": 192.6336,
         "genreIds": [
           27,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 298168,
-        "type": "tv",
-        "title": "The Shards",
-        "originalTitle": "The Shards",
-        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 10,
-        "popularity": 16.8062,
-        "genreIds": [
-          18,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -114,9 +94,9 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 1599,
-        "popularity": 455.6774,
+        "rating": 6.8,
+        "votes": 1609,
+        "popularity": 445.6703,
         "genreIds": [
           28,
           12,
@@ -124,6 +104,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2382,
+        "popularity": 179.1034,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -136,8 +136,8 @@
         "date": "2020-08-14",
         "year": "2020",
         "rating": 8.3,
-        "votes": 2495,
-        "popularity": 144.5315,
+        "votes": 2496,
+        "popularity": 142.8336,
         "genreIds": [
           18,
           35
@@ -146,25 +146,24 @@
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 94997,
+        "id": 113962,
         "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6850,
-        "popularity": 369.8497,
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8,
+        "votes": 1299,
+        "popularity": 243.8309,
         "genreIds": [
-          10765,
           18,
-          10759
+          10768
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,8 +178,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1102,
-        "popularity": 1844.5946,
+        "votes": 1119,
+        "popularity": 1656.617,
         "genreIds": [
           878,
           28,
@@ -195,13 +194,13 @@
         "title": "The Shards",
         "originalTitle": "The Shards",
         "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-        "poster": "/876V23IJpddyLcO1wvJUdSft585.jpg",
+        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
         "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
         "date": "2026-08-05",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 10,
-        "popularity": 16.8062,
+        "rating": 8,
+        "votes": 11,
+        "popularity": 65.5378,
         "genreIds": [
           18,
           9648
@@ -220,8 +219,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2305,
-        "popularity": 902.0933,
+        "votes": 2310,
+        "popularity": 879.0771,
         "genreIds": [
           12,
           28,
@@ -241,8 +240,8 @@
         "date": "2026-08-05",
         "year": "2026",
         "rating": 7,
-        "votes": 9,
-        "popularity": 47.6239,
+        "votes": 10,
+        "popularity": 55.6515,
         "genreIds": [
           16,
           10765,
@@ -262,14 +261,33 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 585,
-        "popularity": 190.8269,
+        "votes": 614,
+        "popularity": 192.6336,
         "genreIds": [
           27,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 199001,
+        "type": "tv",
+        "title": "My Life with the Walter Boys",
+        "originalTitle": "My Life with the Walter Boys",
+        "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+        "poster": "/7fb6bIaaoyxT8mbUk0T6XSYqawJ.jpg",
+        "backdrop": "/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
+        "date": "2023-12-07",
+        "year": "2023",
+        "rating": 7.8,
+        "votes": 388,
+        "popularity": 82.4948,
+        "genreIds": [
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/199001?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 283297,
@@ -281,35 +299,15 @@
         "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
         "date": "2026-08-05",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 8,
-        "popularity": 43.4084,
+        "rating": 6.7,
+        "votes": 9,
+        "popularity": 41.247,
         "genreIds": [
           9648,
           18
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2495,
-        "popularity": 144.5315,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -322,8 +320,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4332,
-        "popularity": 351.4292,
+        "votes": 4342,
+        "popularity": 342.0336,
         "genreIds": [
           27,
           53
@@ -332,23 +330,44 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 199001,
+        "id": 97546,
         "type": "tv",
-        "title": "My Life with the Walter Boys",
-        "originalTitle": "My Life with the Walter Boys",
-        "overview": "When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
-        "poster": "/4o9ICW8TxzqiQXfEzyFytBumA2i.jpg",
-        "backdrop": "/5WUsnqUm7xbY3oSwumSLfjyyax.jpg",
-        "date": "2023-12-07",
-        "year": "2023",
-        "rating": 7.8,
-        "votes": 387,
-        "popularity": 35.6754,
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2496,
+        "popularity": 142.8336,
         "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2382,
+        "popularity": 179.1034,
+        "genreIds": [
+          10765,
           18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/199001?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -360,9 +379,9 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 1599,
-        "popularity": 455.6774,
+        "rating": 6.8,
+        "votes": 1607,
+        "popularity": 445.6703,
         "genreIds": [
           28,
           12,
@@ -383,13 +402,34 @@
         "year": "2024",
         "rating": 7.9,
         "votes": 222,
-        "popularity": 59.6271,
+        "popularity": 73.1753,
         "genreIds": [
           18,
           10765
         ],
         "lang": "es",
         "iframe": "https://peachify.top/embed/tv/207333?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1307118,
+        "type": "movie",
+        "title": "Soulm8te",
+        "originalTitle": "Soulm8te",
+        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 57,
+        "popularity": 158.734,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -402,8 +442,8 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6850,
-        "popularity": 369.8497,
+        "votes": 6854,
+        "popularity": 326.2501,
         "genreIds": [
           10765,
           18,
@@ -411,26 +451,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2381,
-        "popularity": 211.0504,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -443,8 +463,8 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2435,
-        "popularity": 356.1277,
+        "votes": 2442,
+        "popularity": 335.8522,
         "genreIds": [
           878,
           53
@@ -463,8 +483,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2559,
-        "popularity": 225.3671,
+        "votes": 2565,
+        "popularity": 219.8564,
         "genreIds": [
           27,
           9648,
@@ -474,66 +494,45 @@
         "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1307118,
-        "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/ebcOSaZLxdCMHDjJJQzx5PiEyzl.jpg",
-        "date": "2026-07-31",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 54,
-        "popularity": 143.7806,
+        "id": 103516,
+        "type": "tv",
+        "title": "Star Trek: Strange New Worlds",
+        "originalTitle": "Star Trek: Strange New Worlds",
+        "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+        "poster": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+        "backdrop": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+        "date": "2022-05-05",
+        "year": "2022",
+        "rating": 7.9,
+        "votes": 801,
+        "popularity": 63.7929,
         "genreIds": [
-          27,
-          878,
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/103516?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1375441,
+        "type": "movie",
+        "title": "Primetime",
+        "originalTitle": "Primetime",
+        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+        "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "backdrop": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+        "date": "2026-09-23",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 11.5011,
+        "genreIds": [
+          80,
+          18,
           53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1307118?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 278624,
-        "type": "tv",
-        "title": "Lucky",
-        "originalTitle": "Lucky",
-        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-        "date": "2026-07-14",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 121,
-        "popularity": 111.9049,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 138502,
-        "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 822,
-        "popularity": 98.0977,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1375441?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 113962,
@@ -547,7 +546,7 @@
         "year": "2023",
         "rating": 8,
         "votes": 1299,
-        "popularity": 266.8872,
+        "popularity": 243.8309,
         "genreIds": [
           18,
           10768
@@ -556,25 +555,24 @@
         "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 615,
-        "type": "tv",
-        "title": "Futurama",
-        "originalTitle": "Futurama",
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "date": "1999-03-28",
-        "year": "1999",
-        "rating": 8.4,
-        "votes": 3827,
-        "popularity": 109.2967,
+        "id": 1564614,
+        "type": "movie",
+        "title": "Leviticus",
+        "originalTitle": "Leviticus",
+        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 6.3,
+        "votes": 114,
+        "popularity": 159.9202,
         "genreIds": [
-          16,
-          35,
-          10765
+          27,
+          10749
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1564614?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -990,7 +988,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 686,
+        "votes": 694,
         "popularity": 209.984,
         "genreIds": [
           16,
@@ -1011,7 +1009,7 @@
         "date": "2026-03-12",
         "year": "2026",
         "rating": 8.9,
-        "votes": 340,
+        "votes": 341,
         "popularity": 23.2799,
         "genreIds": [
           35,
@@ -1030,7 +1028,7 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2059,
+        "votes": 2061,
         "popularity": 64.6164,
         "genreIds": [
           12,
@@ -1051,7 +1049,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 30943,
+        "votes": 30947,
         "popularity": 80.2498,
         "genreIds": [
           18,
@@ -1070,7 +1068,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 3879,
+        "votes": 3882,
         "popularity": 104.2249,
         "genreIds": [
           10402,
@@ -1089,7 +1087,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23280,
+        "votes": 23285,
         "popularity": 58.6917,
         "genreIds": [
           18,
@@ -1108,7 +1106,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6807,
+        "votes": 6815,
         "popularity": 152.8479,
         "genreIds": [
           878,
@@ -1127,7 +1125,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.6,
-        "votes": 1656,
+        "votes": 1667,
         "popularity": 164.4249,
         "genreIds": [
           16,
@@ -1167,7 +1165,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14132,
+        "votes": 14133,
         "popularity": 36.9418,
         "genreIds": [
           18,
@@ -1204,7 +1202,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36289,
+        "votes": 36294,
         "popularity": 60.9616,
         "genreIds": [
           28,
@@ -1224,7 +1222,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18641,
+        "votes": 18643,
         "popularity": 33.2749,
         "genreIds": [
           16,
@@ -1284,7 +1282,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1080,
+        "votes": 1082,
         "popularity": 34.5874,
         "genreIds": [
           16,
@@ -1305,7 +1303,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27005,
+        "votes": 27008,
         "popularity": 53.4637,
         "genreIds": [
           12,
@@ -1325,7 +1323,7 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 21015,
+        "votes": 21018,
         "popularity": 41.2732,
         "genreIds": [
           35,
@@ -1345,7 +1343,7 @@
         "date": "2014-11-05",
         "year": "2014",
         "rating": 8.5,
-        "votes": 40623,
+        "votes": 40627,
         "popularity": 71.334,
         "genreIds": [
           12,
@@ -1365,7 +1363,7 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 12793,
+        "votes": 12795,
         "popularity": 28.5555,
         "genreIds": [
           16,
@@ -3355,7 +3353,7 @@
         "year": "2023",
         "rating": 6.2,
         "votes": 26,
-        "popularity": 336.2876,
+        "popularity": 317.9514,
         "genreIds": [
           16
         ],
@@ -3373,82 +3371,7 @@
         "year": "2020",
         "rating": 7.4,
         "votes": 90,
-        "popularity": 165.8351,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 220118,
-        "type": "tv",
-        "title": "Sazanami Soushi ni Junketsu wo Sasagu",
-        "originalTitle": "漣蒼士に純潔を捧ぐ",
-        "overview": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos at me as he makes passionate love to me. This is bad! Something's coming...!!",
-        "poster": "/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
-        "backdrop": "/3dqyRG3kaHQgC1n15cGh7YyaSAK.jpg",
-        "date": "2023-04-03",
-        "year": "2023",
-        "rating": 6.6,
-        "votes": 7,
-        "popularity": 121.8164,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 70998,
-        "type": "tv",
-        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "originalTitle": "僧侶と交わる色欲の夜に…",
-        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
-        "poster": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "backdrop": "/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
-        "date": "2017-04-03",
-        "year": "2017",
-        "rating": 5.3,
-        "votes": 14,
-        "popularity": 139.7352,
-        "genreIds": [
-          16,
-          18
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2204,
-        "popularity": 129.8221,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 204269,
-        "type": "tv",
-        "title": "Caressing My Hibernating Bear",
-        "originalTitle": "森のくまさん、冬眠中。",
-        "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
-        "poster": "/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "backdrop": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
-        "date": "2022-07-04",
-        "year": "2022",
-        "rating": 5.9,
-        "votes": 7,
-        "popularity": 133.1653,
+        "popularity": 145.4771,
         "genreIds": [
           16
         ],
@@ -3466,10 +3389,146 @@
         "year": "2021",
         "rating": 8.5,
         "votes": 1634,
-        "popularity": 149.415,
+        "popularity": 149.1897,
         "genreIds": [
           10759,
           16,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 70998,
+        "type": "tv",
+        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "originalTitle": "僧侶と交わる色欲の夜に…",
+        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
+        "poster": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "backdrop": "/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+        "date": "2017-04-03",
+        "year": "2017",
+        "rating": 5.3,
+        "votes": 14,
+        "popularity": 125.1139,
+        "genreIds": [
+          16,
+          18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 204269,
+        "type": "tv",
+        "title": "Caressing My Hibernating Bear",
+        "originalTitle": "森のくまさん、冬眠中。",
+        "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
+        "poster": "/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+        "backdrop": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
+        "date": "2022-07-04",
+        "year": "2022",
+        "rating": 5.9,
+        "votes": 7,
+        "popularity": 105.7395,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2204,
+        "popularity": 114.2729,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 30979,
+        "type": "tv",
+        "title": "Gravitation",
+        "originalTitle": "グラビテーション",
+        "overview": "Aspiring singer Shuichi Shindo and his band, Bad Luck, work to become Japan's next musical sensation, while he struggles to capture Eiri Yuki's attention.",
+        "poster": "/pSX3VpIt5lQJvxh1uHuSMJUwPgO.jpg",
+        "backdrop": "/fowIZg4V8WEfhA8pOUWpBHWf42f.jpg",
+        "date": "2000-10-04",
+        "year": "2000",
+        "rating": 6.5,
+        "votes": 17,
+        "popularity": 120.4539,
+        "genreIds": [
+          16,
+          18,
+          35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 220118,
+        "type": "tv",
+        "title": "Sazanami Soushi ni Junketsu wo Sasagu",
+        "originalTitle": "漣蒼士に純潔を捧ぐ",
+        "overview": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos at me as he makes passionate love to me. This is bad! Something's coming...!!",
+        "poster": "/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
+        "backdrop": "/3dqyRG3kaHQgC1n15cGh7YyaSAK.jpg",
+        "date": "2023-04-03",
+        "year": "2023",
+        "rating": 6.6,
+        "votes": 7,
+        "popularity": 100.1203,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 120013,
+        "type": "tv",
+        "title": "RE-MAIN",
+        "originalTitle": "RE-MAIN",
+        "overview": "Minato is a boy who stopped playing water polo due to a certain incident in the winter of his third middle school year. He picks the sport back up again with a new team when he starts in high school, but the fledgling team runs into many problems.",
+        "poster": "/nnsLtt5RndrFzNBgVRQjRdXLeeq.jpg",
+        "backdrop": "/T6bTrOo2iuwU3rJsZOS65ekAak.jpg",
+        "date": "2021-07-04",
+        "year": "2021",
+        "rating": 6.8,
+        "votes": 32,
+        "popularity": 104.9751,
+        "genreIds": [
+          16,
+          35,
+          18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 209867,
+        "type": "tv",
+        "title": "Frieren: Beyond Journey's End",
+        "originalTitle": "葬送のフリーレン",
+        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "backdrop": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+        "date": "2023-09-29",
+        "year": "2023",
+        "rating": 8.8,
+        "votes": 917,
+        "popularity": 87.4491,
+        "genreIds": [
+          16,
+          10759,
+          18,
           10765
         ],
         "lang": "ja"
@@ -3486,7 +3545,7 @@
         "year": "1996",
         "rating": 8,
         "votes": 778,
-        "popularity": 98.0974,
+        "popularity": 86.7297,
         "genreIds": [
           16,
           80,
@@ -3496,42 +3555,21 @@
         "lang": "ja"
       },
       {
-        "id": 30979,
+        "id": 113360,
         "type": "tv",
-        "title": "Gravitation",
-        "originalTitle": "グラビテーション",
-        "overview": "Aspiring singer Shuichi Shindo and his band, Bad Luck, work to become Japan's next musical sensation, while he struggles to capture Eiri Yuki's attention.",
-        "poster": "/pSX3VpIt5lQJvxh1uHuSMJUwPgO.jpg",
-        "backdrop": "/fowIZg4V8WEfhA8pOUWpBHWf42f.jpg",
-        "date": "2000-10-04",
-        "year": "2000",
-        "rating": 6.5,
-        "votes": 17,
-        "popularity": 128.0582,
-        "genreIds": [
-          16,
-          18,
-          35
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 120013,
-        "type": "tv",
-        "title": "RE-MAIN",
-        "originalTitle": "RE-MAIN",
-        "overview": "Minato is a boy who stopped playing water polo due to a certain incident in the winter of his third middle school year. He picks the sport back up again with a new team when he starts in high school, but the fledgling team runs into many problems.",
-        "poster": "/nnsLtt5RndrFzNBgVRQjRdXLeeq.jpg",
-        "backdrop": "/T6bTrOo2iuwU3rJsZOS65ekAak.jpg",
-        "date": "2021-07-04",
+        "title": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
+        "originalTitle": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
+        "overview": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
+        "poster": "/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
+        "backdrop": "/kPO4rsDkSwmGMRDejvLAel8FafA.jpg",
+        "date": "2021-01-03",
         "year": "2021",
-        "rating": 6.8,
-        "votes": 32,
-        "popularity": 102.4551,
+        "rating": 6.6,
+        "votes": 27,
+        "popularity": 99.4619,
         "genreIds": [
           16,
-          35,
-          18
+          35
         ],
         "lang": "ja"
       },
@@ -3547,7 +3585,7 @@
         "year": "2005",
         "rating": 8.1,
         "votes": 239,
-        "popularity": 93.9312,
+        "popularity": 94.9191,
         "genreIds": [
           10759,
           16,
@@ -3569,31 +3607,12 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4592,
-        "popularity": 93.8119,
+        "votes": 4593,
+        "popularity": 99.4051,
         "genreIds": [
           16,
           10759,
           10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 113360,
-        "type": "tv",
-        "title": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
-        "originalTitle": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
-        "overview": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
-        "poster": "/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
-        "backdrop": "/kPO4rsDkSwmGMRDejvLAel8FafA.jpg",
-        "date": "2021-01-03",
-        "year": "2021",
-        "rating": 6.6,
-        "votes": 27,
-        "popularity": 95.4906,
-        "genreIds": [
-          16,
-          35
         ],
         "lang": "ja"
       },
@@ -3609,66 +3628,7 @@
         "year": "2024",
         "rating": 6.8,
         "votes": 38,
-        "popularity": 82.8739,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 259140,
-        "type": "tv",
-        "title": "Ranma1/2",
-        "originalTitle": "らんま1/2",
-        "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-        "poster": "/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-        "backdrop": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
-        "date": "2024-10-06",
-        "year": "2024",
-        "rating": 8.1,
-        "votes": 171,
-        "popularity": 69.2493,
-        "genreIds": [
-          16,
-          10759,
-          35
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 209867,
-        "type": "tv",
-        "title": "Frieren: Beyond Journey's End",
-        "originalTitle": "葬送のフリーレン",
-        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
-        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-        "backdrop": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-        "date": "2023-09-29",
-        "year": "2023",
-        "rating": 8.8,
-        "votes": 916,
-        "popularity": 98.2262,
-        "genreIds": [
-          16,
-          10759,
-          18,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 81044,
-        "type": "tv",
-        "title": "Joshiochi! 2-kai kara Onnanoko ga... Futtekita!?",
-        "originalTitle": "じょしおちっ！～2階から女の子が・・・降ってきた！？～",
-        "overview": "Sousuke Aikawa is a part-time worker who lives in a rundown apartment building where his only consolation is that the landlord is a beautiful woman and the girl who lives above him is cute.\n\nOne day though, the ceiling above him creaks and... Bang! In from the second floor, directly above him, the cute girl comes crashing down on him…!?\n\nIn an erotic encounter that can only be classified as a miracle, hearts and bodies are connected by chance. Then for some reason, he starts to live with both of these beautiful women!? Under this one roof, just what exactly will become of this crowded love triangle...!?",
-        "poster": "/7x8x6dl4leOSw6KGUcOrQew7Eua.jpg",
-        "backdrop": "/AgTy5IsOv1FAx02gunir8ZSiUxG.jpg",
-        "date": "2018-07-02",
-        "year": "2018",
-        "rating": 7.3,
-        "votes": 26,
-        "popularity": 68.1764,
+        "popularity": 83.763,
         "genreIds": [
           16
         ],
@@ -3686,13 +3646,51 @@
         "year": "2016",
         "rating": 8,
         "votes": 733,
-        "popularity": 71.6275,
+        "popularity": 61.7654,
         "genreIds": [
           16,
           18,
           9648,
           10759,
           10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 259140,
+        "type": "tv",
+        "title": "Ranma1/2",
+        "originalTitle": "らんま1/2",
+        "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+        "poster": "/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+        "backdrop": "/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+        "date": "2024-10-06",
+        "year": "2024",
+        "rating": 8.1,
+        "votes": 171,
+        "popularity": 61.6788,
+        "genreIds": [
+          16,
+          10759,
+          35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 81044,
+        "type": "tv",
+        "title": "Joshiochi! 2-kai kara Onnanoko ga... Futtekita!?",
+        "originalTitle": "じょしおちっ！～2階から女の子が・・・降ってきた！？～",
+        "overview": "Sousuke Aikawa is a part-time worker who lives in a rundown apartment building where his only consolation is that the landlord is a beautiful woman and the girl who lives above him is cute.\n\nOne day though, the ceiling above him creaks and... Bang! In from the second floor, directly above him, the cute girl comes crashing down on him…!?\n\nIn an erotic encounter that can only be classified as a miracle, hearts and bodies are connected by chance. Then for some reason, he starts to live with both of these beautiful women!? Under this one roof, just what exactly will become of this crowded love triangle...!?",
+        "poster": "/7x8x6dl4leOSw6KGUcOrQew7Eua.jpg",
+        "backdrop": "/AgTy5IsOv1FAx02gunir8ZSiUxG.jpg",
+        "date": "2018-07-02",
+        "year": "2018",
+        "rating": 7.3,
+        "votes": 26,
+        "popularity": 58.2675,
+        "genreIds": [
+          16
         ],
         "lang": "ja"
       },
@@ -3708,7 +3706,7 @@
         "year": "1997",
         "rating": 8,
         "votes": 2223,
-        "popularity": 66.932,
+        "popularity": 69.5568,
         "genreIds": [
           16,
           10759,
@@ -3717,22 +3715,22 @@
         "lang": "ja"
       },
       {
-        "id": 120089,
+        "id": 46298,
         "type": "tv",
-        "title": "SPY x FAMILY",
-        "originalTitle": "SPY×FAMILY",
-        "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
-        "poster": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-        "backdrop": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-        "date": "2022-04-09",
-        "year": "2022",
-        "rating": 8.5,
-        "votes": 2316,
-        "popularity": 60.5427,
+        "title": "Hunter x Hunter",
+        "originalTitle": "HUNTER×HUNTER",
+        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+        "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+        "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+        "date": "2011-10-02",
+        "year": "2011",
+        "rating": 8.7,
+        "votes": 2166,
+        "popularity": 65.948,
         "genreIds": [
           16,
           10759,
-          35
+          10765
         ],
         "lang": "ja"
       }
