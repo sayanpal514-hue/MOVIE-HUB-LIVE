@@ -3,6 +3,27 @@
   "data": {
     "spotlight": [
       {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
+        "backdrop": "/wlz7wSGNMtW3dUI6QyUv67fT1LT.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 5.6,
+        "votes": 5,
+        "popularity": 10.1319,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -13,7 +34,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1137,
+        "votes": 1140,
         "popularity": 1656.617,
         "genreIds": [
           878,
@@ -22,27 +43,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 4,
-        "votes": 3,
-        "popularity": 10.1319,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -55,7 +55,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2323,
+        "votes": 2324,
         "popularity": 879.0771,
         "genreIds": [
           12,
@@ -96,7 +96,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 640,
+        "votes": 642,
         "popularity": 192.6336,
         "genreIds": [
           27,
@@ -116,7 +116,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2383,
+        "votes": 2384,
         "popularity": 179.1034,
         "genreIds": [
           10765,
@@ -124,6 +124,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 291496,
+        "type": "tv",
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 6,
+        "votes": 1,
+        "popularity": 14.3178,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -145,29 +165,30 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2501,
-        "popularity": 142.8336,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
+        "backdrop": "/wlz7wSGNMtW3dUI6QyUv67fT1LT.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 5.2,
+        "votes": 4,
+        "popularity": 10.1319,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
       {
         "id": 298168,
         "type": "tv",
@@ -178,8 +199,8 @@
         "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
         "date": "2026-08-05",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 12,
+        "rating": 7.7,
+        "votes": 13,
         "popularity": 65.5378,
         "genreIds": [
           18,
@@ -187,27 +208,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 4,
-        "votes": 3,
-        "popularity": 10.1319,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -220,7 +220,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1134,
+        "votes": 1137,
         "popularity": 1656.617,
         "genreIds": [
           878,
@@ -241,7 +241,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2322,
+        "votes": 2323,
         "popularity": 879.0771,
         "genreIds": [
           12,
@@ -262,7 +262,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 640,
+        "votes": 642,
         "popularity": 192.6336,
         "genreIds": [
           27,
@@ -292,6 +292,26 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 291496,
+        "type": "tv",
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 6,
+        "votes": 1,
+        "popularity": 14.3178,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -302,7 +322,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4354,
+        "votes": 4355,
         "popularity": 342.0336,
         "genreIds": [
           27,
@@ -322,7 +342,7 @@
         "date": "2023-12-07",
         "year": "2023",
         "rating": 7.8,
-        "votes": 391,
+        "votes": 392,
         "popularity": 82.4948,
         "genreIds": [
           18
@@ -372,6 +392,67 @@
         "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 300480,
+        "type": "tv",
+        "title": "Ricky Gervais Alley Cats",
+        "originalTitle": "Ricky Gervais Alley Cats",
+        "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
+        "poster": "/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg",
+        "backdrop": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 6.2355,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/300480?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2502,
+        "popularity": 142.8336,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1263532,
+        "type": "movie",
+        "title": "Beast Race",
+        "originalTitle": "Corrida dos Bichos",
+        "overview": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future where each animal in the game is now represented by a runner vying for a prize.",
+        "poster": "/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
+        "backdrop": "/1zhpeLzqEi8bmaBiMZUg0D13eDt.jpg",
+        "date": "2026-03-17",
+        "year": "2026",
+        "rating": 9,
+        "votes": 1,
+        "popularity": 4.8009,
+        "genreIds": [
+          28,
+          878,
+          53
+        ],
+        "lang": "pt",
+        "iframe": "https://peachify.top/embed/movie/1263532?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1081003,
         "type": "movie",
         "title": "Supergirl",
@@ -393,44 +474,24 @@
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 97546,
+        "id": 203744,
         "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2500,
-        "popularity": 142.8336,
+        "title": "Sugar",
+        "originalTitle": "Sugar",
+        "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+        "poster": "/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+        "backdrop": "/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+        "date": "2024-04-04",
+        "year": "2024",
+        "rating": 7.1,
+        "votes": 347,
+        "popularity": 45.1658,
         "genreIds": [
           18,
-          35
+          9648
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 291496,
-        "type": "tv",
-        "title": "Our Sticky Love",
-        "originalTitle": "이런 엿같은 사랑",
-        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 6,
-        "votes": 1,
-        "popularity": 14.3178,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1375441,
@@ -454,65 +515,24 @@
         "iframe": "https://peachify.top/embed/movie/1375441?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 203744,
+        "id": 287620,
         "type": "tv",
-        "title": "Sugar",
-        "originalTitle": "Sugar",
-        "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-        "poster": "/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-        "backdrop": "/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-        "date": "2024-04-04",
-        "year": "2024",
-        "rating": 7.1,
-        "votes": 347,
-        "popularity": 45.1658,
+        "title": "Stuart Fails to Save the Universe",
+        "originalTitle": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "poster": "/vM6B0dqOB2YdXEaA7bjq5LuXEo.jpg",
+        "backdrop": "/sIiSvtFwmOQKTnUaTNMuRmCpzoq.jpg",
+        "date": "2026-07-23",
+        "year": "2026",
+        "rating": 9.3,
+        "votes": 75,
+        "popularity": 62.884,
         "genreIds": [
-          18,
-          9648
+          35,
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1263532,
-        "type": "movie",
-        "title": "Beast Race",
-        "originalTitle": "Corrida dos Bichos",
-        "overview": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future where each animal in the game is now represented by a runner vying for a prize.",
-        "poster": "/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
-        "backdrop": "/1zhpeLzqEi8bmaBiMZUg0D13eDt.jpg",
-        "date": "2026-03-17",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 4.8009,
-        "genreIds": [
-          28,
-          878,
-          53
-        ],
-        "lang": "pt",
-        "iframe": "https://peachify.top/embed/movie/1263532?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 300480,
-        "type": "tv",
-        "title": "Ricky Gervais Alley Cats",
-        "originalTitle": "Ricky Gervais Alley Cats",
-        "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
-        "poster": "/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg",
-        "backdrop": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 6.2355,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/300480?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 207333,
@@ -554,26 +574,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 103516,
-        "type": "tv",
-        "title": "Star Trek: Strange New Worlds",
-        "originalTitle": "Star Trek: Strange New Worlds",
-        "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-        "poster": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-        "backdrop": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-        "date": "2022-05-05",
-        "year": "2022",
-        "rating": 7.9,
-        "votes": 802,
-        "popularity": 63.7929,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/103516?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
