@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1226,
+        "votes": 1227,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -22,6 +22,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6,
+        "votes": 66,
+        "popularity": 143.8808,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -45,27 +66,6 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6,
-        "votes": 65,
-        "popularity": 143.8808,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1212763,
         "type": "movie",
         "title": "Evil Dead Burn",
@@ -76,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 708,
+        "votes": 716,
         "popularity": 203.6299,
         "genreIds": [
           27,
@@ -96,7 +96,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4387,
+        "votes": 4390,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -116,7 +116,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1651,
+        "votes": 1653,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -125,26 +125,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2505,
-        "popularity": 140.322,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -165,6 +145,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2505,
+        "popularity": 140.322,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,7 +179,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6,
-        "votes": 65,
+        "votes": 67,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -200,7 +200,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1226,
+        "votes": 1228,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -323,7 +323,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 710,
+        "votes": 716,
         "popularity": 203.6299,
         "genreIds": [
           27,
@@ -343,7 +343,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4388,
+        "votes": 4391,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -383,7 +383,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1651,
+        "votes": 1654,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -477,6 +477,45 @@
         "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 284753,
+        "type": "tv",
+        "title": "Operation Safed Sagar: The Highest Air Force Mission",
+        "originalTitle": "ऑपरेशन सफ़ेद सागर",
+        "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
+        "poster": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+        "backdrop": "/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 48.3576,
+        "genreIds": [
+          18
+        ],
+        "lang": "hi",
+        "iframe": "https://peachify.top/embed/tv/284753?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 283297,
+        "type": "tv",
+        "title": "Sterling Point",
+        "originalTitle": "Sterling Point",
+        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+        "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+        "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
+        "date": "2026-08-05",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 13,
+        "popularity": 72.8018,
+        "genreIds": [
+          9648,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 287620,
         "type": "tv",
         "title": "Stuart Fails to Save the Universe",
@@ -497,25 +536,6 @@
         "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 284753,
-        "type": "tv",
-        "title": "Operation Safed Sagar: The Highest Air Force Mission",
-        "originalTitle": "ऑपरेशन सफ़ेद सागर",
-        "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
-        "poster": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
-        "backdrop": "/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 48.3576,
-        "genreIds": [
-          18
-        ],
-        "lang": "hi",
-        "iframe": "https://peachify.top/embed/tv/284753?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 199001,
         "type": "tv",
         "title": "My Life with the Walter Boys",
@@ -533,26 +553,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/199001?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 283297,
-        "type": "tv",
-        "title": "Sterling Point",
-        "originalTitle": "Sterling Point",
-        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-        "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-        "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 7,
-        "votes": 12,
-        "popularity": 72.8018,
-        "genreIds": [
-          9648,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1083381,
@@ -588,8 +588,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1195,
-        "popularity": 1656.617,
+        "votes": 1227,
+        "popularity": 1550.8083,
         "genreIds": [
           878,
           28,
@@ -608,8 +608,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2357,
-        "popularity": 879.0771,
+        "votes": 2372,
+        "popularity": 886.9314,
         "genreIds": [
           12,
           28,
@@ -628,8 +628,8 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22524,
-        "popularity": 569.232,
+        "votes": 22529,
+        "popularity": 565.3864,
         "genreIds": [
           28,
           12,
@@ -648,8 +648,8 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1639,
-        "popularity": 445.6703,
+        "votes": 1652,
+        "popularity": 469.1073,
         "genreIds": [
           28,
           12,
@@ -668,8 +668,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4377,
-        "popularity": 342.0336,
+        "votes": 4390,
+        "popularity": 314.1366,
         "genreIds": [
           27,
           53
@@ -687,8 +687,8 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2478,
-        "popularity": 335.8522,
+        "votes": 2488,
+        "popularity": 316.3813,
         "genreIds": [
           878,
           53
@@ -706,8 +706,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 779,
-        "popularity": 310.9708,
+        "votes": 781,
+        "popularity": 303.9425,
         "genreIds": [
           16,
           10751,
@@ -727,8 +727,8 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 167,
-        "popularity": 310.7184,
+        "votes": 170,
+        "popularity": 295.4889,
         "genreIds": [
           12,
           18,
@@ -746,9 +746,9 @@
         "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
         "date": "2026-06-03",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 1629,
-        "popularity": 291.6489,
+        "rating": 7.3,
+        "votes": 1639,
+        "popularity": 248.1535,
         "genreIds": [
           28,
           14,
@@ -766,9 +766,9 @@
         "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
         "date": "2026-07-08",
         "year": "2026",
-        "rating": 5.9,
-        "votes": 173,
-        "popularity": 270.5382,
+        "rating": 6,
+        "votes": 175,
+        "popularity": 257.9071,
         "genreIds": [
           10751,
           14,
@@ -789,7 +789,7 @@
         "year": "2026",
         "rating": 6.4,
         "votes": 264,
-        "popularity": 266.6965,
+        "popularity": 256.7713,
         "genreIds": [
           12,
           16,
@@ -810,8 +810,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.5,
-        "votes": 489,
-        "popularity": 261.8327,
+        "votes": 496,
+        "popularity": 238.6089,
         "genreIds": [
           27,
           53
@@ -829,8 +829,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2574,
-        "popularity": 219.8564,
+        "votes": 2581,
+        "popularity": 202.8408,
         "genreIds": [
           27,
           9648,
@@ -849,8 +849,8 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 426,
-        "popularity": 216.834,
+        "votes": 429,
+        "popularity": 227.8266,
         "genreIds": [
           28,
           27,
@@ -869,12 +869,32 @@
         "date": "2017-07-05",
         "year": "2017",
         "rating": 7.3,
-        "votes": 23518,
-        "popularity": 215.1899,
+        "votes": 23523,
+        "popularity": 215.6988,
         "genreIds": [
           28,
           12,
           878
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1698863,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Based on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.",
+        "poster": "/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+        "backdrop": "/rOIaKlAX0SeNC25dFbM0y1mFsH6.jpg",
+        "date": "2026-07-03",
+        "year": "2026",
+        "rating": 6.2,
+        "votes": 9,
+        "popularity": 202.5261,
+        "genreIds": [
+          12,
+          14,
+          28
         ],
         "lang": "en"
       },
@@ -889,8 +909,8 @@
         "date": "2002-05-01",
         "year": "2002",
         "rating": 7.3,
-        "votes": 21042,
-        "popularity": 196.2912,
+        "votes": 21046,
+        "popularity": 190.5737,
         "genreIds": [
           28,
           878
@@ -908,8 +928,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 715,
-        "popularity": 194.6378,
+        "votes": 720,
+        "popularity": 182.6629,
         "genreIds": [
           16,
           28,
@@ -929,8 +949,8 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 677,
-        "popularity": 192.6336,
+        "votes": 711,
+        "popularity": 203.6299,
         "genreIds": [
           27,
           53
@@ -948,29 +968,10 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 6.5,
-        "votes": 1496,
-        "popularity": 191.2966,
+        "votes": 1504,
+        "popularity": 186.436,
         "genreIds": [
           35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1564614,
-        "type": "movie",
-        "title": "Leviticus",
-        "originalTitle": "Leviticus",
-        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
-        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 150,
-        "popularity": 159.9202,
-        "genreIds": [
-          27,
-          10749
         ],
         "lang": "en"
       }
@@ -2957,8 +2958,8 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6861,
-        "popularity": 326.2501,
+        "votes": 6864,
+        "popularity": 354.2155,
         "genreIds": [
           10765,
           18,
@@ -2977,8 +2978,8 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1301,
-        "popularity": 243.8309,
+        "votes": 1303,
+        "popularity": 300.8873,
         "genreIds": [
           18,
           10768
@@ -2997,7 +2998,7 @@
         "year": "2023",
         "rating": 8.2,
         "votes": 2385,
-        "popularity": 179.1034,
+        "popularity": 238.3357,
         "genreIds": [
           10765,
           18
@@ -3016,7 +3017,7 @@
         "year": "2021",
         "rating": 8.5,
         "votes": 1634,
-        "popularity": 149.1897,
+        "popularity": 146.0858,
         "genreIds": [
           10759,
           16,
@@ -3036,7 +3037,7 @@
         "year": "2022",
         "rating": 8.1,
         "votes": 2998,
-        "popularity": 147.5802,
+        "popularity": 174.338,
         "genreIds": [
           10759,
           18,
@@ -3056,7 +3057,7 @@
         "year": "2009",
         "rating": 5,
         "votes": 87,
-        "popularity": 147.0535,
+        "popularity": 182.999,
         "genreIds": [
           10767,
           35
@@ -3075,7 +3076,7 @@
         "year": "2020",
         "rating": 8.3,
         "votes": 2505,
-        "popularity": 142.8336,
+        "popularity": 140.322,
         "genreIds": [
           18,
           35
@@ -3094,7 +3095,7 @@
         "year": "1992",
         "rating": 5.5,
         "votes": 48,
-        "popularity": 136.0554,
+        "popularity": 106.8534,
         "genreIds": [
           18,
           10766
@@ -3113,12 +3114,31 @@
         "year": "2014",
         "rating": 5.8,
         "votes": 382,
-        "popularity": 130.3616,
+        "popularity": 166.9347,
         "genreIds": [
           35,
           10767
         ],
         "lang": "en"
+      },
+      {
+        "id": 261471,
+        "type": "tv",
+        "title": "Stand-up Comedy",
+        "originalTitle": "脱口秀和Ta的朋友们",
+        "overview": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
+        "poster": "/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
+        "backdrop": "/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
+        "date": "2024-08-20",
+        "year": "2024",
+        "rating": 5.8,
+        "votes": 4,
+        "popularity": 123.301,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "zh"
       },
       {
         "id": 91555,
@@ -3132,7 +3152,7 @@
         "year": "2019",
         "rating": 8,
         "votes": 86,
-        "popularity": 116.3146,
+        "popularity": 106.0334,
         "genreIds": [
           10759,
           18
@@ -3150,8 +3170,8 @@
         "date": "2004-10-05",
         "year": "2004",
         "rating": 8.4,
-        "votes": 2205,
-        "popularity": 114.2729,
+        "votes": 2206,
+        "popularity": 127.9272,
         "genreIds": [
           10759,
           16,
@@ -3171,7 +3191,7 @@
         "year": "1999",
         "rating": 8.4,
         "votes": 3831,
-        "popularity": 110.4423,
+        "popularity": 115.2912,
         "genreIds": [
           16,
           35,
@@ -3191,7 +3211,7 @@
         "year": "1971",
         "rating": 6.4,
         "votes": 104,
-        "popularity": 106.861,
+        "popularity": 113.7127,
         "genreIds": [
           10759,
           10765,
@@ -3211,7 +3231,7 @@
         "year": "2024",
         "rating": 8.7,
         "votes": 822,
-        "popularity": 105.3449,
+        "popularity": 98.5697,
         "genreIds": [
           16,
           10759,
@@ -3231,7 +3251,7 @@
         "year": "2023",
         "rating": 8.2,
         "votes": 40,
-        "popularity": 101.2836,
+        "popularity": 106.3371,
         "genreIds": [
           16,
           18,
@@ -3251,7 +3271,7 @@
         "year": "2010",
         "rating": 8.2,
         "votes": 214,
-        "popularity": 97.837,
+        "popularity": 107.3401,
         "genreIds": [
           35,
           10764
@@ -3270,7 +3290,7 @@
         "year": "2026",
         "rating": 7.4,
         "votes": 123,
-        "popularity": 95.8977,
+        "popularity": 103.1678,
         "genreIds": [
           18,
           80
@@ -3289,7 +3309,7 @@
         "year": "1993",
         "rating": 6.8,
         "votes": 367,
-        "popularity": 89.3726,
+        "popularity": 92.934,
         "genreIds": [
           10764
         ],
@@ -3307,30 +3327,12 @@
         "year": "1999",
         "rating": 4.2,
         "votes": 23,
-        "popularity": 87.524,
+        "popularity": 65.5096,
         "genreIds": [
           10766,
           18
         ],
         "lang": "fi"
-      },
-      {
-        "id": 206559,
-        "type": "tv",
-        "title": "Binnelanders",
-        "originalTitle": "Binnelanders",
-        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-        "date": "2005-10-13",
-        "year": "2005",
-        "rating": 5.5,
-        "votes": 111,
-        "popularity": 86.5814,
-        "genreIds": [
-          10766
-        ],
-        "lang": "af"
       }
     ],
     "animeTv": [
