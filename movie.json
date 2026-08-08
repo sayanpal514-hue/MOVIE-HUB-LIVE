@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1223,
+        "votes": 1226,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2371,
+        "votes": 2372,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -54,8 +54,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 62,
+        "rating": 6,
+        "votes": 65,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -76,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 707,
+        "votes": 708,
         "popularity": 203.6299,
         "genreIds": [
           27,
@@ -96,7 +96,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4385,
+        "votes": 4387,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -116,7 +116,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1648,
+        "votes": 1651,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -125,26 +125,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2385,
-        "popularity": 238.3357,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -165,6 +145,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2385,
+        "popularity": 238.3357,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -178,8 +178,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 62,
+        "rating": 6,
+        "votes": 65,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -200,7 +200,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1223,
+        "votes": 1226,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -221,7 +221,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2371,
+        "votes": 2372,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -241,8 +241,8 @@
         "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
         "date": "2026-08-07",
         "year": "2026",
-        "rating": 8,
-        "votes": 2,
+        "rating": 8.3,
+        "votes": 3,
         "popularity": 87.5065,
         "genreIds": [
           18,
@@ -261,8 +261,8 @@
         "backdrop": "/mGcCJvT8YYvf205kYvaTM3QzB8k.jpg",
         "date": "2026-03-17",
         "year": "2026",
-        "rating": 6.1,
-        "votes": 19,
+        "rating": 5.8,
+        "votes": 20,
         "popularity": 50.4589,
         "genreIds": [
           28,
@@ -313,6 +313,26 @@
         "iframe": "https://peachify.top/embed/tv/300480?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 710,
+        "popularity": 203.6299,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -323,7 +343,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4385,
+        "votes": 4388,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -353,26 +373,6 @@
         "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 707,
-        "popularity": 203.6299,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1081003,
         "type": "movie",
         "title": "Supergirl",
@@ -383,7 +383,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1648,
+        "votes": 1651,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -436,6 +436,27 @@
         "iframe": "https://peachify.top/embed/tv/220074?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 289324,
+        "type": "tv",
+        "title": "Star Wars: Visions Presents - The Ninth Jedi",
+        "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
+        "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+        "date": "2026-08-05",
+        "year": "2026",
+        "rating": 7,
+        "votes": 10,
+        "popularity": 49.3728,
+        "genreIds": [
+          16,
+          10765,
+          10759
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 203744,
         "type": "tv",
         "title": "Sugar",
@@ -476,32 +497,11 @@
         "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 289324,
-        "type": "tv",
-        "title": "Star Wars: Visions Presents - The Ninth Jedi",
-        "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
-        "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
-        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
-        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 7,
-        "votes": 10,
-        "popularity": 49.3728,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 284753,
         "type": "tv",
-        "title": "Operation Safed Sagar",
+        "title": "Operation Safed Sagar: The Highest Air Force Mission",
         "originalTitle": "ऑपरेशन सफ़ेद सागर",
-        "overview": "A squadron of Indian Air Force pilots push beyond their limits to attempt a daring and dangerous mission.",
+        "overview": "As the Kargil War erupts between India and Pakistan, the Golden Arrows squadron of the Air Force takes flight on a dangerous mission behind enemy lines.",
         "poster": "/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
         "backdrop": "/bKvEIOHJ2UpK6NhF86n36dOmfBY.jpg",
         "date": "2026-08-07",
@@ -565,7 +565,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2579,
+        "votes": 2581,
         "popularity": 202.8408,
         "genreIds": [
           27,
@@ -2178,8 +2178,8 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6860,
-        "popularity": 326.2501,
+        "votes": 6862,
+        "popularity": 354.2155,
         "genreIds": [
           10765,
           18,
@@ -2199,7 +2199,7 @@
         "year": "2023",
         "rating": 6.2,
         "votes": 26,
-        "popularity": 317.9514,
+        "popularity": 311.8167,
         "genreIds": [
           16
         ],
@@ -2216,8 +2216,8 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4514,
-        "popularity": 282.3209,
+        "votes": 4517,
+        "popularity": 325.0704,
         "genreIds": [
           80,
           18,
@@ -2237,7 +2237,7 @@
         "year": "1999",
         "rating": 8,
         "votes": 4309,
-        "popularity": 266.8222,
+        "popularity": 261.8544,
         "genreIds": [
           80,
           18,
@@ -2257,7 +2257,7 @@
         "year": "2018",
         "rating": 8.5,
         "votes": 3443,
-        "popularity": 250.4278,
+        "popularity": 251.2609,
         "genreIds": [
           80,
           18,
@@ -2276,8 +2276,8 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1301,
-        "popularity": 243.8309,
+        "votes": 1302,
+        "popularity": 300.8873,
         "genreIds": [
           18,
           10768
@@ -2296,7 +2296,7 @@
         "year": "2005",
         "rating": 5.6,
         "votes": 10,
-        "popularity": 241.5848,
+        "popularity": 384.1987,
         "genreIds": [
           10764
         ],
@@ -2314,7 +2314,7 @@
         "year": "2015",
         "rating": 8.1,
         "votes": 4635,
-        "popularity": 217.7688,
+        "popularity": 214.7732,
         "genreIds": [
           10759,
           16,
@@ -2333,8 +2333,8 @@
         "date": "2013-12-02",
         "year": "2013",
         "rating": 8.7,
-        "votes": 11240,
-        "popularity": 216.1674,
+        "votes": 11241,
+        "popularity": 210.6103,
         "genreIds": [
           16,
           35,
@@ -2355,7 +2355,7 @@
         "year": "2005",
         "rating": 8.2,
         "votes": 10999,
-        "popularity": 207.8884,
+        "popularity": 251.1428,
         "genreIds": [
           18
         ],
@@ -2372,8 +2372,8 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18316,
-        "popularity": 191.6317,
+        "votes": 18319,
+        "popularity": 173.2887,
         "genreIds": [
           18,
           80
@@ -2392,7 +2392,7 @@
         "year": "1989",
         "rating": 8,
         "votes": 10912,
-        "popularity": 188.2589,
+        "popularity": 199.8326,
         "genreIds": [
           16,
           35
@@ -2411,7 +2411,7 @@
         "year": "1990",
         "rating": 7.3,
         "votes": 705,
-        "popularity": 181.2633,
+        "popularity": 213.5947,
         "genreIds": [
           80,
           18
@@ -2430,7 +2430,7 @@
         "year": "2023",
         "rating": 8.2,
         "votes": 2385,
-        "popularity": 179.1034,
+        "popularity": 238.3357,
         "genreIds": [
           10765,
           18
@@ -2449,7 +2449,7 @@
         "year": "2005",
         "rating": 8.3,
         "votes": 4143,
-        "popularity": 179.0881,
+        "popularity": 179.2104,
         "genreIds": [
           80,
           18,
@@ -2469,7 +2469,7 @@
         "year": "2015",
         "rating": 6.1,
         "votes": 359,
-        "popularity": 177.8906,
+        "popularity": 177.4052,
         "genreIds": [
           35,
           10767
@@ -2488,7 +2488,7 @@
         "year": "2005",
         "rating": 8.3,
         "votes": 8582,
-        "popularity": 173.7816,
+        "popularity": 204.9831,
         "genreIds": [
           18,
           9648,
@@ -2508,7 +2508,7 @@
         "year": "2003",
         "rating": 7.6,
         "votes": 2543,
-        "popularity": 169.8094,
+        "popularity": 203.5722,
         "genreIds": [
           80,
           18,
@@ -2528,7 +2528,7 @@
         "year": "1994",
         "rating": 6.8,
         "votes": 4,
-        "popularity": 168.17,
+        "popularity": 62.0674,
         "genreIds": [
           99
         ],
@@ -2545,8 +2545,8 @@
         "date": "2022-02-20",
         "year": "2022",
         "rating": 8.5,
-        "votes": 4118,
-        "popularity": 167.5114,
+        "votes": 4121,
+        "popularity": 187.0655,
         "genreIds": [
           9648,
           18,
