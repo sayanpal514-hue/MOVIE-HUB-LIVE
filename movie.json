@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1261,
+        "votes": 1262,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2402,
+        "votes": 2408,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.1,
-        "votes": 92,
+        "votes": 100,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -76,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 728,
+        "votes": 733,
         "popularity": 203.6299,
         "genreIds": [
           27
@@ -95,7 +95,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4402,
+        "votes": 4404,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -103,26 +103,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2506,
-        "popularity": 140.322,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -135,7 +115,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1667,
+        "votes": 1669,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -156,7 +136,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2387,
+        "votes": 2388,
         "popularity": 238.3357,
         "genreIds": [
           10765,
@@ -164,6 +144,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2506,
+        "popularity": 140.322,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -987,7 +987,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 722,
+        "votes": 726,
         "popularity": 182.6629,
         "genreIds": [
           16,
@@ -1027,7 +1027,7 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2070,
+        "votes": 2071,
         "popularity": 63.3224,
         "genreIds": [
           12,
@@ -1048,7 +1048,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 30956,
+        "votes": 30961,
         "popularity": 73.7518,
         "genreIds": [
           18,
@@ -1067,7 +1067,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 3901,
+        "votes": 3903,
         "popularity": 102.3912,
         "genreIds": [
           10402,
@@ -1086,7 +1086,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23290,
+        "votes": 23294,
         "popularity": 56.5175,
         "genreIds": [
           18,
@@ -1105,7 +1105,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6841,
+        "votes": 6848,
         "popularity": 147.8849,
         "genreIds": [
           878,
@@ -1124,7 +1124,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.6,
-        "votes": 1693,
+        "votes": 1694,
         "popularity": 149.8577,
         "genreIds": [
           16,
@@ -1132,6 +1132,25 @@
           14
         ],
         "lang": "ja"
+      },
+      {
+        "id": 1232449,
+        "type": "movie",
+        "title": "Young Hearts",
+        "originalTitle": "Young Hearts",
+        "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+        "poster": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+        "backdrop": "/3HaqAPZ0C8n6Hd5T86U53yJlBAN.jpg",
+        "date": "2024-10-26",
+        "year": "2024",
+        "rating": 8.6,
+        "votes": 301,
+        "popularity": 8.9733,
+        "genreIds": [
+          18,
+          10749
+        ],
+        "lang": "nl"
       },
       {
         "id": 240,
@@ -1144,7 +1163,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14138,
+        "votes": 14141,
         "popularity": 36.1511,
         "genreIds": [
           18,
@@ -1163,7 +1182,7 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 17704,
+        "votes": 17706,
         "popularity": 32.1206,
         "genreIds": [
           18,
@@ -1183,7 +1202,7 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10200,
+        "votes": 10202,
         "popularity": 30.0175,
         "genreIds": [
           18
@@ -1201,7 +1220,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36306,
+        "votes": 36311,
         "popularity": 61.043,
         "genreIds": [
           28,
@@ -1221,7 +1240,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18651,
+        "votes": 18655,
         "popularity": 34.0942,
         "genreIds": [
           16,
@@ -1241,7 +1260,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1087,
+        "votes": 1088,
         "popularity": 35.6299,
         "genreIds": [
           16,
@@ -1282,7 +1301,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19563,
+        "votes": 19564,
         "popularity": 36.3739,
         "genreIds": [
           14,
@@ -1302,7 +1321,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27022,
+        "votes": 27027,
         "popularity": 55.9472,
         "genreIds": [
           12,
@@ -1322,7 +1341,7 @@
         "date": "2019-05-30",
         "year": "2019",
         "rating": 8.5,
-        "votes": 21028,
+        "votes": 21032,
         "popularity": 40.4083,
         "genreIds": [
           35,
@@ -1342,7 +1361,7 @@
         "date": "2014-11-05",
         "year": "2014",
         "rating": 8.5,
-        "votes": 40642,
+        "votes": 40646,
         "popularity": 70.5028,
         "genreIds": [
           12,
@@ -1350,26 +1369,6 @@
           878
         ],
         "lang": "en"
-      },
-      {
-        "id": 372058,
-        "type": "movie",
-        "title": "Your Name.",
-        "originalTitle": "君の名は。",
-        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-        "poster": "/q719jXXEzOoYaps6babgKnONONX.jpg",
-        "backdrop": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
-        "date": "2016-07-01",
-        "year": "2016",
-        "rating": 8.5,
-        "votes": 12803,
-        "popularity": 31.6605,
-        "genreIds": [
-          16,
-          10749,
-          18
-        ],
-        "lang": "ja"
       }
     ],
     "nowPlaying": [
@@ -2607,7 +2606,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18320,
+        "votes": 18321,
         "popularity": 173.2887,
         "genreIds": [
           18,
@@ -2644,7 +2643,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 8.9,
-        "votes": 237,
+        "votes": 238,
         "popularity": 25.6041,
         "genreIds": [
           10759,
@@ -2706,7 +2705,7 @@
         "date": "2005-02-21",
         "year": "2005",
         "rating": 8.8,
-        "votes": 5021,
+        "votes": 5022,
         "popularity": 33.64,
         "genreIds": [
           16,
@@ -2762,30 +2761,12 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.8,
-        "votes": 6080,
+        "votes": 6081,
         "popularity": 36.1659,
         "genreIds": [
           16,
           10759,
           10765
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 301507,
-        "type": "tv",
-        "title": "Heated Rivalry",
-        "originalTitle": "Heated Rivalry",
-        "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-        "poster": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
-        "backdrop": "/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
-        "date": "2025-11-28",
-        "year": "2025",
-        "rating": 8.7,
-        "votes": 566,
-        "popularity": 34.2464,
-        "genreIds": [
-          18
         ],
         "lang": "en"
       },
@@ -2808,6 +2789,24 @@
           16
         ],
         "lang": "ja"
+      },
+      {
+        "id": 301507,
+        "type": "tv",
+        "title": "Heated Rivalry",
+        "originalTitle": "Heated Rivalry",
+        "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+        "poster": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+        "backdrop": "/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
+        "date": "2025-11-28",
+        "year": "2025",
+        "rating": 8.7,
+        "votes": 567,
+        "popularity": 34.2464,
+        "genreIds": [
+          18
+        ],
+        "lang": "en"
       },
       {
         "id": 250307,
@@ -2896,7 +2895,7 @@
         "date": "2022-11-18",
         "year": "2022",
         "rating": 8.7,
-        "votes": 500,
+        "votes": 501,
         "popularity": 53.8919,
         "genreIds": [
           10759,
@@ -2935,7 +2934,7 @@
         "date": "2013-12-02",
         "year": "2013",
         "rating": 8.7,
-        "votes": 11242,
+        "votes": 11243,
         "popularity": 210.6103,
         "genreIds": [
           16,
@@ -2954,7 +2953,7 @@
         "originalTitle": "House of the Dragon",
         "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
         "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "backdrop": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
@@ -2997,11 +2996,69 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2385,
+        "votes": 2386,
         "popularity": 238.3357,
         "genreIds": [
           10765,
           18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 22980,
+        "type": "tv",
+        "title": "Watch What Happens Live with Andy Cohen",
+        "originalTitle": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+        "date": "2009-07-16",
+        "year": "2009",
+        "rating": 5,
+        "votes": 87,
+        "popularity": 182.999,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/JYgqp8g2kI3SEus9XBDSHukfBN.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 2999,
+        "popularity": 174.338,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 59941,
+        "type": "tv",
+        "title": "The Tonight Show Starring Jimmy Fallon",
+        "originalTitle": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+        "poster": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+        "backdrop": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "date": "2014-02-17",
+        "year": "2014",
+        "rating": 5.8,
+        "votes": 382,
+        "popularity": 166.9347,
+        "genreIds": [
+          35,
+          10767
         ],
         "lang": "en"
       },
@@ -3026,45 +3083,6 @@
         "lang": "ja"
       },
       {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/JYgqp8g2kI3SEus9XBDSHukfBN.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 2998,
-        "popularity": 174.338,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 22980,
-        "type": "tv",
-        "title": "Watch What Happens Live with Andy Cohen",
-        "originalTitle": "Watch What Happens Live with Andy Cohen",
-        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-        "date": "2009-07-16",
-        "year": "2009",
-        "rating": 5,
-        "votes": 87,
-        "popularity": 182.999,
-        "genreIds": [
-          10767,
-          35
-        ],
-        "lang": "en"
-      },
-      {
         "id": 97546,
         "type": "tv",
         "title": "Ted Lasso",
@@ -3080,82 +3098,6 @@
         "genreIds": [
           18,
           35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 13945,
-        "type": "tv",
-        "title": "Gute Zeiten, schlechte Zeiten",
-        "originalTitle": "Gute Zeiten, schlechte Zeiten",
-        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-        "poster": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-        "backdrop": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-        "date": "1992-05-11",
-        "year": "1992",
-        "rating": 5.5,
-        "votes": 48,
-        "popularity": 106.8534,
-        "genreIds": [
-          18,
-          10766
-        ],
-        "lang": "de"
-      },
-      {
-        "id": 59941,
-        "type": "tv",
-        "title": "The Tonight Show Starring Jimmy Fallon",
-        "originalTitle": "The Tonight Show Starring Jimmy Fallon",
-        "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-        "poster": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-        "backdrop": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-        "date": "2014-02-17",
-        "year": "2014",
-        "rating": 5.8,
-        "votes": 382,
-        "popularity": 166.9347,
-        "genreIds": [
-          35,
-          10767
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 261471,
-        "type": "tv",
-        "title": "Stand-up Comedy",
-        "originalTitle": "脱口秀和Ta的朋友们",
-        "overview": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
-        "poster": "/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
-        "backdrop": "/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
-        "date": "2024-08-20",
-        "year": "2024",
-        "rating": 5.8,
-        "votes": 4,
-        "popularity": 123.301,
-        "genreIds": [
-          10767,
-          35
-        ],
-        "lang": "zh"
-      },
-      {
-        "id": 91555,
-        "type": "tv",
-        "title": "All Elite Wrestling: Dynamite",
-        "originalTitle": "All Elite Wrestling: Dynamite",
-        "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
-        "poster": "/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
-        "backdrop": "/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
-        "date": "2019-10-02",
-        "year": "2019",
-        "rating": 8,
-        "votes": 86,
-        "popularity": 106.0334,
-        "genreIds": [
-          10759,
-          18
         ],
         "lang": "en"
       },
@@ -3178,6 +3120,25 @@
           10765
         ],
         "lang": "ja"
+      },
+      {
+        "id": 261471,
+        "type": "tv",
+        "title": "Stand-up Comedy",
+        "originalTitle": "脱口秀和Ta的朋友们",
+        "overview": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
+        "poster": "/vFJYt5Pi5Pjc3CKU58oonfXRCio.jpg",
+        "backdrop": "/sGK1f1Y2dnExqpjRnsHpI4ZWqJr.jpg",
+        "date": "2024-08-20",
+        "year": "2024",
+        "rating": 5.8,
+        "votes": 4,
+        "popularity": 123.301,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "zh"
       },
       {
         "id": 615,
@@ -3220,24 +3181,42 @@
         "lang": "ja"
       },
       {
-        "id": 138502,
+        "id": 33238,
         "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 822,
-        "popularity": 98.5697,
+        "title": "Running Man",
+        "originalTitle": "런닝맨",
+        "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+        "poster": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+        "backdrop": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+        "date": "2010-07-11",
+        "year": "2010",
+        "rating": 8.2,
+        "votes": 214,
+        "popularity": 107.3401,
         "genreIds": [
-          16,
-          10759,
-          10765
+          35,
+          10764
         ],
-        "lang": "en"
+        "lang": "ko"
+      },
+      {
+        "id": 13945,
+        "type": "tv",
+        "title": "Gute Zeiten, schlechte Zeiten",
+        "originalTitle": "Gute Zeiten, schlechte Zeiten",
+        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+        "poster": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+        "backdrop": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+        "date": "1992-05-11",
+        "year": "1992",
+        "rating": 5.5,
+        "votes": 48,
+        "popularity": 106.8534,
+        "genreIds": [
+          18,
+          10766
+        ],
+        "lang": "de"
       },
       {
         "id": 223911,
@@ -3260,23 +3239,45 @@
         "lang": "zh"
       },
       {
-        "id": 33238,
+        "id": 91555,
         "type": "tv",
-        "title": "Running Man",
-        "originalTitle": "런닝맨",
-        "overview": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-        "poster": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-        "backdrop": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-        "date": "2010-07-11",
-        "year": "2010",
-        "rating": 8.2,
-        "votes": 214,
-        "popularity": 107.3401,
+        "title": "All Elite Wrestling: Dynamite",
+        "originalTitle": "All Elite Wrestling: Dynamite",
+        "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+        "poster": "/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+        "backdrop": "/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+        "date": "2019-10-02",
+        "year": "2019",
+        "rating": 8,
+        "votes": 86,
+        "popularity": 106.0334,
         "genreIds": [
-          35,
-          10764
+          10759,
+          18
         ],
-        "lang": "ko"
+        "lang": "en"
+      },
+      {
+        "id": 45140,
+        "type": "tv",
+        "title": "Teen Titans Go!",
+        "originalTitle": "Teen Titans Go!",
+        "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+        "poster": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "backdrop": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+        "date": "2013-04-23",
+        "year": "2013",
+        "rating": 6.4,
+        "votes": 717,
+        "popularity": 104.7023,
+        "genreIds": [
+          16,
+          10759,
+          35,
+          10751,
+          10765
+        ],
+        "lang": "en"
       },
       {
         "id": 278624,
@@ -3298,41 +3299,43 @@
         "lang": "en"
       },
       {
-        "id": 4656,
+        "id": 138502,
         "type": "tv",
-        "title": "Raw",
-        "originalTitle": "Raw",
-        "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-        "poster": "/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
-        "backdrop": "/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
-        "date": "1993-01-11",
-        "year": "1993",
-        "rating": 6.8,
-        "votes": 367,
-        "popularity": 92.934,
+        "title": "X-Men '97",
+        "originalTitle": "X-Men '97",
+        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+        "date": "2024-03-20",
+        "year": "2024",
+        "rating": 8.7,
+        "votes": 822,
+        "popularity": 98.5697,
         "genreIds": [
-          10764
+          16,
+          10759,
+          10765
         ],
         "lang": "en"
       },
       {
-        "id": 14610,
+        "id": 57532,
         "type": "tv",
-        "title": "Secret Lives",
-        "originalTitle": "Salatut elämät",
-        "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-        "poster": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-        "backdrop": "/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-        "date": "1999-01-25",
-        "year": "1999",
-        "rating": 4.2,
-        "votes": 23,
-        "popularity": 65.5096,
+        "title": "PAW Patrol",
+        "originalTitle": "PAW Patrol",
+        "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+        "poster": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "backdrop": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+        "date": "2013-08-12",
+        "year": "2013",
+        "rating": 7,
+        "votes": 816,
+        "popularity": 95.4321,
         "genreIds": [
-          10766,
-          18
+          16,
+          10762
         ],
-        "lang": "fi"
+        "lang": "en"
       }
     ],
     "animeTv": [
