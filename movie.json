@@ -590,7 +590,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1251,
+        "votes": 1279,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -610,7 +610,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2391,
+        "votes": 2413,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -630,7 +630,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22536,
+        "votes": 22540,
         "popularity": 565.3864,
         "genreIds": [
           28,
@@ -650,31 +650,12 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.8,
-        "votes": 1660,
+        "votes": 1673,
         "popularity": 469.1073,
         "genreIds": [
           28,
           12,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4398,
-        "popularity": 314.1366,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -689,10 +670,29 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2498,
+        "votes": 2513,
         "popularity": 316.3813,
         "genreIds": [
           878,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4406,
+        "popularity": 314.1366,
+        "genreIds": [
+          27,
           53
         ],
         "lang": "en"
@@ -708,7 +708,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.4,
-        "votes": 782,
+        "votes": 788,
         "popularity": 303.9425,
         "genreIds": [
           16,
@@ -729,32 +729,12 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.5,
-        "votes": 171,
+        "votes": 172,
         "popularity": 295.4889,
         "genreIds": [
           12,
           18,
           28
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 454639,
-        "type": "movie",
-        "title": "Masters of the Universe",
-        "originalTitle": "Masters of the Universe",
-        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 1647,
-        "popularity": 248.1535,
-        "genreIds": [
-          28,
-          14,
-          878
         ],
         "lang": "en"
       },
@@ -769,7 +749,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6,
-        "votes": 176,
+        "votes": 177,
         "popularity": 257.9071,
         "genreIds": [
           10751,
@@ -790,7 +770,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 264,
+        "votes": 266,
         "popularity": 256.7713,
         "genreIds": [
           12,
@@ -798,6 +778,26 @@
           35,
           10751,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 454639,
+        "type": "movie",
+        "title": "Masters of the Universe",
+        "originalTitle": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdrop": "/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 1655,
+        "popularity": 248.1535,
+        "genreIds": [
+          28,
+          14,
+          878
         ],
         "lang": "en"
       },
@@ -812,31 +812,11 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.5,
-        "votes": 498,
+        "votes": 503,
         "popularity": 238.6089,
         "genreIds": [
           27,
           53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2582,
-        "popularity": 202.8408,
-        "genreIds": [
-          27,
-          9648,
-          878
         ],
         "lang": "en"
       },
@@ -851,7 +831,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 432,
+        "votes": 433,
         "popularity": 227.8266,
         "genreIds": [
           28,
@@ -871,7 +851,7 @@
         "date": "2017-07-05",
         "year": "2017",
         "rating": 7.3,
-        "votes": 23526,
+        "votes": 23531,
         "popularity": 215.6988,
         "genreIds": [
           28,
@@ -891,10 +871,30 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 723,
+        "votes": 737,
         "popularity": 203.6299,
         "genreIds": [
           27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2587,
+        "popularity": 202.8408,
+        "genreIds": [
+          27,
+          9648,
+          878
         ],
         "lang": "en"
       },
@@ -919,23 +919,21 @@
         "lang": "en"
       },
       {
-        "id": 980431,
+        "id": 557,
         "type": "movie",
-        "title": "Avatar Aang: The Last Airbender",
-        "originalTitle": "Avatar Aang: The Last Airbender",
-        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "backdrop": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-        "date": "2026-07-24",
-        "year": "2026",
-        "rating": 9.3,
-        "votes": 723,
-        "popularity": 182.6629,
+        "title": "Spider-Man",
+        "originalTitle": "Spider-Man",
+        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+        "poster": "/nXdAh5vUwERL4WGVMaee8RoDEAS.jpg",
+        "backdrop": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+        "date": "2002-05-01",
+        "year": "2002",
+        "rating": 7.3,
+        "votes": 21052,
+        "popularity": 190.5737,
         "genreIds": [
-          16,
           28,
-          12,
-          14
+          878
         ],
         "lang": "en"
       },
@@ -950,7 +948,7 @@
         "date": "2026-06-03",
         "year": "2026",
         "rating": 6.5,
-        "votes": 1506,
+        "votes": 1507,
         "popularity": 186.436,
         "genreIds": [
           35
@@ -958,21 +956,23 @@
         "lang": "en"
       },
       {
-        "id": 557,
+        "id": 980431,
         "type": "movie",
-        "title": "Spider-Man",
-        "originalTitle": "Spider-Man",
-        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-        "poster": "/nXdAh5vUwERL4WGVMaee8RoDEAS.jpg",
-        "backdrop": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
-        "date": "2002-05-01",
-        "year": "2002",
-        "rating": 7.3,
-        "votes": 21049,
-        "popularity": 190.5737,
+        "title": "Avatar Aang: The Last Airbender",
+        "originalTitle": "Avatar Aang: The Last Airbender",
+        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+        "backdrop": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+        "date": "2026-07-24",
+        "year": "2026",
+        "rating": 9.3,
+        "votes": 728,
+        "popularity": 182.6629,
         "genreIds": [
+          16,
           28,
-          878
+          12,
+          14
         ],
         "lang": "en"
       }
