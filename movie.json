@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1251,
+        "votes": 1254,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2392,
+        "votes": 2397,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -43,6 +43,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6,
+        "votes": 84,
+        "popularity": 143.8808,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1212763,
@@ -55,54 +76,13 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 723,
+        "votes": 727,
         "popularity": 203.6299,
         "genreIds": [
           27
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 5.9,
-        "votes": 79,
-        "popularity": 143.8808,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8,
-        "votes": 1303,
-        "popularity": 300.8873,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -115,7 +95,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4398,
+        "votes": 4401,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -125,25 +105,24 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 37854,
+        "id": 97546,
         "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.8,
-        "votes": 5464,
-        "popularity": 50.8802,
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2505,
+        "popularity": 140.322,
         "genreIds": [
-          10759,
-          35,
-          16
+          18,
+          35
         ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -155,8 +134,8 @@
         "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1662,
+        "rating": 6.7,
+        "votes": 1666,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -165,6 +144,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2386,
+        "popularity": 238.3357,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -178,8 +177,8 @@
         "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.9,
-        "votes": 79,
+        "rating": 6,
+        "votes": 84,
         "popularity": 143.8808,
         "genreIds": [
           27,
@@ -200,7 +199,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1252,
+        "votes": 1255,
         "popularity": 1550.8083,
         "genreIds": [
           878,
@@ -221,7 +220,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2395,
+        "votes": 2397,
         "popularity": 886.9314,
         "genreIds": [
           12,
@@ -241,8 +240,8 @@
         "backdrop": "/mGcCJvT8YYvf205kYvaTM3QzB8k.jpg",
         "date": "2026-03-17",
         "year": "2026",
-        "rating": 5.4,
-        "votes": 22,
+        "rating": 5.5,
+        "votes": 23,
         "popularity": 50.4589,
         "genreIds": [
           28,
@@ -323,7 +322,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4399,
+        "votes": 4401,
         "popularity": 314.1366,
         "genreIds": [
           27,
@@ -343,7 +342,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 725,
+        "votes": 727,
         "popularity": 203.6299,
         "genreIds": [
           27
@@ -371,6 +370,26 @@
         "iframe": "https://peachify.top/embed/tv/284753?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2505,
+        "popularity": 140.322,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1081003,
         "type": "movie",
         "title": "Supergirl",
@@ -381,7 +400,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1663,
+        "votes": 1666,
         "popularity": 469.1073,
         "genreIds": [
           28,
@@ -390,47 +409,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.8,
-        "votes": 5464,
-        "popularity": 50.8802,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 298168,
-        "type": "tv",
-        "title": "The Shards",
-        "originalTitle": "The Shards",
-        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 12,
-        "popularity": 89.8383,
-        "genreIds": [
-          18,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 220074,
@@ -455,6 +433,28 @@
         "iframe": "https://peachify.top/embed/tv/220074?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1679730,
+        "type": "movie",
+        "title": "THE RIBBON HERO",
+        "originalTitle": "THE RIBBON HERO リボンヒーロー",
+        "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+        "poster": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+        "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 2.4879,
+        "genreIds": [
+          16,
+          14,
+          18,
+          28
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/movie/1679730?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 203744,
         "type": "tv",
         "title": "Sugar",
@@ -473,65 +473,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8,
-        "votes": 1303,
-        "popularity": 300.8873,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2505,
-        "popularity": 140.322,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 237964,
-        "type": "tv",
-        "title": "Death Inc.",
-        "originalTitle": "Muertos S.L.",
-        "overview": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
-        "poster": "/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
-        "backdrop": "/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
-        "date": "2024-04-04",
-        "year": "2024",
-        "rating": 7.2,
-        "votes": 42,
-        "popularity": 22.5797,
-        "genreIds": [
-          35
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/237964?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 289324,
@@ -553,6 +494,66 @@
         ],
         "lang": "ja",
         "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 298168,
+        "type": "tv",
+        "title": "The Shards",
+        "originalTitle": "The Shards",
+        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+        "date": "2026-08-05",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 12,
+        "popularity": 89.8383,
+        "genreIds": [
+          18,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 237964,
+        "type": "tv",
+        "title": "Death Inc.",
+        "originalTitle": "Muertos S.L.",
+        "overview": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
+        "poster": "/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+        "backdrop": "/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
+        "date": "2024-04-04",
+        "year": "2024",
+        "rating": 7.2,
+        "votes": 42,
+        "popularity": 22.5797,
+        "genreIds": [
+          35
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/237964?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2585,
+        "popularity": 202.8408,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 287620,
