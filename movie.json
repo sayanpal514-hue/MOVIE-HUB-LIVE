@@ -2196,11 +2196,11 @@
         "originalTitle": "House of the Dragon",
         "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
         "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6868,
+        "votes": 6873,
         "popularity": 347.0066,
         "genreIds": [
           10765,
@@ -2317,7 +2317,7 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 10998,
+        "votes": 10999,
         "popularity": 249.5296,
         "genreIds": [
           18
@@ -2452,7 +2452,7 @@
         "date": "2003-09-23",
         "year": "2003",
         "rating": 7.6,
-        "votes": 2543,
+        "votes": 2544,
         "popularity": 201.4422,
         "genreIds": [
           80,
@@ -2490,13 +2490,32 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 10916,
+        "votes": 10918,
         "popularity": 203.8739,
         "genreIds": [
           16,
           35
         ],
         "lang": "en"
+      },
+      {
+        "id": 291496,
+        "type": "tv",
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 8,
+        "popularity": 193.1393,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "ko"
       },
       {
         "id": 1434,
@@ -2528,31 +2547,12 @@
         "date": "2022-02-20",
         "year": "2022",
         "rating": 8.5,
-        "votes": 4120,
+        "votes": 4121,
         "popularity": 185.1812,
         "genreIds": [
           9648,
           18,
           10765
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 22980,
-        "type": "tv",
-        "title": "Watch What Happens Live with Andy Cohen",
-        "originalTitle": "Watch What Happens Live with Andy Cohen",
-        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-        "date": "2009-07-16",
-        "year": "2009",
-        "rating": 5,
-        "votes": 87,
-        "popularity": 167.1354,
-        "genreIds": [
-          10767,
-          35
         ],
         "lang": "en"
       }
