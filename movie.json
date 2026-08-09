@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1395,
+        "votes": 1405,
         "popularity": 1467.2453,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2495,
+        "votes": 2507,
         "popularity": 898.4282,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.6,
-        "votes": 255,
+        "votes": 266,
         "popularity": 290.8148,
         "genreIds": [
           27,
@@ -76,7 +76,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 827,
+        "votes": 834,
         "popularity": 257.5755,
         "genreIds": [
           27
@@ -95,7 +95,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4467,
+        "votes": 4471,
         "popularity": 303.9085,
         "genreIds": [
           27,
@@ -103,26 +103,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2394,
-        "popularity": 236.6381,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 113962,
@@ -155,7 +135,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1716,
+        "votes": 1718,
         "popularity": 420.2912,
         "genreIds": [
           28,
@@ -164,30 +144,29 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2395,
+        "popularity": 236.6381,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 1399,
-        "popularity": 1467.2453,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
       {
         "id": 1284041,
         "type": "movie",
@@ -199,7 +178,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.6,
-        "votes": 257,
+        "votes": 267,
         "popularity": 290.8148,
         "genreIds": [
           27,
@@ -208,6 +187,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 1406,
+        "popularity": 1467.2453,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -220,7 +220,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2497,
+        "votes": 2507,
         "popularity": 898.4282,
         "genreIds": [
           12,
@@ -240,8 +240,8 @@
         "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
         "date": "2026-08-07",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 4,
+        "rating": 6.6,
+        "votes": 5,
         "popularity": 21.1066,
         "genreIds": [
           16,
@@ -263,7 +263,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4467,
+        "votes": 4472,
         "popularity": 303.9085,
         "genreIds": [
           27,
@@ -271,26 +271,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8,
-        "votes": 1309,
-        "popularity": 303.5051,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1212763,
@@ -303,7 +283,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 829,
+        "votes": 834,
         "popularity": 257.5755,
         "genreIds": [
           27
@@ -312,25 +292,24 @@
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 94997,
+        "id": 113962,
         "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6877,
-        "popularity": 347.0066,
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8,
+        "votes": 1310,
+        "popularity": 303.5051,
         "genreIds": [
-          10765,
           18,
-          10759
+          10768
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -343,7 +322,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1716,
+        "votes": 1722,
         "popularity": 420.2912,
         "genreIds": [
           28,
@@ -352,6 +331,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6879,
+        "popularity": 347.0066,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -364,7 +364,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2394,
+        "votes": 2395,
         "popularity": 236.6381,
         "genreIds": [
           10765,
@@ -395,6 +395,27 @@
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2627,
+        "popularity": 204.8987,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 291496,
         "type": "tv",
         "title": "Our Sticky Love",
@@ -415,48 +436,6 @@
         "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2619,
-        "popularity": 204.8987,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1263532,
-        "type": "movie",
-        "title": "Beast Race",
-        "originalTitle": "Corrida dos Bichos",
-        "overview": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
-        "poster": "/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
-        "backdrop": "/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
-        "date": "2026-03-17",
-        "year": "2026",
-        "rating": 6,
-        "votes": 40,
-        "popularity": 89.4695,
-        "genreIds": [
-          28,
-          878,
-          53
-        ],
-        "lang": "pt",
-        "iframe": "https://peachify.top/embed/movie/1263532?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 687163,
         "type": "movie",
         "title": "Project Hail Mary",
@@ -467,7 +446,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6893,
+        "votes": 6896,
         "popularity": 144.9994,
         "genreIds": [
           878,
@@ -475,26 +454,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 300480,
-        "type": "tv",
-        "title": "Ricky Gervais Alley Cats",
-        "originalTitle": "Ricky Gervais Alley Cats",
-        "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
-        "poster": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
-        "backdrop": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 7,
-        "votes": 15,
-        "popularity": 38.5637,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/300480?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 37854,
@@ -518,45 +477,65 @@
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 291350,
-        "type": "tv",
-        "title": "Anna Pigeon",
-        "originalTitle": "Anna Pigeon",
-        "overview": "Anna Pigeon flees city life for the solitude of America's stunning national parks following a devastating loss; while Anna tries to outrun her demons, her focus turns to solving crimes that have taken place within national park grounds.",
-        "poster": "/cA2NyvzIqjeAOXYlxtWcQWGSRZ8.jpg",
-        "backdrop": "/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg",
-        "date": "2026-08-07",
+        "id": 1263532,
+        "type": "movie",
+        "title": "Beast Race",
+        "originalTitle": "Corrida dos Bichos",
+        "overview": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
+        "poster": "/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
+        "backdrop": "/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
+        "date": "2026-03-17",
         "year": "2026",
-        "rating": 3.8,
-        "votes": 4,
-        "popularity": 15.5883,
+        "rating": 6,
+        "votes": 40,
+        "popularity": 89.4695,
         "genreIds": [
-          18,
-          9648,
-          80
+          28,
+          878,
+          53
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/291350?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "pt",
+        "iframe": "https://peachify.top/embed/movie/1263532?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 203744,
+        "id": 300480,
         "type": "tv",
-        "title": "Sugar",
-        "originalTitle": "Sugar",
-        "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-        "poster": "/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-        "backdrop": "/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-        "date": "2024-04-04",
-        "year": "2024",
-        "rating": 7.2,
-        "votes": 348,
-        "popularity": 80.0374,
+        "title": "Ricky Gervais Alley Cats",
+        "originalTitle": "Ricky Gervais Alley Cats",
+        "overview": "Outrageous misadventures run wild as feral cats cause chaos on the streets in this no-holds-barred animated comedy from Ricky Gervais.",
+        "poster": "/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+        "backdrop": "/w7yWr1UM413lOAPt2XS7TVALWrg.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 7,
+        "votes": 15,
+        "popularity": 38.5637,
         "genreIds": [
-          18,
-          9648
+          16,
+          35
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/203744?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/300480?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2509,
+        "popularity": 143.4798,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -569,7 +548,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.4,
-        "votes": 2572,
+        "votes": 2576,
         "popularity": 305.3176,
         "genreIds": [
           878,
@@ -577,6 +556,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 289324,
+        "type": "tv",
+        "title": "Star Wars: Visions Presents - The Ninth Jedi",
+        "originalTitle": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
+        "overview": "Kara and her ragtag Jedi crew seek out to find worthy Jedi to fight against an increasingly powerful warlord.",
+        "poster": "/AthqHRKJFOIbLa459I3D5yHdrQL.jpg",
+        "backdrop": "/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg",
+        "date": "2026-08-05",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 15,
+        "popularity": 50.113,
+        "genreIds": [
+          16,
+          10765,
+          10759
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/289324?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
