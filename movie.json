@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1449,
+        "votes": 1452,
         "popularity": 1401.5146,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2537,
+        "votes": 2542,
         "popularity": 884.5903,
         "genreIds": [
           12,
@@ -43,27 +43,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1739,
-        "popularity": 359.5925,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1284041,
@@ -76,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.7,
-        "votes": 341,
+        "votes": 344,
         "popularity": 353.8834,
         "genreIds": [
           27,
@@ -118,35 +97,13 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 871,
+        "votes": 873,
         "popularity": 236.6118,
         "genreIds": [
           27
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1679730,
-        "type": "movie",
-        "title": "THE RIBBON HERO",
-        "originalTitle": "THE RIBBON HERO リボンヒーロー",
-        "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-        "poster": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-        "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 5,
-        "popularity": 20.2393,
-        "genreIds": [
-          16,
-          14,
-          18,
-          28
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/movie/1679730?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -159,7 +116,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4504,
+        "votes": 4505,
         "popularity": 292.3553,
         "genreIds": [
           27,
@@ -167,6 +124,46 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8,
+        "votes": 1314,
+        "popularity": 332.5688,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2510,
+        "popularity": 145.2921,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -198,11 +195,11 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
         "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1450,
+        "votes": 1458,
         "popularity": 1401.5146,
         "genreIds": [
           878,
@@ -223,7 +220,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2540,
+        "votes": 2545,
         "popularity": 884.5903,
         "genreIds": [
           12,
@@ -232,48 +229,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 342,
-        "popularity": 353.8834,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1719380,
-        "type": "movie",
-        "title": "No Way Home",
-        "originalTitle": "No Way Home",
-        "overview": "Behind every secret lies a greater lie. When an unknown entity appears, reality begins to fracture as long-hidden truths and an ancient conspiracy collide, revealing a mystery that was never meant to be uncovered.",
-        "poster": "/dQuIUweJVXCqUOOizctGRfgy2Ty.jpg",
-        "backdrop": "/oGIV1rN504GBtrNcsOTVwBd3r9K.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 8.1833,
-        "genreIds": [
-          27,
-          12,
-          28
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1719380?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -295,6 +250,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 344,
+        "popularity": 353.8834,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1612018,
@@ -401,27 +377,6 @@
         "iframe": "https://peachify.top/embed/movie/1679730?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1741,
-        "popularity": 359.5925,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 615,
         "type": "tv",
         "title": "Futurama",
@@ -441,25 +396,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 873,
-        "popularity": 236.6118,
-        "genreIds": [
-          27
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 37854,
@@ -483,44 +419,23 @@
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 291496,
-        "type": "tv",
-        "title": "Our Sticky Love",
-        "originalTitle": "이런 엿같은 사랑",
-        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 14,
-        "popularity": 215.5179,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 687163,
+        "id": 1212763,
         "type": "movie",
-        "title": "Project Hail Mary",
-        "originalTitle": "Project Hail Mary",
-        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "date": "2026-03-15",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
         "year": "2026",
-        "rating": 8.7,
-        "votes": 6913,
-        "popularity": 152.9971,
+        "rating": 7.9,
+        "votes": 874,
+        "popularity": 236.6118,
         "genreIds": [
-          878,
-          12
+          27
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 30984,
@@ -564,25 +479,86 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1263532,
+        "id": 1081003,
         "type": "movie",
-        "title": "Beast Race",
-        "originalTitle": "Corrida dos Bichos",
-        "overview": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life.",
-        "poster": "/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
-        "backdrop": "/1WWukZCoavYEofNVRHJqE4t1urW.jpg",
-        "date": "2026-03-17",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.4,
-        "votes": 47,
-        "popularity": 86.2707,
+        "rating": 6.7,
+        "votes": 1742,
+        "popularity": 359.5925,
         "genreIds": [
           28,
-          878,
-          53
+          12,
+          878
         ],
-        "lang": "pt",
-        "iframe": "https://peachify.top/embed/movie/1263532?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 291496,
+        "type": "tv",
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 14,
+        "popularity": 215.5179,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 687163,
+        "type": "movie",
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 6915,
+        "popularity": 152.9971,
+        "genreIds": [
+          878,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2649,
+        "popularity": 205.3477,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1393,7 +1369,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1432,
+        "votes": 1456,
         "popularity": 1401.5146,
         "genreIds": [
           878,
@@ -1413,7 +1389,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2526,
+        "votes": 2543,
         "popularity": 884.5903,
         "genreIds": [
           12,
@@ -1433,7 +1409,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22570,
+        "votes": 22579,
         "popularity": 672.6253,
         "genreIds": [
           28,
@@ -1453,52 +1429,12 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1736,
+        "votes": 1741,
         "popularity": 359.5925,
         "genreIds": [
           28,
           12,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 795,
-        "popularity": 337.1308,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4496,
-        "popularity": 292.3553,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -1513,12 +1449,33 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.7,
-        "votes": 323,
+        "votes": 344,
         "popularity": 353.8834,
         "genreIds": [
           27,
           878,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 798,
+        "popularity": 337.1308,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
         ],
         "lang": "en"
       },
@@ -1533,7 +1490,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.4,
-        "votes": 183,
+        "votes": 187,
         "popularity": 304.6345,
         "genreIds": [
           12,
@@ -1543,20 +1500,21 @@
         "lang": "en"
       },
       {
-        "id": 1212763,
+        "id": 1339713,
         "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 864,
-        "popularity": 236.6118,
+        "rating": 8.2,
+        "votes": 4505,
+        "popularity": 292.3553,
         "genreIds": [
-          27
+          27,
+          53
         ],
         "lang": "en"
       },
@@ -1571,7 +1529,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.4,
-        "votes": 271,
+        "votes": 272,
         "popularity": 274.7199,
         "genreIds": [
           12,
@@ -1583,23 +1541,39 @@
         "lang": "en"
       },
       {
-        "id": 1108427,
+        "id": 1212763,
         "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
         "year": "2026",
-        "rating": 6,
-        "votes": 187,
-        "popularity": 213.5524,
+        "rating": 7.9,
+        "votes": 873,
+        "popularity": 236.6118,
         "genreIds": [
-          10751,
-          14,
-          35,
-          12
+          27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1481343,
+        "type": "movie",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 538,
+        "popularity": 233.5065,
+        "genreIds": [
+          27,
+          53
         ],
         "lang": "en"
       },
@@ -1609,8 +1583,8 @@
         "title": "Colony",
         "originalTitle": "군체",
         "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+        "poster": "/wC69brhk65GvrgNQdqLRUqtneUH.jpg",
+        "backdrop": "/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
@@ -1624,21 +1598,43 @@
         "lang": "ko"
       },
       {
-        "id": 1481343,
+        "id": 1108427,
         "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-        "date": "2026-07-29",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 535,
-        "popularity": 233.5065,
+        "rating": 6,
+        "votes": 189,
+        "popularity": 213.5524,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2649,
+        "popularity": 205.3477,
         "genreIds": [
           27,
-          53
+          9648,
+          878
         ],
         "lang": "en"
       },
@@ -1663,64 +1659,6 @@
         "lang": "en"
       },
       {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2637,
-        "popularity": 205.3477,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1307118,
-        "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-        "date": "2026-07-31",
-        "year": "2026",
-        "rating": 6.4,
-        "votes": 84,
-        "popularity": 162.8521,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1273221,
-        "type": "movie",
-        "title": "Scary Movie",
-        "originalTitle": "Scary Movie",
-        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-        "date": "2026-06-03",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 1548,
-        "popularity": 156.0394,
-        "genreIds": [
-          35
-        ],
-        "lang": "en"
-      },
-      {
         "id": 980431,
         "type": "movie",
         "title": "Avatar Aang: The Last Airbender",
@@ -1731,7 +1669,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 774,
+        "votes": 780,
         "popularity": 174.4534,
         "genreIds": [
           16,
@@ -1751,12 +1689,50 @@
         "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
         "date": "2026-06-17",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 236,
+        "rating": 6.7,
+        "votes": 242,
         "popularity": 164.5215,
         "genreIds": [
           27,
           10749
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1307118,
+        "type": "movie",
+        "title": "Soulm8te",
+        "originalTitle": "Soulm8te",
+        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+        "date": "2026-07-31",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 86,
+        "popularity": 162.8521,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1273221,
+        "type": "movie",
+        "title": "Scary Movie",
+        "originalTitle": "Scary Movie",
+        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 1553,
+        "popularity": 156.0394,
+        "genreIds": [
+          35
         ],
         "lang": "en"
       },
@@ -1771,7 +1747,7 @@
         "date": "2026-07-20",
         "year": "2026",
         "rating": 7.8,
-        "votes": 78,
+        "votes": 79,
         "popularity": 137.6003,
         "genreIds": [
           28,
@@ -2594,7 +2570,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 505,
+        "votes": 507,
         "popularity": 66.7611,
         "genreIds": [
           37,
@@ -2613,7 +2589,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18337,
+        "votes": 18341,
         "popularity": 172.9393,
         "genreIds": [
           18,
@@ -2712,7 +2688,7 @@
         "date": "2005-02-21",
         "year": "2005",
         "rating": 8.8,
-        "votes": 5027,
+        "votes": 5029,
         "popularity": 33.7643,
         "genreIds": [
           16,
@@ -2788,7 +2764,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5470,
+        "votes": 5472,
         "popularity": 48.94,
         "genreIds": [
           10759,
@@ -2844,7 +2820,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8136,
+        "votes": 8139,
         "popularity": 36.0435,
         "genreIds": [
           18
@@ -2883,13 +2859,32 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6731,
+        "votes": 6735,
         "popularity": 72.5386,
         "genreIds": [
           80,
           18
         ],
         "lang": "en"
+      },
+      {
+        "id": 259666,
+        "type": "tv",
+        "title": "No One Will Miss Us",
+        "originalTitle": "Nadie nos va a extrañar",
+        "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
+        "poster": "/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+        "backdrop": "/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
+        "date": "2024-08-09",
+        "year": "2024",
+        "rating": 8.7,
+        "votes": 336,
+        "popularity": 35.8524,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "es"
       },
       {
         "id": 200709,
@@ -2921,7 +2916,7 @@
         "date": "2013-04-07",
         "year": "2013",
         "rating": 8.7,
-        "votes": 7604,
+        "votes": 7607,
         "popularity": 30.2524,
         "genreIds": [
           16,
@@ -2929,26 +2924,6 @@
           10759
         ],
         "lang": "ja"
-      },
-      {
-        "id": 138502,
-        "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 826,
-        "popularity": 92.4869,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "en"
       }
     ],
     "onTheAir": [
