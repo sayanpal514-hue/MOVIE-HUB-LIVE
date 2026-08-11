@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1501,
+        "votes": 1502,
         "popularity": 1310.798,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2578,
+        "votes": 2580,
         "popularity": 758.9909,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.8,
-        "votes": 393,
+        "votes": 395,
         "popularity": 369.9083,
         "genreIds": [
           27,
@@ -76,7 +76,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6905,
+        "votes": 6906,
         "popularity": 498.462,
         "genreIds": [
           10765,
@@ -85,25 +85,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 903,
-        "popularity": 281.5826,
-        "genreIds": [
-          27
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -116,7 +97,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4537,
+        "votes": 4538,
         "popularity": 278.4755,
         "genreIds": [
           27,
@@ -124,6 +105,25 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 906,
+        "popularity": 281.5826,
+        "genreIds": [
+          27
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -147,25 +147,27 @@
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1081003,
+        "id": 1315772,
         "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1758,
-        "popularity": 331.2988,
+        "rating": 6.3,
+        "votes": 275,
+        "popularity": 255.0252,
         "genreIds": [
-          28,
           12,
-          878
+          16,
+          35,
+          10751,
+          14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -222,7 +224,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1501,
+        "votes": 1502,
         "popularity": 1310.798,
         "genreIds": [
           878,
@@ -243,7 +245,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2578,
+        "votes": 2580,
         "popularity": 758.9909,
         "genreIds": [
           12,
@@ -252,27 +254,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 393,
-        "popularity": 369.9083,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1612018,
@@ -285,7 +266,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 6.8,
-        "votes": 40,
+        "votes": 41,
         "popularity": 43.0775,
         "genreIds": [
           28,
@@ -296,24 +277,25 @@
         "iframe": "https://peachify.top/embed/movie/1612018?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
+        "id": 1284041,
         "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 4537,
-        "popularity": 278.4755,
+        "rating": 6.8,
+        "votes": 397,
+        "popularity": 369.9083,
         "genreIds": [
           27,
+          878,
           53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -337,6 +319,90 @@
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4540,
+        "popularity": 278.4755,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.3,
+        "votes": 275,
+        "popularity": 255.0252,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2400,
+        "popularity": 222.9294,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1081003,
+        "type": "movie",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 1759,
+        "popularity": 331.2988,
+        "genreIds": [
+          28,
+          12,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 113962,
         "type": "tv",
         "title": "Lioness",
@@ -347,7 +413,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1321,
+        "votes": 1323,
         "popularity": 342.4827,
         "genreIds": [
           18,
@@ -367,7 +433,7 @@
         "date": "1999-03-28",
         "year": "1999",
         "rating": 8.4,
-        "votes": 3837,
+        "votes": 3838,
         "popularity": 107.0873,
         "genreIds": [
           16,
@@ -378,44 +444,46 @@
         "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 905,
-        "popularity": 281.5826,
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2212,
+        "popularity": 108.6074,
         "genreIds": [
-          27
+          10759,
+          16,
+          10765
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 1758,
-        "popularity": 331.2988,
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.8,
+        "votes": 5474,
+        "popularity": 50.237,
         "genreIds": [
-          28,
-          12,
-          878
+          10759,
+          35,
+          16
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1679730,
@@ -440,6 +508,27 @@
         "iframe": "https://peachify.top/embed/movie/1679730?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2667,
+        "popularity": 189.0097,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 687163,
         "type": "movie",
         "title": "Project Hail Mary",
@@ -450,7 +539,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6932,
+        "votes": 6933,
         "popularity": 145.3902,
         "genreIds": [
           878,
@@ -460,106 +549,23 @@
         "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2399,
-        "popularity": 222.9294,
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 906,
+        "popularity": 281.5826,
         "genreIds": [
-          10765,
-          18
+          27
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 283297,
-        "type": "tv",
-        "title": "Sterling Point",
-        "originalTitle": "Sterling Point",
-        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-        "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-        "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 31,
-        "popularity": 90.9552,
-        "genreIds": [
-          9648,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2212,
-        "popularity": 108.6074,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 291496,
-        "type": "tv",
-        "title": "Our Sticky Love",
-        "originalTitle": "이런 엿같은 사랑",
-        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 8,
-        "votes": 20,
-        "popularity": 227.7768,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/291496?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.8,
-        "votes": 5474,
-        "popularity": 50.237,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
