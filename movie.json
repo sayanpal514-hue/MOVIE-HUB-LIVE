@@ -13,8 +13,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1549,
-        "popularity": 1310.798,
+        "votes": 1554,
+        "popularity": 1146.6141,
         "genreIds": [
           878,
           28,
@@ -22,27 +22,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 441,
-        "popularity": 369.9083,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -55,8 +34,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2624,
-        "popularity": 758.9909,
+        "votes": 2628,
+        "popularity": 819.0049,
         "genreIds": [
           12,
           28,
@@ -64,6 +43,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 447,
+        "popularity": 383.9155,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -77,7 +77,7 @@
         "year": "2022",
         "rating": 8.4,
         "votes": 6915,
-        "popularity": 498.462,
+        "popularity": 469.4002,
         "genreIds": [
           10765,
           18,
@@ -85,29 +85,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 352,
-        "popularity": 255.0252,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -120,14 +97,56 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4560,
-        "popularity": 278.4755,
+        "votes": 4562,
+        "popularity": 262.6154,
         "genreIds": [
           27,
           53
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 365,
+        "popularity": 331.3084,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1212763,
+        "type": "movie",
+        "title": "Evil Dead Burn",
+        "originalTitle": "Evil Dead Burn",
+        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+        "date": "2026-07-07",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 940,
+        "popularity": 270.5983,
+        "genreIds": [
+          27
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -139,9 +158,9 @@
         "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 155,
-        "popularity": 74.1983,
+        "rating": 7.5,
+        "votes": 157,
+        "popularity": 99.1462,
         "genreIds": [
           35,
           18,
@@ -149,27 +168,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 18,
-        "popularity": 67.0169,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -183,9 +181,9 @@
         "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 352,
-        "popularity": 255.0252,
+        "rating": 6.9,
+        "votes": 367,
+        "popularity": 331.3084,
         "genreIds": [
           12,
           16,
@@ -195,6 +193,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1308767,
+        "type": "movie",
+        "title": "Young Washington",
+        "originalTitle": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "date": "2026-07-02",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 45,
+        "popularity": 40.5403,
+        "genreIds": [
+          36,
+          10752,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -207,8 +226,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1549,
-        "popularity": 1310.798,
+        "votes": 1557,
+        "popularity": 1146.6141,
         "genreIds": [
           878,
           28,
@@ -227,9 +246,9 @@
         "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 155,
-        "popularity": 74.1983,
+        "rating": 7.5,
+        "votes": 158,
+        "popularity": 99.1462,
         "genreIds": [
           35,
           18,
@@ -237,6 +256,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2630,
+        "popularity": 819.0049,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -250,7 +290,7 @@
         "year": "2022",
         "rating": 8.4,
         "votes": 6915,
-        "popularity": 498.462,
+        "popularity": 469.4002,
         "genreIds": [
           10765,
           18,
@@ -260,46 +300,25 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1308767,
+        "id": 1284041,
         "type": "movie",
-        "title": "Young Washington",
-        "originalTitle": "Young Washington",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "date": "2026-07-02",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 45,
-        "popularity": 8.6634,
+        "rating": 6.8,
+        "votes": 447,
+        "popularity": 383.9155,
         "genreIds": [
-          36,
-          10752,
-          18
+          27,
+          878,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2624,
-        "popularity": 758.9909,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -313,7 +332,7 @@
         "year": "2026",
         "rating": 7.5,
         "votes": 18,
-        "popularity": 67.0169,
+        "popularity": 81.1343,
         "genreIds": [
           878,
           9648,
@@ -321,27 +340,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 441,
-        "popularity": 369.9083,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1612018,
@@ -353,9 +351,9 @@
         "backdrop": "/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
         "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 61,
-        "popularity": 43.0775,
+        "rating": 7.6,
+        "votes": 72,
+        "popularity": 50.8339,
         "genreIds": [
           28,
           35,
@@ -375,8 +373,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4560,
-        "popularity": 278.4755,
+        "votes": 4562,
+        "popularity": 262.6154,
         "genreIds": [
           27,
           53
@@ -395,8 +393,8 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3007,
-        "popularity": 179.8888,
+        "votes": 3008,
+        "popularity": 189.0347,
         "genreIds": [
           10759,
           18,
@@ -416,8 +414,8 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 6952,
-        "popularity": 145.3902,
+        "votes": 6954,
+        "popularity": 144.5472,
         "genreIds": [
           878,
           12
@@ -437,12 +435,73 @@
         "year": "2026",
         "rating": 8.5,
         "votes": 2,
-        "popularity": 4.1084,
+        "popularity": 14.1378,
         "genreIds": [
           99
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/329274?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2518,
+        "popularity": 138.5577,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1476682,
+        "type": "movie",
+        "title": "Gail Daughtry and the Celebrity Sex Pass",
+        "originalTitle": "Gail Daughtry and the Celebrity Sex Pass",
+        "overview": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
+        "poster": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+        "backdrop": "/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
+        "date": "2026-07-09",
+        "year": "2026",
+        "rating": 6,
+        "votes": 6,
+        "popularity": 13.6129,
+        "genreIds": [
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1476682?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 808,
+        "popularity": 294.9183,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -455,8 +514,8 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1771,
-        "popularity": 331.2988,
+        "votes": 1774,
+        "popularity": 287.6622,
         "genreIds": [
           28,
           12,
@@ -466,25 +525,45 @@
         "iframe": "https://peachify.top/embed/movie/1081003?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 615,
-        "type": "tv",
-        "title": "Futurama",
-        "originalTitle": "Futurama",
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "date": "1999-03-28",
-        "year": "1999",
-        "rating": 8.4,
-        "votes": 3840,
-        "popularity": 107.0873,
+        "id": 1596260,
+        "type": "movie",
+        "title": "Night Nurse",
+        "originalTitle": "Night Nurse",
+        "overview": "As a series of perverse scam calls unsettles an idyllic retirement community, a starry-eyed nurse becomes entangled with her mysterious patient.",
+        "poster": "/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
+        "backdrop": "/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg",
+        "date": "2026-07-10",
+        "year": "2026",
+        "rating": 7,
+        "votes": 5,
+        "popularity": 14.4975,
         "genreIds": [
-          16,
-          35,
-          10765
+          18,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1596260?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2213,
+        "popularity": 108.16,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 113962,
@@ -497,92 +576,14 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8,
-        "votes": 1325,
-        "popularity": 342.4827,
+        "votes": 1326,
+        "popularity": 327.7482,
         "genreIds": [
           18,
           10768
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 283297,
-        "type": "tv",
-        "title": "Sterling Point",
-        "originalTitle": "Sterling Point",
-        "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
-        "poster": "/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
-        "backdrop": "/ebLym6w04CzYJBLZScB1rrzm6uY.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 33,
-        "popularity": 90.9552,
-        "genreIds": [
-          9648,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/283297?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2404,
-        "popularity": 222.9294,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1476682,
-        "type": "movie",
-        "title": "Gail Daughtry and the Celebrity Sex Pass",
-        "originalTitle": "Gail Daughtry and the Celebrity Sex Pass",
-        "overview": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-        "poster": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-        "backdrop": "/id8sWbXYB9ieuSQdDSxLM4gbqG0.jpg",
-        "date": "2026-07-09",
-        "year": "2026",
-        "rating": 5.2,
-        "votes": 5,
-        "popularity": 3.846,
-        "genreIds": [
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1476682?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 934,
-        "popularity": 281.5826,
-        "genreIds": [
-          27
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2564,7 +2565,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 788,
+        "votes": 789,
         "popularity": 72.1513,
         "genreIds": [
           10759,
@@ -2584,7 +2585,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 513,
+        "votes": 514,
         "popularity": 67.3828,
         "genreIds": [
           37,
@@ -2603,7 +2604,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18349,
+        "votes": 18351,
         "popularity": 147.6765,
         "genreIds": [
           18,
@@ -2622,7 +2623,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.9,
-        "votes": 773,
+        "votes": 772,
         "popularity": 91.7782,
         "genreIds": [
           18
@@ -2661,7 +2662,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 919,
+        "votes": 920,
         "popularity": 85.9744,
         "genreIds": [
           16,
@@ -2682,7 +2683,7 @@
         "date": "2019-04-21",
         "year": "2019",
         "rating": 8.8,
-        "votes": 943,
+        "votes": 944,
         "popularity": 74.8496,
         "genreIds": [
           10759,
@@ -2758,7 +2759,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.8,
-        "votes": 6091,
+        "votes": 6090,
         "popularity": 35.5446,
         "genreIds": [
           16,
@@ -2778,7 +2779,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5474,
+        "votes": 5475,
         "popularity": 50.237,
         "genreIds": [
           10759,
@@ -2798,7 +2799,7 @@
         "date": "2025-11-28",
         "year": "2025",
         "rating": 8.7,
-        "votes": 571,
+        "votes": 572,
         "popularity": 31.6016,
         "genreIds": [
           18
@@ -2834,7 +2835,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8145,
+        "votes": 8146,
         "popularity": 37.6323,
         "genreIds": [
           18
@@ -2852,7 +2853,7 @@
         "date": "2009-04-05",
         "year": "2009",
         "rating": 8.7,
-        "votes": 2533,
+        "votes": 2534,
         "popularity": 47.3033,
         "genreIds": [
           16,
@@ -2873,7 +2874,7 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6740,
+        "votes": 6741,
         "popularity": 74.8616,
         "genreIds": [
           80,
@@ -2920,24 +2921,24 @@
         "lang": "ko"
       },
       {
-        "id": 1429,
+        "id": 138502,
         "type": "tv",
-        "title": "Attack on Titan",
-        "originalTitle": "進撃の巨人",
-        "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
-        "poster": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
-        "backdrop": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-        "date": "2013-04-07",
-        "year": "2013",
+        "title": "X-Men '97",
+        "originalTitle": "X-Men '97",
+        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+        "date": "2024-03-20",
+        "year": "2024",
         "rating": 8.7,
-        "votes": 7611,
-        "popularity": 31.3241,
+        "votes": 832,
+        "popularity": 91.3826,
         "genreIds": [
           16,
-          10765,
-          10759
+          10759,
+          10765
         ],
-        "lang": "ja"
+        "lang": "en"
       }
     ],
     "onTheAir": [
@@ -3494,7 +3495,7 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4602,
+        "votes": 4604,
         "popularity": 97.8814,
         "genreIds": [
           16,
@@ -3571,7 +3572,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 919,
+        "votes": 920,
         "popularity": 85.9744,
         "genreIds": [
           16,
