@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1571,
+        "votes": 1572,
         "popularity": 1146.6141,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2641,
+        "votes": 2642,
         "popularity": 819.0049,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.8,
-        "votes": 468,
+        "votes": 473,
         "popularity": 383.9155,
         "genreIds": [
           27,
@@ -76,7 +76,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6920,
+        "votes": 6923,
         "popularity": 469.4002,
         "genreIds": [
           10765,
@@ -85,6 +85,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3012,
+        "popularity": 189.0347,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -97,7 +118,7 @@
         "date": "2020-08-14",
         "year": "2020",
         "rating": 8.3,
-        "votes": 2521,
+        "votes": 2522,
         "popularity": 138.5577,
         "genreIds": [
           18,
@@ -107,47 +128,6 @@
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4574,
-        "popularity": 262.6154,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3010,
-        "popularity": 189.0347,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -169,10 +149,52 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 24,
+        "popularity": 81.1343,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
       {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3012,
+        "popularity": 189.0347,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -194,48 +216,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3010,
-        "popularity": 189.0347,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1308767,
-        "type": "movie",
-        "title": "Young Washington",
-        "originalTitle": "Young Washington",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 45,
-        "popularity": 40.5403,
-        "genreIds": [
-          36,
-          10752,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -248,7 +228,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1571,
+        "votes": 1572,
         "popularity": 1146.6141,
         "genreIds": [
           878,
@@ -269,7 +249,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2641,
+        "votes": 2642,
         "popularity": 819.0049,
         "genreIds": [
           12,
@@ -278,6 +258,48 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1308767,
+        "type": "movie",
+        "title": "Young Washington",
+        "originalTitle": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "date": "2026-07-02",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 46,
+        "popularity": 40.5403,
+        "genreIds": [
+          36,
+          10752,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 24,
+        "popularity": 81.1343,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -290,7 +312,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.5,
-        "votes": 162,
+        "votes": 163,
         "popularity": 99.1462,
         "genreIds": [
           35,
@@ -299,27 +321,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 23,
-        "popularity": 81.1343,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -332,7 +333,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6920,
+        "votes": 6922,
         "popularity": 469.4002,
         "genreIds": [
           10765,
@@ -353,7 +354,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.8,
-        "votes": 468,
+        "votes": 473,
         "popularity": 383.9155,
         "genreIds": [
           27,
@@ -374,7 +375,7 @@
         "date": "2020-08-14",
         "year": "2020",
         "rating": 8.3,
-        "votes": 2521,
+        "votes": 2522,
         "popularity": 138.5577,
         "genreIds": [
           18,
@@ -404,45 +405,25 @@
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1612018,
-        "type": "movie",
-        "title": "Jackass: Best and Last",
-        "originalTitle": "Jackass: Best and Last",
-        "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
-        "poster": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "backdrop": "/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 85,
-        "popularity": 50.8339,
+        "id": 138502,
+        "type": "tv",
+        "title": "X-Men '97",
+        "originalTitle": "X-Men '97",
+        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+        "date": "2024-03-20",
+        "year": "2024",
+        "rating": 8.7,
+        "votes": 833,
+        "popularity": 88.8624,
         "genreIds": [
-          28,
-          35,
-          99
+          16,
+          10759,
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1612018?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4574,
-        "popularity": 262.6154,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 215072,
@@ -466,6 +447,47 @@
         "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4574,
+        "popularity": 262.6154,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1612018,
+        "type": "movie",
+        "title": "Jackass: Best and Last",
+        "originalTitle": "Jackass: Best and Last",
+        "overview": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade.",
+        "poster": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+        "backdrop": "/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 86,
+        "popularity": 50.8339,
+        "genreIds": [
+          28,
+          35,
+          99
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1612018?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 329274,
         "type": "tv",
         "title": "MOURINHO",
@@ -483,6 +505,46 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/329274?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1487864,
+        "type": "movie",
+        "title": "Nando Between Two Worlds - A Sintonia Film",
+        "originalTitle": "Nando Entre Dois Mundos: Um Filme Sintonia",
+        "overview": "",
+        "poster": "/nKQKWvHCZEeQEoCQaahJLnXCTAJ.jpg",
+        "backdrop": "/jQEBI1EQWspRVPCYzhoRi30fadD.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 2.1923,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "pt",
+        "iframe": "https://peachify.top/embed/movie/1487864?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 253983,
+        "type": "tv",
+        "title": "Women in Blue",
+        "originalTitle": "Las azules",
+        "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
+        "poster": "/yyFmTJYoeMfeF16EXBEj5HYn2Xj.jpg",
+        "backdrop": "/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
+        "date": "2024-07-30",
+        "year": "2024",
+        "rating": 7.4,
+        "votes": 55,
+        "popularity": 23.0056,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/253983?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1081003,
@@ -524,66 +586,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 253983,
-        "type": "tv",
-        "title": "Women in Blue",
-        "originalTitle": "Las azules",
-        "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
-        "poster": "/yyFmTJYoeMfeF16EXBEj5HYn2Xj.jpg",
-        "backdrop": "/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
-        "date": "2024-07-30",
-        "year": "2024",
-        "rating": 7.4,
-        "votes": 55,
-        "popularity": 23.0056,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/253983?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 138502,
-        "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 833,
-        "popularity": 88.8624,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1476682,
-        "type": "movie",
-        "title": "Gail Daughtry and the Celebrity Sex Pass",
-        "originalTitle": "Gail Daughtry and the Celebrity Sex Pass",
-        "overview": "Small-town Kansas hairdresser Gail Daughtry's fiancé uses his 'celebrity sex pass' on Jennifer Aniston, prompting Gail to travel to LA with her friend Otto to find her own pass, Jon Hamm, to even the score.",
-        "poster": "/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-        "backdrop": "/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
-        "date": "2026-07-09",
-        "year": "2026",
-        "rating": 5.6,
-        "votes": 7,
-        "popularity": 13.6129,
-        "genreIds": [
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1476682?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -3729,8 +3731,8 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.7,
-        "votes": 1776,
-        "popularity": 142.195,
+        "votes": 1787,
+        "popularity": 133.4124,
         "genreIds": [
           16,
           28,
@@ -3748,9 +3750,9 @@
         "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
         "date": "2026-08-07",
         "year": "2026",
-        "rating": 6.4,
-        "votes": 8,
-        "popularity": 39.2879,
+        "rating": 7.1,
+        "votes": 10,
+        "popularity": 40.5794,
         "genreIds": [
           16,
           14,
@@ -3770,8 +3772,8 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18668,
-        "popularity": 36.6068,
+        "votes": 18670,
+        "popularity": 35.7355,
         "genreIds": [
           16,
           10751,
@@ -3790,8 +3792,8 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1098,
-        "popularity": 36.4414,
+        "votes": 1100,
+        "popularity": 35.8703,
         "genreIds": [
           16,
           28,
@@ -3811,8 +3813,8 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 12819,
-        "popularity": 29.6164,
+        "votes": 12824,
+        "popularity": 29.2281,
         "genreIds": [
           16,
           10749,
@@ -3831,8 +3833,8 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11283,
-        "popularity": 28.1208,
+        "votes": 11285,
+        "popularity": 27.188,
         "genreIds": [
           14,
           16,
@@ -3852,7 +3854,7 @@
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 28.0693,
+        "popularity": 29.4135,
         "genreIds": [
           12,
           16,
@@ -3872,7 +3874,7 @@
         "year": "2026",
         "rating": 8.3,
         "votes": 47,
-        "popularity": 25.0772,
+        "popularity": 22.9945,
         "genreIds": [
           16,
           14,
@@ -3893,7 +3895,7 @@
         "year": "2025",
         "rating": 6,
         "votes": 112,
-        "popularity": 21.2481,
+        "popularity": 20.6087,
         "genreIds": [
           16,
           28,
@@ -3913,7 +3915,7 @@
         "year": "1998",
         "rating": 8.3,
         "votes": 3287,
-        "popularity": 19.8286,
+        "popularity": 19.3507,
         "genreIds": [
           16,
           53
@@ -3931,8 +3933,8 @@
         "date": "1997-07-12",
         "year": "1997",
         "rating": 8.3,
-        "votes": 9162,
-        "popularity": 18.9219,
+        "votes": 9164,
+        "popularity": 19.2154,
         "genreIds": [
           12,
           14,
@@ -3952,7 +3954,7 @@
         "year": "2024",
         "rating": 7.2,
         "votes": 278,
-        "popularity": 18.4192,
+        "popularity": 17.7936,
         "genreIds": [
           28,
           12,
@@ -3972,8 +3974,8 @@
         "date": "2026-04-10",
         "year": "2026",
         "rating": 7.8,
-        "votes": 13,
-        "popularity": 17.7737,
+        "votes": 14,
+        "popularity": 18.0552,
         "genreIds": [
           16,
           28,
@@ -3994,7 +3996,7 @@
         "year": "1997",
         "rating": 8.3,
         "votes": 1907,
-        "popularity": 16.7431,
+        "popularity": 16.5473,
         "genreIds": [
           16,
           878,
@@ -4015,8 +4017,8 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 8963,
-        "popularity": 16.4215,
+        "votes": 8964,
+        "popularity": 16.2147,
         "genreIds": [
           14,
           16,
@@ -4031,12 +4033,12 @@
         "originalTitle": "劇場版「鬼滅の刃」無限列車編",
         "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
         "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
-        "backdrop": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+        "backdrop": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
         "date": "2020-10-16",
         "year": "2020",
         "rating": 8.2,
         "votes": 4621,
-        "popularity": 16.2296,
+        "popularity": 15.7508,
         "genreIds": [
           16,
           28,
@@ -4056,7 +4058,7 @@
         "year": "2026",
         "rating": 7.1,
         "votes": 10,
-        "popularity": 15.9482,
+        "popularity": 15.6593,
         "genreIds": [
           16,
           35,
@@ -4077,7 +4079,7 @@
         "year": "2016",
         "rating": 8.4,
         "votes": 4611,
-        "popularity": 15.464,
+        "popularity": 15.4852,
         "genreIds": [
           16,
           18,
@@ -4097,7 +4099,7 @@
         "year": "2026",
         "rating": 8,
         "votes": 1,
-        "popularity": 15.2031,
+        "popularity": 14.1696,
         "genreIds": [
           28,
           878,
@@ -4117,8 +4119,8 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 3980,
-        "popularity": 14.7265,
+        "votes": 3981,
+        "popularity": 13.5816,
         "genreIds": [
           28,
           16,
