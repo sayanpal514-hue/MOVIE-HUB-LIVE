@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1626,
+        "votes": 1629,
         "popularity": 1065.0058,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2683,
+        "votes": 2685,
         "popularity": 862.2605,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 522,
+        "votes": 524,
         "popularity": 388.6318,
         "genreIds": [
           27,
@@ -97,7 +97,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.2,
-        "votes": 489,
+        "votes": 491,
         "popularity": 344.0984,
         "genreIds": [
           12,
@@ -120,7 +120,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3024,
+        "votes": 3026,
         "popularity": 323.2214,
         "genreIds": [
           10759,
@@ -185,7 +185,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3024,
+        "votes": 3026,
         "popularity": 323.2214,
         "genreIds": [
           10759,
@@ -206,7 +206,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1625,
+        "votes": 1629,
         "popularity": 1065.0058,
         "genreIds": [
           878,
@@ -227,7 +227,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.2,
-        "votes": 489,
+        "votes": 490,
         "popularity": 344.0984,
         "genreIds": [
           12,
@@ -271,7 +271,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2683,
+        "votes": 2685,
         "popularity": 862.2605,
         "genreIds": [
           12,
@@ -280,6 +280,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 138502,
+        "type": "tv",
+        "title": "X-Men '97",
+        "originalTitle": "X-Men '97",
+        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+        "date": "2024-03-20",
+        "year": "2024",
+        "rating": 8.7,
+        "votes": 838,
+        "popularity": 103.1422,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1487864,
@@ -303,48 +324,6 @@
         "iframe": "https://peachify.top/embed/movie/1487864?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 138502,
-        "type": "tv",
-        "title": "X-Men '97",
-        "originalTitle": "X-Men '97",
-        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-        "date": "2024-03-20",
-        "year": "2024",
-        "rating": 8.7,
-        "votes": 835,
-        "popularity": 103.1422,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 215072,
-        "type": "tv",
-        "title": "A Shop for Killers",
-        "originalTitle": "킬러들의 쇼핑몰",
-        "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-        "poster": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-        "backdrop": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "date": "2024-01-17",
-        "year": "2024",
-        "rating": 8.4,
-        "votes": 209,
-        "popularity": 106.0397,
-        "genreIds": [
-          18,
-          10759,
-          9648
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -355,7 +334,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 172,
+        "votes": 173,
         "popularity": 100.8765,
         "genreIds": [
           35,
@@ -386,6 +365,27 @@
         "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 215072,
+        "type": "tv",
+        "title": "A Shop for Killers",
+        "originalTitle": "킬러들의 쇼핑몰",
+        "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+        "poster": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+        "backdrop": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+        "date": "2024-01-17",
+        "year": "2024",
+        "rating": 8.4,
+        "votes": 210,
+        "popularity": 106.0397,
+        "genreIds": [
+          18,
+          10759,
+          9648
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 94997,
         "type": "tv",
         "title": "House of the Dragon",
@@ -396,7 +396,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6937,
+        "votes": 6938,
         "popularity": 452.94,
         "genreIds": [
           10765,
@@ -417,7 +417,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 522,
+        "votes": 523,
         "popularity": 388.6318,
         "genreIds": [
           27,
@@ -448,6 +448,26 @@
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4607,
+        "popularity": 293.7814,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 278624,
         "type": "tv",
         "title": "Lucky",
@@ -468,47 +488,24 @@
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
+        "id": 298168,
+        "type": "tv",
+        "title": "The Shards",
+        "originalTitle": "The Shards",
+        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
+        "date": "2026-08-05",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 4605,
-        "popularity": 293.7814,
+        "rating": 8.1,
+        "votes": 19,
+        "popularity": 73.9209,
         "genreIds": [
-          27,
-          53
+          18,
+          9648
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 65942,
-        "type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "originalTitle": "Re:ゼロから始める異世界生活",
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "date": "2016-04-04",
-        "year": "2016",
-        "rating": 8,
-        "votes": 740,
-        "popularity": 91.7863,
-        "genreIds": [
-          16,
-          18,
-          9648,
-          10759,
-          10765
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/65942?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1308767,
@@ -532,24 +529,27 @@
         "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 298168,
+        "id": 65942,
         "type": "tv",
-        "title": "The Shards",
-        "originalTitle": "The Shards",
-        "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-        "poster": "/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-        "backdrop": "/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg",
-        "date": "2026-08-05",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 19,
-        "popularity": 73.9209,
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "originalTitle": "Re:ゼロから始める異世界生活",
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "date": "2016-04-04",
+        "year": "2016",
+        "rating": 8,
+        "votes": 740,
+        "popularity": 91.7863,
         "genreIds": [
+          16,
           18,
-          9648
+          9648,
+          10759,
+          10765
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/65942?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 125988,
@@ -582,7 +582,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1801,
+        "votes": 1802,
         "popularity": 248.9535,
         "genreIds": [
           28,
@@ -1395,7 +1395,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1613,
+        "votes": 1627,
         "popularity": 1065.0058,
         "genreIds": [
           878,
@@ -1415,7 +1415,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2672,
+        "votes": 2684,
         "popularity": 862.2605,
         "genreIds": [
           12,
@@ -1435,7 +1435,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 515,
+        "votes": 523,
         "popularity": 388.6318,
         "genreIds": [
           27,
@@ -1455,7 +1455,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.2,
-        "votes": 475,
+        "votes": 490,
         "popularity": 344.0984,
         "genreIds": [
           12,
@@ -1473,11 +1473,11 @@
         "originalTitle": "군체",
         "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
         "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
+        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 472,
+        "votes": 473,
         "popularity": 299.3411,
         "genreIds": [
           28,
@@ -1485,6 +1485,25 @@
           878
         ],
         "lang": "ko"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4605,
+        "popularity": 293.7814,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en"
       },
       {
         "id": 1084244,
@@ -1518,29 +1537,10 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 993,
+        "votes": 999,
         "popularity": 271.5888,
         "genreIds": [
           27
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4602,
-        "popularity": 293.7814,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -1555,7 +1555,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 203,
+        "votes": 204,
         "popularity": 261.4544,
         "genreIds": [
           12,
@@ -1586,25 +1586,6 @@
         "lang": "en"
       },
       {
-        "id": 1481343,
-        "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 582,
-        "popularity": 166.6931,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1307118,
         "type": "movie",
         "title": "Soulm8te",
@@ -1625,6 +1606,25 @@
         "lang": "en"
       },
       {
+        "id": 1481343,
+        "type": "movie",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/se8LfmZYFiNerF6U7zMUKePV0vE.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 582,
+        "popularity": 166.6931,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -1635,7 +1635,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2709,
+        "votes": 2713,
         "popularity": 162.347,
         "genreIds": [
           27,
@@ -1655,32 +1655,13 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 826,
+        "votes": 829,
         "popularity": 143.3652,
         "genreIds": [
           16,
           28,
           12,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1564614,
-        "type": "movie",
-        "title": "Leviticus",
-        "originalTitle": "Leviticus",
-        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
-        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 285,
-        "popularity": 126.6507,
-        "genreIds": [
-          27,
-          10749
         ],
         "lang": "en"
       },
@@ -1704,6 +1685,45 @@
         "lang": "en"
       },
       {
+        "id": 1564614,
+        "type": "movie",
+        "title": "Leviticus",
+        "originalTitle": "Leviticus",
+        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 287,
+        "popularity": 126.6507,
+        "genreIds": [
+          27,
+          10749
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7,
+        "votes": 44,
+        "popularity": 112.6153,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1630409,
         "type": "movie",
         "title": "The Debt Collector",
@@ -1714,7 +1734,7 @@
         "date": "2026-07-20",
         "year": "2026",
         "rating": 7.9,
-        "votes": 88,
+        "votes": 89,
         "popularity": 105.2029,
         "genreIds": [
           28,
@@ -1742,26 +1762,6 @@
         "lang": "en"
       },
       {
-        "id": 1110034,
-        "type": "movie",
-        "title": "Kraken",
-        "originalTitle": "Kraken",
-        "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
-        "poster": "/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
-        "backdrop": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
-        "date": "2026-02-06",
-        "year": "2026",
-        "rating": 6.3,
-        "votes": 266,
-        "popularity": 94.4635,
-        "genreIds": [
-          27,
-          28,
-          53
-        ],
-        "lang": "no"
-      },
-      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -1771,8 +1771,8 @@
         "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 171,
+        "rating": 7.4,
+        "votes": 173,
         "popularity": 100.8765,
         "genreIds": [
           35,
@@ -2178,23 +2178,22 @@
     ],
     "popularTv": [
       {
-        "id": 50821,
+        "id": 67707,
         "type": "tv",
-        "title": "Among Friends",
-        "originalTitle": "Barátok közt",
-        "overview": "Miklós introduces viewers into the world of Money and Charm.",
-        "poster": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "backdrop": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
-        "date": "1998-10-26",
-        "year": "1998",
-        "rating": 3.8,
-        "votes": 20,
-        "popularity": 251.7515,
+        "title": "Paradise Hotel",
+        "originalTitle": "Paradise Hotel",
+        "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
+        "poster": "/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
+        "backdrop": "/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
+        "date": "2005-01-17",
+        "year": "2005",
+        "rating": 5,
+        "votes": 4,
+        "popularity": 478.4102,
         "genreIds": [
-          18,
-          10751
+          10764
         ],
-        "lang": "hu"
+        "lang": "sv"
       },
       {
         "id": 51025,
@@ -2215,24 +2214,6 @@
         "lang": "da"
       },
       {
-        "id": 67707,
-        "type": "tv",
-        "title": "Paradise Hotel",
-        "originalTitle": "Paradise Hotel",
-        "overview": "A group of hot singles check into a luxury hotel in Mexico. Prepare for love, partying, betrayal and tears. Half a million kronor is at stake and anything can happen in paradise.",
-        "poster": "/aeU8fC5JaG2BkWqgMX7yPfX7dfW.jpg",
-        "backdrop": "/jv7E1Fr6roiVQSvql6bWqOQVDC9.jpg",
-        "date": "2005-01-17",
-        "year": "2005",
-        "rating": 5,
-        "votes": 4,
-        "popularity": 478.4102,
-        "genreIds": [
-          10764
-        ],
-        "lang": "sv"
-      },
-      {
         "id": 94997,
         "type": "tv",
         "title": "House of the Dragon",
@@ -2243,12 +2224,51 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6931,
+        "votes": 6937,
         "popularity": 452.94,
         "genreIds": [
           10765,
           18,
           10759
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3024,
+        "popularity": 323.2214,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8,
+        "votes": 1332,
+        "popularity": 321.7403,
+        "genreIds": [
+          18,
+          10768
         ],
         "lang": "en"
       },
@@ -2271,65 +2291,6 @@
         "lang": "no"
       },
       {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8,
-        "votes": 1330,
-        "popularity": 321.7403,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3014,
-        "popularity": 323.2214,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 5920,
-        "type": "tv",
-        "title": "The Mentalist",
-        "originalTitle": "The Mentalist",
-        "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-        "poster": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-        "backdrop": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-        "date": "2008-09-23",
-        "year": "2008",
-        "rating": 8.4,
-        "votes": 4536,
-        "popularity": 308.0816,
-        "genreIds": [
-          80,
-          18,
-          9648
-        ],
-        "lang": "en"
-      },
-      {
         "id": 46271,
         "type": "tv",
         "title": "Secret Story",
@@ -2348,40 +2309,24 @@
         "lang": "fr"
       },
       {
-        "id": 94722,
+        "id": 5920,
         "type": "tv",
-        "title": "Tagesschau",
-        "originalTitle": "Tagesschau",
-        "overview": "German daily news program, the oldest still existing program on German television.",
-        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-        "date": "1952-12-26",
-        "year": "1952",
-        "rating": 6.8,
-        "votes": 256,
-        "popularity": 204.7593,
+        "title": "The Mentalist",
+        "originalTitle": "The Mentalist",
+        "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+        "poster": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "backdrop": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+        "date": "2008-09-23",
+        "year": "2008",
+        "rating": 8.4,
+        "votes": 4538,
+        "popularity": 308.0816,
         "genreIds": [
-          10763
+          80,
+          18,
+          9648
         ],
-        "lang": "de"
-      },
-      {
-        "id": 233643,
-        "type": "tv",
-        "title": "Secret Mission - Undercover Agents Never Back Down!",
-        "originalTitle": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
-        "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
-        "poster": "/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-        "backdrop": "/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
-        "date": "2023-10-02",
-        "year": "2023",
-        "rating": 6.2,
-        "votes": 26,
-        "popularity": 251.3389,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
+        "lang": "en"
       },
       {
         "id": 310518,
@@ -2398,63 +2343,6 @@
         "popularity": 287.6367,
         "genreIds": [],
         "lang": "en"
-      },
-      {
-        "id": 37528,
-        "type": "tv",
-        "title": "Gran hermano",
-        "originalTitle": "Gran hermano",
-        "overview": "Argentina's version of the Big Brother franchise.",
-        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-        "date": "2001-03-10",
-        "year": "2001",
-        "rating": 4.5,
-        "votes": 4,
-        "popularity": 240.5573,
-        "genreIds": [
-          10764
-        ],
-        "lang": "es"
-      },
-      {
-        "id": 2734,
-        "type": "tv",
-        "title": "Law & Order: Special Victims Unit",
-        "originalTitle": "Law & Order: Special Victims Unit",
-        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-        "date": "1999-09-20",
-        "year": "1999",
-        "rating": 8,
-        "votes": 4309,
-        "popularity": 261.1314,
-        "genreIds": [
-          80,
-          18,
-          9648
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 291496,
-        "type": "tv",
-        "title": "Our Sticky Love",
-        "originalTitle": "이런 엿같은 사랑",
-        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 28,
-        "popularity": 232.7394,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "ko"
       },
       {
         "id": 1416,
@@ -2475,40 +2363,22 @@
         "lang": "en"
       },
       {
-        "id": 6836,
+        "id": 2734,
         "type": "tv",
-        "title": "Kangxi Coming",
-        "originalTitle": "康熙來了",
-        "overview": "Kang Xi Lai Le is a Taiwanese variety-comedy talk show hosted by variety show veterans Dee Hsu and Kevin Tsai. It was produced by Chungta Production from 2004 to 2009, and currently produced by Gold Star Production along with the writing and production staff of GUESS. It was first broadcast on 5 January 2004 and currently airs Monday to Friday at 22:00-23:00 on cable TV CTi Variety. In most episodes, the hosts interview a panel of celebrities in various and controversial topics while employing their signature comedic bantering. It is broadcast in Hong Kong on ATV Home under the name of Variety Show of Mr Con and Ms Csi.\n\nAlthough it is broadcast in Taiwan, the show is very successful and popular among Chinese speaking audiences across the world who watch uploaded re-runs over the internet or through bootleg DVDs. The show has been mentioned in other Taiwanese variety and talk shows, mainly from presenters who appeared on the show.",
-        "poster": "/bVWEPDZHRSdd7voVled6CLLq1zB.jpg",
-        "backdrop": "/390GKeZ6GLJNEbazLq7SFIYLvxW.jpg",
-        "date": "2004-01-05",
-        "year": "2004",
-        "rating": 7.7,
-        "votes": 3,
-        "popularity": 126.6031,
-        "genreIds": [
-          10767
-        ],
-        "lang": "zh"
-      },
-      {
-        "id": 79744,
-        "type": "tv",
-        "title": "The Rookie",
-        "originalTitle": "The Rookie",
-        "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-        "poster": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-        "backdrop": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "date": "2018-10-16",
-        "year": "2018",
-        "rating": 8.5,
-        "votes": 3456,
-        "popularity": 203.7072,
+        "title": "Law & Order: Special Victims Unit",
+        "originalTitle": "Law & Order: Special Victims Unit",
+        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+        "date": "1999-09-20",
+        "year": "1999",
+        "rating": 8,
+        "votes": 4309,
+        "popularity": 261.1314,
         "genreIds": [
           80,
           18,
-          35
+          9648
         ],
         "lang": "en"
       },
@@ -2532,6 +2402,137 @@
         "lang": "en"
       },
       {
+        "id": 1434,
+        "type": "tv",
+        "title": "Family Guy",
+        "originalTitle": "Family Guy",
+        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+        "poster": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "backdrop": "/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+        "date": "1999-01-31",
+        "year": "1999",
+        "rating": 7.4,
+        "votes": 5063,
+        "popularity": 253.5646,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 50821,
+        "type": "tv",
+        "title": "Among Friends",
+        "originalTitle": "Barátok közt",
+        "overview": "Miklós introduces viewers into the world of Money and Charm.",
+        "poster": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "backdrop": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+        "date": "1998-10-26",
+        "year": "1998",
+        "rating": 3.8,
+        "votes": 20,
+        "popularity": 251.7515,
+        "genreIds": [
+          18,
+          10751
+        ],
+        "lang": "hu"
+      },
+      {
+        "id": 233643,
+        "type": "tv",
+        "title": "Secret Mission - Undercover Agents Never Back Down!",
+        "originalTitle": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
+        "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
+        "poster": "/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+        "backdrop": "/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
+        "date": "2023-10-02",
+        "year": "2023",
+        "rating": 6.2,
+        "votes": 26,
+        "popularity": 251.3389,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 37528,
+        "type": "tv",
+        "title": "Gran hermano",
+        "originalTitle": "Gran hermano",
+        "overview": "Argentina's version of the Big Brother franchise.",
+        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+        "date": "2001-03-10",
+        "year": "2001",
+        "rating": 4.5,
+        "votes": 4,
+        "popularity": 240.5573,
+        "genreIds": [
+          10764
+        ],
+        "lang": "es"
+      },
+      {
+        "id": 291496,
+        "type": "tv",
+        "title": "Our Sticky Love",
+        "originalTitle": "이런 엿같은 사랑",
+        "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+        "poster": "/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+        "backdrop": "/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 8.4,
+        "votes": 31,
+        "popularity": 232.7394,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "ko"
+      },
+      {
+        "id": 456,
+        "type": "tv",
+        "title": "The Simpsons",
+        "originalTitle": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "backdrop": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+        "date": "1989-12-17",
+        "year": "1989",
+        "rating": 8,
+        "votes": 10929,
+        "popularity": 220.1254,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 319191,
+        "type": "tv",
+        "title": "NSFW Show",
+        "originalTitle": "NSFW Show",
+        "overview": "Magician and scam artist Brian Brushwood teams with Justin Robert Young for a weekly irreverent fun fest featuring unusual guests, bizarre games, and strange and wonderful tales.",
+        "poster": "/rHmiOepMQlicX2DqQ7YJK1hltrz.jpg",
+        "backdrop": "/r2SGaCu1EABkQU7duHQ328XOtiu.jpg",
+        "date": "2009-11-24",
+        "year": "2009",
+        "rating": null,
+        "votes": 0,
+        "popularity": 219.402,
+        "genreIds": [
+          35,
+          10767
+        ],
+        "lang": "en"
+      },
+      {
         "id": 65334,
         "type": "tv",
         "title": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -2542,7 +2543,7 @@
         "date": "2015-10-19",
         "year": "2015",
         "rating": 8.1,
-        "votes": 4641,
+        "votes": 4642,
         "popularity": 210.362,
         "genreIds": [
           10759,
@@ -2942,6 +2943,26 @@
     ],
     "onTheAir": [
       {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3022,
+        "popularity": 323.2214,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en"
+      },
+      {
         "id": 113962,
         "type": "tv",
         "title": "Lioness",
@@ -2957,26 +2978,6 @@
         "genreIds": [
           18,
           10768
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3020,
-        "popularity": 323.2214,
-        "genreIds": [
-          10759,
-          18,
-          80
         ],
         "lang": "en"
       },
@@ -2999,24 +3000,6 @@
         "lang": "fr"
       },
       {
-        "id": 37528,
-        "type": "tv",
-        "title": "Gran hermano",
-        "originalTitle": "Gran hermano",
-        "overview": "Argentina's version of the Big Brother franchise.",
-        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-        "date": "2001-03-10",
-        "year": "2001",
-        "rating": 4.5,
-        "votes": 4,
-        "popularity": 240.5573,
-        "genreIds": [
-          10764
-        ],
-        "lang": "es"
-      },
-      {
         "id": 22980,
         "type": "tv",
         "title": "Watch What Happens Live with Andy Cohen",
@@ -3036,6 +3019,24 @@
         "lang": "en"
       },
       {
+        "id": 37528,
+        "type": "tv",
+        "title": "Gran hermano",
+        "originalTitle": "Gran hermano",
+        "overview": "Argentina's version of the Big Brother franchise.",
+        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+        "date": "2001-03-10",
+        "year": "2001",
+        "rating": 4.5,
+        "votes": 4,
+        "popularity": 240.5573,
+        "genreIds": [
+          10764
+        ],
+        "lang": "es"
+      },
+      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -3046,11 +3047,109 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2408,
+        "votes": 2409,
         "popularity": 207.6542,
         "genreIds": [
           10765,
           18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 36361,
+        "type": "tv",
+        "title": "Ulice",
+        "originalTitle": "Ulice",
+        "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+        "poster": "/uYdLaP3REd06JpuUPpfEXKaYDvG.jpg",
+        "backdrop": "/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
+        "date": "2005-09-05",
+        "year": "2005",
+        "rating": 4.8,
+        "votes": 36,
+        "popularity": 160.0527,
+        "genreIds": [
+          18,
+          35,
+          10751,
+          10766
+        ],
+        "lang": "cs"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.3,
+        "votes": 2528,
+        "popularity": 158.1465,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 2661,
+        "type": "tv",
+        "title": "Kamen Rider",
+        "originalTitle": "仮面ライダー",
+        "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+        "poster": "/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "backdrop": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+        "date": "1971-04-03",
+        "year": "1971",
+        "rating": 6.4,
+        "votes": 104,
+        "popularity": 135.5542,
+        "genreIds": [
+          10759,
+          10765,
+          18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 94664,
+        "type": "tv",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "originalTitle": "無職転生 ～異世界行ったら本気だす～",
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "date": "2021-01-11",
+        "year": "2021",
+        "rating": 8.5,
+        "votes": 1647,
+        "popularity": 134.8311,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 4656,
+        "type": "tv",
+        "title": "Raw",
+        "originalTitle": "Raw",
+        "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+        "poster": "/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
+        "backdrop": "/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
+        "date": "1993-01-11",
+        "year": "1993",
+        "rating": 6.8,
+        "votes": 367,
+        "popularity": 116.9421,
+        "genreIds": [
+          10764
         ],
         "lang": "en"
       },
@@ -3074,138 +3173,6 @@
         "lang": "fi"
       },
       {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/gEQkOMmnJcoh9Hh1vk7fpVYnksR.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 2528,
-        "popularity": 158.1465,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 94664,
-        "type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "originalTitle": "無職転生 ～異世界行ったら本気だす～",
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-        "poster": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "backdrop": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "date": "2021-01-11",
-        "year": "2021",
-        "rating": 8.5,
-        "votes": 1647,
-        "popularity": 134.8311,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 13945,
-        "type": "tv",
-        "title": "Gute Zeiten, schlechte Zeiten",
-        "originalTitle": "Gute Zeiten, schlechte Zeiten",
-        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-        "poster": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-        "backdrop": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-        "date": "1992-05-11",
-        "year": "1992",
-        "rating": 5.5,
-        "votes": 49,
-        "popularity": 98.6646,
-        "genreIds": [
-          18,
-          10766
-        ],
-        "lang": "de"
-      },
-      {
-        "id": 2661,
-        "type": "tv",
-        "title": "Kamen Rider",
-        "originalTitle": "仮面ライダー",
-        "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-        "poster": "/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "backdrop": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-        "date": "1971-04-03",
-        "year": "1971",
-        "rating": 6.4,
-        "votes": 104,
-        "popularity": 135.5542,
-        "genreIds": [
-          10759,
-          10765,
-          18
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 16807,
-        "type": "tv",
-        "title": "Jornal Nacional",
-        "originalTitle": "Jornal Nacional",
-        "overview": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
-        "poster": "/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "backdrop": "/meWAnliwwbNAwzgE8aVJpZlHWux.jpg",
-        "date": "1969-09-01",
-        "year": "1969",
-        "rating": 7,
-        "votes": 7,
-        "popularity": 86.3307,
-        "genreIds": [
-          10763
-        ],
-        "lang": "pt"
-      },
-      {
-        "id": 206559,
-        "type": "tv",
-        "title": "Binnelanders",
-        "originalTitle": "Binnelanders",
-        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-        "date": "2005-10-13",
-        "year": "2005",
-        "rating": 5.5,
-        "votes": 111,
-        "popularity": 99.9059,
-        "genreIds": [
-          10766
-        ],
-        "lang": "af"
-      },
-      {
-        "id": 4656,
-        "type": "tv",
-        "title": "Raw",
-        "originalTitle": "Raw",
-        "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-        "poster": "/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
-        "backdrop": "/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
-        "date": "1993-01-11",
-        "year": "1993",
-        "rating": 6.8,
-        "votes": 367,
-        "popularity": 116.9421,
-        "genreIds": [
-          10764
-        ],
-        "lang": "en"
-      },
-      {
         "id": 23393,
         "type": "tv",
         "title": "BBC Proms",
@@ -3220,24 +3187,6 @@
         "popularity": 105.9961,
         "genreIds": [
           99
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 291,
-        "type": "tv",
-        "title": "Coronation Street",
-        "originalTitle": "Coronation Street",
-        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-        "poster": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-        "backdrop": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-        "date": "1960-12-09",
-        "year": "1960",
-        "rating": 5.3,
-        "votes": 117,
-        "popularity": 97.4197,
-        "genreIds": [
-          10766
         ],
         "lang": "en"
       },
@@ -3261,28 +3210,6 @@
         "lang": "zh"
       },
       {
-        "id": 45140,
-        "type": "tv",
-        "title": "Teen Titans Go!",
-        "originalTitle": "Teen Titans Go!",
-        "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-        "poster": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "backdrop": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-        "date": "2013-04-23",
-        "year": "2013",
-        "rating": 6.4,
-        "votes": 718,
-        "popularity": 95.7022,
-        "genreIds": [
-          16,
-          10759,
-          35,
-          10751,
-          10765
-        ],
-        "lang": "en"
-      },
-      {
         "id": 615,
         "type": "tv",
         "title": "Futurama",
@@ -3293,7 +3220,7 @@
         "date": "1999-03-28",
         "year": "1999",
         "rating": 8.4,
-        "votes": 3843,
+        "votes": 3844,
         "popularity": 103.0322,
         "genreIds": [
           16,
@@ -3320,6 +3247,82 @@
           10764
         ],
         "lang": "ko"
+      },
+      {
+        "id": 57532,
+        "type": "tv",
+        "title": "PAW Patrol",
+        "originalTitle": "PAW Patrol",
+        "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+        "poster": "/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "backdrop": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+        "date": "2013-08-12",
+        "year": "2013",
+        "rating": 7,
+        "votes": 816,
+        "popularity": 101.3169,
+        "genreIds": [
+          16,
+          10762
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2214,
+        "popularity": 100.9905,
+        "genreIds": [
+          10759,
+          16,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 206559,
+        "type": "tv",
+        "title": "Binnelanders",
+        "originalTitle": "Binnelanders",
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+        "date": "2005-10-13",
+        "year": "2005",
+        "rating": 5.5,
+        "votes": 111,
+        "popularity": 99.9059,
+        "genreIds": [
+          10766
+        ],
+        "lang": "af"
+      },
+      {
+        "id": 13945,
+        "type": "tv",
+        "title": "Gute Zeiten, schlechte Zeiten",
+        "originalTitle": "Gute Zeiten, schlechte Zeiten",
+        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+        "poster": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+        "backdrop": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+        "date": "1992-05-11",
+        "year": "1992",
+        "rating": 5.5,
+        "votes": 49,
+        "popularity": 98.6646,
+        "genreIds": [
+          18,
+          10766
+        ],
+        "lang": "de"
       }
     ],
     "animeTv": [
