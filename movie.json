@@ -3,27 +3,6 @@
   "data": {
     "spotlight": [
       {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2680,
-        "popularity": 862.2605,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -34,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1618,
+        "votes": 1621,
         "popularity": 1065.0058,
         "genreIds": [
           878,
@@ -43,6 +22,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2682,
+        "popularity": 862.2605,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1284041,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 518,
+        "votes": 519,
         "popularity": 388.6318,
         "genreIds": [
           27,
@@ -64,50 +64,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 484,
-        "popularity": 344.0984,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3022,
-        "popularity": 323.2214,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -131,6 +87,29 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 488,
+        "popularity": 344.0984,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -140,8 +119,8 @@
         "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 171,
+        "rating": 7.4,
+        "votes": 172,
         "popularity": 100.8765,
         "genreIds": [
           35,
@@ -150,6 +129,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4605,
+        "popularity": 293.7814,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -206,7 +205,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.2,
-        "votes": 484,
+        "votes": 488,
         "popularity": 344.0984,
         "genreIds": [
           12,
@@ -219,27 +218,6 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2680,
-        "popularity": 862.2605,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -250,7 +228,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1618,
+        "votes": 1621,
         "popularity": 1065.0058,
         "genreIds": [
           878,
@@ -282,25 +260,25 @@
         "iframe": "https://peachify.top/embed/movie/1487864?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 215072,
-        "type": "tv",
-        "title": "A Shop for Killers",
-        "originalTitle": "킬러들의 쇼핑몰",
-        "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-        "poster": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-        "backdrop": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "date": "2024-01-17",
-        "year": "2024",
-        "rating": 8.4,
-        "votes": 209,
-        "popularity": 106.0397,
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2681,
+        "popularity": 862.2605,
         "genreIds": [
-          18,
-          10759,
-          9648
+          12,
+          28,
+          14
         ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -324,27 +302,6 @@
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 171,
-        "popularity": 100.8765,
-        "genreIds": [
-          35,
-          18,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 138502,
         "type": "tv",
         "title": "X-Men '97",
@@ -364,6 +321,48 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 172,
+        "popularity": 100.8765,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 215072,
+        "type": "tv",
+        "title": "A Shop for Killers",
+        "originalTitle": "킬러들의 쇼핑몰",
+        "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+        "poster": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+        "backdrop": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+        "date": "2024-01-17",
+        "year": "2024",
+        "rating": 8.4,
+        "votes": 209,
+        "popularity": 106.0397,
+        "genreIds": [
+          18,
+          10759,
+          9648
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -387,6 +386,26 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 278624,
+        "type": "tv",
+        "title": "Lucky",
+        "originalTitle": "Lucky",
+        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "date": "2026-07-14",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 133,
+        "popularity": 81.6113,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1284041,
         "type": "movie",
         "title": "The Last House",
@@ -397,7 +416,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 518,
+        "votes": 519,
         "popularity": 388.6318,
         "genreIds": [
           27,
@@ -438,7 +457,7 @@
         "date": "2016-04-04",
         "year": "2016",
         "rating": 8,
-        "votes": 739,
+        "votes": 740,
         "popularity": 91.7863,
         "genreIds": [
           16,
@@ -472,24 +491,24 @@
         "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 278624,
-        "type": "tv",
-        "title": "Lucky",
-        "originalTitle": "Lucky",
-        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-        "date": "2026-07-14",
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 132,
-        "popularity": 81.6113,
+        "rating": 8.2,
+        "votes": 4605,
+        "popularity": 293.7814,
         "genreIds": [
-          18,
-          80
+          27,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 309798,
@@ -512,46 +531,6 @@
         "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4603,
-        "popularity": 293.7814,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2409,
-        "popularity": 207.6542,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 298168,
         "type": "tv",
         "title": "The Shards",
@@ -572,12 +551,31 @@
         "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 330320,
+        "type": "tv",
+        "title": "Conversations with a Killer: The Charles Manson Tapes",
+        "originalTitle": "Conversations with a Killer: The Charles Manson Tapes",
+        "overview": "Tracing Charles Manson's rise as a cult leader, the 1969 murders, and his trial, using unreleased prison recordings, interviews, and archival footage.",
+        "poster": "/8yyWUZjItJEO5dpKyCE8IghET9i.jpg",
+        "backdrop": "/yRuUGw1zFd3IyayCwHv8gInDVeT.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 7.8346,
+        "genreIds": [
+          99
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/330320?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 253983,
         "type": "tv",
         "title": "Women in Blue",
         "originalTitle": "Las azules",
         "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
-        "poster": "/7x7ONogOLYypFzRsoMcTINGABPD.jpg",
+        "poster": "/5JMYd2jYZGQ0KKcSQ8MH6k49XnF.jpg",
         "backdrop": "/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
         "date": "2024-07-30",
         "year": "2024",
@@ -1793,7 +1791,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.2,
-        "votes": 466,
+        "votes": 485,
         "popularity": 344.0984,
         "genreIds": [
           12,
@@ -1810,12 +1808,12 @@
         "title": "Colony",
         "originalTitle": "군체",
         "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/wC69brhk65GvrgNQdqLRUqtneUH.jpg",
-        "backdrop": "/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
+        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "backdrop": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 470,
+        "votes": 473,
         "popularity": 299.3411,
         "genreIds": [
           28,
@@ -1835,7 +1833,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4598,
+        "votes": 4603,
         "popularity": 293.7814,
         "genreIds": [
           27,
@@ -1895,7 +1893,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2708,
+        "votes": 2709,
         "popularity": 162.347,
         "genreIds": [
           27,
@@ -1915,7 +1913,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.7,
-        "votes": 281,
+        "votes": 286,
         "popularity": 126.6507,
         "genreIds": [
           27,
@@ -1953,7 +1951,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.5,
-        "votes": 169,
+        "votes": 171,
         "popularity": 100.8765,
         "genreIds": [
           35,
@@ -1973,7 +1971,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 3981,
+        "votes": 3983,
         "popularity": 92.8659,
         "genreIds": [
           10402,
@@ -2029,7 +2027,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 39,
+        "votes": 43,
         "popularity": 112.6153,
         "genreIds": [
           878,
@@ -2069,7 +2067,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31005,
+        "votes": 31007,
         "popularity": 58.1371,
         "genreIds": [
           18,
@@ -2107,11 +2105,31 @@
         "date": "2001-11-16",
         "year": "2001",
         "rating": 7.9,
-        "votes": 29980,
+        "votes": 29981,
         "popularity": 48.3473,
         "genreIds": [
           12,
           14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1308767,
+        "type": "movie",
+        "title": "Young Washington",
+        "originalTitle": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "date": "2026-07-02",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 50,
+        "popularity": 49.7929,
+        "genreIds": [
+          36,
+          10752,
+          18
         ],
         "lang": "en"
       },
@@ -2135,24 +2153,6 @@
         "lang": "ko"
       },
       {
-        "id": 1477712,
-        "type": "movie",
-        "title": "Ice Cream Man",
-        "originalTitle": "Ice Cream Man",
-        "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-        "poster": "/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
-        "backdrop": "/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
-        "date": "2026-08-03",
-        "year": "2026",
-        "rating": 5.1,
-        "votes": 37,
-        "popularity": 45.6916,
-        "genreIds": [
-          27
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1325734,
         "type": "movie",
         "title": "The Drama",
@@ -2163,7 +2163,7 @@
         "date": "2026-04-01",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1542,
+        "votes": 1544,
         "popularity": 45.0601,
         "genreIds": [
           10749,
