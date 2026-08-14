@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1677,
+        "votes": 1679,
         "popularity": 1006.0211,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2718,
+        "votes": 2719,
         "popularity": 817.7806,
         "genreIds": [
           12,
@@ -55,7 +55,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 577,
+        "votes": 582,
         "popularity": 375.692,
         "genreIds": [
           27,
@@ -64,27 +64,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6947,
-        "popularity": 415.8801,
-        "genreIds": [
-          10765,
-          18,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -97,7 +76,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.3,
-        "votes": 528,
+        "votes": 530,
         "popularity": 332.7628,
         "genreIds": [
           12,
@@ -131,6 +110,47 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6948,
+        "popularity": 415.8801,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2415,
+        "popularity": 200.8542,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1101383,
         "type": "movie",
         "title": "The End of Oak Street",
@@ -140,8 +160,8 @@
         "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
         "date": "2026-08-12",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 69,
+        "rating": 7,
+        "votes": 72,
         "popularity": 133.9196,
         "genreIds": [
           878,
@@ -150,71 +170,30 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 190,
-        "popularity": 111.0871,
-        "genreIds": [
-          35,
-          18,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
       {
-        "id": 1101383,
+        "id": 1493400,
         "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
+        "title": "Camp Rock 3",
+        "originalTitle": "Camp Rock 3",
+        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+        "poster": "/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
+        "backdrop": "/pMvt0WFYJCDj2I7YJGpndpNev4k.jpg",
+        "date": "2026-08-13",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 69,
-        "popularity": 133.9196,
+        "rating": 6.8,
+        "votes": 8,
+        "popularity": 10.6909,
         "genreIds": [
-          878,
-          9648,
-          53
+          10402,
+          35,
+          18,
+          10770
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2718,
-        "popularity": 817.7806,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -238,24 +217,45 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 309798,
+        "id": 125988,
         "type": "tv",
-        "title": "My Brilliant Career",
-        "originalTitle": "My Brilliant Career",
-        "overview": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
-        "poster": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-        "backdrop": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": 3.6,
-        "votes": 9,
-        "popularity": 5.5148,
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2415,
+        "popularity": 200.8542,
         "genreIds": [
-          18,
-          10751
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1504358,
+        "type": "movie",
+        "title": "Don't Say Good Luck",
+        "originalTitle": "Don't Say Good Luck",
+        "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until suddenly she’s living with even more drama at home than on the stage.",
+        "poster": "/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+        "backdrop": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+        "date": "2026-08-14",
+        "year": "2026",
+        "rating": 5,
+        "votes": 1,
+        "popularity": 3.2509,
+        "genreIds": [
+          35,
+          10402,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -268,7 +268,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1677,
+        "votes": 1679,
         "popularity": 1006.0211,
         "genreIds": [
           878,
@@ -289,7 +289,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.3,
-        "votes": 528,
+        "votes": 530,
         "popularity": 332.7628,
         "genreIds": [
           12,
@@ -302,88 +302,87 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1493400,
+        "id": 1101383,
         "type": "movie",
-        "title": "Camp Rock 3",
-        "originalTitle": "Camp Rock 3",
-        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
-        "poster": "/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
-        "backdrop": "/pMvt0WFYJCDj2I7YJGpndpNev4k.jpg",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7,
+        "votes": 71,
+        "popularity": 133.9196,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 309798,
+        "type": "tv",
+        "title": "My Brilliant Career",
+        "originalTitle": "My Brilliant Career",
+        "overview": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
+        "poster": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+        "backdrop": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
         "date": "2026-08-13",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 6,
-        "popularity": 10.6909,
+        "rating": 3.3,
+        "votes": 10,
+        "popularity": 5.5148,
         "genreIds": [
-          10402,
-          35,
           18,
-          10770
+          10751
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2719,
+        "popularity": 817.7806,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 94997,
         "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2414,
-        "popularity": 200.8542,
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6948,
+        "popularity": 415.8801,
         "genreIds": [
           10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 190,
-        "popularity": 111.0871,
-        "genreIds": [
-          35,
           18,
-          10749
+          10759
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1504358,
-        "type": "movie",
-        "title": "Don't Say Good Luck",
-        "originalTitle": "Don't Say Good Luck",
-        "overview": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until suddenly she’s living with even more drama at home than on the stage.",
-        "poster": "/w3NNwo7kImaJS7fL6YlBsJx0i6R.jpg",
-        "backdrop": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
-        "date": "2026-08-14",
-        "year": "2026",
-        "rating": 5,
-        "votes": 1,
-        "popularity": 3.2509,
-        "genreIds": [
-          35,
-          10402,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -406,25 +405,44 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 6947,
-        "popularity": 415.8801,
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 190,
+        "popularity": 111.0871,
         "genreIds": [
-          10765,
+          35,
           18,
-          10759
+          10749
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1589248,
+        "type": "movie",
+        "title": "My Best Friend, His Girlfriend and Me",
+        "originalTitle": "Mein bester Freund, seine Freundin und ich",
+        "overview": "For Olli, one thing is clear: his best friend Matze has obviously been brainwashed by his new girlfriend Rebecca. Her disastrous influence not only jeopardizes their friendship, but above all the trip around the world that Olli and Matze have been planning for years, down to the last detail. So there is only one solution: Rebecca must be stopped! Together with his buddy Schmitti, Olli goes on the offensive. But to everyone's surprise, Rebecca also has a few tricks up her sleeve. The battle is on.",
+        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+        "date": "2026-08-14",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 2.1977,
+        "genreIds": [
+          35
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247522,
@@ -436,14 +454,35 @@
         "backdrop": "/xyS9R7Dno812rPLzpN4gJrDUUFd.jpg",
         "date": "2024-05-23",
         "year": "2024",
-        "rating": 6.5,
-        "votes": 87,
+        "rating": 6.6,
+        "votes": 88,
         "popularity": 33.0587,
         "genreIds": [
           35
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/247522?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 581,
+        "popularity": 375.692,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1632473,
@@ -464,27 +503,6 @@
         ],
         "lang": "tl",
         "iframe": "https://peachify.top/embed/movie/1632473?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 577,
-        "popularity": 375.692,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 215072,
@@ -508,26 +526,44 @@
         "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 123542,
+        "id": 103516,
         "type": "tv",
-        "title": "LINK CLICK",
-        "originalTitle": "时光代理人",
-        "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
-        "poster": "/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
-        "backdrop": "/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-        "date": "2021-04-30",
-        "year": "2021",
-        "rating": 8.2,
-        "votes": 120,
-        "popularity": 14.6997,
+        "title": "Star Trek: Strange New Worlds",
+        "originalTitle": "Star Trek: Strange New Worlds",
+        "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+        "poster": "/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+        "backdrop": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+        "date": "2022-05-05",
+        "year": "2022",
+        "rating": 7.9,
+        "votes": 808,
+        "popularity": 60.2726,
         "genreIds": [
-          16,
           10765,
-          9648,
           18
         ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/123542?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/103516?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.4,
+        "votes": 2531,
+        "popularity": 150.5394,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 298168,
@@ -548,47 +584,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/298168?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 330542,
-        "type": "tv",
-        "title": "Hit Point",
-        "originalTitle": "Hit Point",
-        "overview": "Two 30-something detectives, Leo and Bella, investigate a case leading them into London's criminal underworld. As they seek answers, personal and professional boundaries fade amid twists and betrayals.",
-        "poster": "/mt5R8D6DVnchastooMyzK4wvgPy.jpg",
-        "backdrop": "/9ULEAggHneg6RsYz9cekVOebjhA.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 3,
-        "popularity": 10.841,
-        "genreIds": [
-          80,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/330542?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1308767,
-        "type": "movie",
-        "title": "Young Washington",
-        "originalTitle": "Young Washington",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 54,
-        "popularity": 46.5997,
-        "genreIds": [
-          36,
-          10752,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1308767?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2951,7 +2946,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3035,
+        "votes": 3037,
         "popularity": 425.4143,
         "genreIds": [
           10759,
@@ -3045,7 +3040,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2412,
+        "votes": 2414,
         "popularity": 200.8542,
         "genreIds": [
           10765,
@@ -3084,8 +3079,8 @@
         "backdrop": "/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg",
         "date": "2020-08-14",
         "year": "2020",
-        "rating": 8.4,
-        "votes": 2530,
+        "rating": 8.3,
+        "votes": 2531,
         "popularity": 150.5394,
         "genreIds": [
           18,
@@ -3124,7 +3119,7 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.5,
-        "votes": 1652,
+        "votes": 1653,
         "popularity": 125.8095,
         "genreIds": [
           10759,
@@ -3139,7 +3134,7 @@
         "title": "Raw",
         "originalTitle": "Raw",
         "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-        "poster": "/26v1iP77K6PySQRV0jBSnh3GtRc.jpg",
+        "poster": "/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
         "backdrop": "/qvq06zocz1zhMHdJAPUg0NCBj3z.jpg",
         "date": "1993-01-11",
         "year": "1993",
@@ -3148,6 +3143,28 @@
         "popularity": 110.4612,
         "genreIds": [
           10764
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 45140,
+        "type": "tv",
+        "title": "Teen Titans Go!",
+        "originalTitle": "Teen Titans Go!",
+        "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+        "poster": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "backdrop": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+        "date": "2013-04-23",
+        "year": "2013",
+        "rating": 6.4,
+        "votes": 718,
+        "popularity": 111.3964,
+        "genreIds": [
+          16,
+          10759,
+          35,
+          10751,
+          10765
         ],
         "lang": "en"
       },
@@ -3189,6 +3206,25 @@
         "lang": "en"
       },
       {
+        "id": 278624,
+        "type": "tv",
+        "title": "Lucky",
+        "originalTitle": "Lucky",
+        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "date": "2026-07-14",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 137,
+        "popularity": 104.7681,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en"
+      },
+      {
         "id": 615,
         "type": "tv",
         "title": "Futurama",
@@ -3199,7 +3235,7 @@
         "date": "1999-03-28",
         "year": "1999",
         "rating": 8.4,
-        "votes": 3845,
+        "votes": 3846,
         "popularity": 105.4781,
         "genreIds": [
           16,
@@ -3284,43 +3320,6 @@
           35
         ],
         "lang": "zh"
-      },
-      {
-        "id": 206559,
-        "type": "tv",
-        "title": "Binnelanders",
-        "originalTitle": "Binnelanders",
-        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-        "poster": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "backdrop": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-        "date": "2005-10-13",
-        "year": "2005",
-        "rating": 5.5,
-        "votes": 111,
-        "popularity": 98.1004,
-        "genreIds": [
-          10766
-        ],
-        "lang": "af"
-      },
-      {
-        "id": 13945,
-        "type": "tv",
-        "title": "Gute Zeiten, schlechte Zeiten",
-        "originalTitle": "Gute Zeiten, schlechte Zeiten",
-        "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-        "poster": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-        "backdrop": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-        "date": "1992-05-11",
-        "year": "1992",
-        "rating": 5.5,
-        "votes": 49,
-        "popularity": 104.4055,
-        "genreIds": [
-          18,
-          10766
-        ],
-        "lang": "de"
       }
     ],
     "animeTv": [
