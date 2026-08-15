@@ -184,8 +184,8 @@
         "backdrop": "/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
         "date": "2026-08-13",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 8,
+        "rating": 7.1,
+        "votes": 10,
         "popularity": 45.9507,
         "genreIds": [
           35,
@@ -205,8 +205,8 @@
         "backdrop": "/jIU5tUicaKXKKOmziCdstBCiG1z.jpg",
         "date": "2026-08-13",
         "year": "2026",
-        "rating": 6.2,
-        "votes": 17,
+        "rating": 6.3,
+        "votes": 18,
         "popularity": 54.4733,
         "genreIds": [
           10402,
@@ -249,7 +249,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2741,
+        "votes": 2743,
         "popularity": 794.065,
         "genreIds": [
           12,
@@ -290,7 +290,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3041,
+        "votes": 3042,
         "popularity": 466.9903,
         "genreIds": [
           10759,
@@ -310,8 +310,8 @@
         "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
         "date": "2026-08-14",
         "year": "2026",
-        "rating": 5,
-        "votes": 1,
+        "rating": 4.5,
+        "votes": 2,
         "popularity": 27.2853,
         "genreIds": [
           35
@@ -330,7 +330,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.9,
-        "votes": 87,
+        "votes": 91,
         "popularity": 167.092,
         "genreIds": [
           878,
@@ -339,29 +339,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 558,
-        "popularity": 323.3301,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -385,6 +362,29 @@
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 561,
+        "popularity": 323.3301,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -395,7 +395,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4651,
+        "votes": 4653,
         "popularity": 241.4485,
         "genreIds": [
           27,
@@ -403,6 +403,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1003596,
+        "type": "movie",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 59.869,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 123542,
@@ -427,27 +448,6 @@
         "iframe": "https://peachify.top/embed/tv/123542?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 59.869,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 94997,
         "type": "tv",
         "title": "House of the Dragon",
@@ -467,26 +467,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 309798,
-        "type": "tv",
-        "title": "My Brilliant Career",
-        "originalTitle": "My Brilliant Career",
-        "overview": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
-        "poster": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
-        "backdrop": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": 3.8,
-        "votes": 13,
-        "popularity": 41.1441,
-        "genreIds": [
-          18,
-          10751
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -510,6 +490,26 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 309798,
+        "type": "tv",
+        "title": "My Brilliant Career",
+        "originalTitle": "My Brilliant Career",
+        "overview": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
+        "poster": "/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+        "backdrop": "/5ErhLuuVrxlNa2JiRzXfo0U10uZ.jpg",
+        "date": "2026-08-13",
+        "year": "2026",
+        "rating": 3.8,
+        "votes": 13,
+        "popularity": 41.1441,
+        "genreIds": [
+          18,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1284041,
         "type": "movie",
         "title": "The Last House",
@@ -520,7 +520,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 621,
+        "votes": 625,
         "popularity": 350.6261,
         "genreIds": [
           27,
@@ -529,6 +529,48 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 138502,
+        "type": "tv",
+        "title": "X-Men '97",
+        "originalTitle": "X-Men '97",
+        "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+        "poster": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+        "backdrop": "/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+        "date": "2024-03-20",
+        "year": "2024",
+        "rating": 8.7,
+        "votes": 845,
+        "popularity": 95.4194,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1083381,
+        "type": "movie",
+        "title": "Backrooms",
+        "originalTitle": "Backrooms",
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "date": "2026-05-27",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 2747,
+        "popularity": 146.7237,
+        "genreIds": [
+          27,
+          9648,
+          878
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 331650,
@@ -549,47 +591,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/331650?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 2746,
-        "popularity": 146.7237,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1632473,
-        "type": "movie",
-        "title": "This, That and Everything in Between",
-        "originalTitle": "Ganito, Ganyan, Ganoon",
-        "overview": "A TV writer returns home to her estranged mother, igniting chaos as they navigate painful secrets and the  complexities of their dysfunctional family.",
-        "poster": "/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
-        "backdrop": "/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 24.7375,
-        "genreIds": [
-          18,
-          10751
-        ],
-        "lang": "tl",
-        "iframe": "https://peachify.top/embed/movie/1632473?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
