@@ -206,7 +206,7 @@
         "date": "2026-08-13",
         "year": "2026",
         "rating": 6,
-        "votes": 19,
+        "votes": 20,
         "popularity": 54.4733,
         "genreIds": [
           10402,
@@ -216,46 +216,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3045,
-        "popularity": 466.9903,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1589248,
-        "type": "movie",
-        "title": "My Best Friend, His Girlfriend and Me",
-        "originalTitle": "Mein bester Freund, seine Freundin und ich",
-        "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
-        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-        "date": "2026-08-14",
-        "year": "2026",
-        "rating": 3.3,
-        "votes": 3,
-        "popularity": 27.2853,
-        "genreIds": [
-          35
-        ],
-        "lang": "de",
-        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -268,7 +228,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1728,
+        "votes": 1734,
         "popularity": 1074.3611,
         "genreIds": [
           878,
@@ -300,6 +260,88 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1589248,
+        "type": "movie",
+        "title": "My Best Friend, His Girlfriend and Me",
+        "originalTitle": "Mein bester Freund, seine Freundin und ich",
+        "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
+        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+        "date": "2026-08-14",
+        "year": "2026",
+        "rating": 3.3,
+        "votes": 3,
+        "popularity": 27.2853,
+        "genreIds": [
+          35
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3045,
+        "popularity": 466.9903,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1003596,
+        "type": "movie",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 59.869,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 93,
+        "popularity": 167.092,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -310,7 +352,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.3,
-        "votes": 564,
+        "votes": 566,
         "popularity": 323.3301,
         "genreIds": [
           12,
@@ -343,48 +385,6 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 92,
-        "popularity": 167.092,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 59.869,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -395,7 +395,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 205,
+        "votes": 211,
         "popularity": 114.0463,
         "genreIds": [
           35,
@@ -416,7 +416,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4657,
+        "votes": 4659,
         "popularity": 241.4485,
         "genreIds": [
           27,
@@ -468,68 +468,6 @@
         "iframe": "https://peachify.top/embed/tv/331650?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 5.9,
-        "votes": 11,
-        "popularity": 32.232,
-        "genreIds": [
-          10765,
-          9648,
-          10759
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 633,
-        "popularity": 350.6261,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 687163,
-        "type": "movie",
-        "title": "Project Hail Mary",
-        "originalTitle": "Project Hail Mary",
-        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "date": "2026-03-15",
-        "year": "2026",
-        "rating": 8.7,
-        "votes": 7038,
-        "popularity": 131.1924,
-        "genreIds": [
-          878,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 94997,
         "type": "tv",
         "title": "House of the Dragon",
@@ -551,23 +489,46 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1212763,
+        "id": 1284041,
         "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-        "date": "2026-07-07",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 1048,
-        "popularity": 220.5859,
+        "rating": 6.9,
+        "votes": 635,
+        "popularity": 350.6261,
         "genreIds": [
-          27
+          27,
+          878,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 5.9,
+        "votes": 11,
+        "popularity": 32.232,
+        "genreIds": [
+          10765,
+          9648,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 309798,
@@ -588,6 +549,45 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/309798?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 287620,
+        "type": "tv",
+        "title": "Stuart Fails to Save the Universe",
+        "originalTitle": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "poster": "/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+        "backdrop": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+        "date": "2026-07-23",
+        "year": "2026",
+        "rating": 9.1,
+        "votes": 99,
+        "popularity": 68.1637,
+        "genreIds": [
+          35,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 213375,
+        "type": "tv",
+        "title": "VisionQuest",
+        "originalTitle": "VisionQuest",
+        "overview": "Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
+        "poster": "/lDe6FlUsSjMttuHN846ZOf7vXOh.jpg",
+        "backdrop": "/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
+        "date": "2026-10-14",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 6.8055,
+        "genreIds": [
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1392,8 +1392,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1717,
-        "popularity": 1006.0211,
+        "votes": 1726,
+        "popularity": 1074.3611,
         "genreIds": [
           878,
           28,
@@ -1412,8 +1412,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2736,
-        "popularity": 817.7806,
+        "votes": 2743,
+        "popularity": 794.065,
         "genreIds": [
           12,
           28,
@@ -1432,8 +1432,8 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 613,
-        "popularity": 375.692,
+        "votes": 631,
+        "popularity": 350.6261,
         "genreIds": [
           27,
           878,
@@ -1452,8 +1452,8 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.3,
-        "votes": 553,
-        "popularity": 332.7628,
+        "votes": 564,
+        "popularity": 323.3301,
         "genreIds": [
           12,
           16,
@@ -1474,8 +1474,8 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 485,
-        "popularity": 298.044,
+        "votes": 494,
+        "popularity": 295.9702,
         "genreIds": [
           28,
           27,
@@ -1495,31 +1495,12 @@
         "year": "2026",
         "rating": 7.4,
         "votes": 821,
-        "popularity": 259.2934,
+        "popularity": 247.1766,
         "genreIds": [
           16,
           10751,
           35,
           12
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4647,
-        "popularity": 248.3267,
-        "genreIds": [
-          27,
-          53
         ],
         "lang": "en"
       },
@@ -1534,12 +1515,31 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 209,
-        "popularity": 246.4583,
+        "votes": 210,
+        "popularity": 237.9754,
         "genreIds": [
           12,
           18,
           28
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4656,
+        "popularity": 241.4485,
+        "genreIds": [
+          27,
+          53
         ],
         "lang": "en"
       },
@@ -1554,8 +1554,8 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1037,
-        "popularity": 226.54,
+        "votes": 1046,
+        "popularity": 220.5859,
         "genreIds": [
           27
         ],
@@ -1573,12 +1573,51 @@
         "year": "2026",
         "rating": 6,
         "votes": 193,
-        "popularity": 202.781,
+        "popularity": 192.7779,
         "genreIds": [
           10751,
           14,
           35,
           12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 92,
+        "popularity": 167.092,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1481343,
+        "type": "movie",
+        "title": "The Devil's Mouth",
+        "originalTitle": "The Devil's Mouth",
+        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "backdrop": "/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 606,
+        "popularity": 142.6557,
+        "genreIds": [
+          27,
+          53
         ],
         "lang": "en"
       },
@@ -1594,7 +1633,7 @@
         "year": "2026",
         "rating": 6.4,
         "votes": 98,
-        "popularity": 157.3511,
+        "popularity": 149.3613,
         "genreIds": [
           27,
           878,
@@ -1613,51 +1652,12 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2742,
-        "popularity": 152.346,
+        "votes": 2748,
+        "popularity": 146.7237,
         "genreIds": [
           27,
           9648,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1481343,
-        "type": "movie",
-        "title": "The Devil's Mouth",
-        "originalTitle": "The Devil's Mouth",
-        "overview": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
-        "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "backdrop": "/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 599,
-        "popularity": 150.0581,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 86,
-        "popularity": 133.9196,
-        "genreIds": [
-          878,
-          9648,
-          53
         ],
         "lang": "en"
       },
@@ -1672,8 +1672,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.3,
-        "votes": 845,
-        "popularity": 131.3887,
+        "votes": 848,
+        "popularity": 122.7143,
         "genreIds": [
           16,
           28,
@@ -1694,7 +1694,7 @@
         "year": "2026",
         "rating": 7.4,
         "votes": 28,
-        "popularity": 127.6131,
+        "popularity": 124.4957,
         "genreIds": [
           28,
           10752
@@ -1712,8 +1712,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.8,
-        "votes": 304,
-        "popularity": 117.0782,
+        "votes": 306,
+        "popularity": 106.8443,
         "genreIds": [
           27,
           10749
@@ -1730,9 +1730,9 @@
         "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "date": "2026-06-25",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 201,
-        "popularity": 111.0871,
+        "rating": 7.4,
+        "votes": 205,
+        "popularity": 114.0463,
         "genreIds": [
           35,
           18,
@@ -1752,7 +1752,7 @@
         "year": "2026",
         "rating": 7.9,
         "votes": 94,
-        "popularity": 96.6392,
+        "popularity": 92.6092,
         "genreIds": [
           28,
           53,
@@ -1772,7 +1772,7 @@
         "year": "2026",
         "rating": 5.9,
         "votes": 13,
-        "popularity": 96.218,
+        "popularity": 89.8486,
         "genreIds": [
           53
         ],
