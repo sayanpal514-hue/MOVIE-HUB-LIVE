@@ -13,7 +13,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1745,
+        "votes": 1747,
         "popularity": 1074.3611,
         "genreIds": [
           878,
@@ -34,7 +34,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2755,
+        "votes": 2758,
         "popularity": 794.065,
         "genreIds": [
           12,
@@ -76,7 +76,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.3,
-        "votes": 576,
+        "votes": 579,
         "popularity": 323.3301,
         "genreIds": [
           12,
@@ -99,7 +99,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 642,
+        "votes": 645,
         "popularity": 350.6261,
         "genreIds": [
           27,
@@ -108,6 +108,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 104,
+        "popularity": 167.092,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -120,7 +141,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 213,
+        "votes": 214,
         "popularity": 114.0463,
         "genreIds": [
           35,
@@ -150,30 +171,30 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 102,
-        "popularity": 167.092,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2756,
+        "popularity": 794.065,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
       {
         "id": 1504358,
         "type": "movie",
@@ -196,47 +217,46 @@
         "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1368337,
+        "id": 1003596,
         "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
         "year": "2026",
-        "rating": 8,
-        "votes": 2755,
-        "popularity": 794.065,
+        "rating": null,
+        "votes": 0,
+        "popularity": 59.869,
         "genreIds": [
-          12,
+          878,
           28,
-          14
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1493400,
+        "id": 969681,
         "type": "movie",
-        "title": "Camp Rock 3",
-        "originalTitle": "Camp Rock 3",
-        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
-        "poster": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-        "backdrop": "/7tt3K3xEOBRODnigWpNGF53cKrd.jpg",
-        "date": "2026-08-13",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
         "year": "2026",
-        "rating": 6,
-        "votes": 24,
-        "popularity": 54.4733,
+        "rating": 7.9,
+        "votes": 1746,
+        "popularity": 1074.3611,
         "genreIds": [
-          10402,
-          35,
-          18,
-          10770
+          878,
+          28,
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -260,46 +280,26 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 969681,
+        "id": 1493400,
         "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
+        "title": "Camp Rock 3",
+        "originalTitle": "Camp Rock 3",
+        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+        "poster": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+        "backdrop": "/7tt3K3xEOBRODnigWpNGF53cKrd.jpg",
+        "date": "2026-08-13",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 1745,
-        "popularity": 1074.3611,
+        "rating": 6.2,
+        "votes": 25,
+        "popularity": 54.4733,
         "genreIds": [
-          878,
-          28,
-          12
+          10402,
+          35,
+          18,
+          10770
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 59.869,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -312,7 +312,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.3,
-        "votes": 576,
+        "votes": 579,
         "popularity": 323.3301,
         "genreIds": [
           12,
@@ -323,6 +323,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 104,
+        "popularity": 167.092,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1589248,
@@ -364,25 +385,23 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
+        "id": 213375,
+        "type": "tv",
+        "title": "VisionQuest",
+        "originalTitle": "VisionQuest",
+        "overview": "Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
+        "poster": "/lDe6FlUsSjMttuHN846ZOf7vXOh.jpg",
+        "backdrop": "/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
+        "date": "2026-10-14",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 102,
-        "popularity": 167.092,
+        "rating": null,
+        "votes": 0,
+        "popularity": 6.8055,
         "genreIds": [
-          878,
-          9648,
-          53
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 950028,
@@ -406,25 +425,6 @@
         "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 213375,
-        "type": "tv",
-        "title": "VisionQuest",
-        "originalTitle": "VisionQuest",
-        "overview": "Vision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepard, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
-        "poster": "/lDe6FlUsSjMttuHN846ZOf7vXOh.jpg",
-        "backdrop": "/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
-        "date": "2026-10-14",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 6.8055,
-        "genreIds": [
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -443,6 +443,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 643,
+        "popularity": 350.6261,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -466,27 +487,6 @@
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 642,
-        "popularity": 350.6261,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 331650,
         "type": "tv",
         "title": "Umthetho",
@@ -496,8 +496,8 @@
         "backdrop": "/t0NbIFM9auI6Hk2D3S1SzAhmxs1.jpg",
         "date": "2026-08-14",
         "year": "2026",
-        "rating": null,
-        "votes": 0,
+        "rating": 5.5,
+        "votes": 2,
         "popularity": 4.0571,
         "genreIds": [
           80,
@@ -516,8 +516,8 @@
         "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
         "date": "2026-08-16",
         "year": "2026",
-        "rating": 6.2,
-        "votes": 12,
+        "rating": 6.5,
+        "votes": 13,
         "popularity": 32.232,
         "genreIds": [
           10765,
@@ -549,46 +549,44 @@
         "iframe": "https://peachify.top/embed/tv/138502?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 215072,
-        "type": "tv",
-        "title": "A Shop for Killers",
-        "originalTitle": "킬러들의 쇼핑몰",
-        "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-        "poster": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-        "backdrop": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
-        "date": "2024-01-17",
-        "year": "2024",
-        "rating": 8.4,
-        "votes": 217,
-        "popularity": 100.1007,
+        "id": 1588838,
+        "type": "movie",
+        "title": "To The Max",
+        "originalTitle": "La fiera",
+        "overview": "Three skydivers died in similar accidents within five years. Salvador Calvo wanted to tell their stories with the sole survivor, Carlos Suárez.",
+        "poster": "/6PGFmwhZWPkQs4nZVRpxa7o3K5o.jpg",
+        "backdrop": "/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+        "date": "2026-02-06",
+        "year": "2026",
+        "rating": 5.6,
+        "votes": 9,
+        "popularity": 21.1357,
         "genreIds": [
           18,
-          10759,
-          9648
+          12
         ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/215072?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1588838?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1361969,
-        "type": "movie",
-        "title": "All Night Wrong",
-        "originalTitle": "All Night Wrong",
-        "overview": "Gary and Ell (a married man with an inferiority complex, and a grieving young widow) meet on a blind date only to wind up stealing a killer's car along with a dead body and $40,000.",
-        "poster": "/jFN9LcCG4a02wRWm2qfJ6nLY8BO.jpg",
-        "backdrop": "/mimPRWki5EOJDRw7ZH24fYnHwaX.jpg",
-        "date": "2026-08-14",
+        "id": 287620,
+        "type": "tv",
+        "title": "Stuart Fails to Save the Universe",
+        "originalTitle": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "poster": "/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+        "backdrop": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+        "date": "2026-07-23",
         "year": "2026",
-        "rating": 6.2,
-        "votes": 2,
-        "popularity": 7.5048,
+        "rating": 9.1,
+        "votes": 100,
+        "popularity": 68.1637,
         "genreIds": [
           35,
-          80,
-          53
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1361969?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2563,7 +2561,7 @@
         "date": "2026-06-05",
         "year": "2026",
         "rating": 9.4,
-        "votes": 799,
+        "votes": 800,
         "popularity": 66.7397,
         "genreIds": [
           10759,
@@ -2583,7 +2581,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 528,
+        "votes": 529,
         "popularity": 72.7173,
         "genreIds": [
           37,
@@ -2602,7 +2600,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18389,
+        "votes": 18390,
         "popularity": 143.288,
         "genreIds": [
           18,
@@ -2648,6 +2646,26 @@
           18
         ],
         "lang": "ko"
+      },
+      {
+        "id": 245026,
+        "type": "tv",
+        "title": "Wizards Beyond Waverly Place",
+        "originalTitle": "Wizards Beyond Waverly Place",
+        "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
+        "poster": "/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
+        "backdrop": "/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
+        "date": "2024-10-29",
+        "year": "2024",
+        "rating": 8.9,
+        "votes": 200,
+        "popularity": 40.9925,
+        "genreIds": [
+          35,
+          10765,
+          10751
+        ],
+        "lang": "en"
       },
       {
         "id": 209867,
@@ -2777,7 +2795,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5476,
+        "votes": 5477,
         "popularity": 43.9711,
         "genreIds": [
           10759,
@@ -2852,7 +2870,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8162,
+        "votes": 8163,
         "popularity": 36.1928,
         "genreIds": [
           18
@@ -2891,7 +2909,7 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6758,
+        "votes": 6759,
         "popularity": 64.7872,
         "genreIds": [
           80,
@@ -2917,26 +2935,6 @@
           18
         ],
         "lang": "ko"
-      },
-      {
-        "id": 1429,
-        "type": "tv",
-        "title": "Attack on Titan",
-        "originalTitle": "進撃の巨人",
-        "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
-        "poster": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
-        "backdrop": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-        "date": "2013-04-07",
-        "year": "2013",
-        "rating": 8.7,
-        "votes": 7618,
-        "popularity": 26.2427,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja"
       }
     ],
     "onTheAir": [
