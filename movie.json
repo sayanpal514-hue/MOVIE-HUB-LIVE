@@ -55,7 +55,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.4,
-        "votes": 632,
+        "votes": 635,
         "popularity": 329.1045,
         "genreIds": [
           12,
@@ -66,27 +66,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 227,
-        "popularity": 120.005,
-        "genreIds": [
-          35,
-          18,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -110,27 +89,6 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 126,
-        "popularity": 212.4078,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1284041,
         "type": "movie",
         "title": "The Last House",
@@ -141,7 +99,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 689,
+        "votes": 691,
         "popularity": 330.6493,
         "genreIds": [
           27,
@@ -152,24 +110,67 @@
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4704,
-        "popularity": 248.4086,
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6963,
+        "popularity": 366.2314,
         "genreIds": [
-          27,
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 228,
+        "popularity": 120.005,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 127,
+        "popularity": 212.4078,
+        "genreIds": [
+          878,
+          9648,
           53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -216,6 +217,27 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1003596,
+        "type": "movie",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 102.3973,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -226,7 +248,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.4,
-        "votes": 632,
+        "votes": 635,
         "popularity": 329.1045,
         "genreIds": [
           12,
@@ -260,27 +282,6 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 126,
-        "popularity": 212.4078,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -291,7 +292,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4704,
+        "votes": 4707,
         "popularity": 248.4086,
         "genreIds": [
           27,
@@ -301,88 +302,44 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1003596,
+        "id": 1101383,
         "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 127,
+        "popularity": 212.4078,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 213375,
+        "type": "tv",
+        "title": "VisionQuest",
+        "originalTitle": "VisionQuest",
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+        "poster": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+        "backdrop": "/pMgAiQYQpVHNrcQBJNgWxAqMt2c.jpg",
+        "date": "2026-10-14",
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 102.3973,
+        "popularity": 29.2501,
         "genreIds": [
-          878,
-          28,
-          12
+          10765
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1493400,
-        "type": "movie",
-        "title": "Camp Rock 3",
-        "originalTitle": "Camp Rock 3",
-        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
-        "poster": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-        "backdrop": "/tpRYtzeEl1Vc7vYr5unWs7qBNMW.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": 5.8,
-        "votes": 38,
-        "popularity": 77.0286,
-        "genreIds": [
-          10402,
-          35,
-          18,
-          10770
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 227,
-        "popularity": 120.005,
-        "genreIds": [
-          35,
-          18,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2428,
-        "popularity": 235.2194,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1504358,
@@ -406,23 +363,46 @@
         "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 213375,
-        "type": "tv",
-        "title": "VisionQuest",
-        "originalTitle": "VisionQuest",
-        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-        "poster": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-        "backdrop": "/pMgAiQYQpVHNrcQBJNgWxAqMt2c.jpg",
-        "date": "2026-10-14",
+        "id": 1493400,
+        "type": "movie",
+        "title": "Camp Rock 3",
+        "originalTitle": "Camp Rock 3",
+        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
+        "poster": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+        "backdrop": "/tpRYtzeEl1Vc7vYr5unWs7qBNMW.jpg",
+        "date": "2026-08-13",
         "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 29.2501,
+        "rating": 5.9,
+        "votes": 40,
+        "popularity": 77.0286,
         "genreIds": [
-          10765
+          10402,
+          35,
+          18,
+          10770
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/213375?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2428,
+        "popularity": 235.2194,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1284041,
@@ -435,7 +415,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 689,
+        "votes": 691,
         "popularity": 330.6493,
         "genreIds": [
           27,
@@ -444,6 +424,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 228,
+        "popularity": 120.005,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -456,7 +457,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2787,
+        "votes": 2790,
         "popularity": 197.8506,
         "genreIds": [
           878,
@@ -464,27 +465,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2215,
-        "popularity": 99.0037,
-        "genreIds": [
-          10759,
-          16,
-          10765
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -497,7 +477,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6962,
+        "votes": 6963,
         "popularity": 366.2314,
         "genreIds": [
           10765,
@@ -506,25 +486,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1589248,
-        "type": "movie",
-        "title": "My Best Friend, His Girlfriend and Me",
-        "originalTitle": "Mein bester Freund, seine Freundin und ich",
-        "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
-        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-        "date": "2026-08-14",
-        "year": "2026",
-        "rating": 2.2,
-        "votes": 6,
-        "popularity": 44.8045,
-        "genreIds": [
-          35
-        ],
-        "lang": "de",
-        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 271016,
@@ -545,6 +506,26 @@
         ],
         "lang": "zh",
         "iframe": "https://peachify.top/embed/tv/271016?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1588838,
+        "type": "movie",
+        "title": "To the Max",
+        "originalTitle": "La fiera",
+        "overview": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks.",
+        "poster": "/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+        "backdrop": "/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+        "date": "2026-02-06",
+        "year": "2026",
+        "rating": 5.2,
+        "votes": 10,
+        "popularity": 24.5892,
+        "genreIds": [
+          18,
+          12
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1588838?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -568,24 +549,44 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 687163,
-        "type": "movie",
-        "title": "Project Hail Mary",
-        "originalTitle": "Project Hail Mary",
-        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "date": "2026-03-15",
-        "year": "2026",
-        "rating": 8.7,
-        "votes": 7076,
-        "popularity": 133.7139,
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2215,
+        "popularity": 99.0037,
         "genreIds": [
-          878,
-          12
+          10759,
+          16,
+          10765
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/687163?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1589248,
+        "type": "movie",
+        "title": "My Best Friend, His Girlfriend and Me",
+        "originalTitle": "Mein bester Freund, seine Freundin und ich",
+        "overview": "Olli and Matze are best friends living, working and planning to travel the world together — until Matze's romance with Rebecca turns it all upside down.",
+        "poster": "/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+        "backdrop": "/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+        "date": "2026-08-14",
+        "year": "2026",
+        "rating": 2.2,
+        "votes": 6,
+        "popularity": 44.8045,
+        "genreIds": [
+          35
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1589248?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -3337,7 +3338,7 @@
         "year": "2023",
         "rating": 6.2,
         "votes": 26,
-        "popularity": 227.0545,
+        "popularity": 206.0322,
         "genreIds": [
           16
         ],
@@ -3355,7 +3356,7 @@
         "year": "2020",
         "rating": 7.5,
         "votes": 90,
-        "popularity": 149.7708,
+        "popularity": 139.1754,
         "genreIds": [
           16
         ],
@@ -3373,7 +3374,7 @@
         "year": "2022",
         "rating": 5.9,
         "votes": 7,
-        "popularity": 149.4135,
+        "popularity": 173.1334,
         "genreIds": [
           16
         ],
@@ -3391,7 +3392,7 @@
         "year": "2021",
         "rating": 8.4,
         "votes": 1659,
-        "popularity": 119.8859,
+        "popularity": 124.5531,
         "genreIds": [
           10759,
           16,
@@ -3411,7 +3412,7 @@
         "year": "2005",
         "rating": 8.1,
         "votes": 239,
-        "popularity": 106.7696,
+        "popularity": 104.9389,
         "genreIds": [
           10759,
           16,
@@ -3419,6 +3420,26 @@
           10765,
           10762,
           10751
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 30984,
+        "type": "tv",
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2215,
+        "popularity": 99.0037,
+        "genreIds": [
+          10759,
+          16,
+          10765
         ],
         "lang": "ja"
       },
@@ -3434,30 +3455,10 @@
         "year": "2017",
         "rating": 5.3,
         "votes": 14,
-        "popularity": 97.5019,
+        "popularity": 102.5305,
         "genreIds": [
           16,
           18
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 30984,
-        "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2214,
-        "popularity": 94.3209,
-        "genreIds": [
-          10759,
-          16,
-          10765
         ],
         "lang": "ja"
       },
@@ -3473,7 +3474,7 @@
         "year": "2023",
         "rating": 6.6,
         "votes": 7,
-        "popularity": 88.8039,
+        "popularity": 79.6732,
         "genreIds": [
           16
         ],
@@ -3491,7 +3492,7 @@
         "year": "2016",
         "rating": 8.1,
         "votes": 744,
-        "popularity": 85.4527,
+        "popularity": 88.5499,
         "genreIds": [
           16,
           18,
@@ -3513,7 +3514,7 @@
         "year": "2024",
         "rating": 6.8,
         "votes": 38,
-        "popularity": 84.9484,
+        "popularity": 81.6108,
         "genreIds": [
           16
         ],
@@ -3531,7 +3532,7 @@
         "year": "2023",
         "rating": 8.8,
         "votes": 926,
-        "popularity": 83.0184,
+        "popularity": 82.3992,
         "genreIds": [
           16,
           10759,
@@ -3552,7 +3553,7 @@
         "year": "2021",
         "rating": 6.6,
         "votes": 27,
-        "popularity": 82.3532,
+        "popularity": 79.058,
         "genreIds": [
           16,
           35
@@ -3570,8 +3571,8 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4612,
-        "popularity": 79.6577,
+        "votes": 4611,
+        "popularity": 85.8674,
         "genreIds": [
           16,
           10759,
@@ -3591,7 +3592,7 @@
         "year": "2000",
         "rating": 6.5,
         "votes": 17,
-        "popularity": 76.9001,
+        "popularity": 68.9479,
         "genreIds": [
           16,
           18,
@@ -3611,7 +3612,7 @@
         "year": "1997",
         "rating": 8,
         "votes": 2229,
-        "popularity": 74.1213,
+        "popularity": 73.2452,
         "genreIds": [
           16,
           10759,
@@ -3631,7 +3632,7 @@
         "year": "2021",
         "rating": 6.8,
         "votes": 32,
-        "popularity": 71.9388,
+        "popularity": 64.5523,
         "genreIds": [
           16,
           35,
@@ -3651,7 +3652,7 @@
         "year": "2023",
         "rating": 8.6,
         "votes": 617,
-        "popularity": 69.1863,
+        "popularity": 62.4041,
         "genreIds": [
           16,
           18,
@@ -3671,7 +3672,7 @@
         "year": "1993",
         "rating": 6.7,
         "votes": 22,
-        "popularity": 67.3469,
+        "popularity": 61.164,
         "genreIds": [
           35,
           10759,
@@ -3693,7 +3694,7 @@
         "year": "1992",
         "rating": 7.7,
         "votes": 115,
-        "popularity": 65.6562,
+        "popularity": 61.984,
         "genreIds": [
           16,
           35
@@ -3712,7 +3713,7 @@
         "year": "2011",
         "rating": 8.7,
         "votes": 2175,
-        "popularity": 64.6879,
+        "popularity": 66.2807,
         "genreIds": [
           16,
           10759,
