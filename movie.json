@@ -185,8 +185,8 @@
         "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "date": "2026-08-16",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 50,
+        "rating": 7.6,
+        "votes": 52,
         "popularity": 98.5361,
         "genreIds": [
           18,
@@ -203,11 +203,11 @@
         "originalTitle": "The Odyssey",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2843,
+        "votes": 2845,
         "popularity": 869.7421,
         "genreIds": [
           12,
@@ -216,27 +216,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 1833,
-        "popularity": 1831.2906,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1084244,
@@ -261,25 +240,25 @@
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1101383,
+        "id": 969681,
         "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 176,
-        "popularity": 232.4848,
+        "rating": 7.9,
+        "votes": 1834,
+        "popularity": 1831.2906,
         "genreIds": [
           878,
-          9648,
-          53
+          28,
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1003596,
@@ -303,6 +282,48 @@
         "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 6971,
+        "popularity": 343.2786,
+        "genreIds": [
+          10765,
+          18,
+          10759
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 176,
+        "popularity": 232.4848,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -313,7 +334,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 690,
+        "votes": 692,
         "popularity": 348.0608,
         "genreIds": [
           12,
@@ -326,25 +347,25 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 94997,
+        "id": 108978,
         "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
         "year": "2022",
-        "rating": 8.4,
-        "votes": 6970,
-        "popularity": 343.2786,
+        "rating": 8.1,
+        "votes": 3073,
+        "popularity": 591.3122,
         "genreIds": [
-          10765,
+          10759,
           18,
-          10759
+          80
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/94997?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1339713,
@@ -387,48 +408,6 @@
         "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3074,
-        "popularity": 591.3122,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 779,
-        "popularity": 311.0577,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -447,6 +426,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1284041,
+        "type": "movie",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 781,
+        "popularity": 311.0577,
+        "genreIds": [
+          27,
+          878,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1284041?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1504358,
@@ -470,6 +470,27 @@
         "iframe": "https://peachify.top/embed/movie/1504358?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 253,
+        "popularity": 135.4874,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 37854,
         "type": "tv",
         "title": "One Piece",
@@ -489,27 +510,6 @@
         ],
         "lang": "ja",
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 252,
-        "popularity": 135.4874,
-        "genreIds": [
-          35,
-          18,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1275779,
@@ -532,6 +532,47 @@
         "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1291595,
+        "type": "movie",
+        "title": "Insidious: Out of the Further",
+        "originalTitle": "Insidious: Out of the Further",
+        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 20.5526,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 615,
+        "type": "tv",
+        "title": "Futurama",
+        "originalTitle": "Futurama",
+        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "date": "1999-03-28",
+        "year": "1999",
+        "rating": 8.4,
+        "votes": 3851,
+        "popularity": 104.6516,
+        "genreIds": [
+          16,
+          35,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 30984,
         "type": "tv",
         "title": "Bleach",
@@ -551,48 +592,6 @@
         ],
         "lang": "ja",
         "iframe": "https://peachify.top/embed/tv/30984?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1493400,
-        "type": "movie",
-        "title": "Camp Rock 3",
-        "originalTitle": "Camp Rock 3",
-        "overview": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie for the chance to open for their favorite band, tensions rise and friendships are tested - leading to unexpected alliances, revelations, and romances.",
-        "poster": "/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-        "backdrop": "/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
-        "date": "2026-08-13",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 47,
-        "popularity": 80.5997,
-        "genreIds": [
-          10402,
-          35,
-          18,
-          10770
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1493400?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1291595,
-        "type": "movie",
-        "title": "Insidious: Out of the Further",
-        "originalTitle": "Insidious: Out of the Further",
-        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 20.5526,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
