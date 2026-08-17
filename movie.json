@@ -3,6 +3,27 @@
   "data": {
     "spotlight": [
       {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 48,
+        "popularity": 98.5361,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -24,27 +45,6 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 46,
-        "popularity": 98.5361,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1368337,
         "type": "movie",
         "title": "The Odyssey",
@@ -55,7 +55,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2841,
+        "votes": 2842,
         "popularity": 869.7421,
         "genreIds": [
           12,
@@ -64,27 +64,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3073,
-        "popularity": 591.3122,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -110,24 +89,25 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 113962,
+        "id": 108978,
         "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
         "rating": 8.1,
-        "votes": 1364,
-        "popularity": 342.4596,
+        "votes": 3074,
+        "popularity": 591.3122,
         "genreIds": [
+          10759,
           18,
-          10768
+          80
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94997,
@@ -140,7 +120,7 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 6969,
+        "votes": 6970,
         "popularity": 343.2786,
         "genreIds": [
           10765,
@@ -161,7 +141,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.8,
-        "votes": 175,
+        "votes": 176,
         "popularity": 232.4848,
         "genreIds": [
           878,
@@ -170,6 +150,28 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 832,
+        "popularity": 255.9133,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -604,7 +606,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1828,
+        "votes": 1831,
         "popularity": 1831.2906,
         "genreIds": [
           878,
@@ -624,7 +626,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2836,
+        "votes": 2841,
         "popularity": 869.7421,
         "genreIds": [
           12,
@@ -644,7 +646,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22708,
+        "votes": 22711,
         "popularity": 562.846,
         "genreIds": [
           28,
@@ -664,7 +666,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 773,
+        "votes": 775,
         "popularity": 311.0577,
         "genreIds": [
           27,
@@ -679,12 +681,12 @@
         "title": "Minions & Monsters",
         "originalTitle": "Minions & Monsters",
         "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/sO3O1szSYuXLwtkobU5TExQ6Wfa.jpg",
+        "poster": "/aTmwK4yKzM52spczHFeuWldfzo7.jpg",
         "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 687,
+        "votes": 690,
         "popularity": 348.0608,
         "genreIds": [
           12,
@@ -706,7 +708,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 517,
+        "votes": 519,
         "popularity": 259.8192,
         "genreIds": [
           28,
@@ -714,6 +716,26 @@
           878
         ],
         "lang": "ko"
+      },
+      {
+        "id": 1323244,
+        "type": "movie",
+        "title": "Rage of Stars",
+        "originalTitle": "Rage of Stars",
+        "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+        "poster": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+        "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 2.3,
+        "votes": 3,
+        "popularity": 291.1501,
+        "genreIds": [
+          28,
+          878,
+          53
+        ],
+        "lang": "en"
       },
       {
         "id": 1339713,
@@ -726,7 +748,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4759,
+        "votes": 4765,
         "popularity": 264.1614,
         "genreIds": [
           27,
@@ -776,21 +798,21 @@
         "lang": "en"
       },
       {
-        "id": 1323244,
+        "id": 1101383,
         "type": "movie",
-        "title": "Rage of Stars",
-        "originalTitle": "Rage of Stars",
-        "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
-        "poster": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-        "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
-        "date": "2026-08-06",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
         "year": "2026",
-        "rating": 2.3,
-        "votes": 3,
-        "popularity": 291.1501,
+        "rating": 6.8,
+        "votes": 175,
+        "popularity": 232.4848,
         "genreIds": [
-          28,
           878,
+          9648,
           53
         ],
         "lang": "en"
@@ -806,30 +828,10 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1131,
+        "votes": 1134,
         "popularity": 204.2175,
         "genreIds": [
           27
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 171,
-        "popularity": 232.4848,
-        "genreIds": [
-          878,
-          9648,
-          53
         ],
         "lang": "en"
       },
@@ -844,7 +846,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2837,
+        "votes": 2842,
         "popularity": 204.0236,
         "genreIds": [
           878,
@@ -884,7 +886,7 @@
         "date": "2017-07-05",
         "year": "2017",
         "rating": 7.3,
-        "votes": 23655,
+        "votes": 23656,
         "popularity": 158.5215,
         "genreIds": [
           28,
@@ -904,7 +906,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 6.7,
-        "votes": 1902,
+        "votes": 1908,
         "popularity": 163.7558,
         "genreIds": [
           28,
@@ -924,7 +926,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2806,
+        "votes": 2809,
         "popularity": 147.8479,
         "genreIds": [
           27,
@@ -978,7 +980,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.6,
-        "votes": 629,
+        "votes": 631,
         "popularity": 136.0477,
         "genreIds": [
           27,
@@ -1395,7 +1397,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1828,
+        "votes": 1830,
         "popularity": 1831.2906,
         "genreIds": [
           878,
@@ -1415,7 +1417,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2836,
+        "votes": 2839,
         "popularity": 869.7421,
         "genreIds": [
           12,
@@ -1435,7 +1437,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 773,
+        "votes": 774,
         "popularity": 311.0577,
         "genreIds": [
           27,
@@ -1455,7 +1457,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 688,
+        "votes": 689,
         "popularity": 348.0608,
         "genreIds": [
           12,
@@ -1477,7 +1479,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 517,
+        "votes": 519,
         "popularity": 259.8192,
         "genreIds": [
           28,
@@ -1485,6 +1487,26 @@
           878
         ],
         "lang": "ko"
+      },
+      {
+        "id": 1323244,
+        "type": "movie",
+        "title": "Rage of Stars",
+        "originalTitle": "Rage of Stars",
+        "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
+        "poster": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+        "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 2.3,
+        "votes": 3,
+        "popularity": 291.1501,
+        "genreIds": [
+          28,
+          878,
+          53
+        ],
+        "lang": "en"
       },
       {
         "id": 1339713,
@@ -1497,7 +1519,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4760,
+        "votes": 4761,
         "popularity": 264.1614,
         "genreIds": [
           27,
@@ -1547,21 +1569,21 @@
         "lang": "en"
       },
       {
-        "id": 1323244,
+        "id": 1101383,
         "type": "movie",
-        "title": "Rage of Stars",
-        "originalTitle": "Rage of Stars",
-        "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
-        "poster": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-        "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
-        "date": "2026-08-06",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
         "year": "2026",
-        "rating": 2.3,
-        "votes": 3,
-        "popularity": 291.1501,
+        "rating": 6.8,
+        "votes": 172,
+        "popularity": 232.4848,
         "genreIds": [
-          28,
           878,
+          9648,
           53
         ],
         "lang": "en"
@@ -1577,30 +1599,10 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1131,
+        "votes": 1132,
         "popularity": 204.2175,
         "genreIds": [
           27
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 171,
-        "popularity": 232.4848,
-        "genreIds": [
-          878,
-          9648,
-          53
         ],
         "lang": "en"
       },
@@ -1675,7 +1677,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 248,
+        "votes": 249,
         "popularity": 135.4874,
         "genreIds": [
           35,
@@ -1695,7 +1697,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.2,
-        "votes": 877,
+        "votes": 878,
         "popularity": 127.6177,
         "genreIds": [
           16,
@@ -1735,7 +1737,7 @@
         "date": "2026-07-31",
         "year": "2026",
         "rating": 7.1,
-        "votes": 161,
+        "votes": 165,
         "popularity": 153.286,
         "genreIds": [
           27,
@@ -1755,7 +1757,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.9,
-        "votes": 348,
+        "votes": 351,
         "popularity": 113.9616,
         "genreIds": [
           27,
@@ -1774,7 +1776,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.6,
-        "votes": 153,
+        "votes": 154,
         "popularity": 93.9747,
         "genreIds": [
           28,
@@ -2570,7 +2572,7 @@
         "year": "2026",
         "rating": 9.4,
         "votes": 803,
-        "popularity": 67.6436,
+        "popularity": 67.2142,
         "genreIds": [
           10759,
           18,
@@ -2589,8 +2591,8 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 533,
-        "popularity": 73.4462,
+        "votes": 535,
+        "popularity": 79.7743,
         "genreIds": [
           37,
           18
@@ -2608,8 +2610,8 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18397,
-        "popularity": 140.596,
+        "votes": 18400,
+        "popularity": 151.7746,
         "genreIds": [
           18,
           80
@@ -2627,8 +2629,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.9,
-        "votes": 787,
-        "popularity": 77.7506,
+        "votes": 789,
+        "popularity": 80.5883,
         "genreIds": [
           18
         ],
@@ -2646,7 +2648,7 @@
         "year": "2026",
         "rating": 8.9,
         "votes": 245,
-        "popularity": 23.6748,
+        "popularity": 23.8867,
         "genreIds": [
           10759,
           35,
@@ -2667,7 +2669,7 @@
         "year": "2024",
         "rating": 8.9,
         "votes": 201,
-        "popularity": 34.0191,
+        "popularity": 37.3695,
         "genreIds": [
           35,
           10765,
@@ -2687,7 +2689,7 @@
         "year": "2023",
         "rating": 8.8,
         "votes": 927,
-        "popularity": 82.3992,
+        "popularity": 91.739,
         "genreIds": [
           16,
           10759,
@@ -2707,8 +2709,8 @@
         "date": "2019-04-21",
         "year": "2019",
         "rating": 8.8,
-        "votes": 949,
-        "popularity": 59.7014,
+        "votes": 951,
+        "popularity": 61.8994,
         "genreIds": [
           10759,
           10751,
@@ -2728,7 +2730,7 @@
         "year": "2005",
         "rating": 8.8,
         "votes": 5043,
-        "popularity": 29.6066,
+        "popularity": 32.3007,
         "genreIds": [
           16,
           10759,
@@ -2748,7 +2750,7 @@
         "year": "2025",
         "rating": 8.8,
         "votes": 569,
-        "popularity": 24.4476,
+        "popularity": 24.0815,
         "genreIds": [
           18
         ],
@@ -2766,7 +2768,7 @@
         "year": "2015",
         "rating": 8.8,
         "votes": 221,
-        "popularity": 14.8019,
+        "popularity": 17.084,
         "genreIds": [
           35
         ],
@@ -2783,8 +2785,8 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5479,
-        "popularity": 44.5588,
+        "votes": 5481,
+        "popularity": 49.0018,
         "genreIds": [
           10759,
           35,
@@ -2803,8 +2805,8 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.8,
-        "votes": 6100,
-        "popularity": 31.3158,
+        "votes": 6101,
+        "popularity": 34.5165,
         "genreIds": [
           16,
           10759,
@@ -2824,7 +2826,7 @@
         "year": "2025",
         "rating": 8.7,
         "votes": 579,
-        "popularity": 31.4639,
+        "popularity": 36.637,
         "genreIds": [
           18
         ],
@@ -2841,8 +2843,8 @@
         "date": "2025-01-09",
         "year": "2025",
         "rating": 8.7,
-        "votes": 905,
-        "popularity": 76.2843,
+        "votes": 906,
+        "popularity": 86.277,
         "genreIds": [
           18
         ],
@@ -2859,8 +2861,8 @@
         "date": "2024-08-09",
         "year": "2024",
         "rating": 8.7,
-        "votes": 350,
-        "popularity": 44.926,
+        "votes": 351,
+        "popularity": 44.8927,
         "genreIds": [
           18,
           35
@@ -2878,8 +2880,8 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8167,
-        "popularity": 35.3519,
+        "votes": 8169,
+        "popularity": 40.6309,
         "genreIds": [
           18
         ],
@@ -2896,8 +2898,8 @@
         "date": "2009-04-05",
         "year": "2009",
         "rating": 8.7,
-        "votes": 2541,
-        "popularity": 44.065,
+        "votes": 2542,
+        "popularity": 48.157,
         "genreIds": [
           16,
           10759,
@@ -2917,8 +2919,8 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6761,
-        "popularity": 64.8885,
+        "votes": 6762,
+        "popularity": 69.0622,
         "genreIds": [
           80,
           18
@@ -2937,7 +2939,7 @@
         "year": "2022",
         "rating": 8.7,
         "votes": 503,
-        "popularity": 45.5102,
+        "popularity": 50.1023,
         "genreIds": [
           10759,
           18
@@ -3348,7 +3350,7 @@
         "year": "2023",
         "rating": 6.2,
         "votes": 26,
-        "popularity": 206.0322,
+        "popularity": 192.7191,
         "genreIds": [
           16
         ],
@@ -3366,7 +3368,7 @@
         "year": "2022",
         "rating": 5.9,
         "votes": 7,
-        "popularity": 173.1334,
+        "popularity": 181.8329,
         "genreIds": [
           16
         ],
@@ -3384,7 +3386,7 @@
         "year": "2020",
         "rating": 7.5,
         "votes": 90,
-        "popularity": 139.1754,
+        "popularity": 139.3979,
         "genreIds": [
           16
         ],
@@ -3401,35 +3403,12 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1659,
-        "popularity": 124.5531,
+        "votes": 1671,
+        "popularity": 134.0743,
         "genreIds": [
           10759,
           16,
           10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 65733,
-        "type": "tv",
-        "title": "Doraemon",
-        "originalTitle": "ドラえもん",
-        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-        "poster": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "backdrop": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
-        "date": "2005-04-22",
-        "year": "2005",
-        "rating": 8.1,
-        "votes": 239,
-        "popularity": 104.9389,
-        "genreIds": [
-          10759,
-          16,
-          35,
-          10765,
-          10762,
-          10751
         ],
         "lang": "ja"
       },
@@ -3445,10 +3424,33 @@
         "year": "2017",
         "rating": 5.3,
         "votes": 14,
-        "popularity": 102.5305,
+        "popularity": 125.655,
         "genreIds": [
           16,
           18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 65733,
+        "type": "tv",
+        "title": "Doraemon",
+        "originalTitle": "ドラえもん",
+        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+        "poster": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "backdrop": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+        "date": "2005-04-22",
+        "year": "2005",
+        "rating": 8.1,
+        "votes": 239,
+        "popularity": 115.2105,
+        "genreIds": [
+          10759,
+          16,
+          35,
+          10765,
+          10762,
+          10751
         ],
         "lang": "ja"
       },
@@ -3463,8 +3465,8 @@
         "date": "2004-10-05",
         "year": "2004",
         "rating": 8.4,
-        "votes": 2217,
-        "popularity": 99.0037,
+        "votes": 2219,
+        "popularity": 114.4718,
         "genreIds": [
           10759,
           16,
@@ -3483,32 +3485,12 @@
         "date": "2016-04-04",
         "year": "2016",
         "rating": 8.1,
-        "votes": 745,
-        "popularity": 88.5499,
+        "votes": 754,
+        "popularity": 93.2646,
         "genreIds": [
           16,
           18,
           9648,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 95479,
-        "type": "tv",
-        "title": "JUJUTSU KAISEN",
-        "originalTitle": "呪術廻戦",
-        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-        "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "backdrop": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
-        "date": "2020-10-03",
-        "year": "2020",
-        "rating": 8.6,
-        "votes": 4612,
-        "popularity": 85.8674,
-        "genreIds": [
-          16,
           10759,
           10765
         ],
@@ -3525,13 +3507,52 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 927,
-        "popularity": 82.3992,
+        "votes": 928,
+        "popularity": 91.739,
         "genreIds": [
           16,
           10759,
           18,
           10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 95479,
+        "type": "tv",
+        "title": "JUJUTSU KAISEN",
+        "originalTitle": "呪術廻戦",
+        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+        "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "backdrop": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+        "date": "2020-10-03",
+        "year": "2020",
+        "rating": 8.6,
+        "votes": 4615,
+        "popularity": 88.1356,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 65336,
+        "type": "tv",
+        "title": "March Comes In Like a Lion",
+        "originalTitle": "３月のライオン",
+        "overview": "This is a gentle tale about people trying to regain something. And it is a tale of battle. Rei Kiriyama had lost his family in an accident when he was young. Now he is a 17-year-old pro shogi player who is burdened with deep loneliness. Rei lives alone in an old town in Tokyo, but after becoming acquainted with three sisters, Akari, Hinata and Momo, he begins to change little by little...",
+        "poster": "/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+        "backdrop": "/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
+        "date": "2016-10-08",
+        "year": "2016",
+        "rating": 8,
+        "votes": 142,
+        "popularity": 83.383,
+        "genreIds": [
+          16,
+          18
         ],
         "lang": "ja"
       },
@@ -3547,46 +3568,9 @@
         "year": "2024",
         "rating": 6.9,
         "votes": 39,
-        "popularity": 81.6108,
+        "popularity": 82.5522,
         "genreIds": [
           16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 220118,
-        "type": "tv",
-        "title": "Sazanami Soushi ni Junketsu wo Sasagu",
-        "originalTitle": "漣蒼士に純潔を捧ぐ",
-        "overview": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos at me as he makes passionate love to me. This is bad! Something's coming...!!",
-        "poster": "/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
-        "backdrop": "/3dqyRG3kaHQgC1n15cGh7YyaSAK.jpg",
-        "date": "2023-04-03",
-        "year": "2023",
-        "rating": 6.6,
-        "votes": 7,
-        "popularity": 79.6732,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 113360,
-        "type": "tv",
-        "title": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
-        "originalTitle": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
-        "overview": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
-        "poster": "/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
-        "backdrop": "/kPO4rsDkSwmGMRDejvLAel8FafA.jpg",
-        "date": "2021-01-03",
-        "year": "2021",
-        "rating": 6.6,
-        "votes": 27,
-        "popularity": 79.058,
-        "genreIds": [
-          16,
-          35
         ],
         "lang": "ja"
       },
@@ -3602,91 +3586,11 @@
         "year": "1997",
         "rating": 8,
         "votes": 2230,
-        "popularity": 73.2452,
+        "popularity": 78.7283,
         "genreIds": [
           16,
           10759,
           10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 30979,
-        "type": "tv",
-        "title": "Gravitation",
-        "originalTitle": "グラビテーション",
-        "overview": "Aspiring singer Shuichi Shindo and his band, Bad Luck, work to become Japan's next musical sensation, while he struggles to capture Eiri Yuki's attention.",
-        "poster": "/pSX3VpIt5lQJvxh1uHuSMJUwPgO.jpg",
-        "backdrop": "/fowIZg4V8WEfhA8pOUWpBHWf42f.jpg",
-        "date": "2000-10-04",
-        "year": "2000",
-        "rating": 6.5,
-        "votes": 17,
-        "popularity": 68.9479,
-        "genreIds": [
-          16,
-          18,
-          35
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 46298,
-        "type": "tv",
-        "title": "Hunter x Hunter",
-        "originalTitle": "HUNTER×HUNTER",
-        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
-        "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
-        "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
-        "date": "2011-10-02",
-        "year": "2011",
-        "rating": 8.7,
-        "votes": 2175,
-        "popularity": 66.2807,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 12971,
-        "type": "tv",
-        "title": "Dragon Ball Z",
-        "originalTitle": "ドラゴンボールゼット",
-        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
-        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
-        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
-        "date": "1989-04-26",
-        "year": "1989",
-        "rating": 8.4,
-        "votes": 4967,
-        "popularity": 65.1946,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 120013,
-        "type": "tv",
-        "title": "RE-MAIN",
-        "originalTitle": "RE-MAIN",
-        "overview": "Minato is a boy who stopped playing water polo due to a certain incident in the winter of his third middle school year. He picks the sport back up again with a new team when he starts in high school, but the fledgling team runs into many problems.",
-        "poster": "/nnsLtt5RndrFzNBgVRQjRdXLeeq.jpg",
-        "backdrop": "/T6bTrOo2iuwU3rJsZOS65ekAak.jpg",
-        "date": "2021-07-04",
-        "year": "2021",
-        "rating": 6.8,
-        "votes": 32,
-        "popularity": 64.5523,
-        "genreIds": [
-          16,
-          35,
-          18
         ],
         "lang": "ja"
       },
@@ -3702,7 +3606,7 @@
         "year": "2023",
         "rating": 8.6,
         "votes": 618,
-        "popularity": 62.4041,
+        "popularity": 75.2419,
         "genreIds": [
           16,
           18,
@@ -3711,21 +3615,119 @@
         "lang": "ja"
       },
       {
-        "id": 30623,
+        "id": 46298,
         "type": "tv",
-        "title": "Shin Chan",
-        "originalTitle": "クレヨンしんちゃん",
-        "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-        "poster": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
-        "backdrop": "/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
-        "date": "1992-04-13",
-        "year": "1992",
-        "rating": 7.7,
-        "votes": 115,
-        "popularity": 61.984,
+        "title": "Hunter x Hunter",
+        "originalTitle": "HUNTER×HUNTER",
+        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+        "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+        "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+        "date": "2011-10-02",
+        "year": "2011",
+        "rating": 8.7,
+        "votes": 2176,
+        "popularity": 74.9496,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 113360,
+        "type": "tv",
+        "title": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
+        "originalTitle": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
+        "overview": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
+        "poster": "/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
+        "backdrop": "/kPO4rsDkSwmGMRDejvLAel8FafA.jpg",
+        "date": "2021-01-03",
+        "year": "2021",
+        "rating": 6.6,
+        "votes": 27,
+        "popularity": 72.9413,
         "genreIds": [
           16,
           35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 12971,
+        "type": "tv",
+        "title": "Dragon Ball Z",
+        "originalTitle": "ドラゴンボールゼット",
+        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+        "date": "1989-04-26",
+        "year": "1989",
+        "rating": 8.4,
+        "votes": 4969,
+        "popularity": 71.9086,
+        "genreIds": [
+          16,
+          10765,
+          10759
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 13916,
+        "type": "tv",
+        "title": "Death Note",
+        "originalTitle": "DEATH NOTE",
+        "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+        "poster": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+        "backdrop": "/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+        "date": "2006-10-04",
+        "year": "2006",
+        "rating": 8.6,
+        "votes": 5085,
+        "popularity": 70.9893,
+        "genreIds": [
+          16,
+          9648,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 220118,
+        "type": "tv",
+        "title": "Sazanami Soushi ni Junketsu wo Sasagu",
+        "originalTitle": "漣蒼士に純潔を捧ぐ",
+        "overview": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos at me as he makes passionate love to me. This is bad! Something's coming...!!",
+        "poster": "/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
+        "backdrop": "/3dqyRG3kaHQgC1n15cGh7YyaSAK.jpg",
+        "date": "2023-04-03",
+        "year": "2023",
+        "rating": 6.6,
+        "votes": 7,
+        "popularity": 67.9144,
+        "genreIds": [
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 91768,
+        "type": "tv",
+        "title": "Ascendance of a Bookworm",
+        "originalTitle": "本好きの下剋上 司書になるためには手段を選んでいられません",
+        "overview": "When a sickly young girl suddenly becomes obsessed with inventing new things, her family and friends are all puzzled. \"What has gotten into Myne?\" they wondered, never dreaming that the answer is not a \"What\" but a \"Who\": Urano Motosu, a book-loving apprentice librarian who died in an earthquake in Tokyo who somehow found herself in Myne's body! And since Myne's world is still in a medieval stage, where books can only be owned by the elite, the new Myne intends to do everything she can to bring her beloved books to the masses in the time she has left.",
+        "poster": "/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
+        "backdrop": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+        "date": "2019-10-03",
+        "year": "2019",
+        "rating": 8.1,
+        "votes": 140,
+        "popularity": 66.7551,
+        "genreIds": [
+          16,
+          18,
+          10765
         ],
         "lang": "ja"
       }
