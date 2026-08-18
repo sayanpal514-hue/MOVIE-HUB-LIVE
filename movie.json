@@ -13,7 +13,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.5,
-        "votes": 877,
+        "votes": 885,
         "popularity": 266.4324,
         "genreIds": [
           16,
@@ -35,7 +35,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 85,
+        "votes": 87,
         "popularity": 269.2111,
         "genreIds": [
           18,
@@ -56,7 +56,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1875,
+        "votes": 1876,
         "popularity": 1911.7361,
         "genreIds": [
           878,
@@ -77,7 +77,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.7,
-        "votes": 209,
+        "votes": 210,
         "popularity": 230.9838,
         "genreIds": [
           878,
@@ -86,48 +86,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3080,
-        "popularity": 604.7756,
-        "genreIds": [
-          10759,
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2892,
-        "popularity": 850.2382,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -153,6 +111,48 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3081,
+        "popularity": 604.7756,
+        "genreIds": [
+          10759,
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2893,
+        "popularity": 850.2382,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 950028,
         "type": "movie",
         "title": "The Invite",
@@ -163,7 +163,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 263,
+        "votes": 266,
         "popularity": 114.565,
         "genreIds": [
           35,
@@ -3746,7 +3746,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.7,
-        "votes": 1870,
+        "votes": 1871,
         "popularity": 97.2507,
         "genreIds": [
           16,
@@ -3827,7 +3827,7 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 12864,
+        "votes": 12866,
         "popularity": 27.8371,
         "genreIds": [
           16,
@@ -3939,27 +3939,6 @@
         "lang": "ja"
       },
       {
-        "id": 1363974,
-        "type": "movie",
-        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "originalTitle": "劇場版 転生したらスライムだった件 蒼海の涙編",
-        "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
-        "poster": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
-        "backdrop": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
-        "date": "2026-02-27",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 51,
-        "popularity": 16.3677,
-        "genreIds": [
-          16,
-          14,
-          12,
-          35
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 10494,
         "type": "movie",
         "title": "Perfect Blue",
@@ -3975,6 +3954,47 @@
         "genreIds": [
           16,
           53
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 9323,
+        "type": "movie",
+        "title": "Ghost in the Shell",
+        "originalTitle": "GHOST IN THE SHELL",
+        "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+        "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+        "backdrop": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+        "date": "1995-11-18",
+        "year": "1995",
+        "rating": 7.9,
+        "votes": 3993,
+        "popularity": 17.0074,
+        "genreIds": [
+          28,
+          16,
+          878
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1363974,
+        "type": "movie",
+        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "originalTitle": "劇場版 転生したらスライムだった件 蒼海の涙編",
+        "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
+        "poster": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
+        "backdrop": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
+        "date": "2026-02-27",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 52,
+        "popularity": 16.3677,
+        "genreIds": [
+          16,
+          14,
+          12,
+          35
         ],
         "lang": "ja"
       },
@@ -3996,26 +4016,6 @@
           12,
           14,
           16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 9323,
-        "type": "movie",
-        "title": "Ghost in the Shell",
-        "originalTitle": "GHOST IN THE SHELL",
-        "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-        "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-        "backdrop": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-        "date": "1995-11-18",
-        "year": "1995",
-        "rating": 7.9,
-        "votes": 3993,
-        "popularity": 17.0074,
-        "genreIds": [
-          28,
-          16,
-          878
         ],
         "lang": "ja"
       },
@@ -4062,6 +4062,26 @@
         "lang": "ja"
       },
       {
+        "id": 149,
+        "type": "movie",
+        "title": "Akira",
+        "originalTitle": "AKIRA",
+        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "date": "1988-06-10",
+        "year": "1988",
+        "rating": 7.9,
+        "votes": 4904,
+        "popularity": 13.9188,
+        "genreIds": [
+          16,
+          878,
+          28
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 378064,
         "type": "movie",
         "title": "A Silent Voice: The Movie",
@@ -4102,42 +4122,22 @@
         "lang": "ja"
       },
       {
-        "id": 149,
+        "id": 53064,
         "type": "movie",
-        "title": "Akira",
-        "originalTitle": "AKIRA",
-        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-        "date": "1988-06-10",
-        "year": "1988",
-        "rating": 7.9,
-        "votes": 4904,
-        "popularity": 13.9188,
+        "title": "Midori",
+        "originalTitle": "地下幻燈劇画 少女椿",
+        "overview": "After losing her parents, young flower selling Midori is put up by a fairground group. She is abused and forced to slavery, until the arrival of an enigmatic magician of short stature, who gives her hope for a better future.",
+        "poster": "/iv3TU7RAuWnMwhsYd7eaAIJ3NuO.jpg",
+        "backdrop": "/hII4gDYkG9DJZ6iysUO4cNjkD2p.jpg",
+        "date": "1992-05-02",
+        "year": "1992",
+        "rating": 6,
+        "votes": 175,
+        "popularity": 12.3777,
         "genreIds": [
           16,
-          878,
-          28
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 16859,
-        "type": "movie",
-        "title": "Kiki's Delivery Service",
-        "originalTitle": "魔女の宅急便",
-        "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
-        "poster": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
-        "backdrop": "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
-        "date": "1989-07-29",
-        "year": "1989",
-        "rating": 7.8,
-        "votes": 4674,
-        "popularity": 11.8724,
-        "genreIds": [
-          16,
-          10751,
-          14
+          18,
+          27
         ],
         "lang": "ja"
       }
