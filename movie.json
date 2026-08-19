@@ -13,7 +13,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 104,
+        "votes": 105,
         "popularity": 275.8696,
         "genreIds": [
           18,
@@ -22,6 +22,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/4zWwbVV31Qss578iJdVECyhMslB.jpg",
+        "backdrop": "/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 15,
+        "popularity": 30.1536,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1084244,
@@ -34,7 +54,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1096,
+        "votes": 1104,
         "popularity": 388.1231,
         "genreIds": [
           16,
@@ -56,7 +76,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1932,
+        "votes": 1936,
         "popularity": 1872.4338,
         "genreIds": [
           878,
@@ -65,6 +85,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2961,
+        "popularity": 778.47,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -86,47 +127,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2950,
-        "popularity": 778.47,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/4zWwbVV31Qss578iJdVECyhMslB.jpg",
-        "backdrop": "/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 14,
-        "popularity": 30.1536,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -1796,7 +1796,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2926,
+        "votes": 2950,
         "popularity": 778.47,
         "genreIds": [
           12,
@@ -1816,7 +1816,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 537,
+        "votes": 545,
         "popularity": 300.1541,
         "genreIds": [
           28,
@@ -1836,10 +1836,30 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4822,
+        "votes": 4836,
         "popularity": 238.3554,
         "genreIds": [
           27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 248,
+        "popularity": 217.1636,
+        "genreIds": [
+          878,
+          9648,
           53
         ],
         "lang": "en"
@@ -1865,26 +1885,6 @@
         "lang": "en"
       },
       {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 235,
-        "popularity": 217.1636,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -1895,32 +1895,12 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2836,
+        "votes": 2850,
         "popularity": 131.2784,
         "genreIds": [
           27,
           9648,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 950028,
-        "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-        "date": "2026-06-25",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 269,
-        "popularity": 100.7257,
-        "genreIds": [
-          35,
-          18,
-          10749
         ],
         "lang": "en"
       },
@@ -1944,6 +1924,26 @@
         "lang": "en"
       },
       {
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 273,
+        "popularity": 100.7257,
+        "genreIds": [
+          35,
+          18,
+          10749
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1564614,
         "type": "movie",
         "title": "Leviticus",
@@ -1954,7 +1954,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 6.8,
-        "votes": 376,
+        "votes": 379,
         "popularity": 92.8966,
         "genreIds": [
           27,
@@ -1973,7 +1973,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31075,
+        "votes": 31084,
         "popularity": 88.7998,
         "genreIds": [
           18,
@@ -1992,7 +1992,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 4076,
+        "votes": 4079,
         "popularity": 81.9152,
         "genreIds": [
           10402,
@@ -2030,12 +2030,31 @@
         "date": "2026-01-28",
         "year": "2026",
         "rating": 7.8,
-        "votes": 1715,
+        "votes": 1718,
         "popularity": 56.4994,
         "genreIds": [
           28,
           80,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 671,
+        "type": "movie",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "originalTitle": "Harry Potter and the Philosopher's Stone",
+        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+        "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+        "backdrop": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+        "date": "2001-11-16",
+        "year": "2001",
+        "rating": 7.9,
+        "votes": 30038,
+        "popularity": 45.5762,
+        "genreIds": [
+          12,
+          14
         ],
         "lang": "en"
       },
@@ -2050,7 +2069,7 @@
         "date": "2026-07-02",
         "year": "2026",
         "rating": 7.8,
-        "votes": 81,
+        "votes": 83,
         "popularity": 41.9177,
         "genreIds": [
           36,
@@ -2070,50 +2089,12 @@
         "date": "2026-06-19",
         "year": "2026",
         "rating": 6.3,
-        "votes": 318,
+        "votes": 324,
         "popularity": 41.7123,
         "genreIds": [
           53,
           28,
           80
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1122573,
-        "type": "movie",
-        "title": "In the Grey",
-        "originalTitle": "In the Grey",
-        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 732,
-        "popularity": 36.0973,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 671,
-        "type": "movie",
-        "title": "Harry Potter and the Philosopher's Stone",
-        "originalTitle": "Harry Potter and the Philosopher's Stone",
-        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
-        "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
-        "backdrop": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
-        "date": "2001-11-16",
-        "year": "2001",
-        "rating": 7.9,
-        "votes": 30037,
-        "popularity": 45.5762,
-        "genreIds": [
-          12,
-          14
         ],
         "lang": "en"
       },
@@ -2147,7 +2128,7 @@
         "date": "2026-04-01",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1587,
+        "votes": 1594,
         "popularity": 36.8716,
         "genreIds": [
           10749,
@@ -2157,21 +2138,40 @@
         "lang": "en"
       },
       {
-        "id": 1430698,
+        "id": 672,
         "type": "movie",
-        "title": "The Bay",
-        "originalTitle": "The Bay",
-        "overview": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
-        "poster": "/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-        "backdrop": "/qaMQOtAZ6K4RneNDa1yDlJv1V6J.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 5.7,
-        "votes": 24,
-        "popularity": 34.5806,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "originalTitle": "Harry Potter and the Chamber of Secrets",
+        "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+        "poster": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "backdrop": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+        "date": "2002-11-13",
+        "year": "2002",
+        "rating": 7.7,
+        "votes": 23927,
+        "popularity": 36.1527,
         "genreIds": [
-          53,
-          27
+          12,
+          14
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1122573,
+        "type": "movie",
+        "title": "In the Grey",
+        "originalTitle": "In the Grey",
+        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 733,
+        "popularity": 36.0973,
+        "genreIds": [
+          28,
+          53
         ],
         "lang": "en"
       }
@@ -3368,25 +3368,6 @@
         "lang": "ja"
       },
       {
-        "id": 65336,
-        "type": "tv",
-        "title": "March Comes In Like a Lion",
-        "originalTitle": "３月のライオン",
-        "overview": "This is a gentle tale about people trying to regain something. And it is a tale of battle. Rei Kiriyama had lost his family in an accident when he was young. Now he is a 17-year-old pro shogi player who is burdened with deep loneliness. Rei lives alone in an old town in Tokyo, but after becoming acquainted with three sisters, Akari, Hinata and Momo, he begins to change little by little...",
-        "poster": "/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
-        "backdrop": "/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
-        "date": "2016-10-08",
-        "year": "2016",
-        "rating": 8,
-        "votes": 142,
-        "popularity": 78.8761,
-        "genreIds": [
-          16,
-          18
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 94664,
         "type": "tv",
         "title": "Mushoku Tensei: Jobless Reincarnation",
@@ -3407,22 +3388,21 @@
         "lang": "ja"
       },
       {
-        "id": 91768,
+        "id": 70998,
         "type": "tv",
-        "title": "Ascendance of a Bookworm",
-        "originalTitle": "本好きの下剋上 司書になるためには手段を選んでいられません",
-        "overview": "When a sickly young girl suddenly becomes obsessed with inventing new things, her family and friends are all puzzled. \"What has gotten into Myne?\" they wondered, never dreaming that the answer is not a \"What\" but a \"Who\": Urano Motosu, a book-loving apprentice librarian who died in an earthquake in Tokyo who somehow found herself in Myne's body! And since Myne's world is still in a medieval stage, where books can only be owned by the elite, the new Myne intends to do everything she can to bring her beloved books to the masses in the time she has left.",
-        "poster": "/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
-        "backdrop": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
-        "date": "2019-10-03",
-        "year": "2019",
-        "rating": 8.1,
-        "votes": 141,
-        "popularity": 69.473,
+        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "originalTitle": "僧侶と交わる色欲の夜に…",
+        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
+        "poster": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "backdrop": "/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+        "date": "2017-04-03",
+        "year": "2017",
+        "rating": 5.3,
+        "votes": 14,
+        "popularity": 127.0374,
         "genreIds": [
           16,
-          18,
-          10765
+          18
         ],
         "lang": "ja"
       },
@@ -3445,21 +3425,22 @@
         "lang": "ja"
       },
       {
-        "id": 70998,
+        "id": 30984,
         "type": "tv",
-        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "originalTitle": "僧侶と交わる色欲の夜に…",
-        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
-        "poster": "/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "backdrop": "/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
-        "date": "2017-04-03",
-        "year": "2017",
-        "rating": 5.3,
-        "votes": 14,
-        "popularity": 127.0374,
+        "title": "Bleach",
+        "originalTitle": "BLEACH",
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "date": "2004-10-05",
+        "year": "2004",
+        "rating": 8.4,
+        "votes": 2225,
+        "popularity": 112.039,
         "genreIds": [
+          10759,
           16,
-          18
+          10765
         ],
         "lang": "ja"
       },
@@ -3487,60 +3468,23 @@
         "lang": "ja"
       },
       {
-        "id": 30984,
+        "id": 209867,
         "type": "tv",
-        "title": "Bleach",
-        "originalTitle": "BLEACH",
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "poster": "/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "date": "2004-10-05",
-        "year": "2004",
-        "rating": 8.4,
-        "votes": 2225,
-        "popularity": 112.039,
+        "title": "Frieren: Beyond Journey's End",
+        "originalTitle": "葬送のフリーレン",
+        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+        "backdrop": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+        "date": "2023-09-29",
+        "year": "2023",
+        "rating": 8.8,
+        "votes": 933,
+        "popularity": 95.712,
         "genreIds": [
+          16,
           10759,
-          16,
+          18,
           10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 256744,
-        "type": "tv",
-        "title": "Flower and Asura",
-        "originalTitle": "花は咲く、修羅の如く",
-        "overview": "The story is set in Tonakishima, a small island with a population of 600. Hana, a high school girl who lives on the island, loves recitals, and holds regular reading sessions for the island's children. Mizuki, the president of the Broadcasting Club, senses Hana's power to attract people through her reading and invites her to join the club. Hana joins the Broadcasting Club and experiences many firsts with the other members.",
-        "poster": "/WUfHP1VrHKFBXbKuCDoB6hSUa9.jpg",
-        "backdrop": "/5gdqwB0uYyh2oIGNGZg2a1032Ni.jpg",
-        "date": "2025-01-08",
-        "year": "2025",
-        "rating": 6.5,
-        "votes": 14,
-        "popularity": 46.3736,
-        "genreIds": [
-          16,
-          18
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 283428,
-        "type": "tv",
-        "title": "The Ramparts of Ice",
-        "originalTitle": "氷の城壁",
-        "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
-        "poster": "/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
-        "backdrop": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-        "date": "2026-04-02",
-        "year": "2026",
-        "rating": 8.6,
-        "votes": 51,
-        "popularity": 49.306,
-        "genreIds": [
-          16,
-          18
         ],
         "lang": "ja"
       },
@@ -3587,27 +3531,6 @@
         "lang": "ja"
       },
       {
-        "id": 209867,
-        "type": "tv",
-        "title": "Frieren: Beyond Journey's End",
-        "originalTitle": "葬送のフリーレン",
-        "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
-        "poster": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-        "backdrop": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-        "date": "2023-09-29",
-        "year": "2023",
-        "rating": 8.8,
-        "votes": 932,
-        "popularity": 95.712,
-        "genreIds": [
-          16,
-          10759,
-          18,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 220542,
         "type": "tv",
         "title": "The Apothecary Diaries",
@@ -3628,22 +3551,59 @@
         "lang": "ja"
       },
       {
-        "id": 92579,
+        "id": 60572,
         "type": "tv",
-        "title": "Keep Your Hands Off Eizouken!",
-        "originalTitle": "映像研には手を出すな!",
-        "overview": "First-year high schooler Midori Asakusa loves anime so much, she insists that \"concept is everything\" in animation. While she spends her time doodling endless ideas and settings in her sketchbook, she hasn't taken the first step to creating anime, insisting that she can't do it alone. After Asakusa's money-loving best friend Sayaka Kanamori notices her genius and drive – and when it becomes clear that their classmate and charismatic fashion model Tsubame Mizusaki wants to be an animator – the energetic trio start an animation club. Together, the three aim to realize the \"ultimate world\" that exists in their minds, as they come to see the power that fiction and imagination have on their lives and the world around them.",
-        "poster": "/1rHoqpvvfjHqEBGuhKfPtZoRQkC.jpg",
-        "backdrop": "/zay5axfEIgIrd5tyPl2NsS1OPY4.jpg",
-        "date": "2020-01-05",
-        "year": "2020",
-        "rating": 8.1,
-        "votes": 117,
-        "popularity": 37.4101,
+        "title": "Pokémon",
+        "originalTitle": "ポケットモンスター",
+        "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+        "poster": "/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "backdrop": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+        "date": "1997-04-01",
+        "year": "1997",
+        "rating": 8,
+        "votes": 2231,
+        "popularity": 80.0815,
         "genreIds": [
           16,
           10759,
-          35
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 65336,
+        "type": "tv",
+        "title": "March Comes In Like a Lion",
+        "originalTitle": "３月のライオン",
+        "overview": "This is a gentle tale about people trying to regain something. And it is a tale of battle. Rei Kiriyama had lost his family in an accident when he was young. Now he is a 17-year-old pro shogi player who is burdened with deep loneliness. Rei lives alone in an old town in Tokyo, but after becoming acquainted with three sisters, Akari, Hinata and Momo, he begins to change little by little...",
+        "poster": "/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+        "backdrop": "/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
+        "date": "2016-10-08",
+        "year": "2016",
+        "rating": 8,
+        "votes": 142,
+        "popularity": 78.8761,
+        "genreIds": [
+          16,
+          18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 241002,
+        "type": "tv",
+        "title": "Adam's Sweet Agony",
+        "originalTitle": "悶えてよ、アダムくん",
+        "overview": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered all men impotent, high school student Itsuki is the exception who escaped it. In order to protect this secret, he transfers to a very special high school, which turns out to be composed of 90% girls! There, he encounters an upbeat and friendly senior, a sexually frustrated female teacher, a tomboyish school 'prince,' and an heiress from a wealthy family. For Itsuki, who has his pick of any woman in the world, the question remains: which one will he choose?",
+        "poster": "/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+        "backdrop": "/bM4nCynOSA5oCNqLsqb1Fo56sZQ.jpg",
+        "date": "2024-01-08",
+        "year": "2024",
+        "rating": 6.9,
+        "votes": 39,
+        "popularity": 77.0276,
+        "genreIds": [
+          16
         ],
         "lang": "ja"
       },
@@ -3669,18 +3629,38 @@
         "lang": "ja"
       },
       {
-        "id": 60572,
+        "id": 12971,
         "type": "tv",
-        "title": "Pokémon",
-        "originalTitle": "ポケットモンスター",
-        "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
-        "poster": "/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
-        "backdrop": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
-        "date": "1997-04-01",
-        "year": "1997",
-        "rating": 8,
-        "votes": 2231,
-        "popularity": 80.0815,
+        "title": "Dragon Ball Z",
+        "originalTitle": "ドラゴンボールゼット",
+        "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+        "poster": "/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+        "backdrop": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+        "date": "1989-04-26",
+        "year": "1989",
+        "rating": 8.4,
+        "votes": 4970,
+        "popularity": 72.6439,
+        "genreIds": [
+          16,
+          10765,
+          10759
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 46298,
+        "type": "tv",
+        "title": "Hunter x Hunter",
+        "originalTitle": "HUNTER×HUNTER",
+        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+        "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+        "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+        "date": "2011-10-02",
+        "year": "2011",
+        "rating": 8.7,
+        "votes": 2179,
+        "popularity": 71.8312,
         "genreIds": [
           16,
           10759,
@@ -3689,38 +3669,58 @@
         "lang": "ja"
       },
       {
-        "id": 31910,
+        "id": 91768,
         "type": "tv",
-        "title": "Naruto Shippūden",
-        "originalTitle": "ナルト 疾風伝",
-        "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-        "poster": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-        "backdrop": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-        "date": "2007-02-15",
-        "year": "2007",
-        "rating": 8.5,
-        "votes": 8740,
-        "popularity": 63.0332,
+        "title": "Ascendance of a Bookworm",
+        "originalTitle": "本好きの下剋上 司書になるためには手段を選んでいられません",
+        "overview": "When a sickly young girl suddenly becomes obsessed with inventing new things, her family and friends are all puzzled. \"What has gotten into Myne?\" they wondered, never dreaming that the answer is not a \"What\" but a \"Who\": Urano Motosu, a book-loving apprentice librarian who died in an earthquake in Tokyo who somehow found herself in Myne's body! And since Myne's world is still in a medieval stage, where books can only be owned by the elite, the new Myne intends to do everything she can to bring her beloved books to the masses in the time she has left.",
+        "poster": "/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
+        "backdrop": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+        "date": "2019-10-03",
+        "year": "2019",
+        "rating": 8.1,
+        "votes": 141,
+        "popularity": 69.473,
         "genreIds": [
           16,
-          10759,
+          18,
           10765
         ],
         "lang": "ja"
       },
       {
-        "id": 245876,
+        "id": 254853,
         "type": "tv",
-        "title": "Sorairo Utility",
-        "originalTitle": "空色ユーティリティ",
-        "overview": "High schooler Minami, ready to become the protagonist in her own story, runs away from school and finds golf at a driving range.",
-        "poster": "/urwkLwOCg1QBFc17wVB60Rbw5yF.jpg",
-        "backdrop": "/1eWI1oR4LexG8PUMXVA1GAIHkKo.jpg",
-        "date": "2025-01-04",
+        "title": "ZatsuTabi -That's Journey-",
+        "originalTitle": "ざつ旅 -That's Journey-",
+        "overview": "When aspiring manga artist Chika’s storyboards get rejected, she ditches her desk for an adventure! Armed with a quirky social media poll, she sets off on a spontaneous journey of random crowdsourced destinations. From hilarious mishaps to heartwarming encounters, Chika discovers inspiration, friendship, and herself, one unpredictable stop at a time.",
+        "poster": "/gemDYCOLFZE8RGMxJi433bikPcD.jpg",
+        "backdrop": "/rN555e3fN2oFTTt03aA52BYC6sw.jpg",
+        "date": "2025-04-07",
         "year": "2025",
-        "rating": 7.1,
-        "votes": 7,
-        "popularity": 35.475,
+        "rating": 7.4,
+        "votes": 14,
+        "popularity": 68.897,
+        "genreIds": [
+          16,
+          18,
+          35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 113360,
+        "type": "tv",
+        "title": "Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu",
+        "originalTitle": "じみへんっ!!～地味子を変えちゃう純異性交遊～",
+        "overview": "The story follows Rena Yukuhasahi, a reserved office lady and Ryouhei Hachiya, a businessman and fellow colleague. Yukuhasahi appears to be the most reserved girl in the company, but becomes a super beautiful woman when she dresses up. Flustered in the presence of her transformed self, Hachiya insists on taking her out, only to find themselves in front of a love hotel.",
+        "poster": "/to5FshluwPdO9d3Ucs7fagJL7OU.jpg",
+        "backdrop": "/kPO4rsDkSwmGMRDejvLAel8FafA.jpg",
+        "date": "2021-01-03",
+        "year": "2021",
+        "rating": 6.6,
+        "votes": 27,
+        "popularity": 66.84,
         "genreIds": [
           16,
           35
@@ -3740,7 +3740,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.7,
-        "votes": 1886,
+        "votes": 1894,
         "popularity": 92.4348,
         "genreIds": [
           16,
@@ -3770,27 +3770,6 @@
         "lang": "ja"
       },
       {
-        "id": 1218925,
-        "type": "movie",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
-        "originalTitle": "劇場版 チェンソーマン レゼ篇",
-        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-        "poster": "/crBfxNvvsQV3rATX12EuX4W9ECo.jpg",
-        "backdrop": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-        "date": "2025-09-19",
-        "year": "2025",
-        "rating": 8.5,
-        "votes": 1124,
-        "popularity": 30.4075,
-        "genreIds": [
-          16,
-          28,
-          10749,
-          14
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 129,
         "type": "movie",
         "title": "Spirited Away",
@@ -3801,11 +3780,32 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18714,
+        "votes": 18725,
         "popularity": 31.842,
         "genreIds": [
           16,
           10751,
+          14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1218925,
+        "type": "movie",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "originalTitle": "劇場版 チェンソーマン レゼ篇",
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "poster": "/crBfxNvvsQV3rATX12EuX4W9ECo.jpg",
+        "backdrop": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+        "date": "2025-09-19",
+        "year": "2025",
+        "rating": 8.5,
+        "votes": 1128,
+        "popularity": 30.4075,
+        "genreIds": [
+          16,
+          28,
+          10749,
           14
         ],
         "lang": "ja"
@@ -3821,7 +3821,7 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 12869,
+        "votes": 12881,
         "popularity": 27.3264,
         "genreIds": [
           16,
@@ -3841,73 +3841,12 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11310,
+        "votes": 11319,
         "popularity": 23.9204,
         "genreIds": [
           14,
           16,
           12
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 1679730,
-        "type": "movie",
-        "title": "THE RIBBON HERO",
-        "originalTitle": "THE RIBBON HERO リボンヒーロー",
-        "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
-        "poster": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-        "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
-        "date": "2026-08-07",
-        "year": "2026",
-        "rating": 7,
-        "votes": 14,
-        "popularity": 17.2407,
-        "genreIds": [
-          16,
-          14,
-          18,
-          28
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 128,
-        "type": "movie",
-        "title": "Princess Mononoke",
-        "originalTitle": "もののけ姫",
-        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-        "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
-        "backdrop": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
-        "date": "1997-07-12",
-        "year": "1997",
-        "rating": 8.3,
-        "votes": 9188,
-        "popularity": 17.5038,
-        "genreIds": [
-          12,
-          14,
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 1539104,
-        "type": "movie",
-        "title": "JUJUTSU KAISEN: Execution",
-        "originalTitle": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
-        "overview": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji's execution for his perceived crimes. A compilation movie of Shibuya Incident including the first two episodes of the Culling Games arc.",
-        "poster": "/v0s3dx6am0RzfsuK3KdEy8ZoCDs.jpg",
-        "backdrop": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
-        "date": "2025-11-07",
-        "year": "2025",
-        "rating": 6,
-        "votes": 113,
-        "popularity": 16.4458,
-        "genreIds": [
-          16,
-          28,
-          14
         ],
         "lang": "ja"
       },
@@ -3933,21 +3872,43 @@
         "lang": "ja"
       },
       {
-        "id": 10494,
+        "id": 128,
         "type": "movie",
-        "title": "Perfect Blue",
-        "originalTitle": "PERFECT BLUE",
-        "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
-        "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
-        "backdrop": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-        "date": "1998-02-28",
-        "year": "1998",
+        "title": "Princess Mononoke",
+        "originalTitle": "もののけ姫",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "backdrop": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "date": "1997-07-12",
+        "year": "1997",
         "rating": 8.3,
-        "votes": 3297,
-        "popularity": 15.7492,
+        "votes": 9196,
+        "popularity": 17.5038,
+        "genreIds": [
+          12,
+          14,
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1679730,
+        "type": "movie",
+        "title": "THE RIBBON HERO",
+        "originalTitle": "THE RIBBON HERO リボンヒーロー",
+        "overview": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fate.",
+        "poster": "/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+        "backdrop": "/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+        "date": "2026-08-07",
+        "year": "2026",
+        "rating": 7,
+        "votes": 14,
+        "popularity": 17.2407,
         "genreIds": [
           16,
-          53
+          14,
+          18,
+          28
         ],
         "lang": "ja"
       },
@@ -3962,7 +3923,7 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 3994,
+        "votes": 3996,
         "popularity": 17.0676,
         "genreIds": [
           28,
@@ -3972,23 +3933,63 @@
         "lang": "ja"
       },
       {
-        "id": 1363974,
+        "id": 1539104,
         "type": "movie",
-        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-        "originalTitle": "劇場版 転生したらスライムだった件 蒼海の涙編",
-        "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
-        "poster": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
-        "backdrop": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
-        "date": "2026-02-27",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 52,
-        "popularity": 14.9722,
+        "title": "JUJUTSU KAISEN: Execution",
+        "originalTitle": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+        "overview": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji's execution for his perceived crimes. A compilation movie of Shibuya Incident including the first two episodes of the Culling Games arc.",
+        "poster": "/v0s3dx6am0RzfsuK3KdEy8ZoCDs.jpg",
+        "backdrop": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+        "date": "2025-11-07",
+        "year": "2025",
+        "rating": 6,
+        "votes": 113,
+        "popularity": 16.4458,
         "genreIds": [
           16,
+          28,
+          14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 18491,
+        "type": "movie",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+        "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+        "backdrop": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+        "date": "1997-07-19",
+        "year": "1997",
+        "rating": 8.3,
+        "votes": 1918,
+        "popularity": 15.7683,
+        "genreIds": [
+          16,
+          878,
+          18,
           14,
-          12,
-          35
+          28
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 10494,
+        "type": "movie",
+        "title": "Perfect Blue",
+        "originalTitle": "PERFECT BLUE",
+        "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+        "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+        "backdrop": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+        "date": "1998-02-28",
+        "year": "1998",
+        "rating": 8.3,
+        "votes": 3300,
+        "popularity": 15.7492,
+        "genreIds": [
+          16,
+          53
         ],
         "lang": "ja"
       },
@@ -4024,7 +4025,7 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 8985,
+        "votes": 8991,
         "popularity": 14.9974,
         "genreIds": [
           14,
@@ -4034,44 +4035,23 @@
         "lang": "ja"
       },
       {
-        "id": 18491,
+        "id": 1363974,
         "type": "movie",
-        "title": "Neon Genesis Evangelion: The End of Evangelion",
-        "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
-        "overview": "SEELE orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can advance his own plans for the Human Instrumentality Project. Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
-        "poster": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
-        "backdrop": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
-        "date": "1997-07-19",
-        "year": "1997",
-        "rating": 8.3,
-        "votes": 1915,
-        "popularity": 15.7683,
+        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "originalTitle": "劇場版 転生したらスライムだった件 蒼海の涙編",
+        "overview": "After concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.",
+        "poster": "/oblkRIWuKTF46CsnLhBiE7Otn3z.jpg",
+        "backdrop": "/l2Gk8eFrPHn6ltT9PtfmdyvqFsG.jpg",
+        "date": "2026-02-27",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 52,
+        "popularity": 14.9722,
         "genreIds": [
           16,
-          878,
-          18,
           14,
-          28
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 149,
-        "type": "movie",
-        "title": "Akira",
-        "originalTitle": "AKIRA",
-        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-        "date": "1988-06-10",
-        "year": "1988",
-        "rating": 7.9,
-        "votes": 4904,
-        "popularity": 11.988,
-        "genreIds": [
-          16,
-          878,
-          28
+          12,
+          35
         ],
         "lang": "ja"
       },
@@ -4086,7 +4066,7 @@
         "date": "2016-09-17",
         "year": "2016",
         "rating": 8.4,
-        "votes": 4624,
+        "votes": 4627,
         "popularity": 13.6913,
         "genreIds": [
           16,
@@ -4106,7 +4086,7 @@
         "date": "2020-10-16",
         "year": "2020",
         "rating": 8.2,
-        "votes": 4631,
+        "votes": 4632,
         "popularity": 12.4815,
         "genreIds": [
           16,
@@ -4116,22 +4096,42 @@
         "lang": "ja"
       },
       {
-        "id": 53064,
+        "id": 149,
         "type": "movie",
-        "title": "Midori",
-        "originalTitle": "地下幻燈劇画 少女椿",
-        "overview": "After losing her parents, young flower selling Midori is put up by a fairground group. She is abused and forced to slavery, until the arrival of an enigmatic magician of short stature, who gives her hope for a better future.",
-        "poster": "/iv3TU7RAuWnMwhsYd7eaAIJ3NuO.jpg",
-        "backdrop": "/hII4gDYkG9DJZ6iysUO4cNjkD2p.jpg",
-        "date": "1992-05-02",
-        "year": "1992",
-        "rating": 6,
-        "votes": 175,
-        "popularity": 11.1293,
+        "title": "Akira",
+        "originalTitle": "AKIRA",
+        "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+        "poster": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+        "backdrop": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+        "date": "1988-06-10",
+        "year": "1988",
+        "rating": 7.9,
+        "votes": 4910,
+        "popularity": 11.988,
         "genreIds": [
           16,
-          18,
-          27
+          878,
+          28
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 16859,
+        "type": "movie",
+        "title": "Kiki's Delivery Service",
+        "originalTitle": "魔女の宅急便",
+        "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+        "poster": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+        "backdrop": "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+        "date": "1989-07-29",
+        "year": "1989",
+        "rating": 7.8,
+        "votes": 4678,
+        "popularity": 11.5411,
+        "genreIds": [
+          16,
+          10751,
+          14
         ],
         "lang": "ja"
       }
