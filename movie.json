@@ -34,7 +34,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3088,
+        "votes": 3089,
         "popularity": 611.4489,
         "genreIds": [
           10759,
@@ -55,7 +55,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1900,
+        "votes": 1902,
         "popularity": 1872.4338,
         "genreIds": [
           878,
@@ -64,27 +64,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2925,
-        "popularity": 778.47,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1084244,
@@ -97,7 +76,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.8,
-        "votes": 1046,
+        "votes": 1050,
         "popularity": 388.1231,
         "genreIds": [
           16,
@@ -109,27 +88,45 @@
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1315772,
+        "id": 1368337,
         "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "date": "2026-07-15",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 741,
-        "popularity": 288.8608,
+        "rating": 8,
+        "votes": 2926,
+        "popularity": 778.47,
         "genreIds": [
           12,
-          16,
-          35,
-          10751,
+          28,
           14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 278624,
+        "type": "tv",
+        "title": "Lucky",
+        "originalTitle": "Lucky",
+        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+        "poster": "/qdobPy3No4Fi3dCzcIDP9n8AjcO.jpg",
+        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "date": "2026-07-14",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 151,
+        "popularity": 98.9976,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -153,24 +150,27 @@
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 278624,
-        "type": "tv",
-        "title": "Lucky",
-        "originalTitle": "Lucky",
-        "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-        "poster": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-        "backdrop": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
-        "date": "2026-07-14",
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 7.3,
-        "votes": 149,
-        "popularity": 98.9976,
+        "rating": 7.5,
+        "votes": 741,
+        "popularity": 288.8608,
         "genreIds": [
-          18,
-          80
+          12,
+          16,
+          35,
+          10751,
+          14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -2568,7 +2568,7 @@
         "year": "2026",
         "rating": 9.4,
         "votes": 809,
-        "popularity": 67.8504,
+        "popularity": 67.8419,
         "genreIds": [
           10759,
           18,
@@ -2587,8 +2587,8 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 540,
-        "popularity": 75.4352,
+        "votes": 541,
+        "popularity": 72.6345,
         "genreIds": [
           37,
           18
@@ -2606,8 +2606,8 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18419,
-        "popularity": 148.9727,
+        "votes": 18421,
+        "popularity": 147.467,
         "genreIds": [
           18,
           80
@@ -2625,8 +2625,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.9,
-        "votes": 791,
-        "popularity": 77.7385,
+        "votes": 792,
+        "popularity": 77.2183,
         "genreIds": [
           18
         ],
@@ -2644,7 +2644,7 @@
         "year": "2026",
         "rating": 8.9,
         "votes": 245,
-        "popularity": 22.8965,
+        "popularity": 21.7021,
         "genreIds": [
           10759,
           35,
@@ -2665,7 +2665,7 @@
         "year": "2024",
         "rating": 8.9,
         "votes": 201,
-        "popularity": 34.1248,
+        "popularity": 26.0847,
         "genreIds": [
           35,
           10765,
@@ -2685,7 +2685,7 @@
         "year": "2023",
         "rating": 8.8,
         "votes": 932,
-        "popularity": 86.0829,
+        "popularity": 95.712,
         "genreIds": [
           16,
           10759,
@@ -2705,8 +2705,8 @@
         "date": "2019-04-21",
         "year": "2019",
         "rating": 8.8,
-        "votes": 952,
-        "popularity": 62.3312,
+        "votes": 953,
+        "popularity": 58.8038,
         "genreIds": [
           10759,
           10751,
@@ -2726,7 +2726,7 @@
         "year": "2005",
         "rating": 8.8,
         "votes": 5051,
-        "popularity": 30.8563,
+        "popularity": 29.9338,
         "genreIds": [
           16,
           10759,
@@ -2745,8 +2745,8 @@
         "date": "2025-03-07",
         "year": "2025",
         "rating": 8.8,
-        "votes": 570,
-        "popularity": 25.7212,
+        "votes": 571,
+        "popularity": 25.6011,
         "genreIds": [
           18
         ],
@@ -2764,7 +2764,7 @@
         "year": "2015",
         "rating": 8.8,
         "votes": 222,
-        "popularity": 16.305,
+        "popularity": 15.0488,
         "genreIds": [
           35
         ],
@@ -2782,7 +2782,7 @@
         "year": "2021",
         "rating": 8.8,
         "votes": 6106,
-        "popularity": 35.1375,
+        "popularity": 32.3918,
         "genreIds": [
           16,
           10759,
@@ -2801,8 +2801,8 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.8,
-        "votes": 5487,
-        "popularity": 49.6344,
+        "votes": 5489,
+        "popularity": 48.5562,
         "genreIds": [
           10759,
           35,
@@ -2822,7 +2822,7 @@
         "year": "2025",
         "rating": 8.7,
         "votes": 582,
-        "popularity": 33.8137,
+        "popularity": 32.9957,
         "genreIds": [
           18
         ],
@@ -2840,7 +2840,7 @@
         "year": "2024",
         "rating": 8.7,
         "votes": 351,
-        "popularity": 42.0105,
+        "popularity": 38.2553,
         "genreIds": [
           18,
           35
@@ -2858,8 +2858,8 @@
         "date": "2025-01-09",
         "year": "2025",
         "rating": 8.7,
-        "votes": 910,
-        "popularity": 85.638,
+        "votes": 911,
+        "popularity": 85.0454,
         "genreIds": [
           18
         ],
@@ -2877,7 +2877,7 @@
         "year": "2019",
         "rating": 8.7,
         "votes": 8179,
-        "popularity": 40.9514,
+        "popularity": 36.8995,
         "genreIds": [
           18
         ],
@@ -2894,8 +2894,8 @@
         "date": "2009-04-05",
         "year": "2009",
         "rating": 8.7,
-        "votes": 2546,
-        "popularity": 47.2786,
+        "votes": 2547,
+        "popularity": 48.0589,
         "genreIds": [
           16,
           10759,
@@ -2916,7 +2916,7 @@
         "year": "2015",
         "rating": 8.7,
         "votes": 6768,
-        "popularity": 73.2255,
+        "popularity": 73.702,
         "genreIds": [
           80,
           18
@@ -2934,8 +2934,8 @@
         "date": "2022-11-18",
         "year": "2022",
         "rating": 8.7,
-        "votes": 504,
-        "popularity": 49.7635,
+        "votes": 505,
+        "popularity": 46.747,
         "genreIds": [
           10759,
           18
