@@ -182,8 +182,8 @@
         "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 22,
+        "rating": 7.2,
+        "votes": 24,
         "popularity": 84.6787,
         "genreIds": [
           28,
@@ -223,7 +223,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1180,
+        "votes": 1185,
         "popularity": 404.7642,
         "genreIds": [
           16,
@@ -233,6 +233,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 2979,
+        "popularity": 728.3957,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -255,33 +276,12 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2977,
-        "popularity": 728.3957,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1418582,
         "type": "movie",
         "title": "Here the Whole Time",
         "originalTitle": "Quinze Dias",
         "overview": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his house. The days that promised peace, tranquility and epic series marathons end up bringing a whirlwind of feelings and unresolved issues.",
-        "poster": "/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+        "poster": "/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
         "backdrop": "/wiIFKSEZkKgmoI1ylsrbqvRxu1S.jpg",
         "date": "2026-06-18",
         "year": "2026",
@@ -296,27 +296,6 @@
         "iframe": "https://peachify.top/embed/movie/1418582?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 111,
-        "popularity": 272.8087,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -327,7 +306,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1956,
+        "votes": 1958,
         "popularity": 1875.3748,
         "genreIds": [
           878,
@@ -348,7 +327,7 @@
         "date": "2026-07-14",
         "year": "2026",
         "rating": 7.2,
-        "votes": 170,
+        "votes": 171,
         "popularity": 137.8792,
         "genreIds": [
           18,
@@ -356,6 +335,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 113,
+        "popularity": 272.8087,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1291595,
@@ -388,7 +388,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4854,
+        "votes": 4856,
         "popularity": 232.9651,
         "genreIds": [
           27,
@@ -396,27 +396,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 129.3192,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -429,7 +408,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 759,
+        "votes": 760,
         "popularity": 264.2694,
         "genreIds": [
           12,
@@ -463,6 +442,27 @@
         "iframe": "https://peachify.top/embed/tv/303351?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1003596,
+        "type": "movie",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 129.3192,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1101383,
         "type": "movie",
         "title": "The End of Oak Street",
@@ -482,6 +482,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2458,
+        "popularity": 237.1217,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 97546,
@@ -504,45 +524,43 @@
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 125988,
+        "id": 312523,
         "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2457,
-        "popularity": 237.1217,
+        "title": "S&X",
+        "originalTitle": "SとX﻿",
+        "overview": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
+        "poster": "/2b1VtZeMXXYCq8MnI4ETWyx2Orx.jpg",
+        "backdrop": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 5.558,
         "genreIds": [
-          10765,
           18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/312523?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1083381,
+        "id": 1275779,
         "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
+        "title": "Disclosure Day",
+        "originalTitle": "Disclosure Day",
+        "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+        "poster": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "backdrop": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+        "date": "2026-06-10",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 2857,
-        "popularity": 131.004,
+        "rating": 7.5,
+        "votes": 2908,
+        "popularity": 167.6166,
         "genreIds": [
-          27,
-          9648,
-          878
+          878,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1688804,
@@ -562,26 +580,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1688804?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1275779,
-        "type": "movie",
-        "title": "Disclosure Day",
-        "originalTitle": "Disclosure Day",
-        "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-        "poster": "/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "backdrop": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-        "date": "2026-06-10",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 2907,
-        "popularity": 167.6166,
-        "genreIds": [
-          878,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1275779?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1389,12 +1387,12 @@
         "originalTitle": "Spider-Man: Brand New Day",
         "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
         "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1938,
-        "popularity": 1872.4338,
+        "votes": 1948,
+        "popularity": 1875.3748,
         "genreIds": [
           878,
           28,
@@ -1413,8 +1411,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2962,
-        "popularity": 778.47,
+        "votes": 2972,
+        "popularity": 728.3957,
         "genreIds": [
           12,
           28,
@@ -1433,8 +1431,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1106,
-        "popularity": 388.1231,
+        "votes": 1172,
+        "popularity": 404.7642,
         "genreIds": [
           16,
           10751,
@@ -1455,7 +1453,7 @@
         "year": "2026",
         "rating": 4.8,
         "votes": 6,
-        "popularity": 339.1926,
+        "popularity": 370.7603,
         "genreIds": [
           28,
           878,
@@ -1474,8 +1472,8 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 546,
-        "popularity": 300.1541,
+        "votes": 550,
+        "popularity": 292.2132,
         "genreIds": [
           28,
           27,
@@ -1494,8 +1492,8 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 749,
-        "popularity": 288.8608,
+        "votes": 756,
+        "popularity": 264.2694,
         "genreIds": [
           12,
           16,
@@ -1516,8 +1514,8 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 887,
-        "popularity": 243.5797,
+        "votes": 896,
+        "popularity": 218.8879,
         "genreIds": [
           27,
           878,
@@ -1536,8 +1534,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4839,
-        "popularity": 238.3554,
+        "votes": 4848,
+        "popularity": 232.9651,
         "genreIds": [
           27,
           53
@@ -1555,8 +1553,8 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.5,
-        "votes": 253,
-        "popularity": 217.1636,
+        "votes": 256,
+        "popularity": 202.1509,
         "genreIds": [
           878,
           9648,
@@ -1576,7 +1574,7 @@
         "year": "2026",
         "rating": 6.3,
         "votes": 228,
-        "popularity": 212.8565,
+        "popularity": 204.5826,
         "genreIds": [
           12,
           18,
@@ -1595,8 +1593,8 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6,
-        "votes": 206,
-        "popularity": 178.6083,
+        "votes": 207,
+        "popularity": 194.8449,
         "genreIds": [
           10751,
           14,
@@ -1616,8 +1614,8 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1174,
-        "popularity": 169.309,
+        "votes": 1182,
+        "popularity": 153.2715,
         "genreIds": [
           27
         ],
@@ -1634,8 +1632,8 @@
         "date": "2026-07-31",
         "year": "2026",
         "rating": 7.2,
-        "votes": 208,
-        "popularity": 132.0729,
+        "votes": 211,
+        "popularity": 120.8394,
         "genreIds": [
           27,
           878,
@@ -1654,8 +1652,8 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2850,
-        "popularity": 131.2784,
+        "votes": 2854,
+        "popularity": 131.004,
         "genreIds": [
           27,
           9648,
@@ -1674,8 +1672,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 6.6,
-        "votes": 656,
-        "popularity": 111.0638,
+        "votes": 661,
+        "popularity": 102.3229,
         "genreIds": [
           27,
           53
@@ -1693,8 +1691,8 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.2,
-        "votes": 904,
-        "popularity": 110.9348,
+        "votes": 910,
+        "popularity": 105.1595,
         "genreIds": [
           16,
           28,
@@ -1715,7 +1713,7 @@
         "year": "2026",
         "rating": 7.3,
         "votes": 30,
-        "popularity": 108.8539,
+        "popularity": 103.2092,
         "genreIds": [
           28,
           10752
@@ -1733,8 +1731,8 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.5,
-        "votes": 162,
-        "popularity": 106.6404,
+        "votes": 164,
+        "popularity": 106.9577,
         "genreIds": [
           28,
           35,
@@ -1754,28 +1752,27 @@
         "year": "2026",
         "rating": 7.1,
         "votes": 121,
-        "popularity": 103.2321,
+        "popularity": 98.4879,
         "genreIds": [
           10749
         ],
         "lang": "ru"
       },
       {
-        "id": 950028,
+        "id": 1564614,
         "type": "movie",
-        "title": "The Invite",
-        "originalTitle": "The Invite",
-        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
-        "date": "2026-06-25",
+        "title": "Leviticus",
+        "originalTitle": "Leviticus",
+        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "date": "2026-06-17",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 274,
-        "popularity": 100.7257,
+        "rating": 6.8,
+        "votes": 389,
+        "popularity": 87.491,
         "genreIds": [
-          35,
-          18,
+          27,
           10749
         ],
         "lang": "en"
