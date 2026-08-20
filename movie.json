@@ -3,26 +3,6 @@
   "data": {
     "spotlight": [
       {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 7,
-        "votes": 29,
-        "popularity": 84.6787,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 95350,
         "type": "tv",
         "title": "Lanterns",
@@ -44,28 +24,6 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 1191,
-        "popularity": 404.7642,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 969681,
         "type": "movie",
         "title": "Spider-Man: Brand New Day",
@@ -76,7 +34,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1967,
+        "votes": 1969,
         "popularity": 1875.3748,
         "genreIds": [
           878,
@@ -85,6 +43,28 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 1193,
+        "popularity": 404.7642,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -97,7 +77,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2984,
+        "votes": 2985,
         "popularity": 728.3957,
         "genreIds": [
           12,
@@ -108,24 +88,44 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 100757,
+        "id": 108978,
         "type": "tv",
-        "title": "Outer Banks",
-        "originalTitle": "Outer Banks",
-        "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-        "poster": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-        "backdrop": "/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
-        "date": "2020-04-15",
-        "year": "2020",
-        "rating": 8.3,
-        "votes": 1227,
-        "popularity": 58.9895,
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3094,
+        "popularity": 637.7978,
         "genreIds": [
           10759,
-          9648
+          80
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/100757?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 30,
+        "popularity": 84.6787,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -151,24 +151,25 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3094,
-        "popularity": 637.7978,
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 268,
+        "popularity": 202.1509,
         "genreIds": [
-          10759,
-          80
+          878,
+          9648,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -597,7 +598,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1953,
+        "votes": 1968,
         "popularity": 1875.3748,
         "genreIds": [
           878,
@@ -617,32 +618,12 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2975,
+        "votes": 2985,
         "popularity": 728.3957,
         "genreIds": [
           12,
           28,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 634649,
-        "type": "movie",
-        "title": "Spider-Man: No Way Home",
-        "originalTitle": "Spider-Man: No Way Home",
-        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-        "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-        "backdrop": "/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
-        "date": "2021-12-15",
-        "year": "2021",
-        "rating": 7.9,
-        "votes": 22756,
-        "popularity": 386.8832,
-        "genreIds": [
-          28,
-          12,
-          878
         ],
         "lang": "en"
       },
@@ -657,13 +638,33 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1177,
+        "votes": 1192,
         "popularity": 404.7642,
         "genreIds": [
           16,
           10751,
           35,
           12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 634649,
+        "type": "movie",
+        "title": "Spider-Man: No Way Home",
+        "originalTitle": "Spider-Man: No Way Home",
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "backdrop": "/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
+        "date": "2021-12-15",
+        "year": "2021",
+        "rating": 7.9,
+        "votes": 22765,
+        "popularity": 386.8832,
+        "genreIds": [
+          28,
+          12,
+          878
         ],
         "lang": "en"
       },
@@ -698,7 +699,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 550,
+        "votes": 553,
         "popularity": 292.2132,
         "genreIds": [
           28,
@@ -718,7 +719,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 757,
+        "votes": 763,
         "popularity": 264.2694,
         "genreIds": [
           12,
@@ -726,26 +727,6 @@
           35,
           10751,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 897,
-        "popularity": 218.8879,
-        "genreIds": [
-          27,
-          878,
-          53
         ],
         "lang": "en"
       },
@@ -760,7 +741,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4851,
+        "votes": 4860,
         "popularity": 232.9651,
         "genreIds": [
           27,
@@ -769,21 +750,21 @@
         "lang": "en"
       },
       {
-        "id": 1101383,
+        "id": 1284041,
         "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+        "date": "2026-08-06",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 256,
-        "popularity": 202.1509,
+        "rating": 6.9,
+        "votes": 902,
+        "popularity": 218.8879,
         "genreIds": [
+          27,
           878,
-          9648,
           53
         ],
         "lang": "en"
@@ -799,12 +780,32 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 228,
+        "votes": 232,
         "popularity": 204.5826,
         "genreIds": [
           12,
           18,
           28
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 267,
+        "popularity": 202.1509,
+        "genreIds": [
+          878,
+          9648,
+          53
         ],
         "lang": "en"
       },
@@ -819,7 +820,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6,
-        "votes": 207,
+        "votes": 209,
         "popularity": 194.8449,
         "genreIds": [
           10751,
@@ -840,7 +841,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2905,
+        "votes": 2909,
         "popularity": 167.6166,
         "genreIds": [
           878,
@@ -867,26 +868,6 @@
         "lang": "en"
       },
       {
-        "id": 1081003,
-        "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 1950,
-        "popularity": 131.9168,
-        "genreIds": [
-          28,
-          12,
-          878
-        ],
-        "lang": "en"
-      },
-      {
         "id": 82023,
         "type": "movie",
         "title": "Hotel Desire",
@@ -906,22 +887,22 @@
         "lang": "de"
       },
       {
-        "id": 1307118,
+        "id": 1081003,
         "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-        "date": "2026-07-31",
+        "title": "Supergirl",
+        "originalTitle": "Supergirl",
+        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+        "date": "2026-06-24",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 211,
-        "popularity": 120.8394,
+        "rating": 6.7,
+        "votes": 1956,
+        "popularity": 131.9168,
         "genreIds": [
-          27,
-          878,
-          53
+          28,
+          12,
+          878
         ],
         "lang": "en"
       },
@@ -936,7 +917,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2856,
+        "votes": 2859,
         "popularity": 131.004,
         "genreIds": [
           27,
@@ -966,22 +947,39 @@
         "lang": "en"
       },
       {
-        "id": 315635,
+        "id": 687163,
         "type": "movie",
-        "title": "Spider-Man: Homecoming",
-        "originalTitle": "Spider-Man: Homecoming",
-        "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-        "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-        "backdrop": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
-        "date": "2017-07-05",
-        "year": "2017",
-        "rating": 7.3,
-        "votes": 23693,
-        "popularity": 118.0399,
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
+        "year": "2026",
+        "rating": 8.7,
+        "votes": 7196,
+        "popularity": 125.0677,
         "genreIds": [
-          28,
-          12,
-          878
+          878,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1273221,
+        "type": "movie",
+        "title": "Scary Movie",
+        "originalTitle": "Scary Movie",
+        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 1675,
+        "popularity": 121.2712,
+        "genreIds": [
+          35
         ],
         "lang": "en"
       }
