@@ -182,8 +182,8 @@
         "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 7.1,
-        "votes": 26,
+        "rating": 7,
+        "votes": 28,
         "popularity": 84.6787,
         "genreIds": [
           28,
@@ -223,7 +223,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1189,
+        "votes": 1190,
         "popularity": 404.7642,
         "genreIds": [
           16,
@@ -245,7 +245,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1961,
+        "votes": 1966,
         "popularity": 1875.3748,
         "genreIds": [
           878,
@@ -254,27 +254,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 2978,
-        "popularity": 728.3957,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -287,7 +266,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 114,
+        "votes": 115,
         "popularity": 272.8087,
         "genreIds": [
           18,
@@ -298,44 +277,25 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1418582,
+        "id": 1368337,
         "type": "movie",
-        "title": "Here the Whole Time",
-        "originalTitle": "Quinze Dias",
-        "overview": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his house. The days that promised peace, tranquility and epic series marathons end up bringing a whirlwind of feelings and unresolved issues.",
-        "poster": "/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
-        "backdrop": "/wiIFKSEZkKgmoI1ylsrbqvRxu1S.jpg",
-        "date": "2026-06-18",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "date": "2026-07-15",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 11,
-        "popularity": 22.5998,
+        "rating": 8,
+        "votes": 2984,
+        "popularity": 728.3957,
         "genreIds": [
-          35,
-          10749
-        ],
-        "lang": "pt",
-        "iframe": "https://peachify.top/embed/movie/1418582?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3094,
-        "popularity": 637.7978,
-        "genreIds": [
-          10759,
-          80
+          12,
+          28,
+          14
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 278624,
@@ -358,6 +318,26 @@
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1418582,
+        "type": "movie",
+        "title": "Here the Whole Time",
+        "originalTitle": "Quinze Dias",
+        "overview": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his house. The days that promised peace, tranquility and epic series marathons end up bringing a whirlwind of feelings and unresolved issues.",
+        "poster": "/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
+        "backdrop": "/wiIFKSEZkKgmoI1ylsrbqvRxu1S.jpg",
+        "date": "2026-06-18",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 11,
+        "popularity": 22.5998,
+        "genreIds": [
+          35,
+          10749
+        ],
+        "lang": "pt",
+        "iframe": "https://peachify.top/embed/movie/1418582?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1291595,
         "type": "movie",
         "title": "Insidious: Out of the Further",
@@ -378,6 +358,26 @@
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3094,
+        "popularity": 637.7978,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1315772,
         "type": "movie",
         "title": "Minions & Monsters",
@@ -388,7 +388,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 761,
+        "votes": 763,
         "popularity": 264.2694,
         "genreIds": [
           12,
@@ -411,7 +411,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4857,
+        "votes": 4859,
         "popularity": 232.9651,
         "genreIds": [
           27,
@@ -492,7 +492,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2458,
+        "votes": 2460,
         "popularity": 237.1217,
         "genreIds": [
           10765,
@@ -511,8 +511,8 @@
         "backdrop": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
         "date": "2026-07-22",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 25,
+        "rating": 7.6,
+        "votes": 26,
         "popularity": 15.5451,
         "genreIds": [
           27,
@@ -533,7 +533,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.5,
-        "votes": 262,
+        "votes": 266,
         "popularity": 202.1509,
         "genreIds": [
           878,
@@ -564,25 +564,25 @@
         "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.8,
-        "votes": 5491,
-        "popularity": 46.8398,
+        "id": 950028,
+        "type": "movie",
+        "title": "The Invite",
+        "originalTitle": "The Invite",
+        "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+        "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+        "date": "2026-06-25",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 280,
+        "popularity": 91.2691,
         "genreIds": [
-          10759,
           35,
-          16
+          18,
+          10749
         ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/950028?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -1794,7 +1794,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 2972,
+        "votes": 2980,
         "popularity": 728.3957,
         "genreIds": [
           12,
@@ -1814,7 +1814,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 550,
+        "votes": 553,
         "popularity": 292.2132,
         "genreIds": [
           28,
@@ -1834,30 +1834,10 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4849,
+        "votes": 4858,
         "popularity": 232.9651,
         "genreIds": [
           27,
-          53
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 256,
-        "popularity": 202.1509,
-        "genreIds": [
-          878,
-          9648,
           53
         ],
         "lang": "en"
@@ -1873,12 +1853,32 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 228,
+        "votes": 230,
         "popularity": 204.5826,
         "genreIds": [
           12,
           18,
           28
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 264,
+        "popularity": 202.1509,
+        "genreIds": [
+          878,
+          9648,
+          53
         ],
         "lang": "en"
       },
@@ -1893,7 +1893,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2854,
+        "votes": 2859,
         "popularity": 131.004,
         "genreIds": [
           27,
@@ -1913,30 +1913,11 @@
         "date": "2026-06-26",
         "year": "2026",
         "rating": 7.3,
-        "votes": 30,
+        "votes": 31,
         "popularity": 103.2092,
         "genreIds": [
           28,
           10752
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1564614,
-        "type": "movie",
-        "title": "Leviticus",
-        "originalTitle": "Leviticus",
-        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
-        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
-        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 389,
-        "popularity": 87.491,
-        "genreIds": [
-          27,
-          10749
         ],
         "lang": "en"
       },
@@ -1947,11 +1928,11 @@
         "originalTitle": "The Invite",
         "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
         "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "backdrop": "/bs32Ds4L8VADGjBVasSK1ASU7OW.jpg",
+        "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 277,
+        "votes": 279,
         "popularity": 91.2691,
         "genreIds": [
           35,
@@ -1971,11 +1952,30 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31087,
+        "votes": 31090,
         "popularity": 87.6812,
         "genreIds": [
           18,
           80
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1564614,
+        "type": "movie",
+        "title": "Leviticus",
+        "originalTitle": "Leviticus",
+        "overview": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+        "poster": "/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "backdrop": "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 6.7,
+        "votes": 392,
+        "popularity": 87.491,
+        "genreIds": [
+          27,
+          10749
         ],
         "lang": "en"
       },
@@ -1985,12 +1985,12 @@
         "title": "Mutiny",
         "originalTitle": "Mutiny",
         "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "poster": "/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
         "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 7.7,
-        "votes": 17,
+        "rating": 7.1,
+        "votes": 26,
         "popularity": 84.6787,
         "genreIds": [
           28,
@@ -2009,7 +2009,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 4083,
+        "votes": 4088,
         "popularity": 78.3949,
         "genreIds": [
           10402,
@@ -2066,7 +2066,7 @@
         "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 5.8,
+        "rating": 6.3,
         "votes": 7,
         "popularity": 46.5651,
         "genreIds": [
@@ -2086,31 +2086,11 @@
         "date": "2001-11-16",
         "year": "2001",
         "rating": 7.9,
-        "votes": 30041,
+        "votes": 30043,
         "popularity": 44.1782,
         "genreIds": [
           12,
           14
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1308767,
-        "type": "movie",
-        "title": "Young Washington",
-        "originalTitle": "Young Washington",
-        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
-        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
-        "date": "2026-07-02",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 86,
-        "popularity": 36.1376,
-        "genreIds": [
-          36,
-          10752,
-          18
         ],
         "lang": "en"
       },
@@ -2125,31 +2105,12 @@
         "date": "2026-06-19",
         "year": "2026",
         "rating": 6.4,
-        "votes": 331,
+        "votes": 332,
         "popularity": 42.7451,
         "genreIds": [
           53,
           28,
           80
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1516698,
-        "type": "movie",
-        "title": "The Last Sunrise",
-        "originalTitle": "The Last Sunrise",
-        "overview": "Ry, a college student with a chronic illness escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-        "poster": "/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg",
-        "backdrop": "/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
-        "date": "2026-08-26",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 35.604,
-        "genreIds": [
-          10749,
-          18
         ],
         "lang": "en"
       },
@@ -2164,11 +2125,50 @@
         "date": "2026-04-01",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1596,
+        "votes": 1599,
         "popularity": 36.8144,
         "genreIds": [
           10749,
           35,
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1122573,
+        "type": "movie",
+        "title": "In the Grey",
+        "originalTitle": "In the Grey",
+        "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+        "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "backdrop": "/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 737,
+        "popularity": 36.4656,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1308767,
+        "type": "movie",
+        "title": "Young Washington",
+        "originalTitle": "Young Washington",
+        "overview": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+        "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "backdrop": "/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+        "date": "2026-07-02",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 87,
+        "popularity": 36.1376,
+        "genreIds": [
+          36,
+          10752,
           18
         ],
         "lang": "en"
