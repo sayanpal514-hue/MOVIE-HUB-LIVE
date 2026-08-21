@@ -179,8 +179,8 @@
         "backdrop": "/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 47,
+        "rating": 7,
+        "votes": 48,
         "popularity": 229.9234,
         "genreIds": [
           28,
@@ -241,7 +241,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1997,
+        "votes": 2001,
         "popularity": 1819.537,
         "genreIds": [
           878,
@@ -262,7 +262,7 @@
         "date": "2020-04-15",
         "year": "2020",
         "rating": 8.2,
-        "votes": 1236,
+        "votes": 1237,
         "popularity": 175.0752,
         "genreIds": [
           10759,
@@ -303,7 +303,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8,
-        "votes": 1270,
+        "votes": 1272,
         "popularity": 373.2636,
         "genreIds": [
           16,
@@ -313,27 +313,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3019,
-        "popularity": 684.2902,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1291595,
@@ -356,6 +335,27 @@
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3020,
+        "popularity": 684.2902,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 303351,
         "type": "tv",
         "title": "Blood Sacrifice",
@@ -375,26 +375,6 @@
         ],
         "lang": "sv",
         "iframe": "https://peachify.top/embed/tv/303351?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4886,
-        "popularity": 235.136,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1315772,
@@ -420,6 +400,46 @@
         "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3101,
+        "popularity": 659.7644,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4888,
+        "popularity": 235.136,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1232569,
         "type": "movie",
         "title": "Pinocchio: Unstrung",
@@ -441,26 +461,6 @@
         "iframe": "https://peachify.top/embed/movie/1232569?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3099,
-        "popularity": 659.7644,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 278624,
         "type": "tv",
         "title": "Lucky",
@@ -471,7 +471,7 @@
         "date": "2026-07-14",
         "year": "2026",
         "rating": 7.2,
-        "votes": 181,
+        "votes": 182,
         "popularity": 130.7669,
         "genreIds": [
           18,
@@ -479,6 +479,25 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/278624?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 312523,
+        "type": "tv",
+        "title": "S&X",
+        "originalTitle": "SとX﻿",
+        "overview": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
+        "poster": "/2b1VtZeMXXYCq8MnI4ETWyx2Orx.jpg",
+        "backdrop": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
+        "date": "2026-08-20",
+        "year": "2026",
+        "rating": 7,
+        "votes": 1,
+        "popularity": 20.083,
+        "genreIds": [
+          18
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/312523?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -502,25 +521,6 @@
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 312523,
-        "type": "tv",
-        "title": "S&X",
-        "originalTitle": "SとX﻿",
-        "overview": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
-        "poster": "/2b1VtZeMXXYCq8MnI4ETWyx2Orx.jpg",
-        "backdrop": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 7,
-        "votes": 1,
-        "popularity": 20.083,
-        "genreIds": [
-          18
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/312523?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1130948,
         "type": "movie",
         "title": "Rosebush Pruning",
@@ -530,8 +530,8 @@
         "backdrop": "/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
         "date": "2026-04-23",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 8,
+        "rating": 7.1,
+        "votes": 9,
         "popularity": 7.3182,
         "genreIds": [
           35,
@@ -540,6 +540,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1130948?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1676318,
+        "type": "movie",
+        "title": "Back to the 90s",
+        "originalTitle": "Back to the 90s",
+        "overview": "Since childhood, five best friends have dreamed of making it big as a boy band. When a once-in-a-lifetime opportunity arises to take a step closer to realizing their musical dream, one band member suddenly wants to give it all up, putting the future of the entire group in jeopardy. The five guys have to rise to the occasion - and in doing so, they suddenly find themselves in a completely different decade.",
+        "poster": "/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
+        "backdrop": "/xNM42dnmIYUXpVJmPwxYCcFuHWC.jpg",
+        "date": "2026-08-18",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 1.6767,
+        "genreIds": [
+          35,
+          18
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1676318?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1083381,
@@ -561,28 +581,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 243360,
-        "type": "tv",
-        "title": "Ludwig",
-        "originalTitle": "Ludwig",
-        "overview": "John Taylor lives in quiet solitude, designing puzzles for a living, under the nom-de-plume of 'Ludwig'. When his identical twin, James, disappears off the face of the earth, John takes over his brother's identity in a quest to discover his whereabouts.",
-        "poster": "/6xpAG4tJKhRT6y2Uxw2nAJareoQ.jpg",
-        "backdrop": "/9HQnJdzu92M81huqyT9jQQyaU6P.jpg",
-        "date": "2024-09-25",
-        "year": "2024",
-        "rating": 7.7,
-        "votes": 134,
-        "popularity": 36.9748,
-        "genreIds": [
-          9648,
-          80,
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/243360?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2182,7 +2180,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3098,
+        "votes": 3101,
         "popularity": 659.7644,
         "genreIds": [
           10759,
@@ -2201,7 +2199,7 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4588,
+        "votes": 4590,
         "popularity": 378.0578,
         "genreIds": [
           80,
@@ -2209,6 +2207,24 @@
           9648
         ],
         "lang": "en"
+      },
+      {
+        "id": 94722,
+        "type": "tv",
+        "title": "Tagesschau",
+        "originalTitle": "Tagesschau",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+        "date": "1952-12-26",
+        "year": "1952",
+        "rating": 6.8,
+        "votes": 256,
+        "popularity": 372.5434,
+        "genreIds": [
+          10763
+        ],
+        "lang": "de"
       },
       {
         "id": 113962,
@@ -2221,7 +2237,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8.1,
-        "votes": 1383,
+        "votes": 1384,
         "popularity": 336.7935,
         "genreIds": [
           18,
@@ -2248,22 +2264,41 @@
         "lang": "da"
       },
       {
-        "id": 94997,
+        "id": 1434,
         "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 7004,
-        "popularity": 268.7605,
+        "title": "Family Guy",
+        "originalTitle": "Family Guy",
+        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+        "poster": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "backdrop": "/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+        "date": "1999-01-31",
+        "year": "1999",
+        "rating": 7.4,
+        "votes": 5074,
+        "popularity": 316.3607,
         "genreIds": [
-          10765,
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 2734,
+        "type": "tv",
+        "title": "Law & Order: Special Victims Unit",
+        "originalTitle": "Law & Order: Special Victims Unit",
+        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+        "date": "1999-09-20",
+        "year": "1999",
+        "rating": 8,
+        "votes": 4313,
+        "popularity": 276.7832,
+        "genreIds": [
+          80,
           18,
-          10759
+          9648
         ],
         "lang": "en"
       },
@@ -2278,12 +2313,50 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 124,
+        "votes": 125,
         "popularity": 271.8148,
         "genreIds": [
           18,
           9648,
           10765
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1416,
+        "type": "tv",
+        "title": "Grey's Anatomy",
+        "originalTitle": "Grey's Anatomy",
+        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+        "poster": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+        "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+        "date": "2005-03-27",
+        "year": "2005",
+        "rating": 8.2,
+        "votes": 11015,
+        "popularity": 269.5953,
+        "genreIds": [
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 7007,
+        "popularity": 268.7605,
+        "genreIds": [
+          10765,
+          18,
+          10759
         ],
         "lang": "en"
       },
@@ -2298,7 +2371,7 @@
         "date": "2018-10-16",
         "year": "2018",
         "rating": 8.5,
-        "votes": 3477,
+        "votes": 3478,
         "popularity": 265.2935,
         "genreIds": [
           80,
@@ -2326,6 +2399,25 @@
         "lang": "sv"
       },
       {
+        "id": 50821,
+        "type": "tv",
+        "title": "Among Friends",
+        "originalTitle": "Barátok közt",
+        "overview": "Miklós introduces viewers into the world of Money and Charm.",
+        "poster": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "backdrop": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+        "date": "1998-10-26",
+        "year": "1998",
+        "rating": 3.8,
+        "votes": 20,
+        "popularity": 260.6963,
+        "genreIds": [
+          18,
+          10751
+        ],
+        "lang": "hu"
+      },
+      {
         "id": 456,
         "type": "tv",
         "title": "The Simpsons",
@@ -2336,7 +2428,7 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 10944,
+        "votes": 10945,
         "popularity": 245.1967,
         "genreIds": [
           16,
@@ -2345,22 +2437,40 @@
         "lang": "en"
       },
       {
-        "id": 2734,
+        "id": 310751,
         "type": "tv",
-        "title": "Law & Order: Special Victims Unit",
-        "originalTitle": "Law & Order: Special Victims Unit",
-        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-        "date": "1999-09-20",
-        "year": "1999",
-        "rating": 8,
-        "votes": 4312,
-        "popularity": 276.7832,
+        "title": "哆啦A梦TV版",
+        "originalTitle": "哆啦A梦TV版",
+        "overview": "",
+        "poster": "/wmydskWjF621H31lF8RVQeRZavf.jpg",
+        "backdrop": "/buKkvlJm3Hth9bnQxFUr0GLGIbp.jpg",
+        "date": "1979-04-02",
+        "year": "1979",
+        "rating": null,
+        "votes": 0,
+        "popularity": 242.58,
         "genreIds": [
-          80,
-          18,
-          9648
+          10762,
+          16
+        ],
+        "lang": "zh"
+      },
+      {
+        "id": 59941,
+        "type": "tv",
+        "title": "The Tonight Show Starring Jimmy Fallon",
+        "originalTitle": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+        "poster": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+        "backdrop": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "date": "2014-02-17",
+        "year": "2014",
+        "rating": 5.8,
+        "votes": 385,
+        "popularity": 241.5403,
+        "genreIds": [
+          35,
+          10767
         ],
         "lang": "en"
       },
@@ -2391,86 +2501,13 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2466,
+        "votes": 2468,
         "popularity": 232.4461,
         "genreIds": [
           10765,
           18
         ],
         "lang": "en"
-      },
-      {
-        "id": 1416,
-        "type": "tv",
-        "title": "Grey's Anatomy",
-        "originalTitle": "Grey's Anatomy",
-        "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-        "poster": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-        "backdrop": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-        "date": "2005-03-27",
-        "year": "2005",
-        "rating": 8.2,
-        "votes": 11015,
-        "popularity": 269.5953,
-        "genreIds": [
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 59941,
-        "type": "tv",
-        "title": "The Tonight Show Starring Jimmy Fallon",
-        "originalTitle": "The Tonight Show Starring Jimmy Fallon",
-        "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-        "poster": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-        "backdrop": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
-        "date": "2014-02-17",
-        "year": "2014",
-        "rating": 5.8,
-        "votes": 385,
-        "popularity": 241.5403,
-        "genreIds": [
-          35,
-          10767
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 204269,
-        "type": "tv",
-        "title": "Caressing My Hibernating Bear",
-        "originalTitle": "森のくまさん、冬眠中。",
-        "overview": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of it with great care. Time passes and Nowa soon has to leave him temporarily alone in order to hibernate. Waking up several months later, he discovers that Airi has grown well into an attractive young man.",
-        "poster": "/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "backdrop": "/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
-        "date": "2022-07-04",
-        "year": "2022",
-        "rating": 5.9,
-        "votes": 7,
-        "popularity": 200.1833,
-        "genreIds": [
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 227292,
-        "type": "tv",
-        "title": "Capitão Furacão",
-        "originalTitle": "Capitão Furacão",
-        "overview": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The children's program was hosted by Pietro Mario (Capitão Furacão). In the second year, actress Elizangela began co-hosting alongside him, becoming his loyal assistant. Capitão Furacão was always surrounded by children; while spinning his ship's helm, he would read letters sent by viewers, organize games and contests, tell stories about the sea, offer advice to aspiring sailors, and present short films and cartoons.",
-        "poster": "/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "backdrop": "/oEXQ3SmCwQObvr8HYu8kDxQFuVU.jpg",
-        "date": "1965-04-26",
-        "year": "1965",
-        "rating": null,
-        "votes": 0,
-        "popularity": 220.118,
-        "genreIds": [
-          10762
-        ],
-        "lang": "pt"
       },
       {
         "id": 37528,
@@ -2489,45 +2526,6 @@
           10764
         ],
         "lang": "es"
-      },
-      {
-        "id": 549,
-        "type": "tv",
-        "title": "Law & Order",
-        "originalTitle": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-        "date": "1990-09-13",
-        "year": "1990",
-        "rating": 7.3,
-        "votes": 706,
-        "popularity": 215.2517,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 4614,
-        "type": "tv",
-        "title": "NCIS",
-        "originalTitle": "NCIS",
-        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-        "poster": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "backdrop": "/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
-        "date": "2003-09-23",
-        "year": "2003",
-        "rating": 7.6,
-        "votes": 2551,
-        "popularity": 219.2307,
-        "genreIds": [
-          80,
-          18,
-          10759
-        ],
-        "lang": "en"
       },
       {
         "id": 1431,
