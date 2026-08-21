@@ -598,7 +598,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1986,
+        "votes": 1991,
         "popularity": 1819.537,
         "genreIds": [
           878,
@@ -618,7 +618,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3005,
+        "votes": 3012,
         "popularity": 684.2902,
         "genreIds": [
           12,
@@ -638,7 +638,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8,
-        "votes": 1252,
+        "votes": 1263,
         "popularity": 373.2636,
         "genreIds": [
           16,
@@ -659,7 +659,7 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22771,
+        "votes": 22775,
         "popularity": 335.8263,
         "genreIds": [
           28,
@@ -699,7 +699,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 559,
+        "votes": 562,
         "popularity": 282.3326,
         "genreIds": [
           28,
@@ -719,7 +719,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 773,
+        "votes": 776,
         "popularity": 251.4252,
         "genreIds": [
           12,
@@ -741,7 +741,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4878,
+        "votes": 4884,
         "popularity": 235.136,
         "genreIds": [
           27,
@@ -755,12 +755,12 @@
         "title": "Mutiny",
         "originalTitle": "Mutiny",
         "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "poster": "/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "backdrop": "/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 7,
-        "votes": 44,
+        "rating": 6.9,
+        "votes": 47,
         "popularity": 229.9234,
         "genreIds": [
           28,
@@ -779,7 +779,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 914,
+        "votes": 920,
         "popularity": 196.9512,
         "genreIds": [
           27,
@@ -799,7 +799,7 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 233,
+        "votes": 234,
         "popularity": 190.2787,
         "genreIds": [
           12,
@@ -819,7 +819,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.5,
-        "votes": 275,
+        "votes": 276,
         "popularity": 183.4236,
         "genreIds": [
           878,
@@ -839,7 +839,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6.1,
-        "votes": 210,
+        "votes": 213,
         "popularity": 209.9615,
         "genreIds": [
           10751,
@@ -860,7 +860,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2921,
+        "votes": 2924,
         "popularity": 160.9101,
         "genreIds": [
           878,
@@ -879,7 +879,7 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.9,
-        "votes": 1189,
+        "votes": 1199,
         "popularity": 149.3819,
         "genreIds": [
           27
@@ -916,32 +916,12 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2866,
+        "votes": 2868,
         "popularity": 129.2423,
         "genreIds": [
           27,
           9648,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1003596,
-        "type": "movie",
-        "title": "Avengers: Doomsday",
-        "originalTitle": "Avengers: Doomsday",
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-        "date": "2026-12-16",
-        "year": "2026",
-        "rating": null,
-        "votes": 0,
-        "popularity": 121.9952,
-        "genreIds": [
-          878,
-          28,
-          12
         ],
         "lang": "en"
       },
@@ -955,8 +935,8 @@
         "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 1966,
+        "rating": 6.7,
+        "votes": 1971,
         "popularity": 125.9382,
         "genreIds": [
           28,
@@ -976,10 +956,30 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.7,
-        "votes": 7207,
+        "votes": 7212,
         "popularity": 121.372,
         "genreIds": [
           878,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1003596,
+        "type": "movie",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
+        "year": "2026",
+        "rating": null,
+        "votes": 0,
+        "popularity": 121.9952,
+        "genreIds": [
+          878,
+          28,
           12
         ],
         "lang": "en"
@@ -2583,7 +2583,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 543,
+        "votes": 544,
         "popularity": 71.1908,
         "genreIds": [
           37,
@@ -2602,7 +2602,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 8.9,
-        "votes": 18432,
+        "votes": 18433,
         "popularity": 142.4175,
         "genreIds": [
           18,
@@ -2639,7 +2639,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 8.9,
-        "votes": 247,
+        "votes": 248,
         "popularity": 23.0508,
         "genreIds": [
           10759,
@@ -2872,7 +2872,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8186,
+        "votes": 8189,
         "popularity": 33.2896,
         "genreIds": [
           18
@@ -2911,7 +2911,7 @@
         "date": "2015-02-08",
         "year": "2015",
         "rating": 8.7,
-        "votes": 6774,
+        "votes": 6775,
         "popularity": 72.8684,
         "genreIds": [
           80,
@@ -3364,18 +3364,18 @@
         "lang": "ja"
       },
       {
-        "id": 233643,
+        "id": 95897,
         "type": "tv",
-        "title": "Secret Mission - Undercover Agents Never Back Down!",
-        "originalTitle": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
-        "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
-        "poster": "/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-        "backdrop": "/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
-        "date": "2023-10-02",
-        "year": "2023",
-        "rating": 6.2,
-        "votes": 26,
-        "popularity": 126.3809,
+        "title": "Overflow",
+        "originalTitle": "おーばーふろぉ",
+        "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
+        "poster": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "backdrop": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
+        "date": "2020-01-06",
+        "year": "2020",
+        "rating": 7.5,
+        "votes": 90,
+        "popularity": 145.5991,
         "genreIds": [
           16
         ],
@@ -3402,18 +3402,18 @@
         "lang": "ja"
       },
       {
-        "id": 95897,
+        "id": 233643,
         "type": "tv",
-        "title": "Overflow",
-        "originalTitle": "おーばーふろぉ",
-        "overview": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
-        "poster": "/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "backdrop": "/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
-        "date": "2020-01-06",
-        "year": "2020",
-        "rating": 7.5,
-        "votes": 90,
-        "popularity": 145.5991,
+        "title": "Secret Mission - Undercover Agents Never Back Down!",
+        "originalTitle": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
+        "overview": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as the hideout for a criminal organization. Despite Riko and Noma posing as a newlywed couple, the criminals begin to suspect them after not hearing any marital intimacy during the night. To convince them that they are a loving couple, Noma starts touching Riko's body...",
+        "poster": "/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+        "backdrop": "/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
+        "date": "2023-10-02",
+        "year": "2023",
+        "rating": 6.2,
+        "votes": 26,
+        "popularity": 126.3809,
         "genreIds": [
           16
         ],
@@ -3463,6 +3463,28 @@
         "lang": "ja"
       },
       {
+        "id": 65942,
+        "type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "originalTitle": "Re:ゼロから始める異世界生活",
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "date": "2016-04-04",
+        "year": "2016",
+        "rating": 8.1,
+        "votes": 758,
+        "popularity": 100.2824,
+        "genreIds": [
+          16,
+          18,
+          9648,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 30983,
         "type": "tv",
         "title": "Detective Conan",
@@ -3480,6 +3502,26 @@
           80,
           9648,
           35
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 95479,
+        "type": "tv",
+        "title": "JUJUTSU KAISEN",
+        "originalTitle": "呪術廻戦",
+        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+        "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "backdrop": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+        "date": "2020-10-03",
+        "year": "2020",
+        "rating": 8.6,
+        "votes": 4617,
+        "popularity": 90.2612,
+        "genreIds": [
+          16,
+          10759,
+          10765
         ],
         "lang": "ja"
       },
@@ -3515,54 +3557,12 @@
         "date": "2023-10-22",
         "year": "2023",
         "rating": 8.6,
-        "votes": 623,
+        "votes": 624,
         "popularity": 83.8118,
         "genreIds": [
           16,
           18,
           9648
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 95479,
-        "type": "tv",
-        "title": "JUJUTSU KAISEN",
-        "originalTitle": "呪術廻戦",
-        "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-        "poster": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "backdrop": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
-        "date": "2020-10-03",
-        "year": "2020",
-        "rating": 8.6,
-        "votes": 4617,
-        "popularity": 90.2612,
-        "genreIds": [
-          16,
-          10759,
-          10765
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 65942,
-        "type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "originalTitle": "Re:ゼロから始める異世界生活",
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "date": "2016-04-04",
-        "year": "2016",
-        "rating": 8.1,
-        "votes": 758,
-        "popularity": 100.2824,
-        "genreIds": [
-          16,
-          18,
-          9648,
-          10759,
-          10765
         ],
         "lang": "ja"
       },
@@ -3604,6 +3604,26 @@
         "lang": "ja"
       },
       {
+        "id": 46298,
+        "type": "tv",
+        "title": "Hunter x Hunter",
+        "originalTitle": "HUNTER×HUNTER",
+        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+        "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+        "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+        "date": "2011-10-02",
+        "year": "2011",
+        "rating": 8.7,
+        "votes": 2179,
+        "popularity": 78.9241,
+        "genreIds": [
+          16,
+          10759,
+          10765
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 60572,
         "type": "tv",
         "title": "Pokémon",
@@ -3624,26 +3644,6 @@
         "lang": "ja"
       },
       {
-        "id": 290667,
-        "type": "tv",
-        "title": "An Adventurer's Daily Grind at Age 29",
-        "originalTitle": "29歳独身中堅冒険者の日常",
-        "overview": "Born and raised in the slums, 29-year-old adventurer Hajime Shinonome now lives a quiet life in Komai Village. But his peaceful days take a turn when he discovers Lirui, an abandoned young girl, being attacked by a slime. Moved by her desperation and reminded of his own past, he takes her back to the village. Hajime and Lirui begin a new chapter filled with unexpected challenges and gentle days!",
-        "poster": "/tx6XZPOJ5UgVzvo8BXb2cNhFBq5.jpg",
-        "backdrop": "/oQg6qvYrdTMitw3AD8IyiUDkfRm.jpg",
-        "date": "2026-01-07",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 23,
-        "popularity": 53.8252,
-        "genreIds": [
-          16,
-          10765,
-          10759
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 12971,
         "type": "tv",
         "title": "Dragon Ball Z",
@@ -3654,32 +3654,12 @@
         "date": "1989-04-26",
         "year": "1989",
         "rating": 8.4,
-        "votes": 4972,
+        "votes": 4973,
         "popularity": 70.3211,
         "genreIds": [
           16,
           10765,
           10759
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 46298,
-        "type": "tv",
-        "title": "Hunter x Hunter",
-        "originalTitle": "HUNTER×HUNTER",
-        "overview": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
-        "poster": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
-        "backdrop": "/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
-        "date": "2011-10-02",
-        "year": "2011",
-        "rating": 8.7,
-        "votes": 2179,
-        "popularity": 78.9241,
-        "genreIds": [
-          16,
-          10759,
-          10765
         ],
         "lang": "ja"
       },
@@ -3703,22 +3683,43 @@
         "lang": "ja"
       },
       {
-        "id": 31910,
+        "id": 300626,
         "type": "tv",
-        "title": "Naruto Shippūden",
-        "originalTitle": "ナルト 疾風伝",
-        "overview": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
-        "poster": "/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
-        "backdrop": "/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-        "date": "2007-02-15",
-        "year": "2007",
+        "title": "Kiteretsu Daihyakka",
+        "originalTitle": "キテレツ大百科",
+        "overview": "The main character is a scientific genius boy named Kiteretsu, who has built a companion robot named Korosuke. He frequently travels in time with his friends and Korosuke in the time machine he built. Miyoko is a girl in his neighborhood who is basically his girlfriend. Tongari is his rival, who happen to share some similar traits of Honekawa Suneo. Buta Gorilla is a typical neighborhood bully, who also share similar traits of Gian except that he often antagonizes Korosuke (though they are in grade school).",
+        "poster": "/icTY9mQcyjzinblLnkdQR7CWgPa.jpg",
+        "backdrop": "/7ZyVtwKPy5xhfvl5zmXdbom8IA4.jpg",
+        "date": "1988-03-27",
+        "year": "1988",
+        "rating": 8,
+        "votes": 1,
+        "popularity": 67.1358,
+        "genreIds": [
+          16,
+          35,
+          10765,
+          10762
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 120089,
+        "type": "tv",
+        "title": "SPY x FAMILY",
+        "originalTitle": "SPY×FAMILY",
+        "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
+        "poster": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+        "backdrop": "/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+        "date": "2022-04-09",
+        "year": "2022",
         "rating": 8.5,
-        "votes": 8740,
-        "popularity": 62.9969,
+        "votes": 2330,
+        "popularity": 65.9639,
         "genreIds": [
           16,
           10759,
-          10765
+          35
         ],
         "lang": "ja"
       }
