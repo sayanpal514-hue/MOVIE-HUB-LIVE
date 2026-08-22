@@ -34,7 +34,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.8,
-        "votes": 64,
+        "votes": 66,
         "popularity": 356.4024,
         "genreIds": [
           28,
@@ -54,7 +54,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8,
-        "votes": 1319,
+        "votes": 1328,
         "popularity": 371.1166,
         "genreIds": [
           16,
@@ -64,6 +64,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2021,
+        "popularity": 1763.3254,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -87,27 +108,6 @@
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "backdrop": "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2020,
-        "popularity": 1763.3254,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -128,26 +128,6 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4898,
-        "popularity": 236.7035,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 108978,
         "type": "tv",
         "title": "Reacher",
@@ -158,7 +138,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3105,
+        "votes": 3106,
         "popularity": 647.4904,
         "genreIds": [
           10759,
@@ -166,6 +146,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4902,
+        "popularity": 236.7035,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -176,11 +176,11 @@
         "originalTitle": "Mutiny",
         "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
         "poster": "/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-        "backdrop": "/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.7,
-        "votes": 65,
+        "votes": 68,
         "popularity": 356.4024,
         "genreIds": [
           28,
@@ -241,7 +241,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3039,
+        "votes": 3040,
         "popularity": 661.9219,
         "genreIds": [
           12,
@@ -262,7 +262,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2020,
+        "votes": 2021,
         "popularity": 1763.3254,
         "genreIds": [
           878,
@@ -282,8 +282,8 @@
         "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.4,
-        "votes": 24,
+        "rating": 6.5,
+        "votes": 25,
         "popularity": 79.418,
         "genreIds": [
           27,
@@ -291,28 +291,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8,
-        "votes": 1322,
-        "popularity": 371.1166,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 100757,
@@ -333,6 +311,28 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/100757?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8,
+        "votes": 1332,
+        "popularity": 371.1166,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -366,7 +366,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 4900,
+        "votes": 4902,
         "popularity": 236.7035,
         "genreIds": [
           27,
@@ -386,7 +386,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.5,
-        "votes": 779,
+        "votes": 781,
         "popularity": 209.8525,
         "genreIds": [
           12,
@@ -409,7 +409,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3105,
+        "votes": 3106,
         "popularity": 647.4904,
         "genreIds": [
           10759,
@@ -417,6 +417,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1676318,
+        "type": "movie",
+        "title": "Back to the 90s",
+        "originalTitle": "Back to the 90s",
+        "overview": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
+        "poster": "/kYlupcri0UZ2MjZ5m8QeVWP00rh.jpg",
+        "backdrop": "/xNM42dnmIYUXpVJmPwxYCcFuHWC.jpg",
+        "date": "2026-08-18",
+        "year": "2026",
+        "rating": 6,
+        "votes": 1,
+        "popularity": 16.4707,
+        "genreIds": [
+          35,
+          10749
+        ],
+        "lang": "de",
+        "iframe": "https://peachify.top/embed/movie/1676318?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1130948,
@@ -440,26 +460,6 @@
         "iframe": "https://peachify.top/embed/movie/1130948?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1676318,
-        "type": "movie",
-        "title": "Back to the 90s",
-        "originalTitle": "Back to the 90s",
-        "overview": "When a mysterious glitch sends a rising boyband back to 1995 - just days before the biggest showcase of their lives - the five friends race to reverse the time slip. But as unexpected connections form and the past pulls them in deeper, getting home means confronting what they're willing to leave behind - and who they truly are to each other.",
-        "poster": "/kYlupcri0UZ2MjZ5m8QeVWP00rh.jpg",
-        "backdrop": "/xNM42dnmIYUXpVJmPwxYCcFuHWC.jpg",
-        "date": "2026-08-18",
-        "year": "2026",
-        "rating": 6,
-        "votes": 1,
-        "popularity": 16.4707,
-        "genreIds": [
-          35,
-          10749
-        ],
-        "lang": "de",
-        "iframe": "https://peachify.top/embed/movie/1676318?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -470,7 +470,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2882,
+        "votes": 2883,
         "popularity": 136.1145,
         "genreIds": [
           27,
@@ -479,26 +479,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 287620,
-        "type": "tv",
-        "title": "Stuart Fails to Save the Universe",
-        "originalTitle": "Stuart Fails to Save the Universe",
-        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-        "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-        "backdrop": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
-        "date": "2026-07-23",
-        "year": "2026",
-        "rating": 9.1,
-        "votes": 117,
-        "popularity": 71.4149,
-        "genreIds": [
-          35,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 303351,
@@ -510,8 +490,8 @@
         "backdrop": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
         "date": "2026-08-20",
         "year": "2026",
-        "rating": 5.5,
-        "votes": 6,
+        "rating": 5.4,
+        "votes": 7,
         "popularity": 51.0752,
         "genreIds": [
           18,
@@ -562,6 +542,26 @@
         ],
         "lang": "ta",
         "iframe": "https://peachify.top/embed/movie/1538273?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 287620,
+        "type": "tv",
+        "title": "Stuart Fails to Save the Universe",
+        "originalTitle": "Stuart Fails to Save the Universe",
+        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+        "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+        "backdrop": "/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg",
+        "date": "2026-07-23",
+        "year": "2026",
+        "rating": 9.1,
+        "votes": 117,
+        "popularity": 71.4149,
+        "genreIds": [
+          35,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/287620?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 278624,
@@ -2181,7 +2181,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3101,
+        "votes": 3103,
         "popularity": 659.7644,
         "genreIds": [
           10759,
@@ -2200,8 +2200,8 @@
         "date": "2008-09-23",
         "year": "2008",
         "rating": 8.4,
-        "votes": 4590,
-        "popularity": 378.0578,
+        "votes": 4594,
+        "popularity": 380.7615,
         "genreIds": [
           80,
           18,
@@ -2221,7 +2221,7 @@
         "year": "1952",
         "rating": 6.8,
         "votes": 256,
-        "popularity": 372.5434,
+        "popularity": 235.3724,
         "genreIds": [
           10763
         ],
@@ -2238,8 +2238,8 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8.1,
-        "votes": 1384,
-        "popularity": 336.7935,
+        "votes": 1385,
+        "popularity": 329.6932,
         "genreIds": [
           18,
           10768
@@ -2276,7 +2276,7 @@
         "year": "1999",
         "rating": 7.4,
         "votes": 5074,
-        "popularity": 316.3607,
+        "popularity": 258.1688,
         "genreIds": [
           16,
           35
@@ -2294,8 +2294,8 @@
         "date": "1999-09-20",
         "year": "1999",
         "rating": 8,
-        "votes": 4313,
-        "popularity": 276.7832,
+        "votes": 4314,
+        "popularity": 263.8548,
         "genreIds": [
           80,
           18,
@@ -2314,8 +2314,8 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 125,
-        "popularity": 271.8148,
+        "votes": 130,
+        "popularity": 281.2723,
         "genreIds": [
           18,
           9648,
@@ -2334,8 +2334,8 @@
         "date": "2005-03-27",
         "year": "2005",
         "rating": 8.2,
-        "votes": 11015,
-        "popularity": 269.5953,
+        "votes": 11018,
+        "popularity": 253.5167,
         "genreIds": [
           18
         ],
@@ -2352,8 +2352,8 @@
         "date": "2022-08-21",
         "year": "2022",
         "rating": 8.4,
-        "votes": 7007,
-        "popularity": 268.7605,
+        "votes": 7009,
+        "popularity": 251.8484,
         "genreIds": [
           10765,
           18,
@@ -2372,8 +2372,8 @@
         "date": "2018-10-16",
         "year": "2018",
         "rating": 8.5,
-        "votes": 3478,
-        "popularity": 265.2935,
+        "votes": 3479,
+        "popularity": 239.7612,
         "genreIds": [
           80,
           18,
@@ -2429,8 +2429,8 @@
         "date": "1989-12-17",
         "year": "1989",
         "rating": 8,
-        "votes": 10945,
-        "popularity": 245.1967,
+        "votes": 10946,
+        "popularity": 241.9749,
         "genreIds": [
           16,
           35
@@ -2468,7 +2468,7 @@
         "year": "2014",
         "rating": 5.8,
         "votes": 385,
-        "popularity": 241.5403,
+        "popularity": 204.6366,
         "genreIds": [
           35,
           10767
@@ -2502,7 +2502,7 @@
         "date": "2023-05-04",
         "year": "2023",
         "rating": 8.2,
-        "votes": 2468,
+        "votes": 2471,
         "popularity": 232.4461,
         "genreIds": [
           10765,
@@ -2522,7 +2522,7 @@
         "year": "2001",
         "rating": 4.5,
         "votes": 4,
-        "popularity": 221.185,
+        "popularity": 249.8905,
         "genreIds": [
           10764
         ],
@@ -2540,7 +2540,7 @@
         "year": "2000",
         "rating": 7.6,
         "votes": 1418,
-        "popularity": 220.5838,
+        "popularity": 199.3894,
         "genreIds": [
           80,
           18,
