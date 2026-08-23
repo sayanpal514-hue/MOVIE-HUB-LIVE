@@ -180,7 +180,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.7,
-        "votes": 112,
+        "votes": 114,
         "popularity": 444.6252,
         "genreIds": [
           28,
@@ -221,7 +221,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2079,
+        "votes": 2082,
         "popularity": 1453.6083,
         "genreIds": [
           878,
@@ -232,25 +232,24 @@
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1621552,
-        "type": "movie",
-        "title": "Facing El Chapo",
-        "originalTitle": "La captura",
-        "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-        "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-        "backdrop": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-        "date": "2026-08-21",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 22,
-        "popularity": 46.1819,
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.1,
+        "votes": 1391,
+        "popularity": 324.8951,
         "genreIds": [
-          80,
-          28,
-          53
+          18,
+          10768
         ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1621552?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1084244,
@@ -263,7 +262,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.1,
-        "votes": 1445,
+        "votes": 1452,
         "popularity": 373.5784,
         "genreIds": [
           16,
@@ -273,27 +272,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3097,
-        "popularity": 655.2789,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -317,6 +295,48 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1621552,
+        "type": "movie",
+        "title": "Facing El Chapo",
+        "originalTitle": "La captura",
+        "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+        "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+        "backdrop": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+        "date": "2026-08-21",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 22,
+        "popularity": 46.1819,
+        "genreIds": [
+          80,
+          28,
+          53
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1621552?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3097,
+        "popularity": 655.2789,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 125988,
         "type": "tv",
         "title": "Silo",
@@ -337,24 +357,24 @@
         "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.1,
-        "votes": 1391,
-        "popularity": 324.8951,
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 4960,
+        "popularity": 253.0483,
         "genreIds": [
-          18,
-          10768
+          27,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1291595,
@@ -367,7 +387,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.7,
-        "votes": 39,
+        "votes": 40,
         "popularity": 90.9065,
         "genreIds": [
           27,
@@ -397,49 +417,6 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 4958,
-        "popularity": 253.0483,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7.5,
-        "votes": 805,
-        "popularity": 230.1696,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 100757,
         "type": "tv",
         "title": "Outer Banks",
@@ -460,6 +437,29 @@
         "iframe": "https://peachify.top/embed/tv/100757?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.5,
+        "votes": 806,
+        "popularity": 230.1696,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -470,7 +470,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2913,
+        "votes": 2915,
         "popularity": 142.1531,
         "genreIds": [
           27,
@@ -573,7 +573,7 @@
         "date": "2026-06-25",
         "year": "2026",
         "rating": 7.4,
-        "votes": 309,
+        "votes": 310,
         "popularity": 72.1692,
         "genreIds": [
           35,
@@ -3390,7 +3390,7 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1680,
+        "votes": 1681,
         "popularity": 126.2443,
         "genreIds": [
           10759,
@@ -3451,7 +3451,7 @@
         "date": "2004-10-05",
         "year": "2004",
         "rating": 8.4,
-        "votes": 2227,
+        "votes": 2231,
         "popularity": 113.2234,
         "genreIds": [
           10759,
@@ -3573,7 +3573,7 @@
         "date": "2020-10-03",
         "year": "2020",
         "rating": 8.6,
-        "votes": 4618,
+        "votes": 4619,
         "popularity": 90.1509,
         "genreIds": [
           16,
