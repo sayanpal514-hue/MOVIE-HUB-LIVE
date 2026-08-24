@@ -2208,6 +2208,24 @@
         "lang": "en"
       },
       {
+        "id": 94722,
+        "type": "tv",
+        "title": "Tagesschau",
+        "originalTitle": "Tagesschau",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+        "date": "1952-12-26",
+        "year": "1952",
+        "rating": 6.8,
+        "votes": 256,
+        "popularity": 379.6013,
+        "genreIds": [
+          10763
+        ],
+        "lang": "de"
+      },
+      {
         "id": 113962,
         "type": "tv",
         "title": "Lioness",
@@ -2218,7 +2236,7 @@
         "date": "2023-07-23",
         "year": "2023",
         "rating": 8.1,
-        "votes": 1395,
+        "votes": 1397,
         "popularity": 368.7606,
         "genreIds": [
           18,
@@ -2227,21 +2245,21 @@
         "lang": "en"
       },
       {
-        "id": 125988,
+        "id": 59941,
         "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2486,
-        "popularity": 301.0535,
+        "title": "The Tonight Show Starring Jimmy Fallon",
+        "originalTitle": "The Tonight Show Starring Jimmy Fallon",
+        "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+        "poster": "/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+        "backdrop": "/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+        "date": "2014-02-17",
+        "year": "2014",
+        "rating": 5.8,
+        "votes": 386,
+        "popularity": 333.7558,
         "genreIds": [
-          10765,
-          18
+          35,
+          10767
         ],
         "lang": "en"
       },
@@ -2264,6 +2282,102 @@
         "lang": "da"
       },
       {
+        "id": 1434,
+        "type": "tv",
+        "title": "Family Guy",
+        "originalTitle": "Family Guy",
+        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+        "poster": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "backdrop": "/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+        "date": "1999-01-31",
+        "year": "1999",
+        "rating": 7.4,
+        "votes": 5079,
+        "popularity": 306.2575,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2488,
+        "popularity": 301.0535,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 100757,
+        "type": "tv",
+        "title": "Outer Banks",
+        "originalTitle": "Outer Banks",
+        "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
+        "poster": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+        "backdrop": "/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
+        "date": "2020-04-15",
+        "year": "2020",
+        "rating": 8.2,
+        "votes": 1242,
+        "popularity": 297.1122,
+        "genreIds": [
+          10759,
+          9648
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 22980,
+        "type": "tv",
+        "title": "Watch What Happens Live with Andy Cohen",
+        "originalTitle": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+        "date": "2009-07-16",
+        "year": "2009",
+        "rating": 5,
+        "votes": 87,
+        "popularity": 292.3315,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 2734,
+        "type": "tv",
+        "title": "Law & Order: Special Victims Unit",
+        "originalTitle": "Law & Order: Special Victims Unit",
+        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+        "date": "1999-09-20",
+        "year": "1999",
+        "rating": 8,
+        "votes": 4316,
+        "popularity": 290.8261,
+        "genreIds": [
+          80,
+          18,
+          9648
+        ],
+        "lang": "en"
+      },
+      {
         "id": 95350,
         "type": "tv",
         "title": "Lanterns",
@@ -2274,7 +2388,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 148,
+        "votes": 150,
         "popularity": 280.1615,
         "genreIds": [
           18,
@@ -2302,78 +2416,60 @@
         "lang": "sv"
       },
       {
-        "id": 37528,
+        "id": 50821,
         "type": "tv",
-        "title": "Gran hermano",
-        "originalTitle": "Gran hermano",
-        "overview": "Argentina's version of the Big Brother franchise.",
-        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
-        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
-        "date": "2001-03-10",
-        "year": "2001",
-        "rating": 4.5,
-        "votes": 4,
-        "popularity": 247.1459,
+        "title": "Among Friends",
+        "originalTitle": "Barátok közt",
+        "overview": "Miklós introduces viewers into the world of Money and Charm.",
+        "poster": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "backdrop": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+        "date": "1998-10-26",
+        "year": "1998",
+        "rating": 3.8,
+        "votes": 20,
+        "popularity": 263.4583,
         "genreIds": [
-          10764
+          18,
+          10751
         ],
-        "lang": "es"
+        "lang": "hu"
       },
       {
-        "id": 2734,
+        "id": 456,
         "type": "tv",
-        "title": "Law & Order: Special Victims Unit",
-        "originalTitle": "Law & Order: Special Victims Unit",
-        "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-        "poster": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
-        "backdrop": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-        "date": "1999-09-20",
-        "year": "1999",
+        "title": "The Simpsons",
+        "originalTitle": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "backdrop": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+        "date": "1989-12-17",
+        "year": "1989",
         "rating": 8,
-        "votes": 4316,
-        "popularity": 290.8261,
+        "votes": 10955,
+        "popularity": 262.7853,
         "genreIds": [
-          80,
-          18,
-          9648
+          16,
+          35
         ],
         "lang": "en"
       },
       {
-        "id": 94722,
+        "id": 79744,
         "type": "tv",
-        "title": "Tagesschau",
-        "originalTitle": "Tagesschau",
-        "overview": "German daily news program, the oldest still existing program on German television.",
-        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
-        "date": "1952-12-26",
-        "year": "1952",
-        "rating": 6.8,
-        "votes": 256,
-        "popularity": 379.6013,
+        "title": "The Rookie",
+        "originalTitle": "The Rookie",
+        "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+        "poster": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+        "backdrop": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+        "date": "2018-10-16",
+        "year": "2018",
+        "rating": 8.5,
+        "votes": 3482,
+        "popularity": 254.8877,
         "genreIds": [
-          10763
-        ],
-        "lang": "de"
-      },
-      {
-        "id": 94997,
-        "type": "tv",
-        "title": "House of the Dragon",
-        "originalTitle": "House of the Dragon",
-        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
-        "date": "2022-08-21",
-        "year": "2022",
-        "rating": 8.4,
-        "votes": 7024,
-        "popularity": 236.5301,
-        "genreIds": [
-          10765,
+          80,
           18,
-          10759
+          35
         ],
         "lang": "en"
       },
@@ -2396,79 +2492,40 @@
         "lang": "en"
       },
       {
-        "id": 79744,
+        "id": 37528,
         "type": "tv",
-        "title": "The Rookie",
-        "originalTitle": "The Rookie",
-        "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-        "poster": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-        "backdrop": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-        "date": "2018-10-16",
-        "year": "2018",
-        "rating": 8.5,
-        "votes": 3481,
-        "popularity": 254.8877,
+        "title": "Gran hermano",
+        "originalTitle": "Gran hermano",
+        "overview": "Argentina's version of the Big Brother franchise.",
+        "poster": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+        "backdrop": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+        "date": "2001-03-10",
+        "year": "2001",
+        "rating": 4.5,
+        "votes": 4,
+        "popularity": 247.1459,
         "genreIds": [
-          80,
+          10764
+        ],
+        "lang": "es"
+      },
+      {
+        "id": 94997,
+        "type": "tv",
+        "title": "House of the Dragon",
+        "originalTitle": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "poster": "/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "backdrop": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+        "date": "2022-08-21",
+        "year": "2022",
+        "rating": 8.4,
+        "votes": 7025,
+        "popularity": 236.5301,
+        "genreIds": [
+          10765,
           18,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 456,
-        "type": "tv",
-        "title": "The Simpsons",
-        "originalTitle": "The Simpsons",
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "backdrop": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-        "date": "1989-12-17",
-        "year": "1989",
-        "rating": 8,
-        "votes": 10952,
-        "popularity": 262.7853,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1434,
-        "type": "tv",
-        "title": "Family Guy",
-        "originalTitle": "Family Guy",
-        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-        "poster": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "backdrop": "/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-        "date": "1999-01-31",
-        "year": "1999",
-        "rating": 7.4,
-        "votes": 5078,
-        "popularity": 306.2575,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 100757,
-        "type": "tv",
-        "title": "Outer Banks",
-        "originalTitle": "Outer Banks",
-        "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-        "poster": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-        "backdrop": "/fjJ0aqDeDXFzmFXXJ4CF3ryB19b.jpg",
-        "date": "2020-04-15",
-        "year": "2020",
-        "rating": 8.2,
-        "votes": 1242,
-        "popularity": 297.1122,
-        "genreIds": [
-          10759,
-          9648
+          10759
         ],
         "lang": "en"
       },
@@ -2489,64 +2546,6 @@
           80,
           18,
           10759
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1622,
-        "type": "tv",
-        "title": "Supernatural",
-        "originalTitle": "Supernatural",
-        "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-        "poster": "/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
-        "backdrop": "/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
-        "date": "2005-09-13",
-        "year": "2005",
-        "rating": 8.3,
-        "votes": 8624,
-        "popularity": 226.1101,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 549,
-        "type": "tv",
-        "title": "Law & Order",
-        "originalTitle": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-        "date": "1990-09-13",
-        "year": "1990",
-        "rating": 7.3,
-        "votes": 708,
-        "popularity": 213.7223,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 22980,
-        "type": "tv",
-        "title": "Watch What Happens Live with Andy Cohen",
-        "originalTitle": "Watch What Happens Live with Andy Cohen",
-        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-        "date": "2009-07-16",
-        "year": "2009",
-        "rating": 5,
-        "votes": 87,
-        "popularity": 292.3315,
-        "genreIds": [
-          10767,
-          35
         ],
         "lang": "en"
       }
