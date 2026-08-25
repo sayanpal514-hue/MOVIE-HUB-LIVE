@@ -181,7 +181,7 @@
         "date": "2026-07-23",
         "year": "2026",
         "rating": 6.8,
-        "votes": 20,
+        "votes": 21,
         "popularity": 12.4431,
         "genreIds": [
           28,
@@ -190,6 +190,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/87513?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1560520,
+        "type": "movie",
+        "title": "Batman: Knightfall Part 1: Knightfall",
+        "originalTitle": "Batman: Knightfall Part 1: Knightfall",
+        "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+        "poster": "/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+        "backdrop": "/6c78xuvSoFLJkwlmx8Z2FGmMtzr.jpg",
+        "date": "2026-06-23",
+        "year": "2026",
+        "rating": 7.2,
+        "votes": 5,
+        "popularity": 3.6512,
+        "genreIds": [
+          16,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1560520?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -202,7 +223,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 168,
+        "votes": 169,
         "popularity": 320.4384,
         "genreIds": [
           18,
@@ -211,27 +232,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1560520,
-        "type": "movie",
-        "title": "Batman: Knightfall Part 1: Knightfall",
-        "originalTitle": "Batman: Knightfall Part 1: Knightfall",
-        "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
-        "poster": "/9pKPTugulAt0EtH0g4gvJGffPSg.jpg",
-        "backdrop": "/6c78xuvSoFLJkwlmx8Z2FGmMtzr.jpg",
-        "date": "2026-06-23",
-        "year": "2026",
-        "rating": 7.2,
-        "votes": 4,
-        "popularity": 3.6512,
-        "genreIds": [
-          16,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1560520?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -244,7 +244,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2137,
+        "votes": 2138,
         "popularity": 1380.7869,
         "genreIds": [
           878,
@@ -295,6 +295,69 @@
         "iframe": "https://peachify.top/embed/movie/1212763?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1084244,
+        "type": "movie",
+        "title": "Toy Story 5",
+        "originalTitle": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+        "date": "2026-06-17",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 1598,
+        "popularity": 328.4932,
+        "genreIds": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3179,
+        "popularity": 614.2746,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1288445,
+        "type": "movie",
+        "title": "Mutiny",
+        "originalTitle": "Mutiny",
+        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+        "poster": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
+        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 164,
+        "popularity": 502.0551,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1384216,
         "type": "movie",
         "title": "The Dog Stars",
@@ -314,90 +377,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1384216?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1288445,
-        "type": "movie",
-        "title": "Mutiny",
-        "originalTitle": "Mutiny",
-        "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-        "poster": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 162,
-        "popularity": 502.0551,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1288445?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3178,
-        "popularity": 614.2746,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 1597,
-        "popularity": 328.4932,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1621552,
-        "type": "movie",
-        "title": "Facing El Chapo",
-        "originalTitle": "La captura",
-        "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-        "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-        "backdrop": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-        "date": "2026-08-21",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 88,
-        "popularity": 259.4866,
-        "genreIds": [
-          80,
-          28,
-          53
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/movie/1621552?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -440,6 +419,27 @@
         "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1621552,
+        "type": "movie",
+        "title": "Facing El Chapo",
+        "originalTitle": "La captura",
+        "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+        "poster": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+        "backdrop": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+        "date": "2026-08-21",
+        "year": "2026",
+        "rating": 8,
+        "votes": 96,
+        "popularity": 259.4866,
+        "genreIds": [
+          80,
+          28,
+          53
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/movie/1621552?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1291595,
         "type": "movie",
         "title": "Insidious: Out of the Further",
@@ -458,88 +458,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1291595?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2492,
-        "popularity": 263.6181,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 294487,
-        "type": "tv",
-        "title": "Remnants of Gold",
-        "originalTitle": "金色",
-        "overview": "Three hundred thousand taels of gold suddenly surface in the vast desert, where rumor has it that all who seek the treasure are doomed to become vengeful spirits. An officer of the Imperial Guard sent to investigate descends into madness on his very first day. A loyal and courageous deputy envoy who has ventured too far to turn back finds himself torn between desire and honor. After her entire family is slaughtered, a woman immune to all poisons returns to the vast desert, deliberately making herself the prize every faction is determined to seize as she sets out for revenge. Beneath the vast desert's sweeping sands lie an insatiable greed for gold and a carefully laid trap designed to lure her into the deadly game. From a relay station and an armed escort agency to a general's residence, a band of martial heroes becomes entangled in a deadly struggle across the vast and desolate frontier, bringing the spirit and ideals of Eastern wuxia to life in a new light.",
-        "poster": "/aNlaMTfbII0eu4l42JUGd5xrCi8.jpg",
-        "backdrop": "/xirWeEiatY915u837oq1l2t4oPP.jpg",
-        "date": "2026-08-25",
-        "year": "2026",
-        "rating": 9,
-        "votes": 1,
-        "popularity": 1.7559,
-        "genreIds": [
-          18
-        ],
-        "lang": "zh",
-        "iframe": "https://peachify.top/embed/tv/294487?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1315772,
-        "type": "movie",
-        "title": "Minions & Monsters",
-        "originalTitle": "Minions & Monsters",
-        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-        "date": "2026-06-24",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 853,
-        "popularity": 196.9552,
-        "genreIds": [
-          12,
-          16,
-          35,
-          10751,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.1,
-        "votes": 1407,
-        "popularity": 313.7421,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1514682,
@@ -564,25 +482,109 @@
         "iframe": "https://peachify.top/embed/movie/1514682?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1204680,
-        "type": "movie",
-        "title": "Coyote vs. Acme",
-        "originalTitle": "Coyote vs. Acme",
-        "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "poster": "/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-        "date": "2026-08-20",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 9,
-        "popularity": 22.2843,
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2492,
+        "popularity": 263.6181,
         "genreIds": [
-          35,
-          12,
-          10751
+          10765,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1439808,
+        "type": "movie",
+        "title": "Hadestown: The Musical",
+        "originalTitle": "Hadestown: The Musical",
+        "overview": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lured to the industrial underworld of Hadestown by Hades, while Orpheus, a struggling musician, ventures down below to bring her back. (Filmed live at the Lyric Theatre, London, featuring the core five original Broadway cast members.)",
+        "poster": "/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+        "backdrop": "/n2Lx80fUrEp8OZOjfBNx0a7d37u.jpg",
+        "date": "2026-07-23",
+        "year": "2026",
+        "rating": 8.9,
+        "votes": 15,
+        "popularity": 3.1683,
+        "genreIds": [
+          18,
+          14,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1439808?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.1,
+        "votes": 1407,
+        "popularity": 313.7421,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 615,
+        "type": "tv",
+        "title": "Futurama",
+        "originalTitle": "Futurama",
+        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "backdrop": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "date": "1999-03-28",
+        "year": "1999",
+        "rating": 8.4,
+        "votes": 3868,
+        "popularity": 151.7234,
+        "genreIds": [
+          16,
+          35,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/615?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1315772,
+        "type": "movie",
+        "title": "Minions & Monsters",
+        "originalTitle": "Minions & Monsters",
+        "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+        "poster": "/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+        "date": "2026-06-24",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 853,
+        "popularity": 196.9552,
+        "genreIds": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1315772?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -993,7 +995,7 @@
         "date": "2026-07-24",
         "year": "2026",
         "rating": 9.2,
-        "votes": 967,
+        "votes": 968,
         "popularity": 94.3399,
         "genreIds": [
           16,
@@ -1093,7 +1095,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23417,
+        "votes": 23419,
         "popularity": 54.3152,
         "genreIds": [
           18,
@@ -1112,7 +1114,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.7,
-        "votes": 4160,
+        "votes": 4162,
         "popularity": 76.8905,
         "genreIds": [
           10402,
@@ -1131,7 +1133,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 7326,
+        "votes": 7328,
         "popularity": 110.5217,
         "genreIds": [
           878,
@@ -1159,26 +1161,6 @@
         "lang": "en"
       },
       {
-        "id": 424,
-        "type": "movie",
-        "title": "Schindler's List",
-        "originalTitle": "Schindler's List",
-        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
-        "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-        "backdrop": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-        "date": "1993-12-15",
-        "year": "1993",
-        "rating": 8.6,
-        "votes": 17792,
-        "popularity": 29.2784,
-        "genreIds": [
-          18,
-          36,
-          10752
-        ],
-        "lang": "en"
-      },
-      {
         "id": 389,
         "type": "movie",
         "title": "12 Angry Men",
@@ -1193,6 +1175,26 @@
         "popularity": 26.9491,
         "genreIds": [
           18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 424,
+        "type": "movie",
+        "title": "Schindler's List",
+        "originalTitle": "Schindler's List",
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "backdrop": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "date": "1993-12-15",
+        "year": "1993",
+        "rating": 8.6,
+        "votes": 17794,
+        "popularity": 29.2784,
+        "genreIds": [
+          18,
+          36,
+          10752
         ],
         "lang": "en"
       },
@@ -1226,7 +1228,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36500,
+        "votes": 36501,
         "popularity": 53.0619,
         "genreIds": [
           28,
@@ -1287,7 +1289,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19673,
+        "votes": 19675,
         "popularity": 35.2354,
         "genreIds": [
           14,
@@ -1307,7 +1309,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27175,
+        "votes": 27176,
         "popularity": 38.7213,
         "genreIds": [
           12,
@@ -1389,7 +1391,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2133,
+        "votes": 2138,
         "popularity": 1380.7869,
         "genreIds": [
           878,
@@ -1409,7 +1411,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3168,
+        "votes": 3179,
         "popularity": 614.2746,
         "genreIds": [
           12,
@@ -1429,7 +1431,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.6,
-        "votes": 159,
+        "votes": 164,
         "popularity": 502.0551,
         "genreIds": [
           28,
@@ -1447,8 +1449,8 @@
         "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5.4,
-        "votes": 40,
+        "rating": 5.5,
+        "votes": 41,
         "popularity": 334.5477,
         "genreIds": [
           28,
@@ -1468,7 +1470,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.2,
-        "votes": 1592,
+        "votes": 1598,
         "popularity": 328.4932,
         "genreIds": [
           16,
@@ -1489,7 +1491,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5027,
+        "votes": 5030,
         "popularity": 278.924,
         "genreIds": [
           27,
@@ -1508,7 +1510,7 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8,
-        "votes": 82,
+        "votes": 96,
         "popularity": 259.4866,
         "genreIds": [
           80,
@@ -1528,7 +1530,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6.1,
-        "votes": 225,
+        "votes": 227,
         "popularity": 233.6042,
         "genreIds": [
           10751,
@@ -1537,26 +1539,6 @@
           12
         ],
         "lang": "en"
-      },
-      {
-        "id": 1375646,
-        "type": "movie",
-        "title": "Colony",
-        "originalTitle": "군체",
-        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "backdrop": "/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg",
-        "date": "2026-05-21",
-        "year": "2026",
-        "rating": 8.1,
-        "votes": 600,
-        "popularity": 181.3185,
-        "genreIds": [
-          28,
-          27,
-          878
-        ],
-        "lang": "ko"
       },
       {
         "id": 1315772,
@@ -1581,6 +1563,26 @@
         "lang": "en"
       },
       {
+        "id": 1375646,
+        "type": "movie",
+        "title": "Colony",
+        "originalTitle": "군체",
+        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+        "poster": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "backdrop": "/84FEpVVbSKYvKXDZJDZXOKBxCEm.jpg",
+        "date": "2026-05-21",
+        "year": "2026",
+        "rating": 8.1,
+        "votes": 601,
+        "popularity": 181.3185,
+        "genreIds": [
+          28,
+          27,
+          878
+        ],
+        "lang": "ko"
+      },
+      {
         "id": 1284465,
         "type": "movie",
         "title": "The Death of Robin Hood",
@@ -1601,26 +1603,6 @@
         "lang": "en"
       },
       {
-        "id": 1284041,
-        "type": "movie",
-        "title": "The Last House",
-        "originalTitle": "The Last House",
-        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
-        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 1026,
-        "popularity": 131.5105,
-        "genreIds": [
-          27,
-          878,
-          53
-        ],
-        "lang": "en"
-      },
-      {
         "id": 1083381,
         "type": "movie",
         "title": "Backrooms",
@@ -1631,7 +1613,7 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2946,
+        "votes": 2947,
         "popularity": 133.9161,
         "genreIds": [
           27,
@@ -1641,21 +1623,21 @@
         "lang": "en"
       },
       {
-        "id": 1101383,
+        "id": 1284041,
         "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
+        "title": "The Last House",
+        "originalTitle": "The Last House",
+        "overview": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+        "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "backdrop": "/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+        "date": "2026-08-06",
         "year": "2026",
-        "rating": 6.4,
-        "votes": 350,
-        "popularity": 111.229,
+        "rating": 6.9,
+        "votes": 1030,
+        "popularity": 131.5105,
         "genreIds": [
+          27,
           878,
-          9648,
           53
         ],
         "lang": "en"
@@ -1671,10 +1653,30 @@
         "date": "2026-07-07",
         "year": "2026",
         "rating": 7.8,
-        "votes": 1264,
+        "votes": 1269,
         "popularity": 124.2903,
         "genreIds": [
           27
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 352,
+        "popularity": 111.229,
+        "genreIds": [
+          878,
+          9648,
+          53
         ],
         "lang": "en"
       },
@@ -1699,6 +1701,25 @@
         "lang": "en"
       },
       {
+        "id": 1291595,
+        "type": "movie",
+        "title": "Insidious: Out of the Further",
+        "originalTitle": "Insidious: Out of the Further",
+        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+        "date": "2026-08-19",
+        "year": "2026",
+        "rating": 6.6,
+        "votes": 58,
+        "popularity": 106.5301,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en"
+      },
+      {
         "id": 1523145,
         "type": "movie",
         "title": "Your Heart Will Be Broken",
@@ -1717,43 +1738,24 @@
         "lang": "ru"
       },
       {
-        "id": 1307118,
+        "id": 1538273,
         "type": "movie",
-        "title": "Soulm8te",
-        "originalTitle": "Soulm8te",
-        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
-        "poster": "/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "backdrop": "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-        "date": "2026-07-31",
+        "title": "Pyaar Prema Kalyanam",
+        "originalTitle": "ப்யார் ப்ரேமா கல்யாணம்",
+        "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+        "poster": "/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+        "backdrop": "/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+        "date": "2026-08-21",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 259,
-        "popularity": 91.048,
+        "rating": 7,
+        "votes": 1,
+        "popularity": 99.0138,
         "genreIds": [
-          27,
-          878,
-          53
+          10749,
+          35,
+          18
         ],
-        "lang": "en"
-      },
-      {
-        "id": 1291595,
-        "type": "movie",
-        "title": "Insidious: Out of the Further",
-        "originalTitle": "Insidious: Out of the Further",
-        "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-        "poster": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-        "date": "2026-08-19",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 55,
-        "popularity": 106.5301,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en"
+        "lang": "ta"
       },
       {
         "id": 1594914,
