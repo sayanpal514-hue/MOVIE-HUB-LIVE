@@ -12,8 +12,8 @@
         "backdrop": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
         "date": "2026-08-16",
         "year": "2026",
-        "rating": 8.1,
-        "votes": 157,
+        "rating": 8.2,
+        "votes": 160,
         "popularity": 320.4384,
         "genreIds": [
           18,
@@ -34,7 +34,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.7,
-        "votes": 153,
+        "votes": 155,
         "popularity": 502.0551,
         "genreIds": [
           28,
@@ -54,7 +54,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.2,
-        "votes": 1572,
+        "votes": 1578,
         "popularity": 328.4932,
         "genreIds": [
           16,
@@ -76,7 +76,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2123,
+        "votes": 2124,
         "popularity": 1380.7869,
         "genreIds": [
           878,
@@ -85,26 +85,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 125988,
-        "type": "tv",
-        "title": "Silo",
-        "originalTitle": "Silo",
-        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-        "date": "2023-05-04",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 2491,
-        "popularity": 263.6181,
-        "genreIds": [
-          10765,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -117,7 +97,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3153,
+        "votes": 3154,
         "popularity": 614.2746,
         "genreIds": [
           12,
@@ -126,26 +106,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 5014,
-        "popularity": 278.924,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -166,6 +126,46 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 5019,
+        "popularity": 278.924,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 125988,
+        "type": "tv",
+        "title": "Silo",
+        "originalTitle": "Silo",
+        "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+        "poster": "/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+        "backdrop": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "date": "2023-05-04",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 2491,
+        "popularity": 263.6181,
+        "genreIds": [
+          10765,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/125988?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -597,8 +597,8 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2116,
-        "popularity": 1657.2333,
+        "votes": 2123,
+        "popularity": 1380.7869,
         "genreIds": [
           878,
           28,
@@ -617,8 +617,8 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3147,
-        "popularity": 672.5442,
+        "votes": 3153,
+        "popularity": 614.2746,
         "genreIds": [
           12,
           28,
@@ -633,12 +633,12 @@
         "originalTitle": "Mutiny",
         "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
         "poster": "/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-        "backdrop": "/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+        "backdrop": "/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
         "date": "2026-08-19",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 136,
-        "popularity": 532.9923,
+        "rating": 6.7,
+        "votes": 153,
+        "popularity": 502.0551,
         "genreIds": [
           28,
           53
@@ -655,9 +655,9 @@
         "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 5,
+        "rating": 5.2,
         "votes": 37,
-        "popularity": 388.5213,
+        "popularity": 334.5477,
         "genreIds": [
           28,
           878,
@@ -676,8 +676,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.2,
-        "votes": 1556,
-        "popularity": 387.5602,
+        "votes": 1572,
+        "popularity": 328.4932,
         "genreIds": [
           16,
           10751,
@@ -697,8 +697,8 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5006,
-        "popularity": 284.2699,
+        "votes": 5016,
+        "popularity": 278.924,
         "genreIds": [
           27,
           53
@@ -716,8 +716,8 @@
         "date": "2021-12-15",
         "year": "2021",
         "rating": 7.9,
-        "votes": 22827,
-        "popularity": 252.1788,
+        "votes": 22832,
+        "popularity": 207.9592,
         "genreIds": [
           28,
           12,
@@ -736,8 +736,8 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 6.1,
-        "votes": 224,
-        "popularity": 250.1106,
+        "votes": 225,
+        "popularity": 233.6042,
         "genreIds": [
           10751,
           14,
@@ -756,9 +756,9 @@
         "backdrop": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
         "date": "2026-08-21",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 35,
-        "popularity": 234.2102,
+        "rating": 7,
+        "votes": 52,
+        "popularity": 259.4866,
         "genreIds": [
           80,
           28,
@@ -776,9 +776,9 @@
         "backdrop": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
         "date": "2026-06-24",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 837,
-        "popularity": 231.8791,
+        "rating": 7.6,
+        "votes": 849,
+        "popularity": 196.9552,
         "genreIds": [
           12,
           16,
@@ -799,8 +799,8 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 594,
-        "popularity": 220.8453,
+        "votes": 596,
+        "popularity": 181.3185,
         "genreIds": [
           28,
           27,
@@ -820,7 +820,7 @@
         "year": "2011",
         "rating": 6.2,
         "votes": 159,
-        "popularity": 185.9993,
+        "popularity": 164.6094,
         "genreIds": [
           18,
           10749
@@ -838,8 +838,8 @@
         "date": "2026-06-18",
         "year": "2026",
         "rating": 6.3,
-        "votes": 245,
-        "popularity": 172.0553,
+        "votes": 246,
+        "popularity": 153.3987,
         "genreIds": [
           12,
           18,
@@ -858,8 +858,8 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 2993,
-        "popularity": 161.164,
+        "votes": 3000,
+        "popularity": 143.0396,
         "genreIds": [
           878,
           53
@@ -877,8 +877,8 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.9,
-        "votes": 1015,
-        "popularity": 158.1143,
+        "votes": 1019,
+        "popularity": 131.5105,
         "genreIds": [
           27,
           878,
@@ -897,30 +897,12 @@
         "date": "2026-05-27",
         "year": "2026",
         "rating": 7.1,
-        "votes": 2936,
-        "popularity": 152.9265,
+        "votes": 2940,
+        "popularity": 133.9161,
         "genreIds": [
           27,
           9648,
           878
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1212763,
-        "type": "movie",
-        "title": "Evil Dead Burn",
-        "originalTitle": "Evil Dead Burn",
-        "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-        "poster": "/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "backdrop": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-        "date": "2026-07-07",
-        "year": "2026",
-        "rating": 7.8,
-        "votes": 1257,
-        "popularity": 146.2951,
-        "genreIds": [
-          27
         ],
         "lang": "en"
       },
@@ -936,7 +918,7 @@
         "year": "2024",
         "rating": 6.2,
         "votes": 4,
-        "popularity": 137.4408,
+        "popularity": 124.4755,
         "genreIds": [
           10749
         ],
@@ -953,8 +935,8 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.4,
-        "votes": 340,
-        "popularity": 136.3742,
+        "votes": 348,
+        "popularity": 111.229,
         "genreIds": [
           878,
           9648,
@@ -963,22 +945,39 @@
         "lang": "en"
       },
       {
-        "id": 1081003,
+        "id": 687163,
         "type": "movie",
-        "title": "Supergirl",
-        "originalTitle": "Supergirl",
-        "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-        "poster": "/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "backdrop": "/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
-        "date": "2026-06-24",
+        "title": "Project Hail Mary",
+        "originalTitle": "Project Hail Mary",
+        "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+        "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "date": "2026-03-15",
         "year": "2026",
-        "rating": 6.7,
-        "votes": 2034,
-        "popularity": 131.5168,
+        "rating": 8.6,
+        "votes": 7323,
+        "popularity": 110.5217,
         "genreIds": [
-          28,
-          12,
-          878
+          878,
+          12
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1273221,
+        "type": "movie",
+        "title": "Scary Movie",
+        "originalTitle": "Scary Movie",
+        "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+        "poster": "/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+        "date": "2026-06-03",
+        "year": "2026",
+        "rating": 6.4,
+        "votes": 1722,
+        "popularity": 107.33,
+        "genreIds": [
+          35
         ],
         "lang": "en"
       }
