@@ -20,32 +20,15 @@ A single-page, dark-themed movie browsing UI with a fullscreen embedded video pl
 
 ```
 .
-├── index.html                # Main application
-├── movie.json                # Data source (fetched from Vercel)
-├── scripts/
-│   └── update.js             # Optional update script
-├── .github/workflows/
-│   └── main.yml              # GitHub Actions deployment workflow
-└── README.md
+├── index.html               
+├── player.html
+             
+
 ```
 
 ---
 
-## 📦 `movie.json` Format
 
-The page expects the following JSON shape:
-
-```json
-{
-  "success": true,
-  "data": {
-    "spotlight": [...],
-    "trending": [...],
-    "popularMovies": [...],
-    "topMovies": [...],
-    "nowPlaying": [...]
-  }
-}
 ```
 
 Each movie object should contain: `title`, `year`, `type`, `rating`, `poster` (TMDB path), `overview`, and `iframe`.
@@ -74,13 +57,7 @@ To deploy manually:
 
 > 💡 For the best experience, serve the project with a local development server (e.g., VS Code Live Server) to avoid CORS issues.
 
----
 
-## 📄 License
-
-MIT
-
----
 
 ## 🌐 Live Demo
 
