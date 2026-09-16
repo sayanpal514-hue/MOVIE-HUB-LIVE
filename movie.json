@@ -13,7 +13,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 6.8,
-        "votes": 857,
+        "votes": 882,
         "popularity": 367.9096,
         "genreIds": [
           878,
@@ -33,8 +33,8 @@
         "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "date": "2026-09-16",
         "year": "2026",
-        "rating": 8.4,
-        "votes": 10,
+        "rating": 8.1,
+        "votes": 17,
         "popularity": 110.1608,
         "genreIds": [
           27,
@@ -42,6 +42,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 273207,
+        "type": "tv",
+        "title": "Neagley",
+        "originalTitle": "Neagley",
+        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+        "poster": "/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 14,
+        "popularity": 12.8494,
+        "genreIds": [
+          18,
+          9648,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -54,7 +75,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3318,
+        "votes": 3320,
         "popularity": 612.6863,
         "genreIds": [
           10759,
@@ -62,27 +83,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 273207,
-        "type": "tv",
-        "title": "Neagley",
-        "originalTitle": "Neagley",
-        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-        "poster": "/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
-        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 13,
-        "popularity": 12.8494,
-        "genreIds": [
-          18,
-          9648,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 969681,
@@ -94,8 +94,8 @@
         "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 2718,
+        "rating": 7.8,
+        "votes": 2721,
         "popularity": 691.7198,
         "genreIds": [
           878,
@@ -104,28 +104,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 652,
-        "popularity": 254.1025,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -138,7 +116,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 348,
+        "votes": 349,
         "popularity": 270.1078,
         "genreIds": [
           18,
@@ -149,69 +127,26 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1368337,
+        "id": 1108427,
         "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
-        "date": "2026-07-15",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
         "year": "2026",
-        "rating": 8,
-        "votes": 3739,
-        "popularity": 383.4669,
+        "rating": 7.3,
+        "votes": 656,
+        "popularity": 254.1025,
         "genreIds": [
-          12,
-          28,
-          14
+          10751,
+          14,
+          35,
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      }
-    ],
-    "trending": [
-      {
-        "id": 273207,
-        "type": "tv",
-        "title": "Neagley",
-        "originalTitle": "Neagley",
-        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-        "poster": "/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
-        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 13,
-        "popularity": 12.8494,
-        "genreIds": [
-          18,
-          9648,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 857,
-        "popularity": 367.9096,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95480,
@@ -233,6 +168,50 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95480?accent=7c5cff&dub=Hindi&quality=1080"
+      }
+    ],
+    "trending": [
+      {
+        "id": 273207,
+        "type": "tv",
+        "title": "Neagley",
+        "originalTitle": "Neagley",
+        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+        "poster": "/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 15,
+        "popularity": 12.8494,
+        "genreIds": [
+          18,
+          9648,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 883,
+        "popularity": 367.9096,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1423191,
@@ -244,8 +223,8 @@
         "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
         "date": "2026-09-16",
         "year": "2026",
-        "rating": 8.4,
-        "votes": 10,
+        "rating": 8.1,
+        "votes": 17,
         "popularity": 110.1608,
         "genreIds": [
           27,
@@ -265,7 +244,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3318,
+        "votes": 3320,
         "popularity": 612.6863,
         "genreIds": [
           10759,
@@ -273,6 +252,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95480,
+        "type": "tv",
+        "title": "Slow Horses",
+        "originalTitle": "Slow Horses",
+        "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+        "poster": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+        "backdrop": "/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+        "date": "2022-04-01",
+        "year": "2022",
+        "rating": 8,
+        "votes": 982,
+        "popularity": 84.1773,
+        "genreIds": [
+          80,
+          18,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95480?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 332401,
@@ -303,8 +303,8 @@
         "backdrop": "/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
         "date": "2026-08-13",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 48,
+        "rating": 7,
+        "votes": 49,
         "popularity": 35.258,
         "genreIds": [
           80,
@@ -324,8 +324,8 @@
         "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 2718,
+        "rating": 7.8,
+        "votes": 2721,
         "popularity": 691.7198,
         "genreIds": [
           878,
@@ -346,7 +346,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 10,
-        "votes": 3,
+        "votes": 4,
         "popularity": 3.3348,
         "genreIds": [
           80,
@@ -366,7 +366,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.2,
-        "votes": 348,
+        "votes": 349,
         "popularity": 270.1078,
         "genreIds": [
           18,
@@ -375,46 +375,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 97546,
-        "type": "tv",
-        "title": "Ted Lasso",
-        "originalTitle": "Ted Lasso",
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "date": "2020-08-14",
-        "year": "2020",
-        "rating": 8.4,
-        "votes": 2662,
-        "popularity": 228.6068,
-        "genreIds": [
-          18,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 232018,
-        "type": "tv",
-        "title": "Has Fallen",
-        "originalTitle": "Has Fallen",
-        "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-        "poster": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-        "backdrop": "/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
-        "date": "2024-09-23",
-        "year": "2024",
-        "rating": 7,
-        "votes": 121,
-        "popularity": 32.2455,
-        "genreIds": [
-          10759,
-          10768
-        ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/tv/232018?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1368337,
@@ -427,7 +387,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3738,
+        "votes": 3744,
         "popularity": 383.4669,
         "genreIds": [
           12,
@@ -458,17 +418,37 @@
         "iframe": "https://peachify.top/embed/tv/252105?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.4,
+        "votes": 2662,
+        "popularity": 228.6068,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1204680,
         "type": "movie",
         "title": "Coyote vs. Acme",
         "originalTitle": "Coyote vs. Acme",
         "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-        "poster": "/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "poster": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "backdrop": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.6,
-        "votes": 409,
+        "votes": 415,
         "popularity": 539.7588,
         "genreIds": [
           35,
@@ -477,6 +457,88 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1204680?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 656,
+        "popularity": 254.1025,
+        "genreIds": [
+          10751,
+          14,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 295089,
+        "type": "tv",
+        "title": "The Doll",
+        "originalTitle": "Lalka",
+        "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
+        "poster": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+        "backdrop": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 10,
+        "votes": 1,
+        "popularity": 4.1819,
+        "genreIds": [
+          18
+        ],
+        "lang": "pl",
+        "iframe": "https://peachify.top/embed/tv/295089?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 232018,
+        "type": "tv",
+        "title": "Has Fallen",
+        "originalTitle": "Has Fallen",
+        "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+        "poster": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
+        "backdrop": "/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
+        "date": "2024-09-23",
+        "year": "2024",
+        "rating": 7,
+        "votes": 121,
+        "popularity": 32.2455,
+        "genreIds": [
+          10759,
+          10768
+        ],
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/tv/232018?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 258230,
+        "type": "tv",
+        "title": "Last Seen",
+        "originalTitle": "Last Seen",
+        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+        "poster": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+        "backdrop": "/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+        "date": "2026-09-09",
+        "year": "2026",
+        "rating": 8.8,
+        "votes": 11,
+        "popularity": 51.5145,
+        "genreIds": [
+          80,
+          18,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/258230?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1318467,
@@ -500,31 +562,12 @@
         "iframe": "https://peachify.top/embed/movie/1318467?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 295089,
-        "type": "tv",
-        "title": "The Doll",
-        "originalTitle": "Lalka",
-        "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
-        "poster": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
-        "backdrop": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 10,
-        "votes": 1,
-        "popularity": 4.1819,
-        "genreIds": [
-          18
-        ],
-        "lang": "pl",
-        "iframe": "https://peachify.top/embed/tv/295089?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 1432474,
         "type": "movie",
         "title": "Nimrods",
         "originalTitle": "Nimrods",
         "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-        "poster": "/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+        "poster": "/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
         "backdrop": "/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
         "date": "2026-08-06",
         "year": "2026",
@@ -537,49 +580,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1432474?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 652,
-        "popularity": 254.1025,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 258230,
-        "type": "tv",
-        "title": "Last Seen",
-        "originalTitle": "Last Seen",
-        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-        "poster": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
-        "backdrop": "/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-        "date": "2026-09-09",
-        "year": "2026",
-        "rating": 9.2,
-        "votes": 10,
-        "popularity": 51.5145,
-        "genreIds": [
-          80,
-          18,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/258230?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -3727,7 +3727,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2137,
+        "votes": 2138,
         "popularity": 66.9805,
         "genreIds": [
           16,
@@ -3747,7 +3747,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18896,
+        "votes": 18899,
         "popularity": 39.9764,
         "genreIds": [
           16,
@@ -3788,7 +3788,7 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11433,
+        "votes": 11434,
         "popularity": 30.7747,
         "genreIds": [
           14,
@@ -3815,6 +3815,46 @@
           28,
           10749,
           14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 128,
+        "type": "movie",
+        "title": "Princess Mononoke",
+        "originalTitle": "もののけ姫",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "backdrop": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "date": "1997-07-12",
+        "year": "1997",
+        "rating": 8.3,
+        "votes": 9286,
+        "popularity": 26.3141,
+        "genreIds": [
+          12,
+          14,
+          16
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 31649,
+        "type": "movie",
+        "title": "Vampire Princess Miyu",
+        "originalTitle": "吸血姫美夕",
+        "overview": "Its central characters are a vampire girl named Miyu and her demonic companion Larva. Miyu is the daughter of both a human and a shinma (demon) and as such she was awakened as the guardian whose destiny is to hunt down all stray shinma and send them back to the darkness.",
+        "poster": "/9E1MuQIu4KCY8LbH1k5aw7GkrKG.jpg",
+        "backdrop": null,
+        "date": "1988-07-21",
+        "year": "1988",
+        "rating": 6.8,
+        "votes": 14,
+        "popularity": 25.9828,
+        "genreIds": [
+          14,
+          16,
+          27
         ],
         "lang": "ja"
       },
@@ -3859,46 +3899,6 @@
         "lang": "ja"
       },
       {
-        "id": 128,
-        "type": "movie",
-        "title": "Princess Mononoke",
-        "originalTitle": "もののけ姫",
-        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-        "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
-        "backdrop": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
-        "date": "1997-07-12",
-        "year": "1997",
-        "rating": 8.3,
-        "votes": 9285,
-        "popularity": 26.3141,
-        "genreIds": [
-          12,
-          14,
-          16
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 31649,
-        "type": "movie",
-        "title": "Vampire Princess Miyu",
-        "originalTitle": "吸血姫美夕",
-        "overview": "Its central characters are a vampire girl named Miyu and her demonic companion Larva. Miyu is the daughter of both a human and a shinma (demon) and as such she was awakened as the guardian whose destiny is to hunt down all stray shinma and send them back to the darkness.",
-        "poster": "/9E1MuQIu4KCY8LbH1k5aw7GkrKG.jpg",
-        "backdrop": null,
-        "date": "1988-07-21",
-        "year": "1988",
-        "rating": 6.8,
-        "votes": 14,
-        "popularity": 25.9828,
-        "genreIds": [
-          14,
-          16,
-          27
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 8392,
         "type": "movie",
         "title": "My Neighbor Totoro",
@@ -3909,32 +3909,12 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 9072,
+        "votes": 9074,
         "popularity": 20.8479,
         "genreIds": [
           14,
           16,
           10751
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 508883,
-        "type": "movie",
-        "title": "The Boy and the Heron",
-        "originalTitle": "君たちはどう生きるか",
-        "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
-        "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
-        "backdrop": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
-        "date": "2023-07-14",
-        "year": "2023",
-        "rating": 7.4,
-        "votes": 2805,
-        "popularity": 17.1265,
-        "genreIds": [
-          16,
-          14,
-          18
         ],
         "lang": "ja"
       },
@@ -3949,12 +3929,31 @@
         "date": "1984-03-11",
         "year": "1984",
         "rating": 7.9,
-        "votes": 4198,
+        "votes": 4199,
         "popularity": 18.8361,
         "genreIds": [
           12,
           16,
           14
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 10494,
+        "type": "movie",
+        "title": "Perfect Blue",
+        "originalTitle": "PERFECT BLUE",
+        "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+        "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+        "backdrop": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+        "date": "1998-02-28",
+        "year": "1998",
+        "rating": 8.3,
+        "votes": 3351,
+        "popularity": 18.4749,
+        "genreIds": [
+          16,
+          53
         ],
         "lang": "ja"
       },
@@ -3979,25 +3978,6 @@
         "lang": "ja"
       },
       {
-        "id": 10494,
-        "type": "movie",
-        "title": "Perfect Blue",
-        "originalTitle": "PERFECT BLUE",
-        "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
-        "poster": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
-        "backdrop": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-        "date": "1998-02-28",
-        "year": "1998",
-        "rating": 8.3,
-        "votes": 3350,
-        "popularity": 18.4749,
-        "genreIds": [
-          16,
-          53
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 149,
         "type": "movie",
         "title": "Akira",
@@ -4008,7 +3988,7 @@
         "date": "1988-06-10",
         "year": "1988",
         "rating": 7.9,
-        "votes": 4983,
+        "votes": 4984,
         "popularity": 17.2369,
         "genreIds": [
           16,
@@ -4018,21 +3998,42 @@
         "lang": "ja"
       },
       {
-        "id": 1244492,
+        "id": 508883,
         "type": "movie",
-        "title": "Look Back",
-        "originalTitle": "ルックバック",
-        "overview": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
-        "poster": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg",
-        "backdrop": "/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
-        "date": "2024-06-28",
-        "year": "2024",
-        "rating": 8.2,
-        "votes": 665,
-        "popularity": 15.634,
+        "title": "The Boy and the Heron",
+        "originalTitle": "君たちはどう生きるか",
+        "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+        "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+        "backdrop": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+        "date": "2023-07-14",
+        "year": "2023",
+        "rating": 7.4,
+        "votes": 2805,
+        "popularity": 17.1265,
         "genreIds": [
           16,
+          14,
           18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 35648,
+        "type": "movie",
+        "title": "Roujin Z",
+        "originalTitle": "老人Z",
+        "overview": "Mr. Takazawa, an elderly invalid who is cared for at his home by Haruko, a young nursing student, is chosen by the Japanese Ministry of Public Welfare to test the Z-001, a computerized hospital bed with robotic features that allegedly displays more efficiency and skills than any human nurse, but Haruko mistrusts a machine unable to consider human feelings.",
+        "poster": "/kpJBEfjC9l7BFhmmGPmkNB8gl6h.jpg",
+        "backdrop": "/yDLFUmq4ublCJFktG3zpMb3tUfR.jpg",
+        "date": "1991-09-14",
+        "year": "1991",
+        "rating": 6.6,
+        "votes": 153,
+        "popularity": 16.8296,
+        "genreIds": [
+          16,
+          18,
+          878
         ],
         "lang": "ja"
       },
@@ -4057,62 +4058,62 @@
         "lang": "ja"
       },
       {
-        "id": 635302,
+        "id": 1244492,
         "type": "movie",
-        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-        "originalTitle": "劇場版「鬼滅の刃」無限列車編",
-        "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
-        "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
-        "backdrop": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
-        "date": "2020-10-16",
-        "year": "2020",
+        "title": "Look Back",
+        "originalTitle": "ルックバック",
+        "overview": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+        "poster": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg",
+        "backdrop": "/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
+        "date": "2024-06-28",
+        "year": "2024",
         "rating": 8.2,
-        "votes": 4675,
-        "popularity": 14.5287,
+        "votes": 665,
+        "popularity": 15.634,
+        "genreIds": [
+          16,
+          18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 1545621,
+        "type": "movie",
+        "title": "Detective Conan: Fallen Angel of the Highway",
+        "originalTitle": "名探偵コナン ハイウェイの堕天使",
+        "overview": "When a string of deadly highway incidents begin, Conan Edogawa's investigations point towards an orchestrated plot rather than mere accidents. As he uncovers a conspiracy involving hidden identities and advanced technology, the case escalates into a high-speed race against time to stop a calculating mastermind before more lives are lost.",
+        "poster": "/vvOk7a7k7Sp6UdHcqV4baRlK6CC.jpg",
+        "backdrop": "/zT5S4GNs8Eu2gIkGORoN6yC1uE2.jpg",
+        "date": "2026-04-10",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 21,
+        "popularity": 14.9178,
         "genreIds": [
           16,
           28,
+          9648,
+          80
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 16859,
+        "type": "movie",
+        "title": "Kiki's Delivery Service",
+        "originalTitle": "魔女の宅急便",
+        "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+        "poster": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+        "backdrop": "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+        "date": "1989-07-29",
+        "year": "1989",
+        "rating": 7.8,
+        "votes": 4727,
+        "popularity": 14.5653,
+        "genreIds": [
+          16,
+          10751,
           14
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 37797,
-        "type": "movie",
-        "title": "Whisper of the Heart",
-        "originalTitle": "耳をすませば",
-        "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\"",
-        "poster": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
-        "backdrop": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
-        "date": "1995-07-15",
-        "year": "1995",
-        "rating": 7.9,
-        "votes": 2350,
-        "popularity": 12.6945,
-        "genreIds": [
-          16,
-          18,
-          10751
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 35648,
-        "type": "movie",
-        "title": "Roujin Z",
-        "originalTitle": "老人Z",
-        "overview": "Mr. Takazawa, an elderly invalid who is cared for at his home by Haruko, a young nursing student, is chosen by the Japanese Ministry of Public Welfare to test the Z-001, a computerized hospital bed with robotic features that allegedly displays more efficiency and skills than any human nurse, but Haruko mistrusts a machine unable to consider human feelings.",
-        "poster": "/kpJBEfjC9l7BFhmmGPmkNB8gl6h.jpg",
-        "backdrop": "/yDLFUmq4ublCJFktG3zpMb3tUfR.jpg",
-        "date": "1991-09-14",
-        "year": "1991",
-        "rating": 6.6,
-        "votes": 153,
-        "popularity": 16.8296,
-        "genreIds": [
-          16,
-          18,
-          878
         ],
         "lang": "ja"
       }
