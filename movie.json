@@ -13,8 +13,8 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1190,
-        "popularity": 467.2595,
+        "votes": 1213,
+        "popularity": 514.5001,
         "genreIds": [
           878,
           9648,
@@ -34,7 +34,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.4,
-        "votes": 140,
+        "votes": 149,
         "popularity": 399.1021,
         "genreIds": [
           27,
@@ -43,26 +43,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 299939,
-        "type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "originalTitle": "Monster: The Lizzie Borden Story",
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "date": "2026-09-17",
-        "year": "2026",
-        "rating": 7.1,
-        "votes": 33,
-        "popularity": 136.6505,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 273207,
@@ -75,8 +55,8 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.9,
-        "votes": 67,
-        "popularity": 139.5926,
+        "votes": 68,
+        "popularity": 155.9482,
         "genreIds": [
           18,
           9648,
@@ -84,6 +64,46 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 299939,
+        "type": "tv",
+        "title": "Monster: The Lizzie Borden Story",
+        "originalTitle": "Monster: The Lizzie Borden Story",
+        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "date": "2026-09-17",
+        "year": "2026",
+        "rating": 7,
+        "votes": 35,
+        "popularity": 136.9655,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3361,
+        "popularity": 924.8967,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 247718,
@@ -97,7 +117,7 @@
         "year": "2025",
         "rating": 8.4,
         "votes": 863,
-        "popularity": 181.917,
+        "popularity": 224.6664,
         "genreIds": [
           80,
           18
@@ -106,24 +126,24 @@
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 108978,
+        "id": 2190,
         "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3360,
-        "popularity": 902.525,
+        "title": "South Park",
+        "originalTitle": "South Park",
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "poster": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "date": "1997-08-13",
+        "year": "1997",
+        "rating": 8.3,
+        "votes": 5148,
+        "popularity": 139.3968,
         "genreIds": [
-          10759,
-          80
+          16,
+          35
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/2190?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -135,9 +155,9 @@
         "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
         "date": "2026-08-16",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 359,
-        "popularity": 230.2561,
+        "rating": 8.3,
+        "votes": 360,
+        "popularity": 223.2856,
         "genreIds": [
           18,
           9648,
@@ -145,27 +165,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1240889,
-        "type": "movie",
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-        "poster": "/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
-        "backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 131,
-        "popularity": 44.2136,
-        "genreIds": [
-          35,
-          27,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1240889?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -179,8 +178,8 @@
         "backdrop": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "date": "2026-09-16",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 142,
+        "rating": 7.3,
+        "votes": 148,
         "popularity": 399.1021,
         "genreIds": [
           27,
@@ -201,7 +200,7 @@
         "date": "2026-09-17",
         "year": "2026",
         "rating": 7.1,
-        "votes": 33,
+        "votes": 34,
         "popularity": 136.6505,
         "genreIds": [
           18,
@@ -241,7 +240,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1199,
+        "votes": 1208,
         "popularity": 467.2595,
         "genreIds": [
           878,
@@ -273,25 +272,6 @@
         "iframe": "https://peachify.top/embed/movie/1240889?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 275102,
-        "type": "tv",
-        "title": "The Scandal",
-        "originalTitle": "스캔들",
-        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-        "poster": "/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
-        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 6.3,
-        "votes": 4,
-        "popularity": 1753.5134,
-        "genreIds": [
-          18
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
         "id": 273207,
         "type": "tv",
         "title": "Neagley",
@@ -313,6 +293,45 @@
         "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 275102,
+        "type": "tv",
+        "title": "The Scandal",
+        "originalTitle": "스캔들",
+        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+        "poster": "/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 6.2,
+        "votes": 4,
+        "popularity": 1753.5134,
+        "genreIds": [
+          18
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3361,
+        "popularity": 902.525,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1641629,
         "type": "movie",
         "title": "You+Me - Against the World",
@@ -331,65 +350,6 @@
         ],
         "lang": "fr",
         "iframe": "https://peachify.top/embed/movie/1641629?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3360,
-        "popularity": 902.525,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 207484,
-        "type": "tv",
-        "title": "Outlander: Blood of My Blood",
-        "originalTitle": "Outlander: Blood of My Blood",
-        "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
-        "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-        "backdrop": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-        "date": "2025-08-08",
-        "year": "2025",
-        "rating": 8.6,
-        "votes": 106,
-        "popularity": 25.9349,
-        "genreIds": [
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/207484?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1451944,
-        "type": "movie",
-        "title": "Lust Stories 3",
-        "originalTitle": "Lust Stories 3",
-        "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
-        "poster": "/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
-        "backdrop": "/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 8.5,
-        "votes": 2,
-        "popularity": 37.5379,
-        "genreIds": [
-          10749,
-          18
-        ],
-        "lang": "hi",
-        "iframe": "https://peachify.top/embed/movie/1451944?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95350,
@@ -413,6 +373,45 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1451944,
+        "type": "movie",
+        "title": "Lust Stories 3",
+        "originalTitle": "Lust Stories 3",
+        "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+        "poster": "/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+        "backdrop": "/kgZFECKytirVvmIbWF6slEoWZng.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 8.5,
+        "votes": 2,
+        "popularity": 37.5379,
+        "genreIds": [
+          10749,
+          18
+        ],
+        "lang": "hi",
+        "iframe": "https://peachify.top/embed/movie/1451944?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 207484,
+        "type": "tv",
+        "title": "Outlander: Blood of My Blood",
+        "originalTitle": "Outlander: Blood of My Blood",
+        "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
+        "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+        "backdrop": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+        "date": "2025-08-08",
+        "year": "2025",
+        "rating": 8.6,
+        "votes": 106,
+        "popularity": 25.9349,
+        "genreIds": [
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/207484?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1339713,
         "type": "movie",
         "title": "Obsession",
@@ -423,7 +422,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5609,
+        "votes": 5610,
         "popularity": 136.6207,
         "genreIds": [
           27,
@@ -442,8 +441,8 @@
         "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
         "date": "2026-07-29",
         "year": "2026",
-        "rating": 7.8,
-        "votes": 2771,
+        "rating": 7.9,
+        "votes": 2774,
         "popularity": 659.5404,
         "genreIds": [
           878,
@@ -452,6 +451,27 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3794,
+        "popularity": 367.3657,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1514863,
@@ -463,8 +483,8 @@
         "backdrop": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
         "date": "2026-09-18",
         "year": "2026",
-        "rating": 8.7,
-        "votes": 3,
+        "rating": 7.6,
+        "votes": 5,
         "popularity": 28.9697,
         "genreIds": [
           35
@@ -493,47 +513,25 @@
         "iframe": "https://peachify.top/embed/movie/1228834?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
+        "id": 95480,
+        "type": "tv",
+        "title": "Slow Horses",
+        "originalTitle": "Slow Horses",
+        "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+        "poster": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+        "backdrop": "/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+        "date": "2022-04-01",
+        "year": "2022",
         "rating": 8,
-        "votes": 3793,
-        "popularity": 367.3657,
+        "votes": 987,
+        "popularity": 142.7957,
         "genreIds": [
-          12,
-          28,
-          14
+          80,
+          18,
+          9648
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1108427,
-        "type": "movie",
-        "title": "Moana",
-        "originalTitle": "Moana",
-        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "date": "2026-07-08",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 699,
-        "popularity": 221.3946,
-        "genreIds": [
-          10751,
-          14,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/95480?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 2190,
@@ -556,24 +554,26 @@
         "iframe": "https://peachify.top/embed/tv/2190?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 232018,
-        "type": "tv",
-        "title": "Has Fallen",
-        "originalTitle": "Has Fallen",
-        "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-        "poster": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-        "backdrop": "/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
-        "date": "2024-09-23",
-        "year": "2024",
-        "rating": 7,
-        "votes": 122,
-        "popularity": 51.2776,
+        "id": 1108427,
+        "type": "movie",
+        "title": "Moana",
+        "originalTitle": "Moana",
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "poster": "/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "date": "2026-07-08",
+        "year": "2026",
+        "rating": 7.3,
+        "votes": 700,
+        "popularity": 221.3946,
         "genreIds": [
-          10759,
-          10768
+          10751,
+          14,
+          35,
+          12
         ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/tv/232018?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1108427?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -2612,7 +2612,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18645,
+        "votes": 18652,
         "popularity": 302.2555,
         "genreIds": [
           18,
@@ -2729,7 +2729,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 965,
+        "votes": 967,
         "popularity": 81.7949,
         "genreIds": [
           16,
@@ -2768,7 +2768,7 @@
         "date": "2019-04-21",
         "year": "2019",
         "rating": 8.8,
-        "votes": 986,
+        "votes": 987,
         "popularity": 87.8283,
         "genreIds": [
           10759,
@@ -2807,7 +2807,7 @@
         "date": "2005-02-21",
         "year": "2005",
         "rating": 8.8,
-        "votes": 5105,
+        "votes": 5106,
         "popularity": 33.6631,
         "genreIds": [
           16,
@@ -2845,7 +2845,7 @@
         "date": "2021-11-06",
         "year": "2021",
         "rating": 8.7,
-        "votes": 6177,
+        "votes": 6179,
         "popularity": 50.809,
         "genreIds": [
           16,
@@ -2865,7 +2865,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.7,
-        "votes": 5547,
+        "votes": 5548,
         "popularity": 74.0855,
         "genreIds": [
           10759,
@@ -2903,7 +2903,7 @@
         "date": "2025-01-09",
         "year": "2025",
         "rating": 8.7,
-        "votes": 968,
+        "votes": 969,
         "popularity": 117.2558,
         "genreIds": [
           18
@@ -2921,7 +2921,7 @@
         "date": "2019-05-06",
         "year": "2019",
         "rating": 8.7,
-        "votes": 8303,
+        "votes": 8306,
         "popularity": 37.1193,
         "genreIds": [
           18
@@ -3726,7 +3726,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2151,
+        "votes": 2153,
         "popularity": 64.4788,
         "genreIds": [
           16,
@@ -3746,7 +3746,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18908,
+        "votes": 18914,
         "popularity": 42.1636,
         "genreIds": [
           16,
@@ -3807,7 +3807,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.5,
-        "votes": 1185,
+        "votes": 1186,
         "popularity": 33.2536,
         "genreIds": [
           16,
@@ -3828,32 +3828,12 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11441,
+        "votes": 11446,
         "popularity": 31.4324,
         "genreIds": [
           14,
           16,
           12
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 128,
-        "type": "movie",
-        "title": "Princess Mononoke",
-        "originalTitle": "もののけ姫",
-        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-        "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
-        "backdrop": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
-        "date": "1997-07-12",
-        "year": "1997",
-        "rating": 8.3,
-        "votes": 9292,
-        "popularity": 27.4159,
-        "genreIds": [
-          12,
-          14,
-          16
         ],
         "lang": "ja"
       },
@@ -3868,12 +3848,32 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 12999,
+        "votes": 13002,
         "popularity": 27.4304,
         "genreIds": [
           16,
           10749,
           18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 128,
+        "type": "movie",
+        "title": "Princess Mononoke",
+        "originalTitle": "もののけ姫",
+        "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+        "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+        "backdrop": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+        "date": "1997-07-12",
+        "year": "1997",
+        "rating": 8.3,
+        "votes": 9294,
+        "popularity": 27.4159,
+        "genreIds": [
+          12,
+          14,
+          16
         ],
         "lang": "ja"
       },
@@ -3888,7 +3888,7 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 9079,
+        "votes": 9082,
         "popularity": 23.9295,
         "genreIds": [
           14,
@@ -3908,7 +3908,7 @@
         "date": "2023-07-14",
         "year": "2023",
         "rating": 7.4,
-        "votes": 2807,
+        "votes": 2809,
         "popularity": 21.8255,
         "genreIds": [
           16,
@@ -3948,7 +3948,7 @@
         "date": "1988-06-10",
         "year": "1988",
         "rating": 7.9,
-        "votes": 4991,
+        "votes": 4994,
         "popularity": 20.7286,
         "genreIds": [
           16,
@@ -3968,7 +3968,7 @@
         "date": "1998-02-28",
         "year": "1998",
         "rating": 8.3,
-        "votes": 3355,
+        "votes": 3359,
         "popularity": 19.5544,
         "genreIds": [
           16,
@@ -3997,26 +3997,6 @@
         "lang": "ja"
       },
       {
-        "id": 256838,
-        "type": "movie",
-        "title": "The Star of Cottonland",
-        "originalTitle": "綿の国星",
-        "overview": "After two-month-old kitten Chibi-neko is abandoned by her former owners, she is found by 18-year-old Tokio. Although his mother is allergic to cats and has a great fear of them, she agrees to let him keep the kitten because she fears he is becoming too withdrawn after failing his university entrance exams. Chibi-neko soon falls in love with Tokio.  In her own mind, Chibi-neko is a small human who speaks in human words, although people only ever seem to hear her meow, and she believes that all humans were once kittens like her. A stray cat tells Chibi-neko of a paradise called Cottonland, where dreams can come true.",
-        "poster": "/5dxswEB1jUDCL0UGQOs1f9tK1UI.jpg",
-        "backdrop": "/zpKVs1RfBLL4RG7eD0VNnVWpYZG.jpg",
-        "date": "1984-02-11",
-        "year": "1984",
-        "rating": 5.7,
-        "votes": 9,
-        "popularity": 15.3323,
-        "genreIds": [
-          16,
-          14,
-          10749
-        ],
-        "lang": "ja"
-      },
-      {
         "id": 1539104,
         "type": "movie",
         "title": "JUJUTSU KAISEN: Execution",
@@ -4037,6 +4017,26 @@
         "lang": "ja"
       },
       {
+        "id": 378064,
+        "type": "movie",
+        "title": "A Silent Voice: The Movie",
+        "originalTitle": "映画 聲の形",
+        "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
+        "poster": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+        "backdrop": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+        "date": "2016-09-17",
+        "year": "2016",
+        "rating": 8.4,
+        "votes": 4688,
+        "popularity": 17.5535,
+        "genreIds": [
+          16,
+          18,
+          10749
+        ],
+        "lang": "ja"
+      },
+      {
         "id": 9323,
         "type": "movie",
         "title": "Ghost in the Shell",
@@ -4047,7 +4047,7 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 4046,
+        "votes": 4049,
         "popularity": 17.3923,
         "genreIds": [
           28,
@@ -4067,11 +4067,32 @@
         "date": "2024-06-28",
         "year": "2024",
         "rating": 8.2,
-        "votes": 668,
+        "votes": 669,
         "popularity": 17.0484,
         "genreIds": [
           16,
           18
+        ],
+        "lang": "ja"
+      },
+      {
+        "id": 916224,
+        "type": "movie",
+        "title": "Suzume",
+        "originalTitle": "すずめの戸締まり",
+        "overview": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+        "poster": "/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+        "backdrop": "/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+        "date": "2022-11-11",
+        "year": "2022",
+        "rating": 7.9,
+        "votes": 1845,
+        "popularity": 16.2912,
+        "genreIds": [
+          16,
+          18,
+          12,
+          14
         ],
         "lang": "ja"
       },
@@ -4086,32 +4107,12 @@
         "date": "1995-07-15",
         "year": "1995",
         "rating": 7.9,
-        "votes": 2351,
+        "votes": 2353,
         "popularity": 16.0576,
         "genreIds": [
           16,
           18,
           10751
-        ],
-        "lang": "ja"
-      },
-      {
-        "id": 16859,
-        "type": "movie",
-        "title": "Kiki's Delivery Service",
-        "originalTitle": "魔女の宅急便",
-        "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
-        "poster": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
-        "backdrop": "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
-        "date": "1989-07-29",
-        "year": "1989",
-        "rating": 7.8,
-        "votes": 4731,
-        "popularity": 15.9112,
-        "genreIds": [
-          16,
-          10751,
-          14
         ],
         "lang": "ja"
       }
