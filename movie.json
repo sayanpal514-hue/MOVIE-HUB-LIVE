@@ -13,7 +13,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1246,
+        "votes": 1253,
         "popularity": 514.5001,
         "genreIds": [
           878,
@@ -33,8 +33,8 @@
         "backdrop": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "date": "2026-09-16",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 172,
+        "rating": 7.3,
+        "votes": 179,
         "popularity": 556.6877,
         "genreIds": [
           27,
@@ -43,46 +43,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 299939,
-        "type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "originalTitle": "Monster: The Lizzie Borden Story",
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "date": "2026-09-17",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 39,
-        "popularity": 136.9655,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 1571,
-        "popularity": 385.7829,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 273207,
@@ -95,7 +55,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.9,
-        "votes": 75,
+        "votes": 78,
         "popularity": 155.9482,
         "genreIds": [
           18,
@@ -104,6 +64,26 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 299939,
+        "type": "tv",
+        "title": "Monster: The Lizzie Borden Story",
+        "originalTitle": "Monster: The Lizzie Borden Story",
+        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "date": "2026-09-17",
+        "year": "2026",
+        "rating": 7,
+        "votes": 41,
+        "popularity": 136.9655,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 108978,
@@ -116,7 +96,7 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3363,
+        "votes": 3364,
         "popularity": 924.8967,
         "genreIds": [
           10759,
@@ -126,13 +106,54 @@
         "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 1572,
+        "popularity": 385.7829,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 365,
+        "popularity": 223.2856,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 247718,
         "type": "tv",
         "title": "MobLand",
         "originalTitle": "MobLand",
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "backdrop": "/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
         "date": "2025-03-30",
         "year": "2025",
         "rating": 8.4,
@@ -144,25 +165,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 275102,
-        "type": "tv",
-        "title": "The Scandal",
-        "originalTitle": "스캔들",
-        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-        "poster": "/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
-        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 7,
-        "popularity": 4764.8935,
-        "genreIds": [
-          18
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "trending": [
@@ -176,8 +178,8 @@
         "backdrop": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
         "date": "2026-09-16",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 172,
+        "rating": 7.3,
+        "votes": 179,
         "popularity": 556.6877,
         "genreIds": [
           27,
@@ -197,8 +199,8 @@
         "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "date": "2026-09-17",
         "year": "2026",
-        "rating": 6.9,
-        "votes": 38,
+        "rating": 7,
+        "votes": 41,
         "popularity": 136.9655,
         "genreIds": [
           18,
@@ -206,26 +208,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.4,
-        "votes": 866,
-        "popularity": 224.6664,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1101383,
@@ -238,7 +220,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1246,
+        "votes": 1257,
         "popularity": 514.5001,
         "genreIds": [
           878,
@@ -247,187 +229,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 275102,
-        "type": "tv",
-        "title": "The Scandal",
-        "originalTitle": "스캔들",
-        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-        "poster": "/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
-        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 7,
-        "popularity": 4764.8935,
-        "genreIds": [
-          18
-        ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 273207,
-        "type": "tv",
-        "title": "Neagley",
-        "originalTitle": "Neagley",
-        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-        "poster": "/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
-        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-        "date": "2026-09-16",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 74,
-        "popularity": 155.9482,
-        "genreIds": [
-          18,
-          9648,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1240889,
-        "type": "movie",
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-        "poster": "/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
-        "backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.5,
-        "votes": 134,
-        "popularity": 64.8235,
-        "genreIds": [
-          35,
-          27,
-          10749
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1240889?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3363,
-        "popularity": 924.8967,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 1570,
-        "popularity": 385.7829,
-        "genreIds": [
-          18,
-          10768
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1514863,
-        "type": "movie",
-        "title": "Best of the Best",
-        "originalTitle": "Best of the Best",
-        "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
-        "poster": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-        "backdrop": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 7,
-        "popularity": 48.3659,
-        "genreIds": [
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1514863?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2782,
-        "popularity": 684.7189,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1641629,
-        "type": "movie",
-        "title": "You+Me - Against the World",
-        "originalTitle": "Toi+Moi - Seuls contre tous",
-        "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
-        "poster": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-        "backdrop": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 5.9,
-        "votes": 21,
-        "popularity": 75.2724,
-        "genreIds": [
-          10749,
-          18
-        ],
-        "lang": "fr",
-        "iframe": "https://peachify.top/embed/movie/1641629?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1451944,
-        "type": "movie",
-        "title": "Lust Stories 3",
-        "originalTitle": "Lust Stories 3",
-        "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
-        "poster": "/qbsuF8RazV42POTJLxItQ6Udd3n.jpg",
-        "backdrop": "/kgZFECKytirVvmIbWF6slEoWZng.jpg",
-        "date": "2026-09-18",
-        "year": "2026",
-        "rating": 7,
-        "votes": 3,
-        "popularity": 52.4475,
-        "genreIds": [
-          10749,
-          18
-        ],
-        "lang": "hi",
-        "iframe": "https://peachify.top/embed/movie/1451944?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 239618,
@@ -450,6 +251,148 @@
         "iframe": "https://peachify.top/embed/tv/239618?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 1572,
+        "popularity": 385.7829,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 275102,
+        "type": "tv",
+        "title": "The Scandal",
+        "originalTitle": "스캔들",
+        "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+        "poster": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+        "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 8,
+        "popularity": 4764.8935,
+        "genreIds": [
+          18
+        ],
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/275102?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.4,
+        "votes": 866,
+        "popularity": 224.6664,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 273207,
+        "type": "tv",
+        "title": "Neagley",
+        "originalTitle": "Neagley",
+        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+        "poster": "/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
+        "backdrop": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+        "date": "2026-09-16",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 78,
+        "popularity": 155.9482,
+        "genreIds": [
+          18,
+          9648,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/273207?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1240889,
+        "type": "movie",
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "overview": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+        "poster": "/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
+        "backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.5,
+        "votes": 137,
+        "popularity": 64.8235,
+        "genreIds": [
+          35,
+          27,
+          10749
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1240889?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3365,
+        "popularity": 924.8967,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 969681,
+        "type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "originalTitle": "Spider-Man: Brand New Day",
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "date": "2026-07-29",
+        "year": "2026",
+        "rating": 7.9,
+        "votes": 2784,
+        "popularity": 684.7189,
+        "genreIds": [
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 95350,
         "type": "tv",
         "title": "Lanterns",
@@ -460,7 +403,7 @@
         "date": "2026-08-16",
         "year": "2026",
         "rating": 8.3,
-        "votes": 363,
+        "votes": 365,
         "popularity": 223.2856,
         "genreIds": [
           18,
@@ -469,6 +412,126 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1514863,
+        "type": "movie",
+        "title": "Best of the Best",
+        "originalTitle": "Best of the Best",
+        "overview": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance.",
+        "poster": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+        "backdrop": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 9,
+        "popularity": 48.3659,
+        "genreIds": [
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1514863?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1641629,
+        "type": "movie",
+        "title": "You+Me - Against the World",
+        "originalTitle": "Toi+Moi - Seuls contre tous",
+        "overview": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
+        "poster": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+        "backdrop": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 5.7,
+        "votes": 24,
+        "popularity": 75.2724,
+        "genreIds": [
+          10749,
+          18
+        ],
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/movie/1641629?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1368337,
+        "type": "movie",
+        "title": "The Odyssey",
+        "originalTitle": "The Odyssey",
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 8,
+        "votes": 3809,
+        "popularity": 377.4824,
+        "genreIds": [
+          12,
+          28,
+          14
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 5623,
+        "popularity": 142.7581,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1279493,
+        "type": "movie",
+        "title": "The Get Out",
+        "originalTitle": "The Get Out",
+        "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+        "poster": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+        "backdrop": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+        "date": "2026-06-18",
+        "year": "2026",
+        "rating": 6,
+        "votes": 83,
+        "popularity": 32.6272,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1279493?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1451944,
+        "type": "movie",
+        "title": "Lust Stories 3",
+        "originalTitle": "Lust Stories 3",
+        "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+        "poster": "/feBkcOeda0X505mPyyyeGuuS9Ct.jpg",
+        "backdrop": "/kgZFECKytirVvmIbWF6slEoWZng.jpg",
+        "date": "2026-09-18",
+        "year": "2026",
+        "rating": 7,
+        "votes": 3,
+        "popularity": 52.4475,
+        "genreIds": [
+          10749,
+          18
+        ],
+        "lang": "hi",
+        "iframe": "https://peachify.top/embed/movie/1451944?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 207484,
@@ -490,85 +553,24 @@
         "iframe": "https://peachify.top/embed/tv/207484?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 5622,
-        "popularity": 142.7581,
+        "id": 232018,
+        "type": "tv",
+        "title": "Has Fallen",
+        "originalTitle": "Has Fallen",
+        "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+        "poster": "/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
+        "backdrop": "/oS5vwLiVvfZrQ0NpbRJRfuXJhUX.jpg",
+        "date": "2024-09-23",
+        "year": "2024",
+        "rating": 7,
+        "votes": 122,
+        "popularity": 54.4761,
         "genreIds": [
-          27,
-          53
+          10759,
+          10768
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1279493,
-        "type": "movie",
-        "title": "The Get Out",
-        "originalTitle": "The Get Out",
-        "overview": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
-        "poster": "/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-        "backdrop": "/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
-        "date": "2026-06-18",
-        "year": "2026",
-        "rating": 6.1,
-        "votes": 81,
-        "popularity": 32.6272,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1279493?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3803,
-        "popularity": 377.4824,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1228834,
-        "type": "movie",
-        "title": "The Fix",
-        "originalTitle": "The Fix",
-        "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-        "poster": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-        "backdrop": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": 7.3,
-        "votes": 12,
-        "popularity": 78.2818,
-        "genreIds": [
-          28,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1228834?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "fr",
+        "iframe": "https://peachify.top/embed/tv/232018?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -583,7 +585,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2778,
+        "votes": 2783,
         "popularity": 684.7189,
         "genreIds": [
           878,
@@ -603,7 +605,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 164,
+        "votes": 176,
         "popularity": 556.6877,
         "genreIds": [
           27,
@@ -623,7 +625,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1237,
+        "votes": 1251,
         "popularity": 514.5001,
         "genreIds": [
           878,
@@ -643,7 +645,7 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.6,
-        "votes": 457,
+        "votes": 458,
         "popularity": 485.616,
         "genreIds": [
           35,
@@ -663,7 +665,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3799,
+        "votes": 3807,
         "popularity": 377.4824,
         "genreIds": [
           12,
@@ -683,7 +685,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 826,
+        "votes": 828,
         "popularity": 351.7051,
         "genreIds": [
           28,
@@ -759,7 +761,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 7.4,
-        "votes": 704,
+        "votes": 705,
         "popularity": 216.803,
         "genreIds": [
           10751,
@@ -799,7 +801,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.8,
-        "votes": 526,
+        "votes": 527,
         "popularity": 148.4007,
         "genreIds": [
           53,
@@ -818,7 +820,7 @@
         "date": "2026-09-09",
         "year": "2026",
         "rating": 6.6,
-        "votes": 98,
+        "votes": 99,
         "popularity": 167.0017,
         "genreIds": [
           10749,
@@ -837,7 +839,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.4,
-        "votes": 2205,
+        "votes": 2206,
         "popularity": 152.0103,
         "genreIds": [
           16,
@@ -878,7 +880,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5621,
+        "votes": 5623,
         "popularity": 142.7581,
         "genreIds": [
           27,
@@ -897,7 +899,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 8,
-        "votes": 700,
+        "votes": 706,
         "popularity": 119.6787,
         "genreIds": [
           28,
@@ -1040,8 +1042,8 @@
         "backdrop": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
         "date": "2026-03-12",
         "year": "2026",
-        "rating": 8.9,
-        "votes": 382,
+        "rating": 8.8,
+        "votes": 383,
         "popularity": 17.3076,
         "genreIds": [
           35,
@@ -1060,7 +1062,7 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8.8,
-        "votes": 748,
+        "votes": 750,
         "popularity": 100.3001,
         "genreIds": [
           80,
@@ -1100,7 +1102,7 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31359,
+        "votes": 31360,
         "popularity": 78.5478,
         "genreIds": [
           18,
@@ -1119,7 +1121,7 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23593,
+        "votes": 23595,
         "popularity": 68.8591,
         "genreIds": [
           18,
@@ -1138,7 +1140,7 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 7847,
+        "votes": 7849,
         "popularity": 99.5429,
         "genreIds": [
           878,
@@ -1157,7 +1159,7 @@
         "date": "2026-04-22",
         "year": "2026",
         "rating": 8.6,
-        "votes": 4370,
+        "votes": 4373,
         "popularity": 60.2833,
         "genreIds": [
           10402,
@@ -1195,7 +1197,7 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14339,
+        "votes": 14341,
         "popularity": 39.1243,
         "genreIds": [
           18,
@@ -1214,7 +1216,7 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10375,
+        "votes": 10377,
         "popularity": 35.947,
         "genreIds": [
           18
@@ -1232,7 +1234,7 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 17917,
+        "votes": 17918,
         "popularity": 34.8059,
         "genreIds": [
           18,
@@ -1273,7 +1275,7 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36735,
+        "votes": 36736,
         "popularity": 67.2625,
         "genreIds": [
           28,
@@ -1313,7 +1315,7 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19818,
+        "votes": 19819,
         "popularity": 41.1045,
         "genreIds": [
           14,
@@ -1333,7 +1335,7 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27366,
+        "votes": 27367,
         "popularity": 53.843,
         "genreIds": [
           12,
@@ -1375,7 +1377,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 163,
+        "votes": 174,
         "popularity": 556.6877,
         "genreIds": [
           27,
@@ -1395,7 +1397,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1237,
+        "votes": 1248,
         "popularity": 514.5001,
         "genreIds": [
           878,
@@ -1415,7 +1417,7 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.6,
-        "votes": 457,
+        "votes": 458,
         "popularity": 485.616,
         "genreIds": [
           35,
@@ -1435,7 +1437,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3799,
+        "votes": 3805,
         "popularity": 377.4824,
         "genreIds": [
           12,
@@ -1455,7 +1457,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 826,
+        "votes": 827,
         "popularity": 351.7051,
         "genreIds": [
           28,
@@ -1494,7 +1496,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 7.4,
-        "votes": 704,
+        "votes": 705,
         "popularity": 216.803,
         "genreIds": [
           10751,
@@ -1534,7 +1536,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.8,
-        "votes": 525,
+        "votes": 526,
         "popularity": 148.4007,
         "genreIds": [
           53,
@@ -1553,7 +1555,7 @@
         "date": "2026-09-09",
         "year": "2026",
         "rating": 6.6,
-        "votes": 97,
+        "votes": 99,
         "popularity": 167.0017,
         "genreIds": [
           10749,
@@ -1592,7 +1594,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5620,
+        "votes": 5623,
         "popularity": 142.7581,
         "genreIds": [
           27,
@@ -1611,7 +1613,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 8,
-        "votes": 699,
+        "votes": 704,
         "popularity": 119.6787,
         "genreIds": [
           28,
@@ -1682,26 +1684,6 @@
         "lang": "en"
       },
       {
-        "id": 1058424,
-        "type": "movie",
-        "title": "Hope",
-        "originalTitle": "호프",
-        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-        "poster": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-        "backdrop": "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 7.4,
-        "votes": 79,
-        "popularity": 99.6239,
-        "genreIds": [
-          878,
-          9648,
-          28
-        ],
-        "lang": "ko"
-      },
-      {
         "id": 1506560,
         "type": "movie",
         "title": "Clash of the Thundermans",
@@ -1751,7 +1733,7 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8.8,
-        "votes": 747,
+        "votes": 750,
         "popularity": 100.3001,
         "genreIds": [
           80,
@@ -1759,6 +1741,26 @@
           53
         ],
         "lang": "es"
+      },
+      {
+        "id": 1058424,
+        "type": "movie",
+        "title": "Hope",
+        "originalTitle": "호프",
+        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+        "poster": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+        "backdrop": "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+        "date": "2026-07-15",
+        "year": "2026",
+        "rating": 7.4,
+        "votes": 79,
+        "popularity": 99.6239,
+        "genreIds": [
+          878,
+          9648,
+          28
+        ],
+        "lang": "ko"
       }
     ],
     "upcoming": [
@@ -2161,17 +2163,72 @@
         "title": "The Scandal",
         "originalTitle": "스캔들",
         "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-        "poster": "/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+        "poster": "/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
         "backdrop": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
         "date": "2026-09-18",
         "year": "2026",
         "rating": 6.6,
-        "votes": 5,
+        "votes": 7,
         "popularity": 4764.8935,
         "genreIds": [
           18
         ],
         "lang": "ko"
+      },
+      {
+        "id": 2261,
+        "type": "tv",
+        "title": "The Tonight Show Starring Johnny Carson",
+        "originalTitle": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+        "backdrop": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "date": "1962-10-01",
+        "year": "1962",
+        "rating": 7.5,
+        "votes": 96,
+        "popularity": 1518.53,
+        "genreIds": [
+          10767
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 63770,
+        "type": "tv",
+        "title": "The Late Show with Stephen Colbert",
+        "originalTitle": "The Late Show with Stephen Colbert",
+        "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+        "poster": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+        "backdrop": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+        "date": "2015-09-08",
+        "year": "2015",
+        "rating": 6.1,
+        "votes": 364,
+        "popularity": 1376.1553,
+        "genreIds": [
+          35,
+          10767
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 62223,
+        "type": "tv",
+        "title": "The Late Late Show with James Corden",
+        "originalTitle": "The Late Late Show with James Corden",
+        "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+        "poster": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+        "backdrop": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+        "date": "2015-03-23",
+        "year": "2015",
+        "rating": 5.1,
+        "votes": 148,
+        "popularity": 1051.8414,
+        "genreIds": [
+          10767
+        ],
+        "lang": "en"
       },
       {
         "id": 108978,
@@ -2191,6 +2248,100 @@
           80
         ],
         "lang": "en"
+      },
+      {
+        "id": 549,
+        "type": "tv",
+        "title": "Law & Order",
+        "originalTitle": "Law & Order",
+        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+        "date": "1990-09-13",
+        "year": "1990",
+        "rating": 7.3,
+        "votes": 722,
+        "popularity": 692.9698,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 22980,
+        "type": "tv",
+        "title": "Watch What Happens Live with Andy Cohen",
+        "originalTitle": "Watch What Happens Live with Andy Cohen",
+        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+        "date": "2009-07-16",
+        "year": "2009",
+        "rating": 4.9,
+        "votes": 95,
+        "popularity": 639.8308,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 14981,
+        "type": "tv",
+        "title": "The Late Late Show with Craig Ferguson",
+        "originalTitle": "The Late Late Show with Craig Ferguson",
+        "overview": "The Late Late Show with Craig Ferguson is an American late-night talk show hosted by Scottish American comedian Craig Ferguson, who is the third regular host of the Late Late Show franchise. It follows Late Show with David Letterman in the CBS late-night lineup, airing weekdays in the US at 12:37 a.m. It is taped in front of a live studio audience from Monday to Friday at CBS Television City in Los Angeles, California, directly above the Bob Barker Studio. It is produced by David Letterman's production company Worldwide Pants Incorporated and CBS Television Studios.\n\nSince becoming host on January 3, 2005, after Craig Kilborn and Tom Snyder, Ferguson has achieved the highest ratings since the show's inception in 1995. While the majority of the episodes focus on comedy, Ferguson has also addressed difficult subject matter, such as the deaths of his parents, and undertaken serious interviews, such as one with Desmond Tutu, which earned the show a 2009 Peabody Award.",
+        "poster": "/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+        "backdrop": "/m0bV3qBiJBBlpFaaKjwHo13MVjm.jpg",
+        "date": "2005-01-03",
+        "year": "2005",
+        "rating": 6.8,
+        "votes": 121,
+        "popularity": 610.6244,
+        "genreIds": [
+          35,
+          10767
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 1433,
+        "type": "tv",
+        "title": "American Dad!",
+        "originalTitle": "American Dad!",
+        "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+        "poster": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "backdrop": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+        "date": "2005-02-06",
+        "year": "2005",
+        "rating": 7,
+        "votes": 2445,
+        "popularity": 583.851,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 94722,
+        "type": "tv",
+        "title": "Tagesschau",
+        "originalTitle": "Tagesschau",
+        "overview": "German daily news program, the oldest still existing program on German television.",
+        "poster": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "backdrop": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+        "date": "1952-12-26",
+        "year": "1952",
+        "rating": 6.8,
+        "votes": 256,
+        "popularity": 581.2473,
+        "genreIds": [
+          10763
+        ],
+        "lang": "de"
       },
       {
         "id": 91759,
@@ -2213,25 +2364,6 @@
         "lang": "cn"
       },
       {
-        "id": 22980,
-        "type": "tv",
-        "title": "Watch What Happens Live with Andy Cohen",
-        "originalTitle": "Watch What Happens Live with Andy Cohen",
-        "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-        "poster": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-        "backdrop": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-        "date": "2009-07-16",
-        "year": "2009",
-        "rating": 4.9,
-        "votes": 95,
-        "popularity": 639.8308,
-        "genreIds": [
-          10767,
-          35
-        ],
-        "lang": "en"
-      },
-      {
         "id": 59941,
         "type": "tv",
         "title": "The Tonight Show Starring Jimmy Fallon",
@@ -2247,6 +2379,63 @@
         "genreIds": [
           35,
           10767
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 456,
+        "type": "tv",
+        "title": "The Simpsons",
+        "originalTitle": "The Simpsons",
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "backdrop": "/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
+        "date": "1989-12-17",
+        "year": "1989",
+        "rating": 8,
+        "votes": 11017,
+        "popularity": 457.0739,
+        "genreIds": [
+          16,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 61818,
+        "type": "tv",
+        "title": "Late Night with Seth Meyers",
+        "originalTitle": "Late Night with Seth Meyers",
+        "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "poster": "/u8VruEGv7mtyJihVn2CSA1u90pk.jpg",
+        "backdrop": "/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+        "date": "2014-02-25",
+        "year": "2014",
+        "rating": 5.1,
+        "votes": 134,
+        "popularity": 456.5261,
+        "genreIds": [
+          10767,
+          35
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 26663,
+        "type": "tv",
+        "title": "What's My Line?",
+        "originalTitle": "What's My Line?",
+        "overview": "Four panelists must determine guests' occupations - and, in the case of famous guests, while blindfolded, their identity - by asking only \"yes\" or \"no\" questions.",
+        "poster": "/A9T7xSQFnlxFgZkqC4lmHYPXhq4.jpg",
+        "backdrop": "/kuxGPrAiyvIRjysEK97Bzr9248j.jpg",
+        "date": "1950-02-02",
+        "year": "1950",
+        "rating": 7,
+        "votes": 29,
+        "popularity": 451.7452,
+        "genreIds": [
+          10751,
+          35
         ],
         "lang": "en"
       },
@@ -2271,136 +2460,42 @@
         "lang": "en"
       },
       {
-        "id": 65270,
+        "id": 82873,
         "type": "tv",
-        "title": "Radio Star",
-        "originalTitle": "라디오스타",
-        "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-        "poster": "/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-        "backdrop": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-        "date": "2007-05-30",
-        "year": "2007",
-        "rating": 5.5,
-        "votes": 6,
-        "popularity": 357.0953,
+        "title": "The Kelly Clarkson Show",
+        "originalTitle": "The Kelly Clarkson Show",
+        "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+        "poster": "/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+        "backdrop": "/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+        "date": "2019-09-09",
+        "year": "2019",
+        "rating": 6.3,
+        "votes": 72,
+        "popularity": 416.179,
         "genreIds": [
           10767
         ],
-        "lang": "ko"
-      },
-      {
-        "id": 502,
-        "type": "tv",
-        "title": "Sesame Street",
-        "originalTitle": "Sesame Street",
-        "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
-        "poster": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "backdrop": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-        "date": "1969-11-10",
-        "year": "1969",
-        "rating": 7.1,
-        "votes": 293,
-        "popularity": 327.7646,
-        "genreIds": [
-          10762,
-          35
-        ],
         "lang": "en"
       },
       {
-        "id": 549,
+        "id": 4057,
         "type": "tv",
-        "title": "Law & Order",
-        "originalTitle": "Law & Order",
-        "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-        "poster": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-        "backdrop": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-        "date": "1990-09-13",
-        "year": "1990",
-        "rating": 7.3,
-        "votes": 722,
-        "popularity": 692.9698,
+        "title": "Criminal Minds",
+        "originalTitle": "Criminal Minds",
+        "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+        "poster": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+        "backdrop": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+        "date": "2005-09-22",
+        "year": "2005",
+        "rating": 8.3,
+        "votes": 4171,
+        "popularity": 409.7042,
         "genreIds": [
           80,
-          18
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 31472,
-        "type": "tv",
-        "title": "Pelotón",
-        "originalTitle": "Pelotón",
-        "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
-        "poster": "/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-        "backdrop": null,
-        "date": "2007-01-02",
-        "year": "2007",
-        "rating": 9,
-        "votes": 1,
-        "popularity": 364.7425,
-        "genreIds": [
-          10764
-        ],
-        "lang": "es"
-      },
-      {
-        "id": 113962,
-        "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
-        "rating": 8.2,
-        "votes": 1570,
-        "popularity": 385.7829,
-        "genreIds": [
           18,
-          10768
+          9648
         ],
         "lang": "en"
-      },
-      {
-        "id": 70672,
-        "type": "tv",
-        "title": "Men on a Mission",
-        "originalTitle": "아는 형님",
-        "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-        "poster": "/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-        "backdrop": "/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-        "date": "2015-12-05",
-        "year": "2015",
-        "rating": 7.4,
-        "votes": 42,
-        "popularity": 322.2193,
-        "genreIds": [
-          10764,
-          35
-        ],
-        "lang": "ko"
-      },
-      {
-        "id": 2661,
-        "type": "tv",
-        "title": "Kamen Rider",
-        "originalTitle": "仮面ライダー",
-        "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-        "poster": "/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "backdrop": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-        "date": "1971-04-03",
-        "year": "1971",
-        "rating": 6.4,
-        "votes": 108,
-        "popularity": 316.5316,
-        "genreIds": [
-          10759,
-          10765,
-          18
-        ],
-        "lang": "ja"
       },
       {
         "id": 2734,
@@ -2438,101 +2533,6 @@
         "genreIds": [
           16,
           35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 4614,
-        "type": "tv",
-        "title": "NCIS",
-        "originalTitle": "NCIS",
-        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-        "poster": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "backdrop": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-        "date": "2003-09-23",
-        "year": "2003",
-        "rating": 7.6,
-        "votes": 2572,
-        "popularity": 304.8737,
-        "genreIds": [
-          80,
-          18,
-          10759
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 456,
-        "type": "tv",
-        "title": "The Simpsons",
-        "originalTitle": "The Simpsons",
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "poster": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "backdrop": "/ncQ8D4j8GSuL9CzncLEXnhHDxHy.jpg",
-        "date": "1989-12-17",
-        "year": "1989",
-        "rating": 8,
-        "votes": 11016,
-        "popularity": 457.0739,
-        "genreIds": [
-          16,
-          35
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 45789,
-        "type": "tv",
-        "title": "Storm of Love",
-        "originalTitle": "Sturm der Liebe",
-        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
-        "poster": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
-        "backdrop": "/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
-        "date": "2005-09-26",
-        "year": "2005",
-        "rating": 6,
-        "votes": 39,
-        "popularity": 310.7683,
-        "genreIds": [
-          18,
-          10766
-        ],
-        "lang": "de"
-      },
-      {
-        "id": 2261,
-        "type": "tv",
-        "title": "The Tonight Show Starring Johnny Carson",
-        "originalTitle": "The Tonight Show Starring Johnny Carson",
-        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-        "poster": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-        "backdrop": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
-        "date": "1962-10-01",
-        "year": "1962",
-        "rating": 7.5,
-        "votes": 96,
-        "popularity": 1518.53,
-        "genreIds": [
-          10767
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1396,
-        "type": "tv",
-        "title": "Breaking Bad",
-        "originalTitle": "Breaking Bad",
-        "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-        "poster": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
-        "backdrop": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-        "date": "2008-01-20",
-        "year": "2008",
-        "rating": 9,
-        "votes": 18656,
-        "popularity": 249.9091,
-        "genreIds": [
-          18,
-          80
         ],
         "lang": "en"
       }
@@ -3722,8 +3722,8 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2153,
-        "popularity": 64.4788,
+        "votes": 2156,
+        "popularity": 68.9932,
         "genreIds": [
           16,
           28,
@@ -3742,8 +3742,8 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18914,
-        "popularity": 42.1636,
+        "votes": 18916,
+        "popularity": 43.9534,
         "genreIds": [
           16,
           10751,
@@ -3763,7 +3763,7 @@
         "year": "1988",
         "rating": 6.8,
         "votes": 14,
-        "popularity": 38.9755,
+        "popularity": 36.4068,
         "genreIds": [
           14,
           16,
@@ -3783,7 +3783,7 @@
         "year": "2026",
         "rating": 9,
         "votes": 2,
-        "popularity": 34.5798,
+        "popularity": 36.0532,
         "genreIds": [
           16,
           18,
@@ -3802,9 +3802,9 @@
         "backdrop": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
         "date": "2025-09-19",
         "year": "2025",
-        "rating": 8.5,
-        "votes": 1186,
-        "popularity": 33.2536,
+        "rating": 8.6,
+        "votes": 1189,
+        "popularity": 28.4225,
         "genreIds": [
           16,
           28,
@@ -3824,8 +3824,8 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11446,
-        "popularity": 31.4324,
+        "votes": 11447,
+        "popularity": 39.9577,
         "genreIds": [
           14,
           16,
@@ -3845,7 +3845,7 @@
         "year": "2016",
         "rating": 8.5,
         "votes": 13002,
-        "popularity": 27.4304,
+        "popularity": 28.9668,
         "genreIds": [
           16,
           10749,
@@ -3864,8 +3864,8 @@
         "date": "1997-07-12",
         "year": "1997",
         "rating": 8.3,
-        "votes": 9294,
-        "popularity": 27.4159,
+        "votes": 9297,
+        "popularity": 25.9436,
         "genreIds": [
           12,
           14,
@@ -3884,8 +3884,8 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 9082,
-        "popularity": 23.9295,
+        "votes": 9083,
+        "popularity": 23.5252,
         "genreIds": [
           14,
           16,
@@ -3904,8 +3904,8 @@
         "date": "2023-07-14",
         "year": "2023",
         "rating": 7.4,
-        "votes": 2809,
-        "popularity": 21.8255,
+        "votes": 2814,
+        "popularity": 21.9136,
         "genreIds": [
           16,
           14,
@@ -3924,8 +3924,8 @@
         "date": "1984-03-11",
         "year": "1984",
         "rating": 7.9,
-        "votes": 4200,
-        "popularity": 21.1361,
+        "votes": 4202,
+        "popularity": 18.8273,
         "genreIds": [
           12,
           16,
@@ -3944,8 +3944,8 @@
         "date": "1988-06-10",
         "year": "1988",
         "rating": 7.9,
-        "votes": 4994,
-        "popularity": 20.7286,
+        "votes": 4996,
+        "popularity": 24.3211,
         "genreIds": [
           16,
           878,
@@ -3964,8 +3964,8 @@
         "date": "1998-02-28",
         "year": "1998",
         "rating": 8.3,
-        "votes": 3359,
-        "popularity": 19.5544,
+        "votes": 3360,
+        "popularity": 21.0204,
         "genreIds": [
           16,
           53
@@ -3984,7 +3984,7 @@
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 18.9174,
+        "popularity": 20.6822,
         "genreIds": [
           12,
           16,
@@ -4004,7 +4004,7 @@
         "year": "2025",
         "rating": 6.1,
         "votes": 118,
-        "popularity": 17.2972,
+        "popularity": 18.8185,
         "genreIds": [
           16,
           28,
@@ -4023,8 +4023,8 @@
         "date": "2016-09-17",
         "year": "2016",
         "rating": 8.4,
-        "votes": 4688,
-        "popularity": 17.5535,
+        "votes": 4690,
+        "popularity": 16.0194,
         "genreIds": [
           16,
           18,
@@ -4043,8 +4043,8 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 4049,
-        "popularity": 17.3923,
+        "votes": 4051,
+        "popularity": 20.5512,
         "genreIds": [
           28,
           16,
@@ -4063,8 +4063,8 @@
         "date": "2024-06-28",
         "year": "2024",
         "rating": 8.2,
-        "votes": 669,
-        "popularity": 17.0484,
+        "votes": 670,
+        "popularity": 26.1319,
         "genreIds": [
           16,
           18
@@ -4083,7 +4083,7 @@
         "year": "2022",
         "rating": 7.9,
         "votes": 1845,
-        "popularity": 16.2912,
+        "popularity": 15.7684,
         "genreIds": [
           16,
           18,
@@ -4104,7 +4104,7 @@
         "year": "1995",
         "rating": 7.9,
         "votes": 2353,
-        "popularity": 16.0576,
+        "popularity": 16.4278,
         "genreIds": [
           16,
           18,
