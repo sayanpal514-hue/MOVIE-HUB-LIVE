@@ -13,8 +13,8 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 383,
-        "popularity": 584.55,
+        "votes": 391,
+        "popularity": 560.076,
         "genreIds": [
           27,
           878,
@@ -33,15 +33,57 @@
         "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "date": "2026-09-17",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 83,
-        "popularity": 165.6148,
+        "rating": 6.9,
+        "votes": 86,
+        "popularity": 162.8782,
         "genreIds": [
           18,
           80
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7,
+        "votes": 1464,
+        "popularity": 452.4649,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 419,
+        "popularity": 262.5778,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 273207,
@@ -54,8 +96,8 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 8.1,
-        "votes": 117,
-        "popularity": 164.7382,
+        "votes": 118,
+        "popularity": 150.8613,
         "genreIds": [
           18,
           9648,
@@ -75,56 +117,14 @@
         "date": "2025-03-30",
         "year": "2025",
         "rating": 8.4,
-        "votes": 887,
-        "popularity": 255.9333,
+        "votes": 891,
+        "popularity": 266.225,
         "genreIds": [
           80,
           18
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 415,
-        "popularity": 276.6365,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1101383,
-        "type": "movie",
-        "title": "The End of Oak Street",
-        "originalTitle": "The End of Oak Street",
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "date": "2026-08-12",
-        "year": "2026",
-        "rating": 7,
-        "votes": 1457,
-        "popularity": 485.8521,
-        "genreIds": [
-          878,
-          9648,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1032863,
@@ -136,9 +136,9 @@
         "backdrop": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "date": "2026-09-23",
         "year": "2026",
-        "rating": 8.4,
-        "votes": 35,
-        "popularity": 42.8824,
+        "rating": 8.1,
+        "votes": 46,
+        "popularity": 218.1516,
         "genreIds": [
           10749,
           35
@@ -157,8 +157,8 @@
         "date": "2022-02-03",
         "year": "2022",
         "rating": 8.1,
-        "votes": 3390,
-        "popularity": 832.6872,
+        "votes": 3393,
+        "popularity": 795.7436,
         "genreIds": [
           10759,
           80
@@ -178,9 +178,9 @@
         "backdrop": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
         "date": "2026-09-23",
         "year": "2026",
-        "rating": 8.4,
-        "votes": 34,
-        "popularity": 42.8824,
+        "rating": 8.3,
+        "votes": 44,
+        "popularity": 218.1516,
         "genreIds": [
           10749,
           35
@@ -193,14 +193,14 @@
         "type": "movie",
         "title": "One Last Shot",
         "originalTitle": "One Last Shot",
-        "overview": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind from extracting the nuclear codes, Harris must lead his team into enemy territory against a brutal barrage of mercenaries, deadly traps, and a reckoning with his own checkered past.",
+        "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
         "poster": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
         "backdrop": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
         "date": "2026-09-22",
         "year": "2026",
-        "rating": 7.4,
-        "votes": 22,
-        "popularity": 90.7214,
+        "rating": 7.5,
+        "votes": 26,
+        "popularity": 142.2671,
         "genreIds": [
           28,
           53
@@ -219,8 +219,8 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 379,
-        "popularity": 584.55,
+        "votes": 391,
+        "popularity": 560.076,
         "genreIds": [
           27,
           878,
@@ -240,8 +240,8 @@
         "date": "2026-09-22",
         "year": "2026",
         "rating": 10,
-        "votes": 4,
-        "popularity": 14.858,
+        "votes": 6,
+        "popularity": 64.9971,
         "genreIds": [
           35
         ],
@@ -259,8 +259,8 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.4,
-        "votes": 2255,
-        "popularity": 146.8947,
+        "votes": 2262,
+        "popularity": 161.1158,
         "genreIds": [
           16,
           10751,
@@ -269,6 +269,47 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1263337,
+        "type": "movie",
+        "title": "Heart of the Beast",
+        "originalTitle": "Heart of the Beast",
+        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+        "poster": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+        "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "date": "2026-09-19",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 26,
+        "popularity": 88.7025,
+        "genreIds": [
+          12,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1263337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 95350,
+        "type": "tv",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 419,
+        "popularity": 262.5778,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 299939,
@@ -280,9 +321,9 @@
         "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
         "date": "2026-09-17",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 83,
-        "popularity": 165.6148,
+        "rating": 6.9,
+        "votes": 86,
+        "popularity": 162.8782,
         "genreIds": [
           18,
           80
@@ -300,160 +341,15 @@
         "backdrop": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
         "date": "2026-08-20",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 13,
-        "popularity": 33.5182,
+        "rating": 7.3,
+        "votes": 15,
+        "popularity": 47.1287,
         "genreIds": [
           35,
           80
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/445466?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1263337,
-        "type": "movie",
-        "title": "Heart of the Beast",
-        "originalTitle": "Heart of the Beast",
-        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-        "poster": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-        "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "date": "2026-09-19",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 25,
-        "popularity": 71.8911,
-        "genreIds": [
-          12,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1263337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1248832,
-        "type": "movie",
-        "title": "Digger",
-        "originalTitle": "Digger",
-        "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-        "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "backdrop": "/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-        "date": "2026-09-30",
-        "year": "2026",
-        "rating": 9,
-        "votes": 2,
-        "popularity": 33.8641,
-        "genreIds": [
-          35,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1248832?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1477712,
-        "type": "movie",
-        "title": "Ice Cream Man",
-        "originalTitle": "Ice Cream Man",
-        "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-        "poster": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-        "backdrop": "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
-        "date": "2026-08-03",
-        "year": "2026",
-        "rating": 4.6,
-        "votes": 68,
-        "popularity": 65.1965,
-        "genreIds": [
-          27,
-          35,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1477712?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 415,
-        "popularity": 276.6365,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1465063,
-        "type": "movie",
-        "title": "Forgotten Island",
-        "originalTitle": "Forgotten Island",
-        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-        "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "backdrop": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-        "date": "2026-09-10",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 12,
-        "popularity": 44.6583,
-        "genreIds": [
-          16,
-          12,
-          14,
-          35,
-          10751
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1465063?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 312557,
-        "type": "tv",
-        "title": "Minerva Academy",
-        "originalTitle": "Minerva - La scuola",
-        "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
-        "poster": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
-        "backdrop": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
-        "date": "2026-09-22",
-        "year": "2026",
-        "rating": 6.6,
-        "votes": 5,
-        "popularity": 38.6703,
-        "genreIds": [
-          18,
-          9648
-        ],
-        "lang": "it",
-        "iframe": "https://peachify.top/embed/tv/312557?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.4,
-        "votes": 886,
-        "popularity": 255.9333,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 308963,
@@ -465,97 +361,96 @@
         "backdrop": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
         "date": "2026-09-23",
         "year": "2026",
-        "rating": 10,
-        "votes": 2,
-        "popularity": 3.885,
+        "rating": 7.5,
+        "votes": 4,
+        "popularity": 25.1564,
         "genreIds": [
-          18
+          18,
+          80
         ],
         "lang": "pt",
         "iframe": "https://peachify.top/embed/tv/308963?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 675871,
-        "type": "movie",
-        "title": "Super Troopers 3",
-        "originalTitle": "Super Troopers 3",
-        "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
-        "poster": "/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
-        "backdrop": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-        "date": "2026-08-06",
-        "year": "2026",
-        "rating": 6.9,
-        "votes": 23,
-        "popularity": 41.8856,
-        "genreIds": [
-          35,
-          80,
-          9648
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/675871?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 113962,
+        "id": 246473,
         "type": "tv",
-        "title": "Lioness",
-        "originalTitle": "Lioness",
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-        "date": "2023-07-23",
-        "year": "2023",
+        "title": "Made in Korea",
+        "originalTitle": "메이드 인 코리아",
+        "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+        "poster": "/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+        "backdrop": "/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
+        "date": "2025-12-24",
+        "year": "2025",
         "rating": 8.2,
-        "votes": 1615,
-        "popularity": 536.134,
+        "votes": 36,
+        "popularity": 44.518,
         "genreIds": [
-          18,
-          10768
+          80,
+          18
         ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ko",
+        "iframe": "https://peachify.top/embed/tv/246473?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 969681,
+        "id": 1477712,
         "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
+        "title": "Ice Cream Man",
+        "originalTitle": "Ice Cream Man",
+        "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+        "poster": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "backdrop": "/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+        "date": "2026-08-03",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 2849,
-        "popularity": 653.7739,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7,
-        "votes": 3387,
-        "popularity": 91.0767,
+        "rating": 4.6,
+        "votes": 69,
+        "popularity": 107.0138,
         "genreIds": [
           27,
-          9648,
-          878
+          35,
+          53
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1477712?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1248832,
+        "type": "movie",
+        "title": "Digger",
+        "originalTitle": "Digger",
+        "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+        "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "backdrop": "/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+        "date": "2026-09-30",
+        "year": "2026",
+        "rating": 9.3,
+        "votes": 3,
+        "popularity": 43.3101,
+        "genreIds": [
+          35,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1248832?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 97546,
+        "type": "tv",
+        "title": "Ted Lasso",
+        "originalTitle": "Ted Lasso",
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "poster": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "date": "2020-08-14",
+        "year": "2020",
+        "rating": 8.4,
+        "votes": 2682,
+        "popularity": 252.8091,
+        "genreIds": [
+          18,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/97546?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 95480,
@@ -569,7 +464,7 @@
         "year": "2022",
         "rating": 8,
         "votes": 995,
-        "popularity": 155.2859,
+        "popularity": 206.1408,
         "genreIds": [
           80,
           18,
@@ -577,6 +472,113 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/tv/95480?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 675871,
+        "type": "movie",
+        "title": "Super Troopers 3",
+        "originalTitle": "Super Troopers 3",
+        "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
+        "poster": "/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+        "backdrop": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+        "date": "2026-08-06",
+        "year": "2026",
+        "rating": 6.9,
+        "votes": 23,
+        "popularity": 51.0157,
+        "genreIds": [
+          35,
+          80,
+          9648
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/675871?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1465063,
+        "type": "movie",
+        "title": "Forgotten Island",
+        "originalTitle": "Forgotten Island",
+        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+        "poster": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "backdrop": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+        "date": "2026-09-10",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 12,
+        "popularity": 53.437,
+        "genreIds": [
+          16,
+          12,
+          14,
+          35,
+          10751
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1465063?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 113962,
+        "type": "tv",
+        "title": "Lioness",
+        "originalTitle": "Lioness",
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "poster": "/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+        "date": "2023-07-23",
+        "year": "2023",
+        "rating": 8.2,
+        "votes": 1617,
+        "popularity": 520.6287,
+        "genreIds": [
+          18,
+          10768
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/113962?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1101383,
+        "type": "movie",
+        "title": "The End of Oak Street",
+        "originalTitle": "The End of Oak Street",
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "date": "2026-08-12",
+        "year": "2026",
+        "rating": 7,
+        "votes": 1464,
+        "popularity": 452.4649,
+        "genreIds": [
+          878,
+          9648,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1101383?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 65942,
+        "type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "originalTitle": "Re:ゼロから始める異世界生活",
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "poster": "/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "date": "2016-04-04",
+        "year": "2016",
+        "rating": 8.1,
+        "votes": 787,
+        "popularity": 140.1626,
+        "genreIds": [
+          16,
+          9648,
+          10759,
+          10765
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/65942?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -591,7 +593,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2844,
+        "votes": 2852,
         "popularity": 653.7739,
         "genreIds": [
           878,
@@ -611,7 +613,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 359,
+        "votes": 388,
         "popularity": 584.55,
         "genreIds": [
           27,
@@ -631,7 +633,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1446,
+        "votes": 1459,
         "popularity": 485.8521,
         "genreIds": [
           878,
@@ -650,8 +652,8 @@
         "backdrop": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
         "date": "2026-08-20",
         "year": "2026",
-        "rating": 7.5,
-        "votes": 498,
+        "rating": 7.6,
+        "votes": 502,
         "popularity": 409.4076,
         "genreIds": [
           35,
@@ -671,7 +673,7 @@
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3876,
+        "votes": 3879,
         "popularity": 346.9968,
         "genreIds": [
           12,
@@ -691,7 +693,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 869,
+        "votes": 871,
         "popularity": 290.1781,
         "genreIds": [
           28,
@@ -730,7 +732,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 6.4,
-        "votes": 434,
+        "votes": 436,
         "popularity": 229.0152,
         "genreIds": [
           28,
@@ -768,7 +770,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 7.4,
-        "votes": 751,
+        "votes": 754,
         "popularity": 183.5472,
         "genreIds": [
           10751,
@@ -789,7 +791,7 @@
         "date": "2026-09-09",
         "year": "2026",
         "rating": 6.7,
-        "votes": 111,
+        "votes": 113,
         "popularity": 148.2249,
         "genreIds": [
           10749,
@@ -808,7 +810,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.4,
-        "votes": 2250,
+        "votes": 2258,
         "popularity": 146.8947,
         "genreIds": [
           16,
@@ -867,7 +869,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.4,
-        "votes": 170,
+        "votes": 172,
         "popularity": 130.0998,
         "genreIds": [
           35,
@@ -887,7 +889,7 @@
         "date": "2026-09-03",
         "year": "2026",
         "rating": 6.8,
-        "votes": 556,
+        "votes": 557,
         "popularity": 123.862,
         "genreIds": [
           53,
@@ -906,7 +908,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5688,
+        "votes": 5692,
         "popularity": 123.629,
         "genreIds": [
           27,
@@ -925,7 +927,7 @@
         "date": "2026-06-24",
         "year": "2026",
         "rating": 7.6,
-        "votes": 1158,
+        "votes": 1159,
         "popularity": 120.1224,
         "genreIds": [
           12,
@@ -946,8 +948,8 @@
         "backdrop": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
         "date": "2026-08-06",
         "year": "2026",
-        "rating": 6.8,
-        "votes": 185,
+        "rating": 6.7,
+        "votes": 186,
         "popularity": 114.3201,
         "genreIds": [
           28,
@@ -989,8 +991,8 @@
         "date": "2026-06-23",
         "year": "2026",
         "rating": 9.2,
-        "votes": 367,
-        "popularity": 75.9198,
+        "votes": 371,
+        "popularity": 75.0853,
         "genreIds": [
           16,
           28,
@@ -1011,7 +1013,7 @@
         "year": "2026",
         "rating": 9.2,
         "votes": 1183,
-        "popularity": 83.0092,
+        "popularity": 79.4843,
         "genreIds": [
           16,
           12,
@@ -1031,8 +1033,8 @@
         "date": "2026-05-01",
         "year": "2026",
         "rating": 8.9,
-        "votes": 2197,
-        "popularity": 45.5412,
+        "votes": 2198,
+        "popularity": 45.4515,
         "genreIds": [
           12,
           16,
@@ -1052,8 +1054,8 @@
         "date": "2026-03-12",
         "year": "2026",
         "rating": 8.8,
-        "votes": 383,
-        "popularity": 16.3173,
+        "votes": 384,
+        "popularity": 16.476,
         "genreIds": [
           35,
           10749
@@ -1071,8 +1073,8 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2171,
-        "popularity": 59.8066,
+        "votes": 2172,
+        "popularity": 59.734,
         "genreIds": [
           16,
           28,
@@ -1091,8 +1093,8 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 8.8,
-        "votes": 790,
-        "popularity": 95.4174,
+        "votes": 792,
+        "popularity": 87.2648,
         "genreIds": [
           80,
           28,
@@ -1111,8 +1113,8 @@
         "date": "1994-09-23",
         "year": "1994",
         "rating": 8.7,
-        "votes": 31392,
-        "popularity": 71.0503,
+        "votes": 31395,
+        "popularity": 68.3294,
         "genreIds": [
           18,
           80
@@ -1130,8 +1132,8 @@
         "date": "1972-03-14",
         "year": "1972",
         "rating": 8.7,
-        "votes": 23617,
-        "popularity": 65.2139,
+        "votes": 23619,
+        "popularity": 65.478,
         "genreIds": [
           18,
           80
@@ -1149,8 +1151,8 @@
         "date": "2026-03-15",
         "year": "2026",
         "rating": 8.6,
-        "votes": 7930,
-        "popularity": 99.5931,
+        "votes": 7934,
+        "popularity": 103.7227,
         "genreIds": [
           878,
           12
@@ -1169,7 +1171,7 @@
         "year": "2026",
         "rating": 8.6,
         "votes": 4397,
-        "popularity": 56.0259,
+        "popularity": 55.5869,
         "genreIds": [
           10402,
           18
@@ -1188,7 +1190,7 @@
         "year": "2024",
         "rating": 8.6,
         "votes": 317,
-        "popularity": 17.8557,
+        "popularity": 17.9391,
         "genreIds": [
           18,
           10749
@@ -1206,8 +1208,8 @@
         "date": "1974-12-20",
         "year": "1974",
         "rating": 8.6,
-        "votes": 14354,
-        "popularity": 39.6686,
+        "votes": 14355,
+        "popularity": 38.5304,
         "genreIds": [
           18,
           80
@@ -1225,8 +1227,8 @@
         "date": "1957-04-10",
         "year": "1957",
         "rating": 8.6,
-        "votes": 10391,
-        "popularity": 36.3222,
+        "votes": 10392,
+        "popularity": 37.3217,
         "genreIds": [
           18
         ],
@@ -1243,8 +1245,8 @@
         "date": "1993-12-15",
         "year": "1993",
         "rating": 8.6,
-        "votes": 17934,
-        "popularity": 32.5905,
+        "votes": 17937,
+        "popularity": 34.4689,
         "genreIds": [
           18,
           36,
@@ -1263,8 +1265,8 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.6,
-        "votes": 1197,
-        "popularity": 33.0295,
+        "votes": 1199,
+        "popularity": 32.0893,
         "genreIds": [
           16,
           28,
@@ -1284,8 +1286,8 @@
         "date": "2008-07-16",
         "year": "2008",
         "rating": 8.5,
-        "votes": 36778,
-        "popularity": 65.0717,
+        "votes": 36780,
+        "popularity": 63.7889,
         "genreIds": [
           28,
           53,
@@ -1304,8 +1306,8 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18928,
-        "popularity": 39.4761,
+        "votes": 18931,
+        "popularity": 41.0857,
         "genreIds": [
           16,
           10751,
@@ -1324,8 +1326,8 @@
         "date": "1999-12-10",
         "year": "1999",
         "rating": 8.5,
-        "votes": 19839,
-        "popularity": 41.7285,
+        "votes": 19841,
+        "popularity": 41.1477,
         "genreIds": [
           14,
           18,
@@ -1344,8 +1346,8 @@
         "date": "2003-12-17",
         "year": "2003",
         "rating": 8.5,
-        "votes": 27401,
-        "popularity": 56.2081,
+        "votes": 27405,
+        "popularity": 53.0483,
         "genreIds": [
           12,
           14,
@@ -1365,7 +1367,7 @@
         "year": "1995",
         "rating": 8.5,
         "votes": 4624,
-        "popularity": 14.0111,
+        "popularity": 14.1551,
         "genreIds": [
           35,
           18,
@@ -2580,7 +2582,7 @@
         "date": "2026-05-15",
         "year": "2026",
         "rating": 9.2,
-        "votes": 597,
+        "votes": 599,
         "popularity": 44.0968,
         "genreIds": [
           37,
@@ -2618,7 +2620,7 @@
         "date": "2008-01-20",
         "year": "2008",
         "rating": 9,
-        "votes": 18678,
+        "votes": 18679,
         "popularity": 217.044,
         "genreIds": [
           18,
@@ -2753,7 +2755,7 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 971,
+        "votes": 972,
         "popularity": 125.8581,
         "genreIds": [
           16,
@@ -2851,7 +2853,7 @@
         "date": "1999-10-20",
         "year": "1999",
         "rating": 8.7,
-        "votes": 5554,
+        "votes": 5555,
         "popularity": 91.1794,
         "genreIds": [
           10759,
@@ -3327,8 +3329,8 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1728,
-        "popularity": 275.1399,
+        "votes": 1729,
+        "popularity": 279.2905,
         "genreIds": [
           10759,
           16,
@@ -3348,7 +3350,7 @@
         "year": "2005",
         "rating": 8.1,
         "votes": 245,
-        "popularity": 224.0976,
+        "popularity": 285.861,
         "genreIds": [
           10759,
           16,
@@ -3369,9 +3371,9 @@
         "backdrop": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
         "date": "2004-10-05",
         "year": "2004",
-        "rating": 8.4,
+        "rating": 8.3,
         "votes": 2277,
-        "popularity": 208.5297,
+        "popularity": 205.1572,
         "genreIds": [
           10759,
           16,
@@ -3391,7 +3393,7 @@
         "year": "2016",
         "rating": 8.1,
         "votes": 787,
-        "popularity": 160.5247,
+        "popularity": 140.1626,
         "genreIds": [
           16,
           9648,
@@ -3412,7 +3414,7 @@
         "year": "2017",
         "rating": 5.5,
         "votes": 15,
-        "popularity": 153.5566,
+        "popularity": 166.644,
         "genreIds": [
           16,
           18
@@ -3431,7 +3433,7 @@
         "year": "1997",
         "rating": 8,
         "votes": 2264,
-        "popularity": 151.4142,
+        "popularity": 150.733,
         "genreIds": [
           16,
           10759,
@@ -3451,7 +3453,7 @@
         "year": "2020",
         "rating": 8.6,
         "votes": 4665,
-        "popularity": 139.3161,
+        "popularity": 132.1105,
         "genreIds": [
           16,
           10765,
@@ -3471,7 +3473,7 @@
         "year": "1990",
         "rating": 7.8,
         "votes": 24,
-        "popularity": 135.2764,
+        "popularity": 134.6674,
         "genreIds": [
           16,
           35
@@ -3489,8 +3491,8 @@
         "date": "2023-09-29",
         "year": "2023",
         "rating": 8.8,
-        "votes": 971,
-        "popularity": 125.8581,
+        "votes": 972,
+        "popularity": 108.3324,
         "genreIds": [
           16,
           10759,
@@ -3511,7 +3513,7 @@
         "year": "1993",
         "rating": 6.8,
         "votes": 23,
-        "popularity": 116.9035,
+        "popularity": 129.5873,
         "genreIds": [
           35,
           10759,
@@ -3533,7 +3535,7 @@
         "year": "2002",
         "rating": 8.4,
         "votes": 6124,
-        "popularity": 114.1442,
+        "popularity": 116.4561,
         "genreIds": [
           16,
           10759,
@@ -3553,7 +3555,7 @@
         "year": "2006",
         "rating": 8.1,
         "votes": 198,
-        "popularity": 113.1441,
+        "popularity": 222.5353,
         "genreIds": [
           16,
           35,
@@ -3573,7 +3575,7 @@
         "year": "2023",
         "rating": 8.6,
         "votes": 116,
-        "popularity": 112.8553,
+        "popularity": 98.641,
         "genreIds": [
           16,
           10759,
@@ -3594,7 +3596,7 @@
         "year": "1996",
         "rating": 8,
         "votes": 788,
-        "popularity": 110.4437,
+        "popularity": 106.2474,
         "genreIds": [
           16,
           80,
@@ -3615,7 +3617,7 @@
         "year": "2020",
         "rating": 7.5,
         "votes": 95,
-        "popularity": 108.86,
+        "popularity": 111.008,
         "genreIds": [
           16
         ],
@@ -3633,7 +3635,7 @@
         "year": "2012",
         "rating": 8.6,
         "votes": 1656,
-        "popularity": 107.5422,
+        "popularity": 111.4042,
         "genreIds": [
           16,
           10759,
@@ -3653,7 +3655,7 @@
         "year": "2011",
         "rating": 8.7,
         "votes": 2209,
-        "popularity": 103.8448,
+        "popularity": 109.3661,
         "genreIds": [
           16,
           10759,
@@ -3673,7 +3675,7 @@
         "year": "1989",
         "rating": 8.4,
         "votes": 5011,
-        "popularity": 101.8307,
+        "popularity": 106.0671,
         "genreIds": [
           16,
           10765,
@@ -3693,7 +3695,7 @@
         "year": "2002",
         "rating": 8.4,
         "votes": 15,
-        "popularity": 100.7432,
+        "popularity": 108.3631,
         "genreIds": [
           16,
           35
@@ -3712,7 +3714,7 @@
         "year": "1979",
         "rating": 7.7,
         "votes": 618,
-        "popularity": 98.2522,
+        "popularity": 103.6117,
         "genreIds": [
           10759,
           16,
@@ -3736,7 +3738,7 @@
         "date": "2025-07-18",
         "year": "2025",
         "rating": 8.8,
-        "votes": 2170,
+        "votes": 2172,
         "popularity": 59.8066,
         "genreIds": [
           16,
@@ -3756,7 +3758,7 @@
         "date": "2004-09-09",
         "year": "2004",
         "rating": 8.4,
-        "votes": 11462,
+        "votes": 11464,
         "popularity": 44.5965,
         "genreIds": [
           14,
@@ -3776,7 +3778,7 @@
         "date": "2001-07-20",
         "year": "2001",
         "rating": 8.5,
-        "votes": 18928,
+        "votes": 18931,
         "popularity": 39.4761,
         "genreIds": [
           16,
@@ -3796,7 +3798,7 @@
         "date": "2025-09-19",
         "year": "2025",
         "rating": 8.6,
-        "votes": 1197,
+        "votes": 1199,
         "popularity": 33.0295,
         "genreIds": [
           16,
@@ -3877,7 +3879,7 @@
         "date": "2016-07-01",
         "year": "2016",
         "rating": 8.5,
-        "votes": 13011,
+        "votes": 13014,
         "popularity": 27.1476,
         "genreIds": [
           16,
@@ -3897,7 +3899,7 @@
         "date": "1997-07-12",
         "year": "1997",
         "rating": 8.3,
-        "votes": 9306,
+        "votes": 9308,
         "popularity": 22.7896,
         "genreIds": [
           12,
@@ -3917,7 +3919,7 @@
         "date": "1988-07-16",
         "year": "1988",
         "rating": 7.9,
-        "votes": 5009,
+        "votes": 5011,
         "popularity": 21.6666,
         "genreIds": [
           16,
@@ -3937,7 +3939,7 @@
         "date": "1998-02-28",
         "year": "1998",
         "rating": 8.3,
-        "votes": 3367,
+        "votes": 3368,
         "popularity": 21.125,
         "genreIds": [
           16,
@@ -3976,7 +3978,7 @@
         "date": "1988-04-16",
         "year": "1988",
         "rating": 8.1,
-        "votes": 9089,
+        "votes": 9091,
         "popularity": 20.057,
         "genreIds": [
           14,
@@ -3996,7 +3998,7 @@
         "date": "1995-11-18",
         "year": "1995",
         "rating": 7.9,
-        "votes": 4054,
+        "votes": 4056,
         "popularity": 19.2466,
         "genreIds": [
           28,
@@ -4016,7 +4018,7 @@
         "date": "2023-07-14",
         "year": "2023",
         "rating": 7.4,
-        "votes": 2821,
+        "votes": 2823,
         "popularity": 16.9367,
         "genreIds": [
           16,
@@ -4077,7 +4079,7 @@
         "date": "1997-07-19",
         "year": "1997",
         "rating": 8.3,
-        "votes": 1959,
+        "votes": 1960,
         "popularity": 16.1793,
         "genreIds": [
           16,
@@ -4119,7 +4121,7 @@
         "date": "1984-03-11",
         "year": "1984",
         "rating": 7.9,
-        "votes": 4208,
+        "votes": 4209,
         "popularity": 15.7573,
         "genreIds": [
           12,
