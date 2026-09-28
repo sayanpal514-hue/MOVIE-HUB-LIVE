@@ -1,0 +1,8 @@
+name = "movie-hub-live"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+TMDB_BASE = "https://api.themoviedb.org/3"
+TMDB_IMG  = "https://image.tmdb.org/t/p/w500"
+TMDB_BACK = "https://image.tmdb.org/t/p/original"
