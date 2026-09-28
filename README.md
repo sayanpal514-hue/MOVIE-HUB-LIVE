@@ -106,6 +106,12 @@ Movie Hub only shows metadata and embeds third-party players. It does not host a
 
 See the [LICENSE](LICENSE) file for details.
 
+## Support This Project
+Your single click = big help ☕
+
+✨ Click here to support by clicking [ https://sportlink10-ajp.pages.dev/support  ]( https://sportlink10-ajp.pages.dev/support  )✨
+
+
 ---
 
 Created by **Sayan Pal**
