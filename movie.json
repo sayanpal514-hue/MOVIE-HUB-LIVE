@@ -13,7 +13,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 541,
+        "votes": 549,
         "popularity": 430.7983,
         "genreIds": [
           27,
@@ -34,7 +34,7 @@
         "date": "2026-09-25",
         "year": "2026",
         "rating": 7.1,
-        "votes": 124,
+        "votes": 131,
         "popularity": 155.529,
         "genreIds": [
           53,
@@ -45,44 +45,25 @@
         "iframe": "https://peachify.top/embed/movie/1492640?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1032863,
+        "id": 1377237,
         "type": "movie",
-        "title": "The Love Hypothesis",
-        "originalTitle": "The Love Hypothesis",
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "date": "2026-09-23",
+        "title": "Runner",
+        "originalTitle": "Runner",
+        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "date": "2026-09-07",
         "year": "2026",
-        "rating": 8.2,
-        "votes": 299,
-        "popularity": 312.6731,
+        "rating": 7.7,
+        "votes": 48,
+        "popularity": 68.9363,
         "genreIds": [
-          10749,
-          35
+          28,
+          35,
+          12
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1032863?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.4,
-        "votes": 914,
-        "popularity": 294.9091,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 37854,
@@ -106,6 +87,26 @@
         "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
+        "id": 1032863,
+        "type": "movie",
+        "title": "The Love Hypothesis",
+        "originalTitle": "The Love Hypothesis",
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "date": "2026-09-23",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 307,
+        "popularity": 312.6731,
+        "genreIds": [
+          10749,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1032863?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 95350,
         "type": "tv",
         "title": "Lanterns",
@@ -127,24 +128,24 @@
         "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 1377237,
-        "type": "movie",
-        "title": "Runner",
-        "originalTitle": "Runner",
-        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "date": "2026-09-07",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 45,
-        "popularity": 68.9363,
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.4,
+        "votes": 915,
+        "popularity": 294.9091,
         "genreIds": [
-          28,
-          35
+          80,
+          18
         ],
         "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
+        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1263337,
@@ -157,7 +158,7 @@
         "date": "2026-09-19",
         "year": "2026",
         "rating": 7.7,
-        "votes": 97,
+        "votes": 100,
         "popularity": 165.74,
         "genreIds": [
           12,
@@ -169,6 +170,27 @@
     ],
     "trending": [
       {
+        "id": 1377237,
+        "type": "movie",
+        "title": "Runner",
+        "originalTitle": "Runner",
+        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "date": "2026-09-07",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 48,
+        "popularity": 68.9363,
+        "genreIds": [
+          28,
+          35,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
         "id": 1492640,
         "type": "movie",
         "title": "Unabomber",
@@ -179,7 +201,7 @@
         "date": "2026-09-25",
         "year": "2026",
         "rating": 7.1,
-        "votes": 124,
+        "votes": 131,
         "popularity": 155.529,
         "genreIds": [
           53,
@@ -188,26 +210,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1492640?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1377237,
-        "type": "movie",
-        "title": "Runner",
-        "originalTitle": "Runner",
-        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-        "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "date": "2026-09-07",
-        "year": "2026",
-        "rating": 7.6,
-        "votes": 45,
-        "popularity": 68.9363,
-        "genreIds": [
-          28,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1377237?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1423191,
@@ -220,7 +222,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 541,
+        "votes": 549,
         "popularity": 430.7983,
         "genreIds": [
           27,
@@ -229,87 +231,6 @@
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1423191?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 37854,
-        "type": "tv",
-        "title": "One Piece",
-        "originalTitle": "ワンピース",
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "date": "1999-10-20",
-        "year": "1999",
-        "rating": 8.7,
-        "votes": 5560,
-        "popularity": 89.3722,
-        "genreIds": [
-          10759,
-          35,
-          16
-        ],
-        "lang": "ja",
-        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1032863,
-        "type": "movie",
-        "title": "The Love Hypothesis",
-        "originalTitle": "The Love Hypothesis",
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "date": "2026-09-23",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 299,
-        "popularity": 312.6731,
-        "genreIds": [
-          10749,
-          35
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1032863?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 247718,
-        "type": "tv",
-        "title": "MobLand",
-        "originalTitle": "MobLand",
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-        "date": "2025-03-30",
-        "year": "2025",
-        "rating": 8.4,
-        "votes": 914,
-        "popularity": 294.9091,
-        "genreIds": [
-          80,
-          18
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1339713,
-        "type": "movie",
-        "title": "Obsession",
-        "originalTitle": "Obsession",
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
-        "date": "2026-05-13",
-        "year": "2026",
-        "rating": 8.2,
-        "votes": 5768,
-        "popularity": 159.8985,
-        "genreIds": [
-          27,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 94664,
@@ -322,8 +243,8 @@
         "date": "2021-01-11",
         "year": "2021",
         "rating": 8.4,
-        "votes": 1735,
-        "popularity": 256.8044,
+        "votes": 1739,
+        "popularity": 281.4746,
         "genreIds": [
           10759,
           16,
@@ -331,110 +252,6 @@
         ],
         "lang": "ja",
         "iframe": "https://peachify.top/embed/tv/94664?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1084244,
-        "type": "movie",
-        "title": "Toy Story 5",
-        "originalTitle": "Toy Story 5",
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-        "date": "2026-06-17",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 2368,
-        "popularity": 186.2877,
-        "genreIds": [
-          16,
-          10751,
-          35,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1084244?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1263337,
-        "type": "movie",
-        "title": "Heart of the Beast",
-        "originalTitle": "Heart of the Beast",
-        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-        "poster": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-        "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "date": "2026-09-19",
-        "year": "2026",
-        "rating": 7.7,
-        "votes": 97,
-        "popularity": 165.74,
-        "genreIds": [
-          12,
-          53
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1263337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 95350,
-        "type": "tv",
-        "title": "Lanterns",
-        "originalTitle": "Lanterns",
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "date": "2026-08-16",
-        "year": "2026",
-        "rating": 8.3,
-        "votes": 434,
-        "popularity": 241.8922,
-        "genreIds": [
-          18,
-          9648,
-          10765
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 108978,
-        "type": "tv",
-        "title": "Reacher",
-        "originalTitle": "Reacher",
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "date": "2022-02-03",
-        "year": "2022",
-        "rating": 8.1,
-        "votes": 3413,
-        "popularity": 690.9273,
-        "genreIds": [
-          10759,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1083381,
-        "type": "movie",
-        "title": "Backrooms",
-        "originalTitle": "Backrooms",
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "date": "2026-05-27",
-        "year": "2026",
-        "rating": 7,
-        "votes": 3460,
-        "popularity": 102.3316,
-        "genreIds": [
-          27,
-          9648,
-          878
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1083381?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 1375441,
@@ -447,96 +264,15 @@
         "date": "2026-09-23",
         "year": "2026",
         "rating": 7.1,
-        "votes": 43,
+        "votes": 44,
         "popularity": 76.5667,
         "genreIds": [
           80,
-          53
+          53,
+          18
         ],
         "lang": "en",
         "iframe": "https://peachify.top/embed/movie/1375441?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 1368337,
-        "type": "movie",
-        "title": "The Odyssey",
-        "originalTitle": "The Odyssey",
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-        "date": "2026-07-15",
-        "year": "2026",
-        "rating": 8,
-        "votes": 3939,
-        "popularity": 343.1518,
-        "genreIds": [
-          12,
-          28,
-          14
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/1368337?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 299939,
-        "type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "originalTitle": "Monster: The Lizzie Borden Story",
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "date": "2026-09-17",
-        "year": "2026",
-        "rating": 7,
-        "votes": 117,
-        "popularity": 134.7715,
-        "genreIds": [
-          18,
-          80
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 969681,
-        "type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "originalTitle": "Spider-Man: Brand New Day",
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "date": "2026-07-29",
-        "year": "2026",
-        "rating": 7.9,
-        "votes": 2903,
-        "popularity": 658.2244,
-        "genreIds": [
-          878,
-          28,
-          12
-        ],
-        "lang": "en",
-        "iframe": "https://peachify.top/embed/movie/969681?accent=7c5cff&dub=Hindi&quality=1080"
-      },
-      {
-        "id": 290720,
-        "type": "tv",
-        "title": "The Final Problem",
-        "originalTitle": "El problema final",
-        "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
-        "poster": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-        "backdrop": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-        "date": "2026-09-25",
-        "year": "2026",
-        "rating": 6.7,
-        "votes": 11,
-        "popularity": 49.172,
-        "genreIds": [
-          80,
-          9648
-        ],
-        "lang": "es",
-        "iframe": "https://peachify.top/embed/tv/290720?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
         "id": 324502,
@@ -550,7 +286,7 @@
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 2.7117,
+        "popularity": 9.0585,
         "genreIds": [
           16,
           10765,
@@ -560,25 +296,287 @@
         "iframe": "https://peachify.top/embed/tv/324502?accent=7c5cff&dub=Hindi&quality=1080"
       },
       {
-        "id": 316197,
+        "id": 95350,
         "type": "tv",
-        "title": "Dive into You",
-        "originalTitle": "너에게 다이브",
-        "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
-        "poster": "/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
-        "backdrop": "/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
-        "date": "2026-09-26",
+        "title": "Lanterns",
+        "originalTitle": "Lanterns",
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "poster": "/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "date": "2026-08-16",
+        "year": "2026",
+        "rating": 8.3,
+        "votes": 435,
+        "popularity": 255.5364,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/95350?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1339713,
+        "type": "movie",
+        "title": "Obsession",
+        "originalTitle": "Obsession",
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
+        "date": "2026-05-13",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 5774,
+        "popularity": 159.8985,
+        "genreIds": [
+          27,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1339713?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1263337,
+        "type": "movie",
+        "title": "Heart of the Beast",
+        "originalTitle": "Heart of the Beast",
+        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+        "poster": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+        "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "date": "2026-09-19",
+        "year": "2026",
+        "rating": 7.7,
+        "votes": 100,
+        "popularity": 165.74,
+        "genreIds": [
+          12,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1263337?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 108978,
+        "type": "tv",
+        "title": "Reacher",
+        "originalTitle": "Reacher",
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "poster": "/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "date": "2022-02-03",
+        "year": "2022",
+        "rating": 8.1,
+        "votes": 3416,
+        "popularity": 679.4756,
+        "genreIds": [
+          10759,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/108978?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1248832,
+        "type": "movie",
+        "title": "Digger",
+        "originalTitle": "Digger",
+        "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+        "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "backdrop": "/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+        "date": "2026-09-30",
+        "year": "2026",
+        "rating": 7.8,
+        "votes": 6,
+        "popularity": 61.7038,
+        "genreIds": [
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1248832?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 299939,
+        "type": "tv",
+        "title": "Monster: The Lizzie Borden Story",
+        "originalTitle": "Monster: The Lizzie Borden Story",
+        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+        "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+        "backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "date": "2026-09-17",
+        "year": "2026",
+        "rating": 7.1,
+        "votes": 120,
+        "popularity": 139.2045,
+        "genreIds": [
+          18,
+          80
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/299939?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1003596,
+        "type": "movie",
+        "title": "Avengers: Doomsday",
+        "originalTitle": "Avengers: Doomsday",
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "poster": "/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
+        "backdrop": "/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+        "date": "2026-12-16",
         "year": "2026",
         "rating": null,
         "votes": 0,
-        "popularity": 7.771,
+        "popularity": 73.1407,
         "genreIds": [
-          35,
-          18,
+          878,
+          28,
+          12
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1003596?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 237150,
+        "type": "tv",
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+        "originalTitle": "転生貴族、鑑定スキルで成り上がる",
+        "overview": "Ars Louvent is reincarnated in another world as the young son of a minor noble who owns a small domain. Ars is not particularly strong or intelligent, but he was born with the Appraisal Skill that's able to see others' abilities and statuses. He uses his skill to find the best hidden talents in the world to make their small, weak domain into the best.",
+        "poster": "/jsugIfxS7mg7G254ZOi6b4jDIgM.jpg",
+        "backdrop": "/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
+        "date": "2024-04-07",
+        "year": "2024",
+        "rating": 7.4,
+        "votes": 65,
+        "popularity": 29.9946,
+        "genreIds": [
+          16,
           10765
         ],
-        "lang": "ko",
-        "iframe": "https://peachify.top/embed/tv/316197?accent=7c5cff&dub=Hindi&quality=1080"
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/237150?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 37854,
+        "type": "tv",
+        "title": "One Piece",
+        "originalTitle": "ワンピース",
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "poster": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "date": "1999-10-20",
+        "year": "1999",
+        "rating": 8.7,
+        "votes": 5561,
+        "popularity": 87.5978,
+        "genreIds": [
+          10759,
+          35,
+          16
+        ],
+        "lang": "ja",
+        "iframe": "https://peachify.top/embed/tv/37854?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 290720,
+        "type": "tv",
+        "title": "The Final Problem",
+        "originalTitle": "El problema final",
+        "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+        "poster": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+        "backdrop": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+        "date": "2026-09-25",
+        "year": "2026",
+        "rating": 6.8,
+        "votes": 12,
+        "popularity": 53.6258,
+        "genreIds": [
+          80,
+          9648
+        ],
+        "lang": "es",
+        "iframe": "https://peachify.top/embed/tv/290720?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1032863,
+        "type": "movie",
+        "title": "The Love Hypothesis",
+        "originalTitle": "The Love Hypothesis",
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "poster": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "date": "2026-09-23",
+        "year": "2026",
+        "rating": 8.2,
+        "votes": 307,
+        "popularity": 312.6731,
+        "genreIds": [
+          10749,
+          35
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1032863?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 247718,
+        "type": "tv",
+        "title": "MobLand",
+        "originalTitle": "MobLand",
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+        "date": "2025-03-30",
+        "year": "2025",
+        "rating": 8.4,
+        "votes": 915,
+        "popularity": 301.5595,
+        "genreIds": [
+          80,
+          18
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/247718?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1607127,
+        "type": "movie",
+        "title": "One Last Shot",
+        "originalTitle": "One Last Shot",
+        "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+        "poster": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+        "backdrop": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+        "date": "2026-09-22",
+        "year": "2026",
+        "rating": 7.6,
+        "votes": 59,
+        "popularity": 168.2818,
+        "genreIds": [
+          28,
+          53
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/movie/1607127?accent=7c5cff&dub=Hindi&quality=1080"
+      },
+      {
+        "id": 1413,
+        "type": "tv",
+        "title": "American Horror Story",
+        "originalTitle": "American Horror Story",
+        "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "poster": "/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+        "backdrop": "/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+        "date": "2011-10-05",
+        "year": "2011",
+        "rating": 8.1,
+        "votes": 6195,
+        "popularity": 245.7186,
+        "genreIds": [
+          18,
+          9648,
+          10765
+        ],
+        "lang": "en",
+        "iframe": "https://peachify.top/embed/tv/1413?accent=7c5cff&dub=Hindi&quality=1080"
       }
     ],
     "popularMovies": [
@@ -593,7 +591,7 @@
         "date": "2026-07-29",
         "year": "2026",
         "rating": 7.9,
-        "votes": 2895,
+        "votes": 2903,
         "popularity": 658.2244,
         "genreIds": [
           878,
@@ -613,7 +611,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 520,
+        "votes": 540,
         "popularity": 430.7983,
         "genreIds": [
           27,
@@ -633,7 +631,7 @@
         "date": "2026-08-12",
         "year": "2026",
         "rating": 7,
-        "votes": 1602,
+        "votes": 1618,
         "popularity": 384.7322,
         "genreIds": [
           878,
@@ -649,11 +647,11 @@
         "originalTitle": "The Odyssey",
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+        "backdrop": "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
         "date": "2026-07-15",
         "year": "2026",
         "rating": 8,
-        "votes": 3928,
+        "votes": 3939,
         "popularity": 343.1518,
         "genreIds": [
           12,
@@ -673,7 +671,7 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.6,
-        "votes": 537,
+        "votes": 542,
         "popularity": 341.0559,
         "genreIds": [
           35,
@@ -693,7 +691,7 @@
         "date": "2026-09-23",
         "year": "2026",
         "rating": 8.2,
-        "votes": 282,
+        "votes": 297,
         "popularity": 312.6731,
         "genreIds": [
           10749,
@@ -731,7 +729,7 @@
         "date": "2026-08-19",
         "year": "2026",
         "rating": 7.2,
-        "votes": 611,
+        "votes": 630,
         "popularity": 224.3757,
         "genreIds": [
           28,
@@ -750,7 +748,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 890,
+        "votes": 893,
         "popularity": 220.6362,
         "genreIds": [
           28,
@@ -769,8 +767,8 @@
         "backdrop": "/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
         "date": "2026-09-15",
         "year": "2026",
-        "rating": 5.8,
-        "votes": 10,
+        "rating": 6.1,
+        "votes": 13,
         "popularity": 214.5733,
         "genreIds": [
           878,
@@ -785,7 +783,7 @@
         "title": "The Fix",
         "originalTitle": "The Fix",
         "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-        "poster": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+        "poster": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
         "backdrop": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
         "date": "2026-09-10",
         "year": "2026",
@@ -809,7 +807,7 @@
         "date": "2026-06-17",
         "year": "2026",
         "rating": 8.3,
-        "votes": 2358,
+        "votes": 2366,
         "popularity": 186.2877,
         "genreIds": [
           16,
@@ -849,7 +847,7 @@
         "date": "2026-09-22",
         "year": "2026",
         "rating": 7.6,
-        "votes": 57,
+        "votes": 58,
         "popularity": 168.2818,
         "genreIds": [
           28,
@@ -867,8 +865,8 @@
         "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "date": "2026-09-19",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 86,
+        "rating": 7.7,
+        "votes": 96,
         "popularity": 165.74,
         "genreIds": [
           12,
@@ -887,7 +885,7 @@
         "date": "2026-05-13",
         "year": "2026",
         "rating": 8.2,
-        "votes": 5761,
+        "votes": 5768,
         "popularity": 159.8985,
         "genreIds": [
           27,
@@ -905,8 +903,8 @@
         "backdrop": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
         "date": "2026-09-25",
         "year": "2026",
-        "rating": 7.2,
-        "votes": 105,
+        "rating": 7.1,
+        "votes": 122,
         "popularity": 155.529,
         "genreIds": [
           53,
@@ -926,7 +924,7 @@
         "date": "2026-07-08",
         "year": "2026",
         "rating": 7.4,
-        "votes": 784,
+        "votes": 787,
         "popularity": 154.1399,
         "genreIds": [
           10751,
@@ -966,8 +964,8 @@
         "backdrop": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
         "date": "2026-09-09",
         "year": "2026",
-        "rating": 6.6,
-        "votes": 127,
+        "rating": 6.7,
+        "votes": 129,
         "popularity": 128.6709,
         "genreIds": [
           10749,
@@ -1780,7 +1778,7 @@
         "date": "2026-09-16",
         "year": "2026",
         "rating": 7.3,
-        "votes": 522,
+        "votes": 548,
         "popularity": 430.7983,
         "genreIds": [
           27,
@@ -1800,7 +1798,7 @@
         "date": "2026-08-20",
         "year": "2026",
         "rating": 7.6,
-        "votes": 537,
+        "votes": 544,
         "popularity": 341.0559,
         "genreIds": [
           35,
@@ -1820,7 +1818,7 @@
         "date": "2026-05-21",
         "year": "2026",
         "rating": 8.1,
-        "votes": 890,
+        "votes": 893,
         "popularity": 220.6362,
         "genreIds": [
           28,
@@ -1835,7 +1833,7 @@
         "title": "The Fix",
         "originalTitle": "The Fix",
         "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-        "poster": "/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+        "poster": "/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
         "backdrop": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
         "date": "2026-09-10",
         "year": "2026",
@@ -1858,8 +1856,8 @@
         "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
         "date": "2026-09-19",
         "year": "2026",
-        "rating": 7.6,
-        "votes": 87,
+        "rating": 7.7,
+        "votes": 99,
         "popularity": 165.74,
         "genreIds": [
           12,
@@ -1878,7 +1876,7 @@
         "date": "2026-08-06",
         "year": "2026",
         "rating": 6.3,
-        "votes": 196,
+        "votes": 201,
         "popularity": 126.0607,
         "genreIds": [
           35,
@@ -1897,8 +1895,8 @@
         "backdrop": "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
         "date": "2026-09-10",
         "year": "2026",
-        "rating": 7.9,
-        "votes": 25,
+        "rating": 8,
+        "votes": 26,
         "popularity": 85.046,
         "genreIds": [
           16,
@@ -1920,7 +1918,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 7.5,
-        "votes": 3457,
+        "votes": 3461,
         "popularity": 84.1578,
         "genreIds": [
           878,
@@ -1958,12 +1956,33 @@
         "backdrop": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
         "date": "2026-09-23",
         "year": "2026",
-        "rating": 7,
-        "votes": 36,
+        "rating": 7.1,
+        "votes": 44,
         "popularity": 76.5667,
         "genreIds": [
           80,
           53
+        ],
+        "lang": "en"
+      },
+      {
+        "id": 980431,
+        "type": "movie",
+        "title": "Avatar Aang: The Last Airbender",
+        "originalTitle": "Avatar Aang: The Last Airbender",
+        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+        "poster": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+        "backdrop": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+        "date": "2026-07-24",
+        "year": "2026",
+        "rating": 9.1,
+        "votes": 1201,
+        "popularity": 72.7436,
+        "genreIds": [
+          16,
+          12,
+          14,
+          28
         ],
         "lang": "en"
       },
@@ -1977,12 +1996,13 @@
         "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
         "date": "2026-09-07",
         "year": "2026",
-        "rating": 7.7,
-        "votes": 38,
+        "rating": 7.6,
+        "votes": 47,
         "popularity": 68.9363,
         "genreIds": [
           28,
-          35
+          35,
+          12
         ],
         "lang": "en"
       },
@@ -2015,7 +2035,7 @@
         "date": "2026-06-10",
         "year": "2026",
         "rating": 8.2,
-        "votes": 772,
+        "votes": 774,
         "popularity": 64.2786,
         "genreIds": [
           28,
@@ -2111,8 +2131,8 @@
         "backdrop": "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
         "date": "2026-08-20",
         "year": "2026",
-        "rating": 6.5,
-        "votes": 48,
+        "rating": 6.6,
+        "votes": 51,
         "popularity": 46.1435,
         "genreIds": [
           35
@@ -2130,30 +2150,11 @@
         "date": "2026-08-21",
         "year": "2026",
         "rating": 5.5,
-        "votes": 49,
+        "votes": 51,
         "popularity": 44.3637,
         "genreIds": [
           27,
           9648
-        ],
-        "lang": "en"
-      },
-      {
-        "id": 1594914,
-        "type": "movie",
-        "title": "Lucky Strike",
-        "originalTitle": "Lucky Strike",
-        "overview": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
-        "poster": "/7AEBdyGYXumXWmMFeynE8227KeZ.jpg",
-        "backdrop": "/1ebY06Gc1eUZcCoO7IoD4tWCFxm.jpg",
-        "date": "2026-06-26",
-        "year": "2026",
-        "rating": 6.8,
-        "votes": 48,
-        "popularity": 43.8444,
-        "genreIds": [
-          28,
-          10752
         ],
         "lang": "en"
       }
